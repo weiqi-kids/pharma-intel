@@ -1,0 +1,432 @@
+{
+  "companies": [
+    {
+      "id": "teva",
+      "name": "Teva Pharmaceutical",
+      "short_name": "梯瓦",
+      "position": "upstream",
+      "role": "學名藥",
+      "x": 0.05,
+      "y": 0.34
+    },
+    {
+      "id": "dr_reddy",
+      "name": "Dr. Reddy's Laboratories",
+      "short_name": "瑞迪博士",
+      "position": "upstream",
+      "role": "學名藥/API",
+      "x": 0.097,
+      "y": 0.34
+    },
+    {
+      "id": "sun_pharma",
+      "name": "Sun Pharmaceutical",
+      "short_name": "太陽製藥",
+      "position": "upstream",
+      "role": "學名藥",
+      "x": 0.145,
+      "y": 0.34
+    },
+    {
+      "id": "bora",
+      "name": "保瑞藥業",
+      "short_name": "保瑞",
+      "position": "upstream",
+      "role": "CDMO",
+      "x": 0.192,
+      "y": 0.34
+    },
+    {
+      "id": "tci",
+      "name": "大江生醫",
+      "short_name": "大江",
+      "position": "upstream",
+      "role": "生技代工",
+      "x": 0.239,
+      "y": 0.34
+    },
+    {
+      "id": "lonza",
+      "name": "Lonza Group",
+      "short_name": "龍沙",
+      "position": "upstream",
+      "role": "CDMO",
+      "x": 0.287,
+      "y": 0.34
+    },
+    {
+      "id": "catalent",
+      "name": "Catalent",
+      "short_name": "Catalent",
+      "position": "upstream",
+      "role": "CDMO",
+      "x": 0.334,
+      "y": 0.34
+    },
+    {
+      "id": "pfizer",
+      "name": "Pfizer",
+      "short_name": "輝瑞",
+      "position": "midstream",
+      "role": "大型藥廠",
+      "x": 0.382,
+      "y": 0.34
+    },
+    {
+      "id": "jnj",
+      "name": "Johnson & Johnson",
+      "short_name": "嬌生",
+      "position": "midstream",
+      "role": "大型藥廠",
+      "x": 0.429,
+      "y": 0.34
+    },
+    {
+      "id": "roche",
+      "name": "Roche Holding",
+      "short_name": "羅氏",
+      "position": "midstream",
+      "role": "大型藥廠",
+      "x": 0.476,
+      "y": 0.34
+    },
+    {
+      "id": "novartis",
+      "name": "Novartis AG",
+      "short_name": "諾華",
+      "position": "midstream",
+      "role": "大型藥廠",
+      "x": 0.524,
+      "y": 0.34
+    },
+    {
+      "id": "astrazeneca",
+      "name": "AstraZeneca",
+      "short_name": "阿斯特捷利康",
+      "position": "midstream",
+      "role": "大型藥廠",
+      "x": 0.571,
+      "y": 0.34
+    },
+    {
+      "id": "merck",
+      "name": "Merck & Co.",
+      "short_name": "默克",
+      "position": "midstream",
+      "role": "大型藥廠",
+      "x": 0.618,
+      "y": 0.34
+    },
+    {
+      "id": "eli_lilly",
+      "name": "Eli Lilly",
+      "short_name": "禮來",
+      "position": "midstream",
+      "role": "大型藥廠",
+      "x": 0.666,
+      "y": 0.34
+    },
+    {
+      "id": "abbvie",
+      "name": "AbbVie",
+      "short_name": "艾伯維",
+      "position": "midstream",
+      "role": "大型藥廠",
+      "x": 0.713,
+      "y": 0.34
+    },
+    {
+      "id": "novo_nordisk",
+      "name": "Novo Nordisk",
+      "short_name": "諾和諾德",
+      "position": "midstream",
+      "role": "大型藥廠",
+      "x": 0.761,
+      "y": 0.34
+    },
+    {
+      "id": "sanofi",
+      "name": "Sanofi",
+      "short_name": "賽諾菲",
+      "position": "midstream",
+      "role": "大型藥廠",
+      "x": 0.808,
+      "y": 0.34
+    },
+    {
+      "id": "mckesson",
+      "name": "McKesson Corporation",
+      "short_name": "麥克森",
+      "position": "downstream",
+      "role": "藥品分銷",
+      "x": 0.855,
+      "y": 0.34
+    },
+    {
+      "id": "cencora",
+      "name": "Cencora",
+      "short_name": "AmerisourceBergen",
+      "position": "downstream",
+      "role": "藥品分銷",
+      "x": 0.903,
+      "y": 0.34
+    },
+    {
+      "id": "cardinal",
+      "name": "Cardinal Health",
+      "short_name": "Cardinal",
+      "position": "downstream",
+      "role": "藥品分銷",
+      "x": 0.95,
+      "y": 0.34
+    }
+  ],
+  "links": [
+    {
+      "source": "teva",
+      "target": "mckesson",
+      "strength": 2
+    },
+    {
+      "source": "teva",
+      "target": "cencora",
+      "strength": 2
+    },
+    {
+      "source": "teva",
+      "target": "cardinal",
+      "strength": 2
+    },
+    {
+      "source": "dr_reddy",
+      "target": "mckesson",
+      "strength": 2
+    },
+    {
+      "source": "dr_reddy",
+      "target": "cencora",
+      "strength": 2
+    },
+    {
+      "source": "dr_reddy",
+      "target": "cardinal",
+      "strength": 2
+    },
+    {
+      "source": "sun_pharma",
+      "target": "mckesson",
+      "strength": 2
+    },
+    {
+      "source": "sun_pharma",
+      "target": "cencora",
+      "strength": 2
+    },
+    {
+      "source": "bora",
+      "target": "pfizer",
+      "strength": 2
+    },
+    {
+      "source": "bora",
+      "target": "jnj",
+      "strength": 2
+    },
+    {
+      "source": "bora",
+      "target": "astrazeneca",
+      "strength": 2
+    },
+    {
+      "source": "lonza",
+      "target": "pfizer",
+      "strength": 2
+    },
+    {
+      "source": "lonza",
+      "target": "roche",
+      "strength": 2
+    },
+    {
+      "source": "lonza",
+      "target": "novartis",
+      "strength": 2
+    },
+    {
+      "source": "lonza",
+      "target": "astrazeneca",
+      "strength": 2
+    },
+    {
+      "source": "catalent",
+      "target": "pfizer",
+      "strength": 2
+    },
+    {
+      "source": "catalent",
+      "target": "jnj",
+      "strength": 2
+    },
+    {
+      "source": "catalent",
+      "target": "abbvie",
+      "strength": 2
+    },
+    {
+      "source": "pfizer",
+      "target": "mckesson",
+      "strength": 2
+    },
+    {
+      "source": "pfizer",
+      "target": "cencora",
+      "strength": 2
+    },
+    {
+      "source": "pfizer",
+      "target": "cardinal",
+      "strength": 2
+    },
+    {
+      "source": "jnj",
+      "target": "mckesson",
+      "strength": 2
+    },
+    {
+      "source": "jnj",
+      "target": "cencora",
+      "strength": 2
+    },
+    {
+      "source": "jnj",
+      "target": "cardinal",
+      "strength": 2
+    },
+    {
+      "source": "roche",
+      "target": "mckesson",
+      "strength": 2
+    },
+    {
+      "source": "roche",
+      "target": "cencora",
+      "strength": 2
+    },
+    {
+      "source": "novartis",
+      "target": "mckesson",
+      "strength": 2
+    },
+    {
+      "source": "novartis",
+      "target": "cencora",
+      "strength": 2
+    },
+    {
+      "source": "novartis",
+      "target": "cardinal",
+      "strength": 2
+    },
+    {
+      "source": "astrazeneca",
+      "target": "mckesson",
+      "strength": 2
+    },
+    {
+      "source": "astrazeneca",
+      "target": "cencora",
+      "strength": 2
+    },
+    {
+      "source": "merck",
+      "target": "mckesson",
+      "strength": 2
+    },
+    {
+      "source": "merck",
+      "target": "cencora",
+      "strength": 2
+    },
+    {
+      "source": "merck",
+      "target": "cardinal",
+      "strength": 2
+    },
+    {
+      "source": "eli_lilly",
+      "target": "mckesson",
+      "strength": 2
+    },
+    {
+      "source": "eli_lilly",
+      "target": "cencora",
+      "strength": 2
+    },
+    {
+      "source": "eli_lilly",
+      "target": "cardinal",
+      "strength": 2
+    },
+    {
+      "source": "abbvie",
+      "target": "mckesson",
+      "strength": 2
+    },
+    {
+      "source": "abbvie",
+      "target": "cencora",
+      "strength": 2
+    },
+    {
+      "source": "abbvie",
+      "target": "cardinal",
+      "strength": 2
+    },
+    {
+      "source": "novo_nordisk",
+      "target": "mckesson",
+      "strength": 2
+    },
+    {
+      "source": "novo_nordisk",
+      "target": "cencora",
+      "strength": 2
+    },
+    {
+      "source": "sanofi",
+      "target": "mckesson",
+      "strength": 2
+    },
+    {
+      "source": "sanofi",
+      "target": "cencora",
+      "strength": 2
+    }
+  ],
+  "etfs": [
+    {
+      "id": "etf_xlv",
+      "name": "Health Care Select Sector SPDR",
+      "ticker": "XLV",
+      "market": "NYSE",
+      "currency": "USD",
+      "description": "醫療保健 ETF，涵蓋大型藥廠與保險"
+    },
+    {
+      "id": "etf_ibb",
+      "name": "iShares Biotechnology ETF",
+      "ticker": "IBB",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "description": "生技 ETF，追蹤 NASDAQ 生技指數"
+    },
+    {
+      "id": "etf_xbi",
+      "name": "SPDR S&P Biotech ETF",
+      "ticker": "XBI",
+      "market": "NYSE",
+      "currency": "USD",
+      "description": "生技 ETF，等權重分散中小型生技股"
+    }
+  ]
+}

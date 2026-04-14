@@ -1,0 +1,128 @@
+# 製藥供應鏈情報追蹤 - 主題清單
+
+topics:
+  drug_approval:
+    display: 藥物核准
+    keywords:
+    - drug approval
+    - 藥物核准
+    - FDA approval
+    - FDA 核准
+    - NDA
+    - BLA
+    - PDUFA
+    - EMA approval
+    - 新藥上市
+    - Phase III
+    - 三期臨床
+    - clinical trial
+    - 臨床試驗
+    - breakthrough therapy
+    - 突破性療法
+    sentiment_keywords:
+      positive:
+      - 核准
+      - approved
+      - positive data
+      - 正面數據
+      - met endpoint
+      negative:
+      - 拒絕
+      - rejected
+      - CRL
+      - negative data
+      - failed trial
+  patent_cliff:
+    display: 專利懸崖
+    keywords:
+    - patent cliff
+    - 專利懸崖
+    - patent expiry
+    - 專利到期
+    - generic entry
+    - 學名藥進入
+    - biosimilar
+    - 生物相似藥
+    - LOE
+    - loss of exclusivity
+    sentiment_keywords:
+      positive:
+      - 延長專利
+      - patent extension
+      - settled
+      negative:
+      - 專利到期
+      - generic launch
+      - biosimilar approval
+  gmp_inspection:
+    display: GMP 查廠
+    keywords:
+    - GMP inspection
+    - GMP 查廠
+    - FDA warning letter
+    - FDA 警告信
+    - 483 observation
+    - manufacturing compliance
+    - quality issue
+    - 品質問題
+    - recall
+    - 召回
+    - import alert
+  biotech_funding:
+    display: 生技募資
+    keywords:
+    - biotech funding
+    - 生技募資
+    - IPO
+    - secondary offering
+    - 增資
+    - Series A
+    - Series B
+    - venture capital
+    - 創投
+    - biotech investment
+    - M&A
+    - 併購
+    - licensing deal
+    - 授權
+  glp1_obesity:
+    display: GLP-1 減重
+    keywords:
+    - GLP-1
+    - GLP1
+    - Ozempic
+    - Wegovy
+    - Mounjaro
+    - Zepbound
+    - semaglutide
+    - tirzepatide
+    - obesity drug
+    - 減重藥
+    - weight loss
+    - anti-obesity
+    - 肥胖症治療
+    sentiment_keywords:
+      positive:
+      - 供應改善
+      - 需求增長
+      - market expansion
+      - new indication
+      negative:
+      - 供應短缺
+      - safety concern
+      - side effect
+      - 副作用
+  earnings:
+    display: 法說會
+    keywords:
+    - earnings
+    - 法說會
+    - 財報
+    - quarterly results
+    - guidance
+    - outlook
+    - revenue
+    - 營收
+    - profit
+    - 獲利
+    - pipeline update

@@ -1,0 +1,362 @@
+# 製藥供應鏈情報追蹤 - 公司清單
+
+companies:
+- id: teva
+  name: Teva Pharmaceutical
+  aliases:
+  - Teva
+  - 梯瓦
+  ticker: TEVA
+  market: NYSE
+  currency: USD
+  position: upstream
+  role: 學名藥
+  description: 全球最大學名藥製造商
+  downstream:
+  - mckesson
+  - cencora
+  - cardinal
+- id: dr_reddy
+  name: Dr. Reddy's Laboratories
+  aliases:
+  - Dr. Reddy's
+  - 瑞迪博士
+  ticker: RDY
+  market: NYSE
+  currency: USD
+  position: upstream
+  role: 學名藥/API
+  description: 印度學名藥與原料藥大廠
+  downstream:
+  - mckesson
+  - cencora
+  - cardinal
+- id: sun_pharma
+  name: Sun Pharmaceutical
+  aliases:
+  - Sun Pharma
+  - 太陽製藥
+  ticker: SUNPHARMA.NS
+  market: NSE
+  currency: INR
+  position: upstream
+  role: 學名藥
+  description: 印度最大製藥公司
+  downstream:
+  - mckesson
+  - cencora
+- id: bora
+  name: 保瑞藥業
+  aliases:
+  - Bora Pharmaceuticals
+  - 保瑞
+  ticker: 6472.TW
+  market: TWSE
+  currency: TWD
+  position: upstream
+  role: CDMO
+  description: 台灣最大 CDMO，藥品委託研發製造
+  downstream:
+  - pfizer
+  - jnj
+  - astrazeneca
+- id: tci
+  name: 大江生醫
+  aliases:
+  - TCI Co
+  - 大江
+  ticker: 8436.TWO
+  market: TPEx
+  currency: TWD
+  position: upstream
+  role: 生技代工
+  description: 保健食品與生技代工龍頭
+- id: lonza
+  name: Lonza Group
+  aliases:
+  - Lonza
+  - 龍沙
+  ticker: LONN.SW
+  market: SIX
+  currency: CHF
+  position: upstream
+  role: CDMO
+  description: 全球最大生物藥 CDMO
+  downstream:
+  - pfizer
+  - roche
+  - novartis
+  - astrazeneca
+- id: catalent
+  name: Catalent
+  aliases:
+  - Catalent
+  ticker: CTLT
+  market: NYSE
+  currency: USD
+  position: upstream
+  role: CDMO
+  description: 藥品遞送技術與製造服務
+  downstream:
+  - pfizer
+  - jnj
+  - abbvie
+- id: pfizer
+  name: Pfizer
+  aliases:
+  - 輝瑞
+  ticker: PFE
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 大型藥廠
+  description: 全球前三大藥廠
+  upstream:
+  - bora
+  - lonza
+  - catalent
+  downstream:
+  - mckesson
+  - cencora
+  - cardinal
+- id: jnj
+  name: Johnson & Johnson
+  aliases:
+  - J&J
+  - 嬌生
+  ticker: JNJ
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 大型藥廠
+  description: 全球最大醫療保健公司
+  upstream:
+  - bora
+  - catalent
+  downstream:
+  - mckesson
+  - cencora
+  - cardinal
+- id: roche
+  name: Roche Holding
+  aliases:
+  - Roche
+  - 羅氏
+  ticker: ROG.SW
+  market: SIX
+  currency: CHF
+  position: midstream
+  role: 大型藥廠
+  description: 全球最大生技藥廠
+  upstream:
+  - lonza
+  downstream:
+  - mckesson
+  - cencora
+- id: novartis
+  name: Novartis AG
+  aliases:
+  - Novartis
+  - 諾華
+  ticker: NVS
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 大型藥廠
+  description: 瑞士大型藥廠，專注創新藥
+  upstream:
+  - lonza
+  downstream:
+  - mckesson
+  - cencora
+  - cardinal
+- id: astrazeneca
+  name: AstraZeneca
+  aliases:
+  - AZ
+  - 阿斯特捷利康
+  ticker: AZN
+  market: NASDAQ
+  currency: USD
+  position: midstream
+  role: 大型藥廠
+  description: 英瑞合資藥廠，腫瘤領域強勢
+  upstream:
+  - bora
+  - lonza
+  downstream:
+  - mckesson
+  - cencora
+- id: merck
+  name: Merck & Co.
+  aliases:
+  - Merck
+  - 默克
+  - MSD
+  ticker: MRK
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 大型藥廠
+  description: Keytruda 免疫療法龍頭
+  downstream:
+  - mckesson
+  - cencora
+  - cardinal
+- id: eli_lilly
+  name: Eli Lilly
+  aliases:
+  - Lilly
+  - 禮來
+  ticker: LLY
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 大型藥廠
+  description: GLP-1 減重藥物領導者
+  downstream:
+  - mckesson
+  - cencora
+  - cardinal
+- id: abbvie
+  name: AbbVie
+  aliases:
+  - AbbVie
+  - 艾伯維
+  ticker: ABBV
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 大型藥廠
+  description: 免疫學與腫瘤學藥廠
+  upstream:
+  - catalent
+  downstream:
+  - mckesson
+  - cencora
+  - cardinal
+- id: novo_nordisk
+  name: Novo Nordisk
+  aliases:
+  - Novo
+  - 諾和諾德
+  ticker: NVO
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 大型藥廠
+  description: GLP-1 與胰島素領導者
+  downstream:
+  - mckesson
+  - cencora
+- id: sanofi
+  name: Sanofi
+  aliases:
+  - Sanofi
+  - 賽諾菲
+  ticker: SNY
+  market: NASDAQ
+  currency: USD
+  position: midstream
+  role: 大型藥廠
+  description: 法國大型藥廠，疫苗與特殊護理
+  downstream:
+  - mckesson
+  - cencora
+- id: mckesson
+  name: McKesson Corporation
+  aliases:
+  - McKesson
+  - 麥克森
+  ticker: MCK
+  market: NYSE
+  currency: USD
+  position: downstream
+  role: 藥品分銷
+  description: 全球最大藥品分銷商
+  upstream:
+  - pfizer
+  - jnj
+  - roche
+  - novartis
+  - merck
+  - eli_lilly
+  - abbvie
+- id: cencora
+  name: Cencora
+  aliases:
+  - AmerisourceBergen
+  - Cencora
+  ticker: COR
+  market: NYSE
+  currency: USD
+  position: downstream
+  role: 藥品分銷
+  description: 全球第二大藥品分銷商
+  upstream:
+  - pfizer
+  - jnj
+  - roche
+  - novartis
+  - merck
+  - eli_lilly
+  - abbvie
+- id: cardinal
+  name: Cardinal Health
+  aliases:
+  - Cardinal
+  ticker: CAH
+  market: NYSE
+  currency: USD
+  position: downstream
+  role: 藥品分銷
+  description: 美國三大藥品分銷商之一
+  upstream:
+  - pfizer
+  - jnj
+  - novartis
+  - merck
+  - eli_lilly
+  - abbvie
+etfs:
+- id: xlv
+  name: Health Care Select Sector SPDR
+  ticker: XLV
+  market: NYSE
+  currency: USD
+  description: 醫療保健 ETF，涵蓋大型藥廠與保險
+- id: ibb
+  name: iShares Biotechnology ETF
+  ticker: IBB
+  market: NASDAQ
+  currency: USD
+  description: 生技 ETF，追蹤 NASDAQ 生技指數
+- id: xbi
+  name: SPDR S&P Biotech ETF
+  ticker: XBI
+  market: NYSE
+  currency: USD
+  description: 生技 ETF，等權重分散中小型生技股
+supply_chain_positions:
+  upstream:
+  - 學名藥
+  - 學名藥/API
+  - CDMO
+  - 生技代工
+  midstream:
+  - 大型藥廠
+  downstream:
+  - 藥品分銷
+topics:
+- id: drug_approval
+  name: 藥物核准
+- id: patent_cliff
+  name: 專利懸崖
+- id: gmp_inspection
+  name: GMP 查廠
+- id: biotech_funding
+  name: 生技募資
+- id: glp1_obesity
+  name: GLP-1 減重
+- id: earnings
+  name: 法說會
