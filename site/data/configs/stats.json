@@ -1,0 +1,116 @@
+{
+  "company_count": 20,
+  "topic_count": 6,
+  "alias_count": 74,
+  "positive_word_count": 27,
+  "negative_word_count": 27,
+  "negation_word_count": 18,
+  "importance_rule_count": 10,
+  "base_score": 0.5,
+  "max_score": 1.0,
+  "volume_spike_threshold": 100,
+  "sentiment_shift_threshold": 0.5,
+  "silent_days_threshold": 14,
+  "companies": [
+    {
+      "id": "teva",
+      "short_name": "Teva Pharmaceutical",
+      "tier": ""
+    },
+    {
+      "id": "dr_reddy",
+      "short_name": "Dr. Reddy's Laboratories",
+      "tier": ""
+    },
+    {
+      "id": "sun_pharma",
+      "short_name": "Sun Pharmaceutical",
+      "tier": ""
+    },
+    {
+      "id": "bora",
+      "short_name": "保瑞藥業",
+      "tier": ""
+    },
+    {
+      "id": "tci",
+      "short_name": "大江生醫",
+      "tier": ""
+    },
+    {
+      "id": "lonza",
+      "short_name": "Lonza Group",
+      "tier": ""
+    },
+    {
+      "id": "catalent",
+      "short_name": "Catalent",
+      "tier": ""
+    },
+    {
+      "id": "pfizer",
+      "short_name": "Pfizer",
+      "tier": ""
+    },
+    {
+      "id": "jnj",
+      "short_name": "Johnson & Johnson",
+      "tier": ""
+    },
+    {
+      "id": "roche",
+      "short_name": "Roche Holding",
+      "tier": ""
+    },
+    {
+      "id": "novartis",
+      "short_name": "Novartis AG",
+      "tier": ""
+    },
+    {
+      "id": "astrazeneca",
+      "short_name": "AstraZeneca",
+      "tier": ""
+    },
+    {
+      "id": "merck",
+      "short_name": "Merck & Co.",
+      "tier": ""
+    },
+    {
+      "id": "eli_lilly",
+      "short_name": "Eli Lilly",
+      "tier": ""
+    },
+    {
+      "id": "abbvie",
+      "short_name": "AbbVie",
+      "tier": ""
+    },
+    {
+      "id": "novo_nordisk",
+      "short_name": "Novo Nordisk",
+      "tier": ""
+    },
+    {
+      "id": "sanofi",
+      "short_name": "Sanofi",
+      "tier": ""
+    },
+    {
+      "id": "mckesson",
+      "short_name": "McKesson Corporation",
+      "tier": ""
+    },
+    {
+      "id": "cencora",
+      "short_name": "Cencora",
+      "tier": ""
+    },
+    {
+      "id": "cardinal",
+      "short_name": "Cardinal Health",
+      "tier": ""
+    }
+  ]
+}
