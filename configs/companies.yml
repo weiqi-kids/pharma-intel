@@ -164,6 +164,7 @@ companies:
   position: midstream
   role: 大型藥廠
   description: 瑞士大型藥廠，專注創新藥
+  rss_url: https://www.feeds.novartis.com/
   upstream:
   - lonza
   downstream:
@@ -214,6 +215,7 @@ companies:
   position: midstream
   role: 大型藥廠
   description: GLP-1 減重藥物領導者
+  rss_url: https://investor.lilly.com/rss/news-releases.xml
   downstream:
   - mckesson
   - cencora
@@ -229,6 +231,7 @@ companies:
   position: midstream
   role: 大型藥廠
   description: 免疫學與腫瘤學藥廠
+  rss_url: https://investors.abbvie.com/rss/news-releases.xml
   upstream:
   - catalent
   downstream:
