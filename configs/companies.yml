@@ -12,6 +12,7 @@ companies:
   position: upstream
   role: 學名藥
   description: 全球最大學名藥製造商
+  rss_url: https://news.google.com/rss/search?q="Teva+Pharmaceutical"&hl=en&gl=US&ceid=US:en
   downstream:
   - mckesson
   - cencora
@@ -27,6 +28,7 @@ companies:
   position: upstream
   role: 學名藥/API
   description: 印度學名藥與原料藥大廠
+  rss_url: https://news.google.com/rss/search?q="Dr.+Reddy's+Laboratories"&hl=en&gl=US&ceid=US:en
   downstream:
   - mckesson
   - cencora
@@ -42,6 +44,7 @@ companies:
   position: upstream
   role: 學名藥
   description: 印度最大製藥公司
+  rss_url: https://news.google.com/rss/search?q="Sun+Pharmaceutical"&hl=en&gl=US&ceid=US:en
   downstream:
   - mckesson
   - cencora
@@ -56,6 +59,7 @@ companies:
   position: upstream
   role: CDMO
   description: 台灣最大 CDMO，藥品委託研發製造
+  rss_url: https://news.google.com/rss/search?q="Bora+Pharmaceuticals"&hl=en&gl=US&ceid=US:en
   downstream:
   - pfizer
   - jnj
@@ -71,6 +75,7 @@ companies:
   position: upstream
   role: 生技代工
   description: 保健食品與生技代工龍頭
+  rss_url: https://news.google.com/rss/search?q="TCI+Co"&hl=en&gl=US&ceid=US:en
 - id: lonza
   name: Lonza Group
   aliases:
@@ -82,6 +87,7 @@ companies:
   position: upstream
   role: CDMO
   description: 全球最大生物藥 CDMO
+  rss_url: https://news.google.com/rss/search?q="Lonza+Group"&hl=en&gl=US&ceid=US:en
   downstream:
   - pfizer
   - roche
@@ -97,6 +103,7 @@ companies:
   position: upstream
   role: CDMO
   description: 藥品遞送技術與製造服務
+  rss_url: https://news.google.com/rss/search?q="Catalent"&hl=en&gl=US&ceid=US:en
   downstream:
   - pfizer
   - jnj
@@ -111,6 +118,7 @@ companies:
   position: midstream
   role: 大型藥廠
   description: 全球前三大藥廠
+  rss_url: https://news.google.com/rss/search?q="Pfizer"+pharmaceutical&hl=en&gl=US&ceid=US:en
   upstream:
   - bora
   - lonza
@@ -130,6 +138,7 @@ companies:
   position: midstream
   role: 大型藥廠
   description: 全球最大醫療保健公司
+  rss_url: https://news.google.com/rss/search?q="Johnson+%26+Johnson"&hl=en&gl=US&ceid=US:en
   upstream:
   - bora
   - catalent
@@ -148,6 +157,7 @@ companies:
   position: midstream
   role: 大型藥廠
   description: 全球最大生技藥廠
+  rss_url: https://news.google.com/rss/search?q="Roche+Holding"&hl=en&gl=US&ceid=US:en
   upstream:
   - lonza
   downstream:
@@ -182,6 +192,7 @@ companies:
   position: midstream
   role: 大型藥廠
   description: 英瑞合資藥廠，腫瘤領域強勢
+  rss_url: https://news.google.com/rss/search?q="AstraZeneca"&hl=en&gl=US&ceid=US:en
   upstream:
   - bora
   - lonza
@@ -200,6 +211,7 @@ companies:
   position: midstream
   role: 大型藥廠
   description: Keytruda 免疫療法龍頭
+  rss_url: https://news.google.com/rss/search?q="Merck+%26+Co."&hl=en&gl=US&ceid=US:en
   downstream:
   - mckesson
   - cencora
@@ -249,6 +261,7 @@ companies:
   position: midstream
   role: 大型藥廠
   description: GLP-1 與胰島素領導者
+  rss_url: https://news.google.com/rss/search?q="Novo+Nordisk"&hl=en&gl=US&ceid=US:en
   downstream:
   - mckesson
   - cencora
@@ -263,6 +276,7 @@ companies:
   position: midstream
   role: 大型藥廠
   description: 法國大型藥廠，疫苗與特殊護理
+  rss_url: https://news.google.com/rss/search?q="Sanofi"+pharmaceutical&hl=en&gl=US&ceid=US:en
   downstream:
   - mckesson
   - cencora
@@ -277,6 +291,7 @@ companies:
   position: downstream
   role: 藥品分銷
   description: 全球最大藥品分銷商
+  rss_url: https://news.google.com/rss/search?q="McKesson+Corporation"&hl=en&gl=US&ceid=US:en
   upstream:
   - pfizer
   - jnj
@@ -296,6 +311,7 @@ companies:
   position: downstream
   role: 藥品分銷
   description: 全球第二大藥品分銷商
+  rss_url: https://news.google.com/rss/search?q="Cencora"+pharma+distribution&hl=en&gl=US&ceid=US:en
   upstream:
   - pfizer
   - jnj
@@ -314,6 +330,7 @@ companies:
   position: downstream
   role: 藥品分銷
   description: 美國三大藥品分銷商之一
+  rss_url: https://news.google.com/rss/search?q="Cardinal+Health"&hl=en&gl=US&ceid=US:en
   upstream:
   - pfizer
   - jnj
