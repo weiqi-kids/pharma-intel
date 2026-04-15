@@ -6,8 +6,8 @@
       "short_name": "梯瓦",
       "position": "upstream",
       "role": "學名藥",
-      "x": 0.08,
-      "y": 0.06
+      "x": 0.05,
+      "y": 0.04
     },
     {
       "id": "dr_reddy",
@@ -15,8 +15,8 @@
       "short_name": "瑞迪博士",
       "position": "upstream",
       "role": "學名藥/API",
-      "x": 0.248,
-      "y": 0.06
+      "x": 0.5,
+      "y": 0.13
     },
     {
       "id": "sun_pharma",
@@ -24,8 +24,8 @@
       "short_name": "太陽製藥",
       "position": "upstream",
       "role": "學名藥",
-      "x": 0.416,
-      "y": 0.06
+      "x": 0.95,
+      "y": 0.04
     },
     {
       "id": "bora",
@@ -33,8 +33,8 @@
       "short_name": "保瑞",
       "position": "upstream",
       "role": "CDMO",
-      "x": 0.584,
-      "y": 0.06
+      "x": 0.05,
+      "y": 0.21
     },
     {
       "id": "tci",
@@ -42,8 +42,8 @@
       "short_name": "大江",
       "position": "upstream",
       "role": "生技代工",
-      "x": 0.752,
-      "y": 0.06
+      "x": 0.5,
+      "y": 0.3
     },
     {
       "id": "lonza",
@@ -51,8 +51,8 @@
       "short_name": "龍沙",
       "position": "upstream",
       "role": "CDMO",
-      "x": 0.92,
-      "y": 0.06
+      "x": 0.5,
+      "y": 0.21
     },
     {
       "id": "catalent",
@@ -60,8 +60,8 @@
       "short_name": "Catalent",
       "position": "upstream",
       "role": "CDMO",
-      "x": 0.5,
-      "y": 0.28
+      "x": 0.95,
+      "y": 0.21
     },
     {
       "id": "pfizer",
@@ -69,8 +69,8 @@
       "short_name": "輝瑞",
       "position": "midstream",
       "role": "大型藥廠",
-      "x": 0.08,
-      "y": 0.36
+      "x": 0.05,
+      "y": 0.5
     },
     {
       "id": "jnj",
@@ -78,8 +78,8 @@
       "short_name": "嬌生",
       "position": "midstream",
       "role": "大型藥廠",
-      "x": 0.248,
-      "y": 0.36
+      "x": 0.15,
+      "y": 0.5
     },
     {
       "id": "roche",
@@ -87,8 +87,8 @@
       "short_name": "羅氏",
       "position": "midstream",
       "role": "大型藥廠",
-      "x": 0.416,
-      "y": 0.36
+      "x": 0.25,
+      "y": 0.5
     },
     {
       "id": "novartis",
@@ -96,8 +96,8 @@
       "short_name": "諾華",
       "position": "midstream",
       "role": "大型藥廠",
-      "x": 0.584,
-      "y": 0.36
+      "x": 0.35,
+      "y": 0.5
     },
     {
       "id": "astrazeneca",
@@ -105,8 +105,8 @@
       "short_name": "阿斯特捷利康",
       "position": "midstream",
       "role": "大型藥廠",
-      "x": 0.752,
-      "y": 0.36
+      "x": 0.45,
+      "y": 0.5
     },
     {
       "id": "merck",
@@ -114,8 +114,8 @@
       "short_name": "默克",
       "position": "midstream",
       "role": "大型藥廠",
-      "x": 0.92,
-      "y": 0.36
+      "x": 0.55,
+      "y": 0.5
     },
     {
       "id": "eli_lilly",
@@ -123,8 +123,8 @@
       "short_name": "禮來",
       "position": "midstream",
       "role": "大型藥廠",
-      "x": 0.08,
-      "y": 0.64
+      "x": 0.65,
+      "y": 0.5
     },
     {
       "id": "abbvie",
@@ -132,8 +132,8 @@
       "short_name": "艾伯維",
       "position": "midstream",
       "role": "大型藥廠",
-      "x": 0.36,
-      "y": 0.64
+      "x": 0.75,
+      "y": 0.5
     },
     {
       "id": "novo_nordisk",
@@ -141,8 +141,8 @@
       "short_name": "諾和諾德",
       "position": "midstream",
       "role": "大型藥廠",
-      "x": 0.64,
-      "y": 0.64
+      "x": 0.85,
+      "y": 0.5
     },
     {
       "id": "sanofi",
@@ -150,8 +150,8 @@
       "short_name": "賽諾菲",
       "position": "midstream",
       "role": "大型藥廠",
-      "x": 0.92,
-      "y": 0.64
+      "x": 0.95,
+      "y": 0.5
     },
     {
       "id": "mckesson",
@@ -159,13 +159,13 @@
       "short_name": "麥克森",
       "position": "downstream",
       "role": "藥品分銷",
-      "x": 0.08,
+      "x": 0.05,
       "y": 0.83
     },
     {
       "id": "cencora",
       "name": "Cencora",
-      "short_name": "Cencora",
+      "short_name": "AmerisourceBergen",
       "position": "downstream",
       "role": "藥品分銷",
       "x": 0.5,
@@ -174,10 +174,10 @@
     {
       "id": "cardinal",
       "name": "Cardinal Health",
-      "short_name": "Cardinal Health",
+      "short_name": "Cardinal",
       "position": "downstream",
       "role": "藥品分銷",
-      "x": 0.92,
+      "x": 0.95,
       "y": 0.83
     }
   ],
@@ -405,19 +405,28 @@
   ],
   "etfs": [
     {
-      "id": "xlv",
+      "id": "etf_xlv",
       "name": "Health Care Select Sector SPDR",
-      "ticker": "XLV"
+      "ticker": "XLV",
+      "market": "NYSE",
+      "currency": "USD",
+      "description": "醫療保健 ETF，涵蓋大型藥廠與保險"
     },
     {
-      "id": "ibb",
+      "id": "etf_ibb",
       "name": "iShares Biotechnology ETF",
-      "ticker": "IBB"
+      "ticker": "IBB",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "description": "生技 ETF，追蹤 NASDAQ 生技指數"
     },
     {
-      "id": "xbi",
+      "id": "etf_xbi",
       "name": "SPDR S&P Biotech ETF",
-      "ticker": "XBI"
+      "ticker": "XBI",
+      "market": "NYSE",
+      "currency": "USD",
+      "description": "生技 ETF，等權重分散中小型生技股"
     }
   ]
 }
