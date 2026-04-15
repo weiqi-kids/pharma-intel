@@ -1,5 +1,109 @@
 [
   {
+    "id": "unknown-2026-04-14-003",
+    "date": "2026-04-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Drug Compliance Programs",
+    "summary": "FDA compliance programs provide guidance and instructions to FDA staff for obtaining information to help fulfill agency plans in the specified program area. ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-14-004",
+    "date": "2026-04-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Search for Pharmaceutical Quality Documents",
+    "summary": "FDA provides resources on pharmaceutical quality topics, including information on regulations, guidance documents, and compliance programs in a searchable and filterable table format",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-14-005",
+    "date": "2026-04-14",
+    "companies": [],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "positive",
+    "title": "Helpful Webinars and Other Resources for Generic Drug Manufacturers",
+    "summary": "FDA develops resources – workshops, webinars, and seminars – to help generic drug manufacturers improve the quality of their abbreviated new drug application (ANDA) submissions and decrease the number",
+    "sources": []
+  },
+  {
+    "id": "eli_lilly-2026-04-14-006",
+    "date": "2026-04-14",
+    "companies": [
+      "eli_lilly"
+    ],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "FDA tells Eli Lilly to round up more safety info on key obesity launch Foundayo - Fierce Pharma",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbGNJMjlWaHNiTE43cDBlSldtTHE4ajBQNjRGQ20xZVVhRFU2VnFJSDV3UWhWU19EWERmdDRFMnVNVU5QRVUweks2TWtjMS1saVE1M0tHMkJkZkh2ZjBaUThxejQ5dWswbGtPM2RObl",
+    "sources": []
+  },
+  {
+    "id": "pfizer-2026-04-14-019",
+    "date": "2026-04-14",
+    "companies": [
+      "pfizer"
+    ],
+    "topics": [
+      "drug_approval",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Earnings Preview: What to Expect From Pfizer’s Report - Barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPMDB2X2I4WnJVQi12V1k3Rmd3aG5vaGpiS21Pd2w3V0Z6Q2V3R0owNDJfZ0otYXRnZGQwVVU5M3FUQlM0WGV2U0s2dkxlbENldjJaeEdPdWNVczVOWWNfblpFX19Fd0VIOF9jSFhfOE",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-13-001",
+    "date": "2026-04-13",
+    "companies": [],
+    "topics": [
+      "patent_cliff"
+    ],
+    "impact": "neutral",
+    "title": "Spyre drug for inflammatory bowel disease shows promise in early study",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/GGg1HxfgIG19LbD7AgeaGjelOegByXmxh0T8qynEMtw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNTc0ODAyNDQuanBn.web",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-13-002",
+    "date": "2026-04-13",
+    "companies": [],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "Connected medical devices: Smarter care starts here",
+    "summary": "<p>Connected medical devices are transforming healthcare and clinical trials, driving advances in patient care and next-gen therapies shaping the future.</p>",
+    "sources": []
+  },
+  {
+    "id": "pfizer-2026-04-09-018",
+    "date": "2026-04-09",
+    "companies": [
+      "pfizer"
+    ],
+    "topics": [
+      "drug_approval",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Q4 Earnings Highs And Lows: Pfizer (NYSE:PFE) Vs The Rest Of The Branded Pharmaceuticals Stocks - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxObmtkMExEMGwzLWo3NllPMlhodHBXYVlYRU1aRXhmd2FNTWo1dXI3SmVzZzNJVWJ1VEhXSExZYU00aHVmenZ2bmpOa0lDMmhTa083ZWRvbGlNZ2xobWtwdkxlX292cGU5Rzh5NV9odU",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-03-001",
     "date": "2026-04-03",
     "companies": [],
@@ -33,6 +137,215 @@
     "impact": "neutral",
     "title": " SK Group chairman says memory chip shortage will last until 2030 — wafer supply trails demand by 20% ",
     "summary": "\n                             SK Group chairman Chey Tae-won told reporters at Nvidia's GTC conference in San Jose on Monday that the global memory chip shortage is likely to persist for another four ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-05-011",
+    "date": "2026-03-05",
+    "companies": [],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "FDA Announces a Single Pivotal Trial as the New Default Standard for Drug Approval - ArentFox Schiff",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNLUsyX2l4TEI0c0ZDQVM4eHBMWEQ4TGlpd1ZsVDZmMkhpR1RQUWhPZ0Z5LWJtTzhmU2owenB2V2pELUZxZkR4V1FFVjM1LUpGNkZRcEdsWGUyQ0JaVHNvRmNjOThJZlJLWEo2QXRXSE",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-02-23-013",
+    "date": "2026-02-23",
+    "companies": [],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "FDA Drops Drug-Approval Standard From Two Controlled Trials to One - Filter",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE55VjhLckxJNmV1YTVSQUVHY0JlX0xySEtzUUFKbm1HcmMtMXFoS1pZS1d2VWhWU0I4SDI3TlJBSUJIWkJUbi0tV09Ram1Oek1OYU1Cbk53eVk5aV9KT1Juby0zR0hmNTI5YlE1V2NmOA",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-02-20-012",
+    "date": "2026-02-20",
+    "companies": [],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "FDA to allow one pivotal trial instead of two for drug approval - Clinical Trials Arena",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNWVzSEFsQUNrQ04xaXpVdFFsYVdCbG5QRm9GT2sxUWVPRXVQVDZrcl8zUEo1cXF1Z2ZpdkxRa3ZfQjV2cWxyc2t4ekhVU0U0MmExa1lGSU5yNHp6OVlQLUNWeXMxa3ZTV2RhN2hoRk",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-02-19-008",
+    "date": "2026-02-19",
+    "companies": [],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "FDA Shifts Toward Single Trial Requirement for New Drug Approvals - Pharmaceutical Commerce",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSTZsdVdPbU9UdGpCek56dzY1RlR5Z2R2TVpQekhobl91Nkh5Mm5PVlJBdjFyNlRkeVBoUF8zYTVMZzRJYXI3OUtLM3VaLTN3QWR3QzlDTElkSkFsQlAySnZ5S0J0UzBFRUUxN3k2VH",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-02-19-010",
+    "date": "2026-02-19",
+    "companies": [],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "FDA Plans to Remove Two Study Requirement for New Drug Approvals | PharmExec - Pharmaceutical Executive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQUFdydHlfdzJPcnJvZWhieFpwcEN1UjJyVHJONmtVQy0tTDN3MTFNMnNBclBRd21sUE5saWZrRlNIeDRfZ1JRb29SSVVXeFdoVFhNeWJJeDdBTnJWY3lUNTktTWh6MU5iWFVjZkZjQW",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-02-19-014",
+    "date": "2026-02-19",
+    "companies": [],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "FDA policy sets new clinical trial requirements for drug approvals - European Pharmaceutical Review",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQN2Noemd1eGM2SWNVRzBTYkg1Umk2czg3RTdqcmpNc2p3ZUNjNnFyd2JuWWxCVTFWcUZZY3ZFcjBuYnVWbE5LNXRhWnBITmdMeTc3cDNCMEtDMkw2ajBmN2taVGtQRUNkeDk0SDM4Vm",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-02-19-015",
+    "date": "2026-02-19",
+    "companies": [],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "FDA's new standard for approval will be for one pivotal trial, not two - FirstWord Pharma",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhRldhQk5lZERlSEVMUk9fTEI5UnJrdlltU3MyZEdOV1hlRHVYa3R0dy1sRjB1Xy0ycEp3aFZUa0pzVkxzV1hqNlA2NW5WOG5MV2Nz?oc=5\" target=\"_blank\">FDA's new stand",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-02-09-016",
+    "date": "2026-02-09",
+    "companies": [],
+    "topics": [
+      "drug_approval",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "FDA Modernizes Draft Guidance on Statistical Methods to Support Clinical Trial Data - JD Supra",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNdVN0cFQ2MVM5S000a0pBeDFXVW4yemo1N04zYXNDams3a1Z4X05qZVZNUUZBTnVHYUJzZ2luZHJtMm4wYXhaQ3pGaWxIVmM4T0RMVFJLQ3hWMjllallETm42QmNWMmZhbU1YcFM4eV",
+    "sources": []
+  },
+  {
+    "id": "pfizer-2026-02-04-021",
+    "date": "2026-02-04",
+    "companies": [
+      "pfizer"
+    ],
+    "topics": [
+      "drug_approval",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Pfizer Earnings: Seagen Impairment and Metsera Tolerability Data Incrementally Negative - Morningstar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQNTdwOHItWHdpVzU2MXBHV3JKTGc2cDc4TlZQc2RBOElHN3kyUTNaZmFFbUstN1BKdW00MFhaQ2djcC1EeHV2dXlNNDloMVFyMHVNTTZiNXB6Ri0tNU1mNHE5eE90dUFScWpPMFFDYm",
+    "sources": []
+  },
+  {
+    "id": "pfizer-2026-02-04-023",
+    "date": "2026-02-04",
+    "companies": [
+      "pfizer",
+      "merck"
+    ],
+    "topics": [
+      "drug_approval",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Earnings roundup: Amgen vs. FDA, Pfizer’s defense and Merck’s $70B-in-sales plan - BioPharma Dive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNOXJjVlRweEFDdlFaZUtScWl2UFJkWWVHNzgzWXhkT3BPX2hjWjJqRGhpZVJuOW4tbUdoWlZWQURCcjY2ZndZakh5M2Y4eDhEVWRvb0NnaWkwV1lWbzNaNmxYNElnQXpVLW5fY0xtdX",
+    "sources": []
+  },
+  {
+    "id": "pfizer-2026-02-03-020",
+    "date": "2026-02-03",
+    "companies": [
+      "pfizer"
+    ],
+    "topics": [
+      "drug_approval",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Pfizer beats quarterly estimates despite Covid product decline, reaffirms modest outlook - CNBC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1veUYzMkNicjRGcXQzVEpLWllCWkR2dlNyUnU4VGF1d3EyclA4NFZhdk1yeU03c3Q1aGU1aHlJNzlVcU9uc29JTzFMWmVKbEQ2RVRiYjRNaW9oOGRSclJDX0tiajJLMFNlNjczb3lBZj",
+    "sources": []
+  },
+  {
+    "id": "pfizer-2026-02-01-024",
+    "date": "2026-02-01",
+    "companies": [
+      "pfizer"
+    ],
+    "topics": [
+      "drug_approval",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Earnings To Watch: Pfizer (PFE) Reports Q4 Results Tomorrow - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOUHQzWV96NFVwcC01TFVzTHVHS0NUNVVPUjRuLW5kY0l3YUNTcDc4b2tmWHV5dmFjZUItZzFCMDNtQUxITjRTZEREdldTaDYwMkJXa2tVSTRacUhKWkQ4bXpGWlozbkVRdUR1UkVVOD",
+    "sources": []
+  },
+  {
+    "id": "pfizer-2026-01-30-022",
+    "date": "2026-01-30",
+    "companies": [
+      "pfizer"
+    ],
+    "topics": [
+      "drug_approval",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Should You Buy, Sell or Hold Pfizer Stock Ahead of Q4 Earnings? - Zacks Investment Research",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQRTRydDZOaEJCeFczNE5jVXJCZWpvNWhVdnFxMXVtc3ZGZnJEemlYMGlJbUozSmFNZGNhTmZ1NXJES1A2RUhEeDRKVk9YTXFxaDdUVnhCbkVjM1hfVm4tUUJiT3FpSGdRM2xnMkRQVk",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-01-02-009",
+    "date": "2026-01-02",
+    "companies": [],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "2025 FDA approvals - Nature",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VMlhtZHBzSEFBTFpaR25BbUtUUHcxZUJ5ZHVXUFhYbm5LaW1tX3pCdEl6M3VUWnhzN2l1QXdWc3h5YXpXazV4WUFUb0xMdnJsbkdMWG5vTHdoZFlxcnJZ?oc=5\" target=\"_blank\"",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-12-17-007",
+    "date": "2025-12-17",
+    "companies": [],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "negative",
+    "title": "Inside the FDA’s Quiet Move to Weaken Drug Approval Standards - MedShadow Foundation",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOMlo5TzN4bmp1SkVyWEJTNDdHai1jMU1zVHZ3LXBxNi01S05rbl9VRE9WWHdveEFjczNlbk5fQ000c2h2NkNsbFRMbXFXODlYMVp3UXFSZEZpcTUydk9Vb0VSTUI1YUp2VXhwNlVOZm",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-12-05-017",
+    "date": "2025-12-05",
+    "companies": [],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "In Change That Pushed Pazdur Out, FDA May Lower Clinical Trial Requirements - BioSpace",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOTHF3V1RIYlUwVHNOYUpWZG9sM0szTWdDWWJZSENqYTdWOWlXcVlFLWxPY0xpMWFBS1VCZmFqU0FDdWhhV2NRQ1ZXMlVEMTlwNXJOZ2RqZldySVRCRkJEWnBmeVVKY3BiTVF1N1JyNU",
     "sources": []
   }
 ]
