@@ -1,0 +1,198 @@
+{
+  "date": "2026-04-17",
+  "generated_at": "2026-04-17T09:27:30.138148Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-17-026",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Regulatory tracker: GSK's Blenrep gets all-clear in NICE final guidance - Fierce Pharma",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "pfizer-2026-04-17-029",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Pfizer Earnings Dragged by Lipitor and Nexium - Yahoo",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "teva-2026-04-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How Teva Pharmaceutical Industries (TEVA) Story Is Shifting With Duvakitug R&D And Biosimilars - Yahoo Finance",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "patent_cliff"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "novo_nordisk-2026-04-17-014",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Novo Nordisk's Wegovy tablet continues to gain US market share - medwatch.com",
+      "companies": [
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "teva",
+        "count": 1
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 1
+      },
+      {
+        "id": "pfizer",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "patent_cliff",
+        "count": 1
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Teva、Novo、輝瑞相關動態：「Regulatory tracker: GSK's Blenrep gets all-clear in NICE ...」。主要關注主題為藥物核准、法說會、專利懸崖，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Regulatory tracker: GSK's Blenrep gets all-clear in NICE final guidance - Fie...（藥物核准、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Pfizer Earnings Dragged by Lipitor and Nexium - Yahoo（藥物核准、法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
