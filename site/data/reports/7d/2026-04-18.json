@@ -1,0 +1,127 @@
+{
+  "date": "2026-04-18",
+  "date_range": {
+    "start": "2026-04-12",
+    "end": "2026-04-18"
+  },
+  "generated_at": "2026-04-18T09:00:43.127059Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "catalent-2026-04-13-021",
+      "date": "2026-04-13",
+      "title": "Small Molecule Innovator API CDMO Market Outlook, 2026-2033 - Lonza Group, Novo Holdings (Catalent) and Thermo Fisher Scientific Lead the Growing Industry - Yahoo Finance",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "drug_approval": {
+      "this_week": 9,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.06
+    },
+    "patent_cliff": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "glp1_obesity": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 4,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.12
+    }
+  },
+  "company_7d_summary": {
+    "teva": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "pfizer": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 2
+    },
+    "jnj": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "novo_nordisk": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 9,
+        "last": 0,
+        "change_pct": 0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-12",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-13",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-14",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-15",
+      "event_count": 5,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-16",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-17",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-18",
+      "event_count": 0,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-12 ~ 2026-04-18）共 9 則事件，重點為「Small Molecule Innovator API CDMO Market Outloo...」。輝瑞表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "Teva",
+        "reason": "本週有 2 則相關事件，建議持續追蹤動態。"
+      },
+      {
+        "company": "輝瑞",
+        "reason": "本週有 2 則相關事件，建議持續追蹤動態。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
