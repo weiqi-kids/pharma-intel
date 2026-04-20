@@ -1,0 +1,25 @@
+{
+  "date": "2026-04-20",
+  "total_events": 6,
+  "by_company": {
+    "astrazeneca": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "mckesson": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "drug_approval": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
