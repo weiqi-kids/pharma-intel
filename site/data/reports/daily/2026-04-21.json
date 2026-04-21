@@ -1,0 +1,184 @@
+{
+  "date": "2026-04-21",
+  "generated_at": "2026-04-21T09:47:52.563748Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "pfizer-2026-04-21-021",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Pfizer Oncology Outlook Shifts As PADCEV Keytruda Win Nears FDA Decision - simplywall.st",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "astrazeneca-2026-04-21-007",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AstraZeneca’s COPD drug gains third Phase III win - Clinical Trials Arena",
+      "companies": [
+        "astrazeneca"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "astrazeneca-2026-04-21-010",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Astrazeneca Reports Ultomiris Meets Primary Endpoint In Phase III Trial For IgAN At Week 34 - TradingView",
+      "companies": [
+        "astrazeneca"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "astrazeneca-2026-04-21-011",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AstraZeneca receives positive high level results from Phase III I CAN trial - Sharecast.com",
+      "companies": [
+        "astrazeneca"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "astrazeneca-2026-04-21-012",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AstraZeneca reports Ultomiris meets primary endpoint in phase III trial for IgAN at week 34 - marketscreener.com",
+      "companies": [
+        "astrazeneca"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "astrazeneca",
+        "count": 4
+      },
+      {
+        "id": "pfizer",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為AZ、輝瑞相關動態：「Pfizer Oncology Outlook Shifts As PADCEV Keytruda Win Nea...」。主要關注主題為藥物核准、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Pfizer Oncology Outlook Shifts As PADCEV Keytruda Win Nears FDA Decision - si...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "AstraZeneca’s COPD drug gains third Phase III win - Clinical Trials Arena（藥物核准）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
