@@ -1,0 +1,181 @@
+{
+  "date": "2026-04-22",
+  "generated_at": "2026-04-22T09:29:22.157683Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "pfizer-2026-04-22-024",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Pfizer GLP-1 Weight Loss Drug Available for Pre-Order in China - Global Banking & Finance Review®",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "sun_pharma-2026-04-22-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sun Pharmaceutical Industries Ltd Technical Momentum Shifts Amid Mixed Market Signals - Markets Mojo",
+      "companies": [
+        "sun_pharma"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "patent_cliff"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "astrazeneca-2026-04-22-009",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Key facts: AstraZeneca Phase III Win; CEO Warns on German Price Curbs - TradingView",
+      "companies": [
+        "astrazeneca"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-04-22-017",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "US authorities change course – will fund obesity drugs in 2027 - medwatch.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "sun_pharma",
+        "count": 1
+      },
+      {
+        "id": "astrazeneca",
+        "count": 1
+      },
+      {
+        "id": "pfizer",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 4
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 2
+      },
+      {
+        "id": "patent_cliff",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Sun Pharma、AZ、輝瑞相關動態：「Pfizer GLP-1 Weight Loss Drug Available for Pre-Order in ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Pfizer GLP-1 Weight Loss Drug Available for Pre-Order in China - Global Banki...（藥物核准、GLP-1 減重）",
+        "level": "green"
+      },
+      {
+        "text": "Sun Pharmaceutical Industries Ltd Technical Momentum Shifts Amid Mixed Market...（藥物核准、專利懸崖）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
