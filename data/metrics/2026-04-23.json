@@ -1,0 +1,41 @@
+{
+  "date": "2026-04-23",
+  "total_events": 7,
+  "by_company": {
+    "roche": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "merck": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "novo_nordisk": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "cardinal": {
+      "count": 1,
+      "sentiment_avg": -0.25
+    }
+  },
+  "by_topic": {
+    "drug_approval": {
+      "count": 7,
+      "sentiment_avg": 0.04
+    },
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": 0.06
+    },
+    "glp1_obesity": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

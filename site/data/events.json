@@ -1,5 +1,106 @@
 [
   {
+    "id": "unknown-2026-04-23-003",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "Nifty Pharma index soars 3%; Dr Reddy's, Piramal Pharma rally up to 9% - Business Standard",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOMFVmQWxtUF83SFBPYlNHMEI3VzhaczIwbjg0ZUt1UXl3N19aZGt2cWI1QWxxcXcxbHJjaHZ0MGI3UU5OQ2xmSDZOZm5mSVhaYzZiTWNpOEF5eE41d19OQUNJZllHLXdNcTF3cUZFVE",
+    "sources": []
+  },
+  {
+    "id": "roche-2026-04-23-009",
+    "date": "2026-04-23",
+    "companies": [
+      "roche"
+    ],
+    "topics": [
+      "drug_approval",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Roche's Q1 Group Sales Fall; FY26 Outlook Affirmed - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPcHMwS1ppQncyN1BSMUtnT1R0X1Zqb0dzSVBqUjhncU9aa2kyQWcwWVJoSDFXbWxnNXpBY3dtNlVfQ3ZXOWlsVmNwY2N3MjlsbjdKeUM2NVVGaHRYWmpBb1BLYmxvQVJLZlVDbkJTWG",
+    "sources": []
+  },
+  {
+    "id": "merck-2026-04-23-011",
+    "date": "2026-04-23",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "drug_approval",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Merck & Co., Inc. (MRK) to Release Earnings on Thursday - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQTFBETmhxR1JzcWs0dm9YR2kyRTAyb2JzdGJpZDFQbFd5WEFnbkNwN1Zta012SkdiQWF1MjJfLWRyNEhHVXplbUt2X2EwUlN1WU5XRVlRRTRPcHZZZHZCZXhSOW4wYThNN1BnWnlKcW",
+    "sources": []
+  },
+  {
+    "id": "merck-2026-04-23-013",
+    "date": "2026-04-23",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "Merck & Co., Inc. (MRK) Gains FDA Priority Review for KEYTRUDA Regimen in Muscle-Invasive Bladder Cancer - Insider Monkey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOWQ5SEJIdXd3dU8zc05JVzYwbTFyYS11TmFSZEJSYi1ZRU1GRTJlX3d6b1VNUHVmUElQMlR6UnM3bW54MjZxUGNmSzVBN1BXYjJWQk4zYWdiNkhTOS1UVWxMMWFPa0dTZ3hpdEtyen",
+    "sources": []
+  },
+  {
+    "id": "novo_nordisk-2026-04-23-017",
+    "date": "2026-04-23",
+    "companies": [
+      "novo_nordisk"
+    ],
+    "topics": [
+      "drug_approval",
+      "glp1_obesity"
+    ],
+    "impact": "neutral",
+    "title": "Novo Nordisk’s oral semaglutide demonstrates potential to be the first oral GLP-1 RA therapy for children and adolescents with type 2 diabetes - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQX3FzV29MTXRFT3Q3T29URmVtZEhJVS02YlNTSi0tdG5QSTJsdEI0c213YXhxNHlPaEZrUVBCOVNfd3pvODlacUVCZnE3R2YzOFhPS01NUndkUm5tTS1Ya1BZMHFud2psQW1jblBZZF",
+    "sources": []
+  },
+  {
+    "id": "novo_nordisk-2026-04-23-018",
+    "date": "2026-04-23",
+    "companies": [
+      "novo_nordisk"
+    ],
+    "topics": [
+      "drug_approval",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Is Novo Nordisk (NYSE:NVO) Pricing Reflect Its Recent Share Slump And Growth Outlook - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxORW0zbzBFYktRbmtRSkIxU2Zwd2FLR1Vwbks3RllOTlQ5Y1hpempDZXFUaEtZNE8zalRHcVVHWHozZHI0LWRpWXhBVWpLN0VBX1BoazZrakEyTkhIZGtPemlyYjJBbGg3bGxrRFBidF",
+    "sources": []
+  },
+  {
+    "id": "cardinal-2026-04-23-022",
+    "date": "2026-04-23",
+    "companies": [
+      "cardinal"
+    ],
+    "topics": [
+      "drug_approval",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "CAH (Cardinal Health Inc.) Q1 2026 EPS exceeds estimates, slight year over year revenue decline pulls shares down 1.45 percent. - Core Business Growth - Xã Thanh Hà",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxQcGR1X0FrOXUxNXZTM1lYWksxd25INWFFdnJ2dE9tb1VRTks2dDdiQWk5X0wtNTQ3bUZaaXdIQXlhTExscndLQXR1UmctcUNFcXIzRUJ6UzU0SkJiYkpGc204MXBuTWFkRktPTUF0Q0",
+    "sources": []
+  },
+  {
     "id": "sun_pharma-2026-04-22-001",
     "date": "2026-04-22",
     "companies": [
@@ -54,6 +155,221 @@
     "impact": "negative",
     "title": "Pfizer GLP-1 Weight Loss Drug Available for Pre-Order in China - Global Banking & Finance Review®",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPaHAweThIODE1RnlpcTgyYUNWNm5MdmQ1UnppQ0U0NnpYMkFFS0VsdlNNY3Z5bmhvNEpiZEFIMlMzZ2RpX0JKQk5zY1BoVlloYm1mQy02RTVadmM3NF82Rm1fbmkyODVnQjRVVmRHal",
+    "sources": []
+  },
+  {
+    "id": "teva-2026-04-22-001",
+    "date": "2026-04-22",
+    "companies": [
+      "teva"
+    ],
+    "topics": [
+      "drug_approval",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Teva Pharmaceutical Industries (TEVA) to Release Earnings on Wednesday - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQUFdRNXpoWHIwNjQ4azQ3VHVReUhnMWFDWG1XREgwMHh4dTdwMDVsa3Q0WXNETHliam11NHZDUm8yX3ZPOFJrdF9LQlNnVm43UkFpUjBLWUVYSEIxSUhDQVowMXlCWEZkcnppRlg1cl",
+    "sources": []
+  },
+  {
+    "id": "pfizer-2026-04-22-005",
+    "date": "2026-04-22",
+    "companies": [
+      "pfizer"
+    ],
+    "topics": [
+      "drug_approval",
+      "glp1_obesity"
+    ],
+    "impact": "negative",
+    "title": "Pfizer GLP-1 weight loss drug available for pre-order in China - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPaWs2RVZrVEJrNm93ZmxTOFJEWjBOUk5kVFZIdVlZczB4dllHQzlwWk5rMzBQYVlGaTBfbV9mMm5sc19aN3ljbVRDY1ZtOW5TWjMwaFdRNlFHMWtIcU9pbVNuRkU5ckFUM3lUQjNidF",
+    "sources": []
+  },
+  {
+    "id": "jnj-2026-04-22-006",
+    "date": "2026-04-22",
+    "companies": [
+      "jnj"
+    ],
+    "topics": [
+      "drug_approval",
+      "patent_cliff"
+    ],
+    "impact": "neutral",
+    "title": "Johnson & Johnson (JNJ) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxONU5hVzN1UndoNmVSOElOYm5fV2w4M3owbGVEeEdPdXVXWmhVb19sbmJhNFJzdmxBamVPVmN6NjlaRGt3SEhpelpmWTJyNFVvdmM3Y0hMRmpsM2lwZlc2dkNaaG9lOEx5WWhjbDg4Mm",
+    "sources": []
+  },
+  {
+    "id": "jnj-2026-04-22-007",
+    "date": "2026-04-22",
+    "companies": [
+      "jnj"
+    ],
+    "topics": [
+      "drug_approval",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Earnings drop as Johnson & Johnson (NYSE: JNJ) grows Q1 2026 sales - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYU1lS09wNGlQeDVOU3RJbTV5R0RqSW5Eb1JkTUc0N1lJTzMtSF9rMnJ5dFVtSVkxbVpxWGgxdkl6Z1hNYkxMMDluRWxraGZlN2RQWEtqQmhGS2FaeTMya2E0VC1GNUxyNVFvdWhQTk",
+    "sources": []
+  },
+  {
+    "id": "jnj-2026-04-22-008",
+    "date": "2026-04-22",
+    "companies": [
+      "jnj"
+    ],
+    "topics": [
+      "drug_approval",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Is Johnson & Johnson (JNJ) a Buy on Sales Growth and Solid 2026 Guidance? - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQRUpnWFNRU19VaUtkWHJlc1FWOXhlSkN3SzRFS0dIY1FQQ0xUVDFFc2Z1eXJ2Y0s4N0FfV05xa2kzYkVzTDRKRW5Oclh3ZC1uaTd4R3ZpQWM2NEgzZWxrTXJWcklYal9HY3UxRWo0Sl",
+    "sources": []
+  },
+  {
+    "id": "astrazeneca-2026-04-22-010",
+    "date": "2026-04-22",
+    "companies": [
+      "astrazeneca"
+    ],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "AstraZeneca to seek accelerated approval of Ultomirisin in IgAN on Phase III data - Clinical Trials Arena",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQR0otc25xMVpoUXd0dTRHcjNWTnhSRkFVaTgxNFRRdk1feU5sd0ZPVUs1di1FYUlieTNjaFJiTllfa1NZRDNCZFlSYW1IbEF5dmJvTkdNRVdsVk9RY0hLU21yanl1YndGYnJ4WjZvWk",
+    "sources": []
+  },
+  {
+    "id": "merck-2026-04-22-012",
+    "date": "2026-04-22",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "Merck & Co. goes all-in on agentic AI via $1B Google Cloud deal - FirstWord Pharma",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZOV9LN2RLOGhnYXkxOFJGSHVIMXY4Si1ZWXdjeFA4M3lMd3hFVGllVWxxTVlyckMyYnRtWVNWbzNPWmFkbmQ2azFUaXQ5OEJtUTNN?oc=5\" target=\"_blank\">Merck & Co. goe",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-22-019",
+    "date": "2026-04-22",
+    "companies": [],
+    "topics": [
+      "drug_approval",
+      "glp1_obesity"
+    ],
+    "impact": "neutral",
+    "title": "Trump admin shifts course on Medicare GLP-1 coverage - Axios",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5UMnNmc0Naa21hamw3U2l6YXBpVVZiZDl4TG5saFAtWUFNb3l5cWZkQkd2ei1sTC1oN2VfcUxFNXhGeE1CMUJsTHlzcEZqWXpYLWNXSGpieHpJVjZjUV9Wa05tZXluZEhwS3EtMmdwa1",
+    "sources": []
+  },
+  {
+    "id": "cardinal-2026-04-22-021",
+    "date": "2026-04-22",
+    "companies": [
+      "cardinal"
+    ],
+    "topics": [
+      "drug_approval",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Earnings Preview: What to Expect From Cardinal Health's Report - Barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX2FvS1J3a0FnWWFPcGJBbEJvd2taVkJVdWxsWXgxSlBEaWZ4TWN4eS1jYTJHNm1FUDJrYVBPbVROMm1aQ0tZT1JjSVRaeUpjdmlZM0I1Z0RJR3JVaWhHUHF5UUZJaW1aZE5wVFpIVE",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-22-023",
+    "date": "2026-04-22",
+    "companies": [],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "negative",
+    "title": "GDUFA III Drug Master File (DMF) Review Enhancements",
+    "summary": "Effective communication among ANDA applicants, DMF holders, and FDA is essential for reducing the likelihood of potential problems that could delay approvals. ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-22-024",
+    "date": "2026-04-22",
+    "companies": [],
+    "topics": [
+      "drug_approval",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Bioanalytical Method Validation for Biomarkers",
+    "summary": "This guidance helps sponsors of investigational new drug applications (INDs) and applicants of new drug applications (NDAs), biologics license applications (BLAs), and NDA and BLA supplements.",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-22-025",
+    "date": "2026-04-22",
+    "companies": [],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "C3TI Compass (Knowledge Repository)",
+    "summary": "Centralized knowledge repository for clinical trial innovation",
+    "sources": []
+  },
+  {
+    "id": "pfizer-2026-04-22-027",
+    "date": "2026-04-22",
+    "companies": [
+      "pfizer"
+    ],
+    "topics": [
+      "drug_approval",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Pfizer Could Surprise Again This Earnings Season (Preview) (NYSE:PFE) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPV21EY3NzUXNIZy1nQkk0VWdLQmNZU0RiX0tKTS0ycDdWZE8tZ3NxV1k0NlVxQXFQeEI5WFgybjVyeUVMV0JUS3RteXY4Q3loNldabDRQU21sRWU3b2hPR1E3M1RnTWRxd25OcEl3b1",
+    "sources": []
+  },
+  {
+    "id": "pfizer-2026-04-22-028",
+    "date": "2026-04-22",
+    "companies": [
+      "pfizer"
+    ],
+    "topics": [
+      "drug_approval",
+      "glp1_obesity"
+    ],
+    "impact": "negative",
+    "title": "Pfizer GLP-1 weight loss drug available for pre-order in China - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPRFk1a0tOZ3ZncEh6YXBoNEJvd1BnelE1dTFSaWNpcTZ2ZzctUERZc0xBcTZteU9WYXViQnphZFFmVWl6dDNCYUQ4T2lNWUtkSkpZWmotUFBsTnRDajgyQzlrSmZYcTd6QkpWb3Z6OW",
+    "sources": []
+  },
+  {
+    "id": "novo_nordisk-2026-04-22-029",
+    "date": "2026-04-22",
+    "companies": [
+      "novo_nordisk",
+      "eli_lilly",
+      "pfizer"
+    ],
+    "topics": [
+      "drug_approval",
+      "glp1_obesity"
+    ],
+    "impact": "neutral",
+    "title": "Pfizer challenges Novo and Lilly: GLP-1 drug available for pre-order in China - The News International",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNeGhSVTJlOVNra2lPdFNRcjNaNEpaTThhSkFwMS1iSlJTUXowQXJmWS1faWxSUVRKSUhUdERWX1E4eVlEX3Q3elhvRXltNVZwNU9nb3dTNGN4aFMyNm5zajJQUC1zNVN4SldVTkFhY2",
     "sources": []
   },
   {
@@ -359,6 +675,49 @@
     "sources": []
   },
   {
+    "id": "unknown-2026-04-21-002",
+    "date": "2026-04-21",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Dr. Reddy’s Laboratories Limited (NYSE:RDY) Q3 2026 earnings call transcript - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gJBVV95cUxOaHJqaGtQV04xU3pFM09YMEtlLXFwZFFUTkJCMFJOajBaOG4yY2NiNmkyQkgtYzhJYkRLQlNUZXctMWMwMVV2SmFEZU1kdjBCZlR5bXBpNnJGNFl5YXNoVkVYRlNJaDB2eHlLWENZMT",
+    "sources": []
+  },
+  {
+    "id": "novo_nordisk-2026-04-21-015",
+    "date": "2026-04-21",
+    "companies": [
+      "novo_nordisk",
+      "eli_lilly"
+    ],
+    "topics": [
+      "drug_approval",
+      "glp1_obesity"
+    ],
+    "impact": "neutral",
+    "title": "Lilly and Novo Stocks Are Tumbling. How Amazon Is Shaking Up the GLP-1 Game. - Barron's",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPOHFiVTNkUW5PU1JEa3ExaThqZ3diLVphZU9Td1J0WjIzZXU5U1luOVVnOUNnZlJHVU9RYkVKWjU1RjNpRThHSHFyal9ncndyWnBxLUU3Tm5GYXlheGZ1WW1MODZ4TE5TcUU0S0doSW",
+    "sources": []
+  },
+  {
+    "id": "mckesson-2026-04-21-020",
+    "date": "2026-04-21",
+    "companies": [
+      "mckesson"
+    ],
+    "topics": [
+      "drug_approval",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "McKesson Earnings Preview: What to Expect - Barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNVktzb1l4WjktcXNyakhJS2FybUNsT291TDVCbmZGWnl3N0kwNVZnTVdDZkVjYzBEcG9VZDRJYU5PS3NicmdJUkZDa0xhckE4eUVRbXRzUkJqUXAwb1lQOTdBazRzQzRWTm1VWHdCcz",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-20-006",
     "date": "2026-04-20",
     "companies": [],
@@ -626,6 +985,35 @@
     "impact": "neutral",
     "title": "MMJ International Holdings Joins Federal Lawsuit on 4/20 to Stop CMS From Introducing Unvalidated Cannabinoid Products Into America's 65+ Population - Newswire.com",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOcUctN1AwMzF0em5jaUJySzFIRzVYU0tsSk0xVFZsN3Y2Vkg3cDc0UUVEMFdHUzRqR2lUMnhPUG8zMjhzTEtlX0p6WE5uLXVxZ0RxbFIzakQzRXJuVFJLOExvY1JoRUJfT0E2NGdETW",
+    "sources": []
+  },
+  {
+    "id": "merck-2026-04-20-014",
+    "date": "2026-04-20",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "MRK Stock Price, Quote & Chart | MERCK & CO. INC. (NYSE:MRK) - ChartMill",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZeHA4U19xWVMxS3lDN2JVemc2RFVWNl9QWDJnTDAtd00talFNWjgtRXU1VzRzaHR6V2FFb01MYkFvbFhCR0U2NnM0WlFBUkpsUEJYNThyZnE1amhFZEE?oc=5\" target=\"_blank\">",
+    "sources": []
+  },
+  {
+    "id": "merck-2026-04-20-030",
+    "date": "2026-04-20",
+    "companies": [
+      "merck",
+      "pfizer"
+    ],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "Pfizer, Astellas win FDA priority review for Padcev in bladder cancer with Merck’s Keytruda - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNZUJENGxnNlVLS0Y1YkpIZU9ldzdPbU9pazViZVRtSzJQQzR0dERBcU1PSmZMNHFDYmxGZi1pYjlYR1RnZFZpekFEM3lPejJNcDRkZFo0Zkt3MXE1WHVxOEtBN3pMakFsXzFRYnMwUm",
     "sources": []
   },
   {
@@ -2414,6 +2802,18 @@
     "sources": []
   },
   {
+    "id": "unknown-2026-03-15-026",
+    "date": "2026-03-15",
+    "companies": [],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "FDA Drug Approval Marks a First for a Disease — But It’s Not Autism - MedCity News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNMFlkVkRfbU9kRS1ENjIzS2dUcHV3VjlsSHgyTzQ1VzJYU1FkSlctdXBzYXRsZDlDajViRzFLR2lGWkdQMGk5LUZpVlVlUG1oOWhkSVhVSjRHYzVPa21GSVdfRkxWQWc3S1FoUW9tWj",
+    "sources": []
+  },
+  {
     "id": "pfizer-2026-03-12-003",
     "date": "2026-03-12",
     "companies": [
@@ -2593,6 +2993,18 @@
     ],
     "impact": "neutral",
     "title": "BORAY Stock Price, News & Analysis | BORA PHARMACEUTICALS CO - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qWDVXWDk0X25tM1A3WktJQjdJbHJWOHF0UzBUbFliVjI4OVlZRkplLU5EYjZORmhudExCeWRZZ3l6VWxEaUt0UU9WaWswWW1xNEZXUA?oc=5\" target=\"_blank\">BORAY Stock P",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-02-23-004",
+    "date": "2026-02-23",
+    "companies": [],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "BORAY Stock Price, News & Analysis - Stock Titan",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qWDVXWDk0X25tM1A3WktJQjdJbHJWOHF0UzBUbFliVjI4OVlZRkplLU5EYjZORmhudExCeWRZZ3l6VWxEaUt0UU9WaWswWW1xNEZXUA?oc=5\" target=\"_blank\">BORAY Stock P",
     "sources": []
   },
