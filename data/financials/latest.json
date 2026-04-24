@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-23T09:52:13.044827Z",
-  "quarter": "2025-03-31, 2025-12-31",
+  "updated_at": "2026-04-24T09:52:11.322976Z",
+  "quarter": "2025-03-31, 2025-12-31, 2026-03-31",
   "companies": [
     {
       "id": "abbvie",
@@ -105,14 +105,14 @@
       "name": "嬌生",
       "ticker": "JNJ",
       "currency": "USD",
-      "ar": 17178000000,
-      "ar_prev": 17611000000,
-      "ar_qoq": "-2%",
-      "inventory": 14191000000,
-      "inv_prev": 14146000000,
-      "inv_qoq": "+0%",
+      "ar": 17721000000,
+      "ar_prev": 17178000000,
+      "ar_qoq": "+3%",
+      "inventory": 14583000000,
+      "inv_prev": 14191000000,
+      "inv_qoq": "+3%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "lonza",
