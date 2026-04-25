@@ -1,0 +1,110 @@
+{
+  "date": "2026-04-25",
+  "generated_at": "2026-04-25T09:03:41.078068Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "novo_nordisk-2026-04-25-014",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "‘Live Lighter’ movement debuts in PH as Novo Nordisk introduces new obesity drug, advances science-based care - Inquirer.net",
+      "companies": [
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "glp1_obesity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-04-25-017",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CSPC Pharmaceutical’s SYH2059 KAT6 Inhibitor Receives FDA Approval for Clinical Trials in the U.S. 1 - Minichart",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "glp1_obesity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "drug_approval": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "novo_nordisk",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "glp1_obesity",
+        "count": 1
+      },
+      {
+        "id": "drug_approval",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為Novo相關動態：「‘Live Lighter’ movement debuts in PH as Novo Nordisk intr...」。主要關注主題為GLP-1 減重、藥物核准，市場情緒中性。",
+    "signals": [
+      {
+        "text": "‘Live Lighter’ movement debuts in PH as Novo Nordisk introduces new obesity d...（GLP-1 減重）",
+        "level": "green"
+      },
+      {
+        "text": "CSPC Pharmaceutical’s SYH2059 KAT6 Inhibitor Receives FDA Approval for Clinic...（藥物核准）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

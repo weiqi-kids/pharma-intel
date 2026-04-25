@@ -1,0 +1,25 @@
+{
+  "date": "2026-04-25",
+  "total_events": 2,
+  "by_company": {
+    "novo_nordisk": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "glp1_obesity": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "drug_approval": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

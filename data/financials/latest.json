@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T09:52:11.322976Z",
+  "updated_at": "2026-04-25T09:03:36.451115Z",
   "quarter": "2025-03-31, 2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -217,14 +217,14 @@
       "name": "賽諾菲",
       "ticker": "SNY",
       "currency": "USD",
-      "ar": 8410000000,
-      "ar_prev": null,
+      "ar": null,
+      "ar_prev": 8410000000,
       "ar_qoq": "N/A",
-      "inventory": 10214000000,
-      "inv_prev": 24501000000,
-      "inv_qoq": "-58%",
+      "inventory": 23503000000,
+      "inv_prev": 10214000000,
+      "inv_qoq": "+130%",
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "sun_pharma",
