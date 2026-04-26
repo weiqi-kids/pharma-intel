@@ -1,49 +1,50 @@
-# Pharmaceutical industry news feeds
-
 feeds:
-# --- Industry Media ---
 - id: fierce_pharma
   name: Fierce Pharma
   url: https://www.fiercepharma.com/rss/xml
-  description: Pharma industry daily monitor - drug companies, FDA, manufacturing, marketing
-
+  description: Pharma industry daily monitor - drug companies, FDA, manufacturing,
+    marketing
 - id: biopharma_dive
   name: BioPharma Dive
   url: https://www.biopharmadive.com/feeds/news/
   description: Biotech and biopharma news - clinical trials, FDA approvals, regulations
-
 - id: drugs_com_pharma
   name: Drugs.com Pharma News
   url: https://www.drugs.com/feeds/pharmacist-news.xml
   description: Pharma industry news from Drugs.com
-
 - id: fda_drugs
   name: FDA Drug News
   url: https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/drugs/rss.xml
   description: FDA drug-related news including approvals and alerts
-
 - id: google_news_pharma
   name: Google News - Pharmaceutical
   url: https://news.google.com/rss/search?q=pharmaceutical+drug+approval+FDA+clinical+trial&hl=en
   description: Google News aggregation for pharmaceutical industry
-
-# --- Company Feeds ---
 - id: eli_lilly_news
   name: Eli Lilly News
   url: https://investor.lilly.com/rss/news-releases.xml
   description: Eli Lilly investor relations news releases
-
 - id: abbvie_news
   name: AbbVie News
   url: https://investors.abbvie.com/rss/news-releases.xml
   description: AbbVie investor relations news releases
-
 - id: novartis_feed
   name: Novartis Feed
   url: https://www.feeds.novartis.com/
   description: Novartis media releases and news feed
-
 - id: pfizer_news
   name: Pfizer News
   url: https://news.google.com/rss/search?q=%22Pfizer%22+drug+OR+FDA+OR+approval+OR+earnings&hl=en
   description: Google News for Pfizer corporate announcements
+- id: pharma_times
+  name: PharmaTimes
+  url: https://www.pharmatimes.com/feed
+  description: PharmaTimes RSS feed
+- id: endpoints_news
+  name: Endpoints News
+  url: https://endpts.com/feed/
+  description: Endpoints News RSS feed
+- id: statnews
+  name: STAT News
+  url: https://www.statnews.com/feed/
+  description: STAT News RSS feed
