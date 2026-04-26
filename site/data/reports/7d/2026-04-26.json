@@ -1,0 +1,170 @@
+{
+  "date": "2026-04-26",
+  "date_range": {
+    "start": "2026-04-20",
+    "end": "2026-04-26"
+  },
+  "generated_at": "2026-04-26T03:22:11.306419Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "eli_lilly-2026-04-21-004",
+      "date": "2026-04-21",
+      "title": "A Monthly Weight Loss Shot? Why Pfizer Could Topple Lilly's and Novo's GLP-1 Duopoly - The Globe and Mail",
+      "importance_score": 0.85
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "eli_lilly",
+      "company_b": "novo_nordisk",
+      "co_mention_count": 11,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "eli_lilly",
+      "company_b": "pfizer",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "drug_approval": {
+      "this_week": 27,
+      "last_week": 9,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": -0.03
+    },
+    "earnings": {
+      "this_week": 7,
+      "last_week": 4,
+      "week_over_week_change": "+75%",
+      "sentiment_this_week": 0.03
+    },
+    "patent_cliff": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.0
+    },
+    "glp1_obesity": {
+      "this_week": 6,
+      "last_week": 3,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": -0.17
+    }
+  },
+  "company_7d_summary": {
+    "astrazeneca": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "mckesson": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "pfizer": {
+      "event_count": 2,
+      "sentiment_avg": -0.5,
+      "rank": 3
+    },
+    "sun_pharma": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "roche": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "merck": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "novo_nordisk": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 2
+    },
+    "cardinal": {
+      "event_count": 1,
+      "sentiment_avg": -0.25,
+      "rank": 9
+    },
+    "sanofi": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 30,
+        "last": 9,
+        "change_pct": 233.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-20",
+      "event_count": 6,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-21",
+      "event_count": 5,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-22",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-23",
+      "event_count": 7,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-24",
+      "event_count": 6,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-25",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-26",
+      "event_count": 0,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-20 ~ 2026-04-26）共 30 則事件，重點為「A Monthly Weight Loss Shot? Why Pfizer Could To...」。事件量較上週增加 233%，產業動態明顯升溫，需密切關注。",
+    "watchlist": [
+      {
+        "company": "輝瑞",
+        "reason": "本週情緒偏負面（-0.5），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "Cardinal",
+        "reason": "本週情緒偏負面（-0.2），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "AZ",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
