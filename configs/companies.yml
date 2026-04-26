@@ -243,7 +243,8 @@ companies:
   - mckesson
   - cencora
   - cardinal
-  fetch_mode: http
+  fetch_mode: rss
+  ir_rss_url: https://investor.lilly.com/rss/news-releases.xml
 - id: abbvie
   name: AbbVie
   aliases:
@@ -262,7 +263,8 @@ companies:
   - mckesson
   - cencora
   - cardinal
-  fetch_mode: http
+  fetch_mode: rss
+  ir_rss_url: https://investors.abbvie.com/rss/news-releases.xml
 - id: novo_nordisk
   name: Novo Nordisk
   aliases:
