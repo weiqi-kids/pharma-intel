@@ -1,6 +1,6 @@
 {
   "date": "2026-04-26",
-  "total_events": 6,
+  "total_events": 17,
   "by_company": {
     "lonza": {
       "count": 1,
@@ -11,15 +11,27 @@
       "sentiment_avg": -1.0
     },
     "merck": {
-      "count": 1,
-      "sentiment_avg": 0.5
+      "count": 4,
+      "sentiment_avg": 0.12
     },
     "mckesson": {
-      "count": 1,
+      "count": 3,
       "sentiment_avg": 0.0
     },
     "cardinal": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "teva": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "jnj": {
       "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "novo_nordisk": {
+      "count": 1,
       "sentiment_avg": 0.0
     }
   },
@@ -29,11 +41,15 @@
       "sentiment_avg": -1.0
     },
     "drug_approval": {
-      "count": 3,
-      "sentiment_avg": 0.17
+      "count": 14,
+      "sentiment_avg": 0.04
     },
     "earnings": {
       "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 11,
       "sentiment_avg": 0.0
     }
   },

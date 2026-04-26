@@ -1,6 +1,6 @@
 {
   "date": "2026-04-26",
-  "generated_at": "2026-04-26T09:11:55.779861Z",
+  "generated_at": "2026-04-26T14:11:22.105409Z",
   "top_events": [
     {
       "rank": 1,
@@ -128,13 +128,13 @@
       "sentiment_7d_avg": null
     },
     "drug_approval": {
-      "today": 3,
+      "today": 14,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.17,
+      "sentiment_today": 0.04,
       "sentiment_7d_avg": null
     },
     "earnings": {
@@ -146,42 +146,56 @@
       "consecutive_weeks_rising": 0,
       "sentiment_today": 0.0,
       "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
     }
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 6,
+    "total_events": 17,
     "sentiment_distribution": {
       "positive": 1,
-      "neutral": 4,
+      "neutral": 15,
       "negative": 1
     },
     "top_companies": [
       {
+        "id": "merck",
+        "count": 4
+      },
+      {
         "id": "cardinal",
+        "count": 4
+      },
+      {
+        "id": "mckesson",
+        "count": 3
+      },
+      {
+        "id": "jnj",
         "count": 2
       },
       {
         "id": "lonza",
-        "count": 1
-      },
-      {
-        "id": "pfizer",
-        "count": 1
-      },
-      {
-        "id": "merck",
-        "count": 1
-      },
-      {
-        "id": "mckesson",
         "count": 1
       }
     ],
     "top_topics": [
       {
         "id": "drug_approval",
-        "count": 3
+        "count": 14
+      },
+      {
+        "id": "industry_general",
+        "count": 11
       },
       {
         "id": "glp1_obesity",
@@ -194,14 +208,14 @@
     ]
   },
   "filter_audit": {
-    "total_raw": 453,
-    "dup_title": 148,
-    "too_old": 138,
-    "gate1_blocked": 44,
-    "gate2_blocked": 96,
-    "passed": 27,
-    "pass_rate": "8.9%",
-    "gate2_block_rate": "31.5%",
+    "total_raw": 906,
+    "dup_title": 307,
+    "too_old": 299,
+    "gate1_blocked": 55,
+    "gate2_blocked": 115,
+    "passed": 130,
+    "pass_rate": "21.7%",
+    "gate2_block_rate": "19.2%",
     "gate2_samples": [
       "Teacher Retirement System of Texas Cuts Stock Position in Teva Pharmaceutical Industries Ltd. $TEVA ",
       "Is It Too Late To Reassess Teva (TEVA) After Its 118.5% One-Year Surge? - simplywall.st",
@@ -212,7 +226,7 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 6 則事件，焦點為Cardinal、Lonza、輝瑞相關動態：「Does Cardinal Health’s (CAH) Raised 2025 Outlook Recast I...」。主要關注主題為藥物核准、GLP-1 減重、法說會，市場情緒中性。",
+    "summary": "今日共 17 則事件，焦點為Merck、Cardinal、McKesson相關動態：「Does Cardinal Health’s (CAH) Raised 2025 Outlook Recast I...」。主要關注主題為藥物核准、產業通用、GLP-1 減重，市場情緒中性。",
     "signals": [
       {
         "text": "Does Cardinal Health’s (CAH) Raised 2025 Outlook Recast Its Pharma-Led Strate...（法說會）",
