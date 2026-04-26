@@ -1,10 +1,16 @@
 {
-  "total_raw": 0,
-  "dup_title": 0,
+  "total_raw": 405,
+  "dup_title": 161,
   "no_date": 0,
-  "too_old": 0,
-  "gate1_fail": 0,
-  "gate2_fail": 0,
+  "too_old": 127,
+  "gate1_fail": 21,
+  "gate2_fail": 96,
   "passed": 0,
-  "gate2_samples": []
+  "gate2_samples": [
+    "Teacher Retirement System of Texas Cuts Stock Position in Teva Pharmaceutical Industries Ltd. $TEVA ",
+    "Is It Too Late To Reassess Teva (TEVA) After Its 118.5% One-Year Surge? - simplywall.st",
+    "Teva Pharmaceutical Industries Limited (TEVA): David Einhorn Trims Holding - Yahoo Finance",
+    "Teva Pharmaceutical Industries Ltd. $TEVA is Mivtachim The Workers Social Insurance Fund Ltd. Under ",
+    "Rockingstone Advisors LLC Buys Shares of 88,325 Teva Pharmaceutical Industries Ltd. $TEVA - MarketBe"
+  ]
 }
