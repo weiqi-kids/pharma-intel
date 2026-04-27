@@ -1,0 +1,16 @@
+{
+  "total_raw": 455,
+  "dup_title": 241,
+  "no_date": 0,
+  "too_old": 155,
+  "gate1_fail": 10,
+  "gate2_fail": 22,
+  "passed": 27,
+  "gate2_samples": [
+    "Is It Too Late To Reassess Teva (TEVA) After Its 118.5% One-Year Surge? - simplywall.st",
+    "Dr. Reddy's Laboratories (NYSE:RDY) Sets New 1-Year Low - Time to Sell? - MarketBeat",
+    "Cramer's Stop Trading: Johnson & Johnson - CNBC",
+    "JNJ snaps six straight sessions of losses (JNJ:NYSE) - Seeking Alpha",
+    "Johnson & Johnson to acquire AtraVerse Medical and its transseptal access system - MassDevice"
+  ]
+}

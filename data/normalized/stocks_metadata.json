@@ -1,112 +1,112 @@
 {
   "teva": {
-    "earliest": "2021-08-16",
+    "earliest": "2021-05-18",
     "latest": "2026-04-24",
-    "count": 1178
+    "count": 1240
   },
   "dr_reddy": {
-    "earliest": "2021-08-16",
+    "earliest": "2021-05-18",
     "latest": "2026-04-24",
-    "count": 1178
+    "count": 1240
   },
   "sun_pharma": {
-    "earliest": "2021-08-17",
+    "earliest": "2021-05-19",
     "latest": "2026-04-24",
-    "count": 1158
+    "count": 1221
   },
   "bora": {
-    "earliest": "2021-08-18",
-    "latest": "2026-04-24",
-    "count": 1133
+    "earliest": "2021-05-20",
+    "latest": "2026-04-27",
+    "count": 1197
   },
   "tci": {
-    "earliest": "2021-08-18",
-    "latest": "2026-04-24",
-    "count": 1134
+    "earliest": "2021-05-20",
+    "latest": "2026-04-27",
+    "count": 1198
   },
   "lonza": {
-    "earliest": "2021-08-17",
+    "earliest": "2021-05-19",
     "latest": "2026-04-24",
-    "count": 1179
+    "count": 1242
   },
   "pfizer": {
-    "earliest": "2021-08-16",
+    "earliest": "2021-05-18",
     "latest": "2026-04-24",
-    "count": 1178
+    "count": 1240
   },
   "jnj": {
-    "earliest": "2021-08-16",
+    "earliest": "2021-05-18",
     "latest": "2026-04-24",
-    "count": 1178
+    "count": 1240
   },
   "roche": {
-    "earliest": "2021-08-17",
+    "earliest": "2021-05-19",
     "latest": "2026-04-24",
-    "count": 1179
+    "count": 1242
   },
   "novartis": {
-    "earliest": "2021-08-16",
+    "earliest": "2021-05-18",
     "latest": "2026-04-24",
-    "count": 1178
+    "count": 1240
   },
   "astrazeneca": {
-    "earliest": "2021-08-16",
+    "earliest": "2021-05-18",
     "latest": "2026-04-24",
-    "count": 1178
+    "count": 1240
   },
   "merck": {
-    "earliest": "2021-08-16",
+    "earliest": "2021-05-18",
     "latest": "2026-04-24",
-    "count": 1178
+    "count": 1240
   },
   "eli_lilly": {
-    "earliest": "2021-08-16",
+    "earliest": "2021-05-18",
     "latest": "2026-04-24",
-    "count": 1178
+    "count": 1240
   },
   "abbvie": {
-    "earliest": "2021-08-16",
+    "earliest": "2021-05-18",
     "latest": "2026-04-24",
-    "count": 1178
+    "count": 1240
   },
   "novo_nordisk": {
-    "earliest": "2021-08-16",
+    "earliest": "2021-05-18",
     "latest": "2026-04-24",
-    "count": 1178
+    "count": 1240
   },
   "sanofi": {
-    "earliest": "2021-08-16",
+    "earliest": "2021-05-18",
     "latest": "2026-04-24",
-    "count": 1178
+    "count": 1240
   },
   "mckesson": {
-    "earliest": "2021-08-16",
+    "earliest": "2021-05-18",
     "latest": "2026-04-24",
-    "count": 1178
+    "count": 1240
   },
   "cencora": {
-    "earliest": "2021-08-16",
+    "earliest": "2021-05-18",
     "latest": "2026-04-24",
-    "count": 1178
+    "count": 1240
   },
   "cardinal": {
-    "earliest": "2021-08-16",
+    "earliest": "2021-05-18",
     "latest": "2026-04-24",
-    "count": 1178
+    "count": 1240
   },
   "etf_xlv": {
-    "earliest": "2021-08-16",
+    "earliest": "2021-05-18",
     "latest": "2026-04-24",
-    "count": 1178
+    "count": 1240
   },
   "etf_ibb": {
-    "earliest": "2021-08-16",
+    "earliest": "2021-05-18",
     "latest": "2026-04-24",
-    "count": 1178
+    "count": 1240
   },
   "etf_xbi": {
-    "earliest": "2021-08-16",
+    "earliest": "2021-05-18",
     "latest": "2026-04-24",
-    "count": 1178
+    "count": 1240
   }
 }
