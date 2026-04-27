@@ -1,6 +1,6 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T01:43:40.355013Z",
+  "generated_at": "2026-04-27T03:38:08.126057Z",
   "top_events": [
     {
       "rank": 1,
@@ -121,60 +121,60 @@
   "anomalies": [],
   "topic_trends": {
     "drug_approval": {
-      "today": 7,
+      "today": 14,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": -0.07,
+      "sentiment_today": -0.04,
       "sentiment_7d_avg": null
     },
     "industry_general": {
-      "today": 7,
+      "today": 16,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": -0.07,
+      "sentiment_today": -0.06,
       "sentiment_7d_avg": null
     }
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 7,
+    "total_events": 16,
     "sentiment_distribution": {
       "positive": 0,
-      "neutral": 6,
-      "negative": 1
+      "neutral": 14,
+      "negative": 2
     },
     "top_companies": [
       {
         "id": "sun_pharma",
-        "count": 7
+        "count": 16
       }
     ],
     "top_topics": [
       {
-        "id": "drug_approval",
-        "count": 7
+        "id": "industry_general",
+        "count": 16
       },
       {
-        "id": "industry_general",
-        "count": 7
+        "id": "drug_approval",
+        "count": 14
       }
     ]
   },
   "filter_audit": {
-    "total_raw": 455,
-    "dup_title": 241,
-    "too_old": 155,
-    "gate1_blocked": 10,
-    "gate2_blocked": 22,
-    "passed": 27,
-    "pass_rate": "12.6%",
-    "gate2_block_rate": "10.3%",
+    "total_raw": 910,
+    "dup_title": 492,
+    "too_old": 311,
+    "gate1_blocked": 20,
+    "gate2_blocked": 45,
+    "passed": 42,
+    "pass_rate": "10.0%",
+    "gate2_block_rate": "10.8%",
     "gate2_samples": [
       "Is It Too Late To Reassess Teva (TEVA) After Its 118.5% One-Year Surge? - simplywall.st",
       "Dr. Reddy's Laboratories (NYSE:RDY) Sets New 1-Year Low - Time to Sell? - MarketBeat",
@@ -185,7 +185,7 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 7 則事件，焦點為Sun Pharma相關動態：「India's Sun Pharma to buy Organon in $11.75 billion all-c...」。整體情緒偏負面，需留意潛在風險。",
+    "summary": "今日共 16 則事件，焦點為Sun Pharma相關動態：「India's Sun Pharma to buy Organon in $11.75 billion all-c...」。整體情緒偏負面，需留意潛在風險。",
     "signals": [
       {
         "text": "India's Sun Pharma to buy Organon in $11.75 billion all-cash deal - Reuters（藥物核准、產業通用）",

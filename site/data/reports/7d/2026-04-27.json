@@ -4,7 +4,7 @@
     "start": "2026-04-21",
     "end": "2026-04-27"
   },
-  "generated_at": "2026-04-27T01:43:40.425090Z",
+  "generated_at": "2026-04-27T03:38:08.193909Z",
   "highlights": [
     {
       "rank": 1,
@@ -32,10 +32,10 @@
   "anomalies_7d": [],
   "topic_7d_summary": {
     "drug_approval": {
-      "this_week": 42,
+      "this_week": 49,
       "last_week": 15,
-      "week_over_week_change": "+180%",
-      "sentiment_this_week": -0.02
+      "week_over_week_change": "+227%",
+      "sentiment_this_week": -0.01
     },
     "earnings": {
       "this_week": 8,
@@ -56,10 +56,10 @@
       "sentiment_this_week": -0.29
     },
     "industry_general": {
-      "this_week": 18,
+      "this_week": 27,
       "last_week": 0,
       "week_over_week_change": "N/A",
-      "sentiment_this_week": -0.03
+      "sentiment_this_week": -0.04
     }
   },
   "company_7d_summary": {
@@ -74,7 +74,7 @@
       "rank": 6
     },
     "sun_pharma": {
-      "event_count": 8,
+      "event_count": 17,
       "sentiment_avg": -0.06,
       "rank": 1
     },
@@ -127,51 +127,51 @@
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 48,
-        "last": 15,
-        "change_pct": 220.0
+        "this": 320,
+        "last": 128,
+        "change_pct": 150.0
       }
     }
   },
   "daily_breakdown": [
     {
       "date": "2026-04-21",
-      "event_count": 5,
+      "event_count": 44,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-22",
-      "event_count": 4,
+      "event_count": 43,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-23",
-      "event_count": 7,
+      "event_count": 86,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-24",
-      "event_count": 6,
+      "event_count": 75,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-25",
-      "event_count": 2,
+      "event_count": 26,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-26",
-      "event_count": 17,
+      "event_count": 30,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-27",
-      "event_count": 7,
+      "event_count": 16,
       "sentiment_avg": 0
     }
   ],
   "llm_analysis": {
-    "summary": "本週（2026-04-21 ~ 2026-04-27）共 48 則事件，重點為「Sanofi defends Garijo appointment, says it is '...」。事件量較上週增加 220%，產業動態明顯升溫，需密切關注。",
+    "summary": "本週（2026-04-21 ~ 2026-04-27）共 320 則事件，重點為「Sanofi defends Garijo appointment, says it is '...」。事件量較上週增加 150%，產業動態明顯升溫，需密切關注。",
     "watchlist": [
       {
         "company": "輝瑞",
@@ -183,7 +183,7 @@
       },
       {
         "company": "Sun Pharma",
-        "reason": "本週出現 8 則相關事件且情緒偏負面，需特別關注。"
+        "reason": "本週出現 17 則相關事件且情緒偏負面，需特別關注。"
       }
     ]
   },
