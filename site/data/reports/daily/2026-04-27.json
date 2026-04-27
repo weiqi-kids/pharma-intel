@@ -1,9 +1,88 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T03:38:08.126057Z",
+  "generated_at": "2026-04-27T10:25:56.994475Z",
   "top_events": [
     {
       "rank": 1,
+      "event_id": "merck-2026-04-27-020",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "India's Sun Pharmaceutical acquires MSD spin-off for USD 11.75bn - medwatch.com",
+      "companies": [
+        "merck",
+        "sun_pharma"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tTVFSMmlJRXdyVk9oZXRyOHFTZVlaaEtKQ01sZ1hFRzdySFI1eFJRbTRTMXFRbWF6X1VPYm00bWpCM2FuNkVPUVg0ZmtGRy0yajhlOTF1TlU0NDNCZ2JudUxhVWc5dGdIcllrb1BEZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "novo_nordisk-2026-04-27-043",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Eli Lilly's Oral Obesity Drug Trails Novo Nordisk Pill in Early U.S. Prescriptions - thelec.net",
+      "companies": [
+        "novo_nordisk",
+        "eli_lilly"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CeHFGM3JNUFVkNG9MdkFoX1lFUVFkVnNSUzk0cjRFS3NnQ1pTQkdQNWJtSEhtY3RoNlk5ZVlxTVhtNHM3ckN2VUZhRGNWVjB0MG5pNG5JM0dwMjNSRWE4d0pJSmJRQUk?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "merck-2026-04-27-047",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Sun Pharma to buy Organon for $11.75B in major portfolio expansion",
+      "companies": [
+        "merck",
+        "sun_pharma"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "patent_cliff",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://endpoints.news/sun-pharma-to-buy-organon-for-11-75b-in-major-portfolio-expansion/"
+    },
+    {
+      "rank": 4,
       "event_id": "sun_pharma-2026-04-27-001",
       "importance_score": 0.5,
       "importance_reasons": [],
@@ -26,7 +105,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT0Y4NFc5aDZpdXQxOFJuZmRGaGF3NE5hSnQ3bEIxNy1WQ2J4LVVRY3JVWHBOMGxiZGRzNlFKOUxReVFvTnBJSkJJRkhkd3laS1BEaEg4Q190X3pSYkp5b3Y4RXo3RlZqVTlZcUdnYVFXMTMzaFpoc3FwckliTkUzeUdNV054cHNKb3dFNjlzX1g2S2JRNHFwRFR4U0dEQm1qb0ZZa3V0T0c2eHA3REQtWkVDZGdXLW5EUHdLdnJ3?oc=5"
     },
     {
-      "rank": 2,
+      "rank": 5,
       "event_id": "sun_pharma-2026-04-27-002",
       "importance_score": 0.5,
       "importance_reasons": [],
@@ -47,134 +126,135 @@
         "score": 0.0
       },
       "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbTc1cDhOQWRUZExpZW5HU3VrR2lQWTZBZml5SmppZE4zemFKOWU1Q05tOHJRQS1Kd010QXRWUjE0cGh1TnNZNTJaSmxlTlhLSGxtcDJrdXI3aWJFUFZUMjdnaVVYclRIZGNadUhTaU8wOVlSdUtrQVg3NjI4WV9xMWFkNm1qZTRJdlpYdTlscXhUZnVsNjZtWDN5eDQxZWpObDAwOWJPOENORTFaZHc?oc=5"
-    },
-    {
-      "rank": 3,
-      "event_id": "sun_pharma-2026-04-27-003",
-      "importance_score": 0.5,
-      "importance_reasons": [],
-      "title": "Sun Pharmaceutical to Acquire Organon Valued at $11.75 Billion - WSJ",
-      "companies": [
-        "sun_pharma"
-      ],
-      "related": {
-        "customers": [],
-        "suppliers": []
-      },
-      "topics": [
-        "drug_approval",
-        "industry_general"
-      ],
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.0
-      },
-      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZW1XMmtMVEZGWURySHhvQWZuRlFNTTlkOVdOUWg2d2NIcXF1OUt3eEc2TFVUczRNWDhqMTZVUl8zSTZQVzFCaHpoLTBGbUNQVlBacFhlSnczQ2ZNRkRlQTQ3S01oZFpXNHkxZU5kMWh4WUNyMWlmekFyR2JvVGdoY0NJTlVCOWdSU3JDbWliWjZwbmZLaG91andZaktEQVl0SU9FY2EyTWQ?oc=5"
-    },
-    {
-      "rank": 4,
-      "event_id": "sun_pharma-2026-04-27-004",
-      "importance_score": 0.5,
-      "importance_reasons": [],
-      "title": "Sun Pharma to buy Organon in $11.75B deal, expanding global reach (OGN:NYSE) - Seeking Alpha",
-      "companies": [
-        "sun_pharma"
-      ],
-      "related": {
-        "customers": [],
-        "suppliers": []
-      },
-      "topics": [
-        "drug_approval",
-        "industry_general"
-      ],
-      "sentiment": {
-        "label": "negative",
-        "score": -0.5
-      },
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaWRhLU5zUXN0b0VYdjIteXd3MlhKZ2wtZHlDeV9LRGVNWGhuQ09KVTNSR3RCaEJtcTVCZVMzOEIzZWtESlh5U1B4QWNHMFZDTjJoTVJUWkNMQ2p2cU54UnB5TkRKVVFnd1JBWjRsMGVMY2l1WVI4S0lGWVh0bVR3T1ZScVc3bmhTdUpqWlNsUGhpbUtZLWlmaDJPMGNaNUFzUWxJ?oc=5"
-    },
-    {
-      "rank": 5,
-      "event_id": "sun_pharma-2026-04-27-005",
-      "importance_score": 0.5,
-      "importance_reasons": [],
-      "title": "Sun Pharmaceutical to Acquire Ognon for $14 Per Share, Valuing D - GuruFocus",
-      "companies": [
-        "sun_pharma"
-      ],
-      "related": {
-        "customers": [],
-        "suppliers": []
-      },
-      "topics": [
-        "drug_approval",
-        "industry_general"
-      ],
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.0
-      },
-      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMXRFZXA5STBUQ19SZjFLM29Oc2tlcmhYc09fR3E5VkZqZFFYNGJZekFvTFhKYjZ2QUdYM2phX1oyY05CTjJleUh2S3dZTnhiNUNEVmxmZS1aU0l2eDdyd09rNGxpazJkRlIwV3pQMy1LeUZaMXk4Mll0UFRYSnRESGZ3ZkdYRzY1c2NBVFc2VHN2TXJObHBoZTRlNHZsek1ubkRIN1JZLS1scUE0dlRfeW9heTE3YzJNYTdRVQ?oc=5"
     }
   ],
   "anomalies": [],
   "topic_trends": {
     "drug_approval": {
-      "today": 14,
+      "today": 36,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": -0.04,
+      "sentiment_today": 0.01,
       "sentiment_7d_avg": null
     },
     "industry_general": {
-      "today": 16,
+      "today": 47,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": -0.06,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
       "sentiment_7d_avg": null
     }
   },
-  "supply_chain_activity": [],
+  "supply_chain_activity": [
+    {
+      "from": "merck",
+      "to": "sun_pharma",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "patent_cliff",
+        "drug_approval"
+      ]
+    }
+  ],
   "stats": {
-    "total_events": 16,
+    "total_events": 50,
     "sentiment_distribution": {
-      "positive": 0,
-      "neutral": 14,
+      "positive": 2,
+      "neutral": 46,
       "negative": 2
     },
     "top_companies": [
       {
         "id": "sun_pharma",
-        "count": 16
+        "count": 29
+      },
+      {
+        "id": "merck",
+        "count": 6
+      },
+      {
+        "id": "jnj",
+        "count": 3
+      },
+      {
+        "id": "astrazeneca",
+        "count": 3
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 2
       }
     ],
     "top_topics": [
       {
         "id": "industry_general",
-        "count": 16
+        "count": 47
       },
       {
         "id": "drug_approval",
-        "count": 14
+        "count": 36
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 2
+      },
+      {
+        "id": "biotech_funding",
+        "count": 1
+      },
+      {
+        "id": "patent_cliff",
+        "count": 1
       }
     ]
   },
   "filter_audit": {
-    "total_raw": 910,
-    "dup_title": 492,
-    "too_old": 311,
-    "gate1_blocked": 20,
-    "gate2_blocked": 45,
-    "passed": 42,
-    "pass_rate": "10.0%",
-    "gate2_block_rate": "10.8%",
+    "total_raw": 1363,
+    "dup_title": 709,
+    "too_old": 473,
+    "gate1_blocked": 32,
+    "gate2_blocked": 68,
+    "passed": 81,
+    "pass_rate": "12.4%",
+    "gate2_block_rate": "10.4%",
     "gate2_samples": [
       "Is It Too Late To Reassess Teva (TEVA) After Its 118.5% One-Year Surge? - simplywall.st",
       "Dr. Reddy's Laboratories (NYSE:RDY) Sets New 1-Year Low - Time to Sell? - MarketBeat",
@@ -185,15 +265,15 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 16 則事件，焦點為Sun Pharma相關動態：「India's Sun Pharma to buy Organon in $11.75 billion all-c...」。整體情緒偏負面，需留意潛在風險。",
+    "summary": "今日共 50 則事件，焦點為Sun Pharma、Merck、J&J相關動態：「India's Sun Pharmaceutical acquires MSD spin-off for USD ...」。主要關注主題為產業通用、藥物核准、GLP-1 減重，市場情緒中性。",
     "signals": [
       {
-        "text": "India's Sun Pharma to buy Organon in $11.75 billion all-cash deal - Reuters（藥物核准、產業通用）",
-        "level": "green"
+        "text": "India's Sun Pharmaceutical acquires MSD spin-off for USD 11.75bn - medwatch.com（藥物核准、產業通用）",
+        "level": "yellow"
       },
       {
-        "text": "Sun Pharma to Acquire US-Listed Organon in $12 Billion Deal - Bloomberg.com（藥物核准、產業通用）",
-        "level": "green"
+        "text": "Eli Lilly's Oral Obesity Drug Trails Novo Nordisk Pill in Early U.S. Prescrip...（藥物核准、GLP-1 減重、產業通用）",
+        "level": "yellow"
       }
     ]
   },

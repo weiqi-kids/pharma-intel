@@ -1,11 +1,11 @@
 {
-  "total_raw": 910,
-  "dup_title": 492,
+  "total_raw": 1363,
+  "dup_title": 709,
   "no_date": 0,
-  "too_old": 311,
-  "gate1_fail": 20,
-  "gate2_fail": 45,
-  "passed": 42,
+  "too_old": 473,
+  "gate1_fail": 32,
+  "gate2_fail": 68,
+  "passed": 81,
   "gate2_samples": [
     "Is It Too Late To Reassess Teva (TEVA) After Its 118.5% One-Year Surge? - simplywall.st",
     "Dr. Reddy's Laboratories (NYSE:RDY) Sets New 1-Year Low - Time to Sell? - MarketBeat",
