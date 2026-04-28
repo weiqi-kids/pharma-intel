@@ -1,0 +1,16 @@
+{
+  "total_raw": 454,
+  "dup_title": 168,
+  "no_date": 0,
+  "too_old": 162,
+  "gate1_fail": 7,
+  "gate2_fail": 22,
+  "passed": 95,
+  "gate2_samples": [
+    "Is It Too Late To Reassess Teva (TEVA) After Its 118.5% One-Year Surge? - simplywall.st",
+    "Dr. Reddy's Laboratories (NYSE:RDY) Sets New 1-Year Low - Time to Sell? - MarketBeat",
+    "Johnson Fistel Investigates Potential Breaches of Fiduciary - GlobeNewswire",
+    "SmartCella and Catalent Sign Nonexclusive License Agreement for GMP iPSCs - The National Law Review",
+    "Novo Nordisk vs. Pfizer: Which Healthcare Giant Is the Better Bet? - The Globe and Mail"
+  ]
+}
