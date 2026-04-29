@@ -1,0 +1,49 @@
+{
+  "date": "2026-04-29",
+  "total_events": 33,
+  "by_company": {
+    "pfizer": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "jnj": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "astrazeneca": {
+      "count": 11,
+      "sentiment_avg": 0.14
+    },
+    "novo_nordisk": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "cardinal": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "glp1_obesity": {
+      "count": 8,
+      "sentiment_avg": -0.12
+    },
+    "drug_approval": {
+      "count": 25,
+      "sentiment_avg": 0.08
+    },
+    "industry_general": {
+      "count": 24,
+      "sentiment_avg": -0.02
+    },
+    "earnings": {
+      "count": 8,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
