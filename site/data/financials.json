@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29T10:13:48.487417Z",
+  "updated_at": "2026-04-30T10:14:02.312080Z",
   "quarter": "2025-03-31, 2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -21,14 +21,14 @@
       "name": "阿斯特捷利康",
       "ticker": "AZN",
       "currency": "USD",
-      "ar": 15177000000,
-      "ar_prev": 14338000000,
-      "ar_qoq": "+6%",
-      "inventory": 6557000000,
-      "inv_prev": 6593000000,
-      "inv_qoq": "-1%",
+      "ar": 14106000000,
+      "ar_prev": 15177000000,
+      "ar_qoq": "-7%",
+      "inventory": 6570000000,
+      "inv_prev": 6557000000,
+      "inv_qoq": "+0%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "bora",
@@ -161,14 +161,14 @@
       "name": "諾華",
       "ticker": "NVS",
       "currency": "USD",
-      "ar": 1355000000,
-      "ar_prev": null,
+      "ar": null,
+      "ar_prev": 1355000000,
       "ar_qoq": "N/A",
-      "inventory": 6269000000,
-      "inv_prev": 6421000000,
-      "inv_qoq": "-2%",
+      "inventory": 6286000000,
+      "inv_prev": 6269000000,
+      "inv_qoq": "+0%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "novo_nordisk",

@@ -1,0 +1,61 @@
+{
+  "date": "2026-04-30",
+  "total_events": 22,
+  "by_company": {
+    "teva": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "jnj": {
+      "count": 5,
+      "sentiment_avg": 0.2
+    },
+    "astrazeneca": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "novo_nordisk": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    },
+    "cardinal": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pfizer": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "drug_approval": {
+      "count": 18,
+      "sentiment_avg": 0.06
+    },
+    "industry_general": {
+      "count": 16,
+      "sentiment_avg": 0.06
+    },
+    "patent_cliff": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    },
+    "biotech_funding": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "glp1_obesity": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

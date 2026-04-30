@@ -1,0 +1,16 @@
+{
+  "total_raw": 438,
+  "dup_title": 160,
+  "no_date": 0,
+  "too_old": 134,
+  "gate1_fail": 13,
+  "gate2_fail": 20,
+  "passed": 111,
+  "gate2_samples": [
+    "Teva Rises After Sales Top Estimates on Branded Shift - Bloomberg",
+    "Teva Enjoys Strong Start to 2026 Thanks to Strong Momentum in Branded Portfolio - Morningstar",
+    "DWS International Opportunities Fund's Lonza Group Ltd(XSWX:LONN) Holding History - GuruFocus",
+    "SmartCella and Catalent Sign Nonexclusive License Agreement for GMP iPSCs - The National Law Review",
+    "Should You Buy, Sell, or Hold Pfizer at $27? - The Motley Fool"
+  ]
+}
