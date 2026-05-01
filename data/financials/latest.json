@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T10:14:02.312080Z",
+  "updated_at": "2026-05-01T09:54:02.564195Z",
   "quarter": "2025-03-31, 2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -259,14 +259,14 @@
       "name": "梯瓦",
       "ticker": "TEVA",
       "currency": "USD",
-      "ar": 3709000000,
-      "ar_prev": 3810000000,
-      "ar_qoq": "-3%",
-      "inventory": 3179000000,
-      "inv_prev": 3323000000,
-      "inv_qoq": "-4%",
+      "ar": 3393000000,
+      "ar_prev": 3709000000,
+      "ar_qoq": "-9%",
+      "inventory": 3176000000,
+      "inv_prev": 3179000000,
+      "inv_qoq": "-0%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     }
   ]
 }
