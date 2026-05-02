@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-01T09:54:02.564195Z",
+  "updated_at": "2026-05-02T09:15:25.700264Z",
   "quarter": "2025-03-31, 2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -49,14 +49,14 @@
       "name": "Cardinal Health",
       "ticker": "CAH",
       "currency": "USD",
-      "ar": 13662000000,
-      "ar_prev": 13770000000,
-      "ar_qoq": "-1%",
-      "inventory": 20116000000,
-      "inv_prev": 17559000000,
-      "inv_qoq": "+15%",
+      "ar": 13648000000,
+      "ar_prev": 13662000000,
+      "ar_qoq": "-0%",
+      "inventory": 18007000000,
+      "inv_prev": 20116000000,
+      "inv_qoq": "-10%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "cencora",
@@ -91,14 +91,14 @@
       "name": "禮來",
       "ticker": "LLY",
       "currency": "USD",
-      "ar": 17760000000,
-      "ar_prev": 16107400000,
-      "ar_qoq": "+10%",
-      "inventory": 13744000000,
-      "inv_prev": 12180400000,
-      "inv_qoq": "+13%",
+      "ar": 18429000000,
+      "ar_prev": 17760000000,
+      "ar_qoq": "+4%",
+      "inventory": 14529000000,
+      "inv_prev": 13744000000,
+      "inv_qoq": "+6%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "jnj",

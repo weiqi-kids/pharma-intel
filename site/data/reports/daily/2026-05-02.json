@@ -1,0 +1,245 @@
+{
+  "date": "2026-05-02",
+  "generated_at": "2026-05-02T09:15:29.285189Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "merck-2026-05-02-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Merck & Co., Inc. Q1 Earnings Call Highlights - Yahoo Finance",
+      "companies": [
+        "merck"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaDdvZnc2NWFEYy1PcmJpd0F3ZV9vUTRldDAxaFR3b2JkNk43cWttMzdSd2ZfRmJWTE5BWjV2a3J5ZHFpN05IWDR2bHJ4M25UQVNwZDJVTTlNbjhqejdUUGw1ZEIyRi10TzZ6NXlsajBrd1hRY3ZpY0dEZ1M4NnFjRkp3VDJzY054eExpdzhrWEc2YWdYdEttWA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Dr Reddy’s Laboratories Receives Health Canada Approval for Generic Semaglutide Injection - Machine Maker",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbWpQeThvdXRzcER6b0hDdGZRRlUwTEJvc09yTTBBMHZSMVdyNTdIbktsYk5qc3NDM2hWNlU5bndyc0YyR183dktNWGhHSWNNUHhsTFJpZ19uMkJ5WjA2MU1rWE1DVjY3RVlTTE1vd1lJSGZsYVIwNEE3QXJ2ZE9uMk1ZdW9wN1AzVjZlSHBfYXhQN2NMVE1LLUtKYTNNODNsQkZoUmZiN3pRZ2FmdHE1SXk1bXNONG5rcUlhTkhwVQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "pfizer-2026-05-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "US FDA approves Pfizer, Arvinas’ breast cancer drug By Reuters - Investing.com",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaDV0eGtmSlNPQ08wWi1lRE9HSnFBZjFlQWRRcWszdzJwWERacF9yTlpjZHdvSlBYVUVIWWxOb2xIVkhzMUV4cG1nRlJhVXc4RW9sUVdFYXdSazB6WWVIRTNuS1VCcDk4UzkyVjdiaFlya3lzd05lRkJlOHctOUl1WFEwblAzRFN1NlhvbFJYeEVWNm10d2ZON2ZKTF9ESktWZkNKRkFvOUFaUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "jnj-2026-05-02-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is Johnson & Johnson (JNJ) Still Fairly Priced After Its Strong 1-Year Share Price Run? - Yahoo Finance",
+      "companies": [
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM2E2OEtHMFk2YklJM24zQk85d1VnTHZ0NFVNTF9QcC1ibVh2eHN6dTVfR1lQajl6bzRTaXphYktpTU1Gb3Z0RWlrZGVHWVc5SlpTVERnUzE4M2VFeTAzN04yT0pLbmZ6cDFjUVp6S05GRVJmTGtxekpIWVpyejlRQ0hBQ09ZOVAzWm9NQ0d2NDMwT1dVNzlMOHZRcUNmZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "jnj-2026-05-02-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Jim Cramer Shares Key Trend For Johnson & Johnson (JNJ) Shares - Insider Monkey",
+      "companies": [
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYUU2TXZ5RXJ1OEsxVVI1SGh4MkFHNlllaVJ3MklYQmItdmNVaVVvaFNMYUNjU25JTUx3TUZVWm5oSk1sR3otR25xRzZteFA4WFhxUTN0NS1fVUcxVHFyY1RMTWNOQ1lQY0V6c1RHbmlrOHRVYzNjM2VibUFjWEJoazJpQlNjMnJEZEdNeTB4RGRaYnpMSHRTQV9MMlB5QmJCU3NOaNIBrAFBVV95cUxQUHFRRGlKaWpyVXBFOVducTBHelNnQlY4QTgwbVdkaDlVTHJhZ09iSWl6NU5JVWNMTmxtRHlRMF9Zc0R4c2pqVGw1TnpWUmpKVjBPR1F6Njk4a0JRM01WX2NPUXlFRE04a0dac1hDWWxod3RrYk4wcVFuNmV4Zjl2SUVBYkhXN0FLZ0MwS2huY0tEaTZhYWgybl9JZnYwSWdqbWFQMzFDVXZGN04t?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 15,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cardinal",
+        "count": 4
+      },
+      {
+        "id": "pfizer",
+        "count": 2
+      },
+      {
+        "id": "jnj",
+        "count": 2
+      },
+      {
+        "id": "astrazeneca",
+        "count": 2
+      },
+      {
+        "id": "mckesson",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 13
+      },
+      {
+        "id": "industry_general",
+        "count": 12
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 448,
+    "dup_title": 203,
+    "too_old": 127,
+    "gate1_blocked": 7,
+    "gate2_blocked": 14,
+    "passed": 97,
+    "pass_rate": "39.6%",
+    "gate2_block_rate": "5.7%",
+    "gate2_samples": [
+      "DWS International Opportunities Fund's Lonza Group Ltd(XSWX:LONN) Holding History - GuruFocus",
+      "Cartherics and Catalent Expand Commercial License Agreement - BioInformant",
+      "Pfizer protects $6.4bn heart disease blockbuster from generics, for now - Yahoo Finance",
+      "Pfizer Slide Sparks Fresh S&P 500 Curiosity - Kalkine Media",
+      "Johnson & Johnson Appoints Ryan Koors as Vice President, Investor Relations - Johnson & Johnson"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為Cardinal、輝瑞、J&J相關動態：「Merck & Co., Inc. Q1 Earnings Call Highlights - Yahoo Fin...」。主要關注主題為藥物核准、產業通用、GLP-1 減重，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Merck & Co., Inc. Q1 Earnings Call Highlights - Yahoo Finance（藥物核准、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Dr Reddy’s Laboratories Receives Health Canada Approval for Generic Semagluti...（藥物核准、GLP-1 減重、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
