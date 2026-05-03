@@ -1,0 +1,16 @@
+{
+  "total_raw": 448,
+  "dup_title": 255,
+  "no_date": 0,
+  "too_old": 129,
+  "gate1_fail": 8,
+  "gate2_fail": 15,
+  "passed": 41,
+  "gate2_samples": [
+    "Cartherics and Catalent Expand Commercial License Agreement - BioInformant",
+    "SmartCella and Catalent Sign Nonexclusive License Agreement for GMP iPSCs - The National Law Review",
+    "Johnson & Johnson Appoints Ryan Koors as Vice President, Investor Relations - Johnson & Johnson",
+    "Johnson & Johnson names Ryan Koors as investor relations head By Investing.com - Investing.com",
+    "Where Roche Fits In A 2026 Portfolio - Benzinga"
+  ]
+}

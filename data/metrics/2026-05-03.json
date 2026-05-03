@@ -1,0 +1,45 @@
+{
+  "date": "2026-05-03",
+  "total_events": 11,
+  "by_company": {
+    "teva": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "dr_reddy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "merck": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "mckesson": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cardinal": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    }
+  },
+  "by_topic": {
+    "drug_approval": {
+      "count": 11,
+      "sentiment_avg": -0.05
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 9,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
