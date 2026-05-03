@@ -1,0 +1,126 @@
+{
+  "date": "2026-04-06",
+  "date_range": {
+    "start": "2026-03-31",
+    "end": "2026-04-06"
+  },
+  "generated_at": "2026-05-03T02:43:09.167368Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "eli_lilly-2026-04-01-028",
+      "date": "2026-04-01",
+      "title": "FDA approves Lilly's Foundayo™ (orforglipron), the only GLP-1 pill for weight loss that can be taken any time of day without food or water restrictions - Eli Lilly",
+      "importance_score": 0.65
+    },
+    {
+      "type": "sentiment_reversal",
+      "subject": "drug_approval",
+      "subject_type": "topic",
+      "this_week_sentiment": -0.1,
+      "last_week_sentiment": 0.5,
+      "delta": -0.6,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "drug_approval": {
+      "this_week": 10,
+      "last_week": 4,
+      "week_over_week_change": "+150%",
+      "sentiment_this_week": -0.1
+    },
+    "patent_cliff": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    },
+    "glp1_obesity": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": -1.0
+    }
+  },
+  "company_7d_summary": {
+    "astrazeneca": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 1
+    },
+    "teva": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 4
+    },
+    "pfizer": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "eli_lilly": {
+      "event_count": 2,
+      "sentiment_avg": -1.0,
+      "rank": 3
+    },
+    "dr_reddy": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "sun_pharma": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 11,
+        "last": 4,
+        "change_pct": 175.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-03-31",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-01",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-02",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-03",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-04",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-05",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-06",
+      "event_count": 3,
+      "sentiment_avg": 0
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "date": "2026-02-07",
+  "date_range": {
+    "start": "2026-02-01",
+    "end": "2026-02-07"
+  },
+  "generated_at": "2026-05-03T02:43:03.795530Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "pfizer-2026-02-04-023",
+      "date": "2026-02-04",
+      "title": "Earnings roundup: Amgen vs. FDA, Pfizer’s defense and Merck’s $70B-in-sales plan - BioPharma Dive",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "drug_approval": {
+      "this_week": 13,
+      "last_week": 9,
+      "week_over_week_change": "+44%",
+      "sentiment_this_week": -0.12
+    },
+    "earnings": {
+      "this_week": 12,
+      "last_week": 8,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": -0.12
+    }
+  },
+  "company_7d_summary": {
+    "pfizer": {
+      "event_count": 8,
+      "sentiment_avg": -0.12,
+      "rank": 1
+    },
+    "lonza": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 4
+    },
+    "merck": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "mckesson": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "cardinal": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 13,
+        "last": 9,
+        "change_pct": 44.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-02-01",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-02",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-03",
+      "event_count": 5,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-04",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-05",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-06",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-07",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

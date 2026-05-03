@@ -1,0 +1,74 @@
+{
+  "date": "2021-12-07",
+  "date_range": {
+    "start": "2021-12-01",
+    "end": "2021-12-07"
+  },
+  "generated_at": "2026-05-03T02:42:57.999694Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2021-12-07-019",
+      "date": "2021-12-07",
+      "title": "Yung-Hsiang Lin (Yong Xiang Lin) - Tatler Asia",
+      "importance_score": 0.5
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "drug_approval": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {},
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 1,
+        "last": 1,
+        "change_pct": 0.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2021-12-01",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2021-12-02",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2021-12-03",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2021-12-04",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2021-12-05",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2021-12-06",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2021-12-07",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

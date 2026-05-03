@@ -1,0 +1,33 @@
+{
+  "date": "2026-04-09",
+  "total_events": 3,
+  "by_company": {
+    "pfizer": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "teva": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "lonza": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "drug_approval": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

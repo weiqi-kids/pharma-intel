@@ -1,0 +1,37 @@
+{
+  "date": "2026-04-01",
+  "total_events": 4,
+  "by_company": {
+    "teva": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "pfizer": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "eli_lilly": {
+      "count": 2,
+      "sentiment_avg": -1.0
+    }
+  },
+  "by_topic": {
+    "patent_cliff": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "drug_approval": {
+      "count": 3,
+      "sentiment_avg": -0.67
+    },
+    "glp1_obesity": {
+      "count": 2,
+      "sentiment_avg": -1.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

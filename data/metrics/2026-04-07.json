@@ -1,0 +1,33 @@
+{
+  "date": "2026-04-07",
+  "total_events": 2,
+  "by_company": {
+    "teva": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "mckesson": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "by_topic": {
+    "drug_approval": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "glp1_obesity": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

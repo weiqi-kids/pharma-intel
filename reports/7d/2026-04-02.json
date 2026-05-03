@@ -1,0 +1,117 @@
+{
+  "date": "2026-04-02",
+  "date_range": {
+    "start": "2026-03-27",
+    "end": "2026-04-02"
+  },
+  "generated_at": "2026-05-03T02:43:08.738199Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "sun_pharma-2026-03-30-015",
+      "date": "2026-03-30",
+      "title": "Sun Pharmaceutical Industries falls Monday, still outperforms market - MarketWatch",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "drug_approval": {
+      "this_week": 10,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.05
+    },
+    "glp1_obesity": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.67
+    },
+    "patent_cliff": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    }
+  },
+  "company_7d_summary": {
+    "astrazeneca": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 1
+    },
+    "sun_pharma": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 4
+    },
+    "dr_reddy": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 5
+    },
+    "teva": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 6
+    },
+    "pfizer": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "eli_lilly": {
+      "event_count": 2,
+      "sentiment_avg": -1.0,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 11,
+        "last": 1,
+        "change_pct": 1000.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-03-27",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-28",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-29",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-30",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-31",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-01",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-02",
+      "event_count": 2,
+      "sentiment_avg": 0
+    }
+  ]
+}

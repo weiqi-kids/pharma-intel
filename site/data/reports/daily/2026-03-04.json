@@ -1,0 +1,172 @@
+{
+  "date": "2026-03-04",
+  "generated_at": "2026-05-03T02:43:06.074462Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cardinal-2026-03-04-022",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Q4 Earnings Roundup: Cardinal Health (NYSE:CAH) And The Rest Of The Healthcare Providers & Services Segment - Yahoo Finance",
+      "companies": [
+        "cardinal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "teva-2026-03-04-015",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Blackstone puts $400M into Teva, Sanofi gut disease drug - BioPharma Dive",
+      "companies": [
+        "teva",
+        "sanofi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "sanofi-2026-03-04-054",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sanofi strikes $1.5B global licensing deal for Sino Biopharm's first-in-class JAK/ROCK asset - Fierce Pharma",
+      "companies": [
+        "sanofi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "biotech_funding"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "sanofi-2026-03-04-055",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sanofi bets on Sino Biopharm’s transplant drug in $1.5bn licensing deal - Pharmaceutical Technology",
+      "companies": [
+        "sanofi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "biotech_funding"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "sanofi",
+        "count": 3
+      },
+      {
+        "id": "cardinal",
+        "count": 1
+      },
+      {
+        "id": "teva",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 4
+      },
+      {
+        "id": "biotech_funding",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  }
+}

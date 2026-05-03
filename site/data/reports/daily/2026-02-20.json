@@ -1,0 +1,90 @@
+{
+  "date": "2026-02-20",
+  "generated_at": "2026-05-03T02:43:05.214666Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-02-20-012",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "FDA to allow one pivotal trial instead of two for drug approval - Clinical Trials Arena",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-02-20-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Dr. Reddy’s Announces USFDA Acceptance to Review Its Biologics License Application (BLA) for Proposed Interchangeable Biosimilar, Abatacept - Business Wire",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "patent_cliff"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 2
+      },
+      {
+        "id": "patent_cliff",
+        "count": 1
+      }
+    ]
+  }
+}

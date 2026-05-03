@@ -1,0 +1,29 @@
+{
+  "date": "2026-04-06",
+  "total_events": 3,
+  "by_company": {
+    "dr_reddy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "astrazeneca": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "sun_pharma": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "drug_approval": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

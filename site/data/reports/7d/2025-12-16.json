@@ -1,0 +1,91 @@
+{
+  "date": "2025-12-16",
+  "date_range": {
+    "start": "2025-12-10",
+    "end": "2025-12-16"
+  },
+  "generated_at": "2026-05-03T02:42:59.922257Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "catalent-2025-12-16-008",
+      "date": "2025-12-16",
+      "title": "Novo gets FDA warning letter at troubled Indiana site formerly owned by Catalent - Fierce Pharma",
+      "importance_score": 0.85
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "drug_approval": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 1.0
+    },
+    "gmp_inspection": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 1.0
+    }
+  },
+  "company_7d_summary": {
+    "catalent": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 1
+    },
+    "novo_nordisk": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 2
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 1,
+        "last": 3,
+        "change_pct": -66.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-12-10",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-11",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-12",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-13",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-14",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-15",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-16",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

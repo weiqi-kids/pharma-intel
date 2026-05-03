@@ -1,0 +1,45 @@
+{
+  "date": "2026-04-10",
+  "total_events": 4,
+  "by_company": {
+    "teva": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cardinal": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "eli_lilly": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "novo_nordisk": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "sun_pharma": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "drug_approval": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "glp1_obesity": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

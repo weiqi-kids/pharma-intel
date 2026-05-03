@@ -1,0 +1,20 @@
+{
+  "date": "2025-10-27",
+  "total_events": 1,
+  "by_company": {},
+  "by_topic": {
+    "drug_approval": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

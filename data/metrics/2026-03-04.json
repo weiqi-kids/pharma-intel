@@ -1,0 +1,37 @@
+{
+  "date": "2026-03-04",
+  "total_events": 4,
+  "by_company": {
+    "sanofi": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "cardinal": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "teva": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "drug_approval": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "biotech_funding": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

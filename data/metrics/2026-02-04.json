@@ -1,0 +1,33 @@
+{
+  "date": "2026-02-04",
+  "total_events": 4,
+  "by_company": {
+    "pfizer": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "merck": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "mckesson": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "drug_approval": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
