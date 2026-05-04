@@ -1,0 +1,16 @@
+{
+  "total_raw": 452,
+  "dup_title": 249,
+  "no_date": 0,
+  "too_old": 138,
+  "gate1_fail": 9,
+  "gate2_fail": 12,
+  "passed": 44,
+  "gate2_samples": [
+    "Johnson & Johnson Appoints Ryan Koors as Vice President, Investor Relations - Johnson & Johnson",
+    "Where Roche Fits In A 2026 Portfolio - Benzinga",
+    "Roche Holding AG (OTCMKTS:RHHBY) Sees Large Decrease in Short Interest - MarketBeat",
+    "Roche Holding to present data on ophthalmology portfolio at Arvo 2026 - marketscreener.com",
+    "AST INTERNATIONAL VALUE PORTFOLIO's Roche Holding AG(XSWX:ROP) Holding History - GuruFocus"
+  ]
+}
