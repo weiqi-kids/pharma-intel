@@ -1,0 +1,16 @@
+{
+  "total_raw": 451,
+  "dup_title": 207,
+  "no_date": 0,
+  "too_old": 136,
+  "gate1_fail": 12,
+  "gate2_fail": 12,
+  "passed": 84,
+  "gate2_samples": [
+    "Teva to Present at the BofA Securities Health Care Conference - GlobeNewswire",
+    "Johnson & Johnson Appoints Ryan Koors as Vice President, Investor Relations - Johnson & Johnson",
+    "Johnson & Johnson study backs Abiomed Impella 5.5 in non-shock, high-risk patients - MassDevice",
+    "Where Roche Fits In A 2026 Portfolio - Benzinga",
+    "Roche Holding to present data on ophthalmology portfolio at Arvo 2026 - marketscreener.com"
+  ]
+}

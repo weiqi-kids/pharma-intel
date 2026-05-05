@@ -1,0 +1,238 @@
+{
+  "date": "2026-05-05",
+  "generated_at": "2026-05-05T10:10:11.490352Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "bora-2026-05-05-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bora Pharmaceuticals Posts 2025 EPS of $23.90; CDMO Revenue Surges 53% - 全球醫療採購網",
+      "companies": [
+        "bora"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYVZtaFI4NmljWVUwMi03ekRSY01QSlRVVHhRbGRuUXhFZkNrdjJjYm5hdlk1Qkh3dVo4T2hzR2h5RUxJMWxPSDY2WFlteVl3aFdLeXdxTHdCOVY5MDBsQnVMeDBaOWhOOWhRRV9va184cWRYZXRaT1ZfOVRRYzJmei1LRjZOdzBpTnJidkxiS3dZTGRLd0ZaeHRhSTVUb1dCTlhpWnUxcU9aYWpQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "eli_lilly-2026-05-05-014",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Novo Nordisk's Weight-Loss Pill Success Faces Pricing Pressure from Eli Lilly Rival - StockInvest.us",
+      "companies": [
+        "eli_lilly",
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.25
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSXBhaFFRZ1VfN2Z3bXdEVng0MjhoaG5jR3ZQUk5nTEtmNVZDTWdkY091d3lNUm1ZOWo2SnNiWUxRNWtzSXFiUFFJSjhSUUJFeXBCYUo0OG5SZXBvZnNzTGRDLTNhemJhUW9mYkRGdnNNWW9zZUFpaFU2RXVVVmZyS2dnU1RUZk1DVXdmdDZiSVN2ZGlXZXRZb1hndy15SXZjRVZoVFNGazl3YmdOSldXcm1n?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "novo_nordisk-2026-05-05-013",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Novo Nordisk's Weight-Loss Pill Boom Faces Price War Test - U.S. News Money",
+      "companies": [
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSlVCeU1lMWI5Uk93bWFXZ2ZSaWdfZjVSRGhFUzNHbTdXbzc4RGpVV2xtQldrUnpCRkxsdHJZczNNY3B0WWhJeXNJQmE4UzFDUmFfZ0ZNLWVGazNmdjJDLS1rQUtXN01CeW1GMElidDczOVZDMkNDT3JSaTRQeEFCV1lnSzlPNjV6bXFNam83aDRCQVROMkhBSFlJaWVfRXNfVk56SDlqdjZ1M0w5dW5qWGcxRDVXc3c?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "teva-2026-05-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Top Teva Executives Quietly Offload Major Stock Stakes - TipRanks",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdzRWQkM5ODZnMDlmWkRsRzc3M3UxSkdXMTBhYTVCbHhpZ3ZfSWVoaGZ3QWNZak0zbDdvMWMxYkZuNHhuLUNzSGFLd0F2UjlqbWxoSjQ3U050cmh5SkV4OHZycU1CZmYtRjZCdHZKN19aOXpmM3RnbzZkXzJoYkl1XzBQSDNBaVYycmo1RGRWdWt3a0ptaE9hX3NOQm5WWl90RDBkUzg4R3FnOUNURXAwQVZyRkFnTW1xYkRmbnZR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "sun_pharma-2026-05-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "A $12 Billion US Deal Pushes India’s Sun Pharma Into Big Leagues - Bloomberg.com",
+      "companies": [
+        "sun_pharma"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNckZXS3JSNTRaTnREVTJyM3c1OXZVbVV5Qm80TllkaFJsSUpnT0ZSZkpUWTZxRExZMVdHMnlOVmlCYWJBN0ZyekczSGhhWDc2NDNKaVdKbmpCUkMyTFZ0eXk2ZHh4Zmc4R09uQ0FweVNrQ3oxN2VLU1Q0ZWxDVVBHU21lMjBvZzJORnB5LWxLSDBCMExZSnFRRjJRaUU5bWlyRmlpbHBHMWlaWlRELVRhazNfVE8?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 14,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "jnj",
+        "count": 7
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 4
+      },
+      {
+        "id": "pfizer",
+        "count": 2
+      },
+      {
+        "id": "teva",
+        "count": 1
+      },
+      {
+        "id": "sun_pharma",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "drug_approval",
+        "count": 15
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 451,
+    "dup_title": 207,
+    "too_old": 136,
+    "gate1_blocked": 12,
+    "gate2_blocked": 12,
+    "passed": 84,
+    "pass_rate": "34.4%",
+    "gate2_block_rate": "4.9%",
+    "gate2_samples": [
+      "Teva to Present at the BofA Securities Health Care Conference - GlobeNewswire",
+      "Johnson & Johnson Appoints Ryan Koors as Vice President, Investor Relations - Johnson & Johnson",
+      "Johnson & Johnson study backs Abiomed Impella 5.5 in non-shock, high-risk patients - MassDevice",
+      "Where Roche Fits In A 2026 Portfolio - Benzinga",
+      "Roche Holding to present data on ophthalmology portfolio at Arvo 2026 - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為J&J、Novo、輝瑞相關動態：「Bora Pharmaceuticals Posts 2025 EPS of $23.90; CDMO Reven...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Bora Pharmaceuticals Posts 2025 EPS of $23.90; CDMO Revenue Surges 53% - 全球醫療採購網（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Novo Nordisk's Weight-Loss Pill Success Faces Pricing Pressure from Eli Lilly...（藥物核准、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
