@@ -1,9 +1,35 @@
 {
   "date": "2026-05-06",
-  "generated_at": "2026-05-06T06:03:59.063700Z",
+  "generated_at": "2026-05-06T10:26:00.056204Z",
   "top_events": [
     {
       "rank": 1,
+      "event_id": "eli_lilly-2026-05-06-030",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Novo Nordisk's Weight-Loss Pill Exceeds Forecasts, Closing Gap With Lilly - U.S. News & World Report",
+      "companies": [
+        "eli_lilly",
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbHhzRVotVFZqUFB5Q084ZnVnOG1WaFhXa3pSMjNsNTFlOVBpV0lZTzhwVEJFSm9rVnVkVVlNd19DQk4zMVcxT0ZfMGZRRG56dDhVQ3pjY0NzUEpaSHdNRS1zb3J0cVhzTDNTTDM0TnBock9BWUtKQ2NsanA2T05rdng4SU01OG9aYjVBT3ZrUWtvMzhMbzdJX0FsZUE?oc=5"
+    },
+    {
+      "rank": 2,
       "event_id": "sun_pharma-2026-05-06-003",
       "importance_score": 0.75,
       "importance_reasons": [
@@ -29,7 +55,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaFkxdGR1OWxKWUNRTTRfcTYyVThKYnE4UGluMVdzODFIX2NDc0NYUHotX0pCNmtidjZVbmFHMUFwMnRiVkMxYWZOWXpHbmxqRlZ6NnJJeWdoSFN2WWc0OUJpcVZxeUFZLUM1d1BQQUxjU1pLX0xsTTJnUHJYNTZfVXBfOU5laFZxX2ZFd0pwdlNMbXNuOWJmMERBLXh3V3g4Y3dCd2N0Qlctdlo2SFVlUHhjR08tYS1aYmVNU1JUZngxY0EyS1lsdWxYLVNQTjgxWUp2NDBEUQ?oc=5"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "event_id": "astrazeneca-2026-05-06-005",
       "importance_score": 0.75,
       "importance_reasons": [
@@ -55,7 +81,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV21DY0RIa2JZenFNQmc3dzdZY3pxUmVpdWpQOFVXMG12elFnRldVUVdzRU5qajRxelV5Zi1vOG5QY3BzeWFWUzlPZFRMMzhzRjBiem1CaXVYRUJfSDJmVVlCYUg2MWxlTGJJcDV2Ny04UkxOREIyZnlmeU9kYVVRb0pDY0hYcXBxbjBlZmhBUWwwNmRpOENmUWpEWTU0QVZHQmk5V0F4OS1IYy1MOXc?oc=5"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "event_id": "novo_nordisk-2026-05-06-006",
       "importance_score": 0.75,
       "importance_reasons": [
@@ -80,7 +106,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNVVkOXdNcVNUc21jUXdKSGlGWG94Slp0OTAzMTNod0RONEdDVG8yWm42cXpHUXZCZ2tLY0FRTGdaQ05aVnU2bm5qS2RHRDllS0NiM1RrVGNuTWlFMkhyRW5fMjEyZXk1R2ZjM3k4RXRkNnNGSHI2RDY4QjZDYWNXLXk0Z3kyanFFZGIzMnNn?oc=5"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "event_id": "novo_nordisk-2026-05-06-007",
       "importance_score": 0.75,
       "importance_reasons": [
@@ -103,89 +129,67 @@
         "score": 0.0
       },
       "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY3k5WVVjamI3OVhuM2UxYzNMa1c4dXM0T0RVYlVsNGN2ZkJFWWxvQzFaczR5TDVXM3pPUU9zZWVZcGlQckRJc09aT2RHM29fUEwyLXhDYVItQjdmSzBnUi02d0tieTVKSFltcDNSNjhzOFRuWXZnVkdoRlV6b1JFYWZUU0RzWFVPbk9lQmlSNmtrNUJZb1Br?oc=5"
-    },
-    {
-      "rank": 5,
-      "event_id": "novo_nordisk-2026-05-06-009",
-      "importance_score": 0.75,
-      "importance_reasons": [
-        "涉及財報"
-      ],
-      "title": "Novo Nordisk Raised Its 2026 Outlook On Wegovy Momentum - Finimize",
-      "companies": [
-        "novo_nordisk"
-      ],
-      "related": {
-        "customers": [],
-        "suppliers": []
-      },
-      "topics": [
-        "drug_approval",
-        "glp1_obesity",
-        "earnings"
-      ],
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.0
-      },
-      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUHhOaXNHSmttME54ZnpncFRralhpaG16RlpFeFNpdFRWZFJKT1laekNlT1FTcEpjbE9GRlYwNzZJd1BkTnpSaGgyZHM3WTN2NVhHb2Z0QnlJX0RzUFVMN2xhUXRCcm5qSUVfMldzX1hXM2dhUDdhVW5SLUpjMEdoYW16eUprd1hCemJpaQ?oc=5"
     }
   ],
   "anomalies": [],
   "topic_trends": {
     "industry_general": {
-      "today": 7,
+      "today": 25,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": -0.07,
+      "sentiment_today": -0.1,
       "sentiment_7d_avg": null
     },
     "drug_approval": {
-      "today": 12,
+      "today": 36,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": -0.04,
+      "sentiment_today": -0.1,
       "sentiment_7d_avg": null
     },
     "earnings": {
-      "today": 8,
+      "today": 14,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.0,
+      "sentiment_today": 0.04,
       "sentiment_7d_avg": null
     },
     "glp1_obesity": {
-      "today": 1,
+      "today": 5,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.0,
+      "sentiment_today": -0.5,
       "sentiment_7d_avg": null
     }
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 13,
+    "total_events": 40,
     "sentiment_distribution": {
-      "positive": 0,
-      "neutral": 12,
-      "negative": 1
+      "positive": 2,
+      "neutral": 31,
+      "negative": 7
     },
     "top_companies": [
       {
         "id": "novo_nordisk",
-        "count": 8
+        "count": 21
+      },
+      {
+        "id": "jnj",
+        "count": 5
       },
       {
         "id": "sun_pharma",
@@ -193,37 +197,41 @@
       },
       {
         "id": "astrazeneca",
-        "count": 1
+        "count": 2
+      },
+      {
+        "id": "pfizer",
+        "count": 2
       }
     ],
     "top_topics": [
       {
         "id": "drug_approval",
-        "count": 12
-      },
-      {
-        "id": "earnings",
-        "count": 8
+        "count": 36
       },
       {
         "id": "industry_general",
-        "count": 7
+        "count": 25
+      },
+      {
+        "id": "earnings",
+        "count": 14
       },
       {
         "id": "glp1_obesity",
-        "count": 1
+        "count": 5
       }
     ]
   },
   "filter_audit": {
-    "total_raw": 457,
-    "dup_title": 205,
-    "too_old": 140,
-    "gate1_blocked": 10,
-    "gate2_blocked": 15,
-    "passed": 87,
-    "pass_rate": "34.5%",
-    "gate2_block_rate": "6.0%",
+    "total_raw": 912,
+    "dup_title": 463,
+    "too_old": 279,
+    "gate1_blocked": 22,
+    "gate2_blocked": 30,
+    "passed": 118,
+    "pass_rate": "26.3%",
+    "gate2_block_rate": "6.7%",
     "gate2_samples": [
       "Teva to Present at the BofA Securities Health Care Conference - GlobeNewswire",
       "India File: Homegrown companies are making bolder global bets - Reuters",
@@ -234,14 +242,14 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 13 則事件，焦點為Novo、Sun Pharma、AZ相關動態：「Sun Pharmaceutical Industries Ltd Technical Momentum Shif...」。整體情緒偏負面，需留意潛在風險。",
+    "summary": "今日共 40 則事件，焦點為Novo、J&J、Sun Pharma相關動態：「Novo Nordisk's Weight-Loss Pill Exceeds Forecasts, Closin...」。整體情緒偏負面，需留意潛在風險。",
     "signals": [
       {
-        "text": "Sun Pharmaceutical Industries Ltd Technical Momentum Shifts Signal Bullish Ou...（藥物核准、法說會、產業通用）",
+        "text": "Novo Nordisk's Weight-Loss Pill Exceeds Forecasts, Closing Gap With Lilly - U...（藥物核准）",
         "level": "yellow"
       },
       {
-        "text": "AstraZeneca Earnings Call: Oncology Strength, Pipeline Bets - TipRanks（藥物核准、法說會、產業通用）",
+        "text": "Sun Pharmaceutical Industries Ltd Technical Momentum Shifts Signal Bullish Ou...（藥物核准、法說會、產業通用）",
         "level": "yellow"
       }
     ]

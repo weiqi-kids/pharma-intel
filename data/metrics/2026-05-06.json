@@ -1,36 +1,60 @@
 {
   "date": "2026-05-06",
-  "total_events": 13,
+  "total_events": 40,
   "by_company": {
     "sun_pharma": {
       "count": 4,
       "sentiment_avg": 0.0
     },
     "astrazeneca": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "novo_nordisk": {
+      "count": 21,
+      "sentiment_avg": -0.18
+    },
+    "teva": {
       "count": 1,
       "sentiment_avg": 0.0
     },
-    "novo_nordisk": {
-      "count": 8,
-      "sentiment_avg": -0.06
+    "pfizer": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "jnj": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "merck": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "eli_lilly": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "cardinal": {
+      "count": 2,
+      "sentiment_avg": 0.0
     }
   },
   "by_topic": {
     "industry_general": {
-      "count": 7,
-      "sentiment_avg": -0.07
+      "count": 25,
+      "sentiment_avg": -0.1
     },
     "drug_approval": {
-      "count": 12,
-      "sentiment_avg": -0.04
+      "count": 36,
+      "sentiment_avg": -0.1
     },
     "earnings": {
-      "count": 8,
-      "sentiment_avg": 0.0
+      "count": 14,
+      "sentiment_avg": 0.04
     },
     "glp1_obesity": {
-      "count": 1,
-      "sentiment_avg": 0.0
+      "count": 5,
+      "sentiment_avg": -0.5
     }
   },
   "baselines_used": {

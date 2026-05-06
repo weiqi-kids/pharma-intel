@@ -1,11 +1,11 @@
 {
-  "total_raw": 457,
-  "dup_title": 205,
+  "total_raw": 912,
+  "dup_title": 463,
   "no_date": 0,
-  "too_old": 140,
-  "gate1_fail": 10,
-  "gate2_fail": 15,
-  "passed": 87,
+  "too_old": 279,
+  "gate1_fail": 22,
+  "gate2_fail": 30,
+  "passed": 118,
   "gate2_samples": [
     "Teva to Present at the BofA Securities Health Care Conference - GlobeNewswire",
     "India File: Homegrown companies are making bolder global bets - Reuters",
