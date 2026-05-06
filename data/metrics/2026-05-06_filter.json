@@ -1,0 +1,16 @@
+{
+  "total_raw": 457,
+  "dup_title": 205,
+  "no_date": 0,
+  "too_old": 140,
+  "gate1_fail": 10,
+  "gate2_fail": 15,
+  "passed": 87,
+  "gate2_samples": [
+    "Teva to Present at the BofA Securities Health Care Conference - GlobeNewswire",
+    "India File: Homegrown companies are making bolder global bets - Reuters",
+    "Pfizer beats Q1 expectations, but COVID sales disappoint - medwatch.com",
+    "Pfizer (NYSE:PFE) Posts Better-Than-Expected Sales In Q1 CY2026 - TradingView",
+    "Johnson & Johnson Appoints Ryan Koors as Vice President, Investor Relations - Johnson & Johnson"
+  ]
+}
