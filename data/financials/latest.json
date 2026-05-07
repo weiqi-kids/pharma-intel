@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-06T10:25:55.535547Z",
+  "updated_at": "2026-05-07T10:32:10.824237Z",
   "quarter": "2025-03-31, 2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -147,14 +147,14 @@
       "name": "默克",
       "ticker": "MRK",
       "currency": "USD",
-      "ar": 11775000000,
-      "ar_prev": 12120000000,
-      "ar_qoq": "-3%",
-      "inventory": 6658000000,
-      "inv_prev": 6444000000,
-      "inv_qoq": "+3%",
+      "ar": 12210000000,
+      "ar_prev": 11775000000,
+      "ar_qoq": "+4%",
+      "inventory": 6479000000,
+      "inv_prev": 6658000000,
+      "inv_qoq": "-3%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "novartis",
@@ -175,28 +175,28 @@
       "name": "諾和諾德",
       "ticker": "NVO",
       "currency": "USD",
-      "ar": 5864000000,
-      "ar_prev": 5077000000,
-      "ar_qoq": "+16%",
-      "inventory": 49623000000,
-      "inv_prev": 47504000000,
-      "inv_qoq": "+4%",
+      "ar": 5992000000,
+      "ar_prev": 5864000000,
+      "ar_qoq": "+2%",
+      "inventory": 51352000000,
+      "inv_prev": 49623000000,
+      "inv_qoq": "+3%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "pfizer",
       "name": "輝瑞",
       "ticker": "PFE",
       "currency": "USD",
-      "ar": 11874000000,
-      "ar_prev": 14260000000,
-      "ar_qoq": "-17%",
-      "inventory": 10654000000,
-      "inv_prev": 11468000000,
-      "inv_qoq": "-7%",
+      "ar": 12585000000,
+      "ar_prev": 11874000000,
+      "ar_qoq": "+6%",
+      "inventory": 10667000000,
+      "inv_prev": 10654000000,
+      "inv_qoq": "+0%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "roche",

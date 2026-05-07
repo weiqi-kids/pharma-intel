@@ -1,0 +1,16 @@
+{
+  "total_raw": 452,
+  "dup_title": 204,
+  "no_date": 0,
+  "too_old": 135,
+  "gate1_fail": 7,
+  "gate2_fail": 15,
+  "passed": 91,
+  "gate2_samples": [
+    "Teva to Present at the BofA Securities Health Care Conference - Yahoo Finance",
+    "India File: Homegrown companies are making bolder global bets - Reuters",
+    "Pfizer beats Q1 expectations, but COVID sales disappoint - medwatch.com",
+    "Johnson & Johnson Abiomed president to keynote at DeviceTalks Boston - MassDevice",
+    "Switzerland's Roche agrees to acquire US-based PathAI - Reuters"
+  ]
+}
