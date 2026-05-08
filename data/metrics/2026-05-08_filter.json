@@ -1,0 +1,16 @@
+{
+  "total_raw": 452,
+  "dup_title": 209,
+  "no_date": 0,
+  "too_old": 122,
+  "gate1_fail": 9,
+  "gate2_fail": 17,
+  "passed": 95,
+  "gate2_samples": [
+    "Pfizer beats Q1 expectations, but COVID sales disappoint - medwatch.com",
+    "J&J’s Ottava robot meets goals in gastric bypass study - MedTech Dive",
+    "Switzerland's Roche agrees to acquire US-based PathAI - Reuters",
+    "Roche buys Boston AI startup for $750 million - The Boston Globe",
+    "Roche to buy digital pathology firm PathAI for up to $1.1B - Seeking Alpha"
+  ]
+}
