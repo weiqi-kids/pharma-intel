@@ -1,0 +1,16 @@
+{
+  "total_raw": 456,
+  "dup_title": 235,
+  "no_date": 0,
+  "too_old": 129,
+  "gate1_fail": 11,
+  "gate2_fail": 14,
+  "passed": 67,
+  "gate2_samples": [
+    "India File: Homegrown companies are making bolder global bets - Reuters",
+    "Who Are Pfizer’s (PFE) Main Competitors? - Investopedia",
+    "Pfizer beats Q1 expectations, but COVID sales disappoint - medwatch.com",
+    "J&J’s Ottava robot meets goals in gastric bypass study - MedTech Dive",
+    "Switzerland's Roche agrees to acquire US-based PathAI - Reuters"
+  ]
+}

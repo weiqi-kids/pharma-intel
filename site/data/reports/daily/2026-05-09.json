@@ -1,0 +1,250 @@
+{
+  "date": "2026-05-09",
+  "generated_at": "2026-05-09T09:27:11.729139Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "merck-2026-05-09-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Merck & Co. Inc. (NYSE:MRK): A High Dividend Rating Backed by Strong Profitability and Financial Health - ChartMill",
+      "companies": [
+        "merck"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSDFRSXdhYk1MOWcxZkJwUWt5ZFBEYzVsRVZEcUZpc2otYVEzR01MaVZkTjJ5cnBCMWFTUTFXenlFM212QVFNb01XUEZQU1VrN0ZFVnEzc3NwdXA5aVJiVzN4TnJudDdtbFVfSGt4MDVZVlRySWpHZ2tJb2FMMUdJZklXODRHT2lMMHR0dlBqM2JIdkN1ZGF1cmt4dmV3OURISmd1QjZmQXZBMTZQTVJxWEtJNjVDMl96V1B5Qlpoa0ktVWRBdEwxLWVxVVhRN0pEVDhpcFU4dlRfUnFQZ1JF?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "merck-2026-05-09-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Merck & Co., Inc. stock (US58933Y1055): Earnings and pipeline updates drive investor focus - AD HOC NEWS",
+      "companies": [
+        "merck"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONDFJazZEaVY0NEsxZEZlc2Y4TEVfVXIzZFYxRW9tQTBMZU1ON1Q0S0c3Z0xXUVczSkVLYURRaHBBUmZFWDlCdE5CT2M4MDF1ZjNYMUE0cnQ0SlQzdWhkOXhXaEZaT0h2RW5nYld3MEVBcWxZTGVGRXFMcTI3TWFZU1ctQTN1WUsxSEtuX2RMckJxU2NSbWN0dDBiTE1QMHdXWWM5WTl3QzFLLWRET1dhTFd0eGxjUWctR2dPbGxFNjVqQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "novo_nordisk-2026-05-09-008",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Eli Lilly Stock Hits Bottleneck After 400% Surge in Five Years, Novo Nordisk Poised for a Comeback with 4% Dividend Yield - NAI500",
+      "companies": [
+        "novo_nordisk",
+        "eli_lilly"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMG1hZ2RJMWxGNDNWTlp6R0loUFY5MnU3a1o5Wm5saWNCbU9YanlxZ1pETlVHV3hQVTlCal83WlRzVG1vMndlVWZRMXRPZ3VxR1BFQXMwQmJpVVFLSmRkUHk0ZGN1TFd3NzZ2ZWQwU2tmb3BVZVEzTzZIZVFhQW9HdmJib0g5a1lBTXVhMkR0ZGtzVVdVcG5WYWVaR1k4TXdlcVZ1RnRWRjZveDlmenByWGtLLWlyLTdfM2t1cm45aXRQRTBtQWNqUGJhSVZ3aHI3Tko0UDZONGlxNmZGRFRZbkUtamdwZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "jnj-2026-05-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Crestwood Advisors Group LLC Sells 8,087 Shares of Johnson & Johnson $JNJ - MarketBeat",
+      "companies": [
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQzQ0R3BlSzQtNUpQbDBZOVZPUVN4REFGMmU5ZXYyR3g4UGdVZW9QeElhZF9nVjBXSlZ0OGhTQ184ZDRkdmVnM2x2SVcyWkZ2Y204MlRFOHJIalk1MGdSeWMyRmMzS0swYWRDckdlQnZLcnU3aGdyUUFjRUtHa1NTamhkLVZJckN0MndDekdRZ2ZsWldRTkdzRVNid2NiTENTcFZjUFhzYUhwbHMxZ0VUMmFDclVWdThoRUNfUUpoaFJncFU2eEtGX3BB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "merck-2026-05-09-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ethic Inc. Boosts Holdings in Merck & Co., Inc. $MRK - MarketBeat",
+      "companies": [
+        "merck"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU3lFdldIZnhTTVFhd0NOdWxHVGhBX01ZcjNQTXpKclp1bG12RmZLUHY2dzRWYngyR3BCQWkzOGltcWJiRXZCWUNyUy1PMllhdkxwSldkeEhJdGxfekVQektHTkVtQkkwZ29ZLXlGbzYwVFZLVU9CX3I5UGpxZ3dWeFFqbUl0ZlMtTmZfM0NfcEo0U1lYS0pYX2ZIRF9OWVFpazZkT1RCQnVxZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "merck",
+        "count": 5
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 2
+      },
+      {
+        "id": "jnj",
+        "count": 1
+      },
+      {
+        "id": "eli_lilly",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 8
+      },
+      {
+        "id": "industry_general",
+        "count": 8
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 456,
+    "dup_title": 235,
+    "too_old": 129,
+    "gate1_blocked": 11,
+    "gate2_blocked": 14,
+    "passed": 67,
+    "pass_rate": "30.3%",
+    "gate2_block_rate": "6.3%",
+    "gate2_samples": [
+      "India File: Homegrown companies are making bolder global bets - Reuters",
+      "Who Are Pfizer’s (PFE) Main Competitors? - Investopedia",
+      "Pfizer beats Q1 expectations, but COVID sales disappoint - medwatch.com",
+      "J&J’s Ottava robot meets goals in gastric bypass study - MedTech Dive",
+      "Switzerland's Roche agrees to acquire US-based PathAI - Reuters"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為Merck、Novo、J&J相關動態：「Merck & Co. Inc. (NYSE:MRK): A High Dividend Rating Backe...」。主要關注主題為藥物核准、產業通用、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Merck & Co. Inc. (NYSE:MRK): A High Dividend Rating Backed by Strong Profitab...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Merck & Co., Inc. stock (US58933Y1055): Earnings and pipeline updates drive i...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
