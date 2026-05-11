@@ -1,0 +1,295 @@
+{
+  "date": "2026-05-11",
+  "generated_at": "2026-05-11T11:33:04.011953Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-11-024",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "CSL sinks to nine-year low on revenue warning, $5B write-down",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://endpoints.news/csl-sinks-to-nine-year-low-on-revenue-warning-5b-write-down/"
+    },
+    {
+      "rank": 2,
+      "event_id": "astrazeneca-2026-05-11-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How AstraZeneca Plans to Hit $80 Billion in Revenue and Expand in the U.S. - WSJ",
+      "companies": [
+        "astrazeneca"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "patent_cliff",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNejRabWlRUUYtZEZDdEJfTWxyN1Q0WGlnRjliVmtxRmdJNzBmVlBFVG9veUtMYXQ1MnZlSllYeGNIT2NXeU5Eb191cHJPaEU2ZjdYZXJRZUloeGJEdjBDTnZ0M1h0dE5LaWplRWhVY0hPSnk3YWlTc1hNTDV6cGs3V2l1dWhWRWNpYi1QSk5kQ19FMTVhV1dBUnVHV2pZZzNyWkNFcHhiLVJudllQdDNmZ3c2Zw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "mckesson-2026-05-11-017",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "McKesson Corporation stock (US58155Q1031): Q4 earnings beat with raised FY2027 guidance - AD HOC NEWS",
+      "companies": [
+        "mckesson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "patent_cliff",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORG95b01EQTFfVTItVGtFQWo2V3U3dU00MHVGbEhzbGZvaG1nMXZjRnplYnNqTHVlOENHRm5BbUdRNGZIM3NQRldVMWZDTE1NU180VmRtWENYZi13WUVmUEllcE1wc1lBWWRWeDNLOTRWc3c5YkVKNEV5Yk9mMUxSdHp1UXFBYXdwVzlUdHBiVV9JM1gwYUtOeTB4ek80ZjBHcGl2b0d5am1Na2RzTU1XVkVpVFdZMHdFaHpzZUkxa2ZfU214c3c?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "cardinal-2026-05-11-018",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cardinal Health stock (US14149Y1082): Q4 revenue beats estimates by 1.2% - AD HOC NEWS",
+      "companies": [
+        "cardinal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOenVlRHd4U3NubG1yQkpiOXJGa2w3dTEwekhIRnV4VFRTdE9Ba1VNQ0duckpBZk95UmFtUE5wOVY4ZGM5cDlESWJrSFp0aV80ZEZKcVZvMHFnVG9DRnpfSVdJd3lKQ05SdkFNV3hoQThuczBhazVhNS1OcFJ6bG45N0Q1bEw2d292VTN0T0ctMUJOaVRyZTVjVDJGazdnZzJiRzBMR1BXMmFUMVdPRER1WWVxOEdTeVMzQk1tTVpFd1lIVzNDenc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "pfizer-2026-05-11-021",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Novavax (NVAX) Valuation Check After Pfizer Licensing Deal And Partnership-Led Earnings Beat - simplywall.st",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "biotech_funding",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQUl3akM4dUJFVndFY29Lc1NjRDhhd2lDNm56dGJINUdVUTd6ZjdnRWVBOHRpa1pQMzB2cGc0ejJlZUR3aDBkQzk4aWNFRkpOS05hYlNiUFBZWkVnY1pJaHRJYlJMYVB3c3lYYjN3YzVJU2xZWEcwMDlxN2p1UVhFcWl6eHhuSkZDbUJLUnYzb25EYzZZZC1oSmJYRzFEWXdXemRPdG5laUF1ZnUtOHlablhhbXlBQlEtaFNlTm8wX1BjWlYwMUhIRGdIUFVPVFFSRUZ0dThfUTXSAd4BQVVfeXFMUFJrZFA3TUpoajg3TENMRldwdlFDOWs4VDNIMG02dGgwamlKUEk4TUhpUTFXSEZyaFVnMlI5d1dxSXpCOUFjTjg3MTJXMjM4cHBMYlFBbFJUSFltbS1Rb28ydVJZdVQxT0UxVEVIN1JvcW9XcndCa2hITDR4Qk50X2xTejNQY0E1a0xfcm9oaGhfRWxhdU5oUThTbThocjJTcGxKZE9OeHpoS25mbE1xZ19oVmFkR0EtQ0ZTalVzN0Q0VURNaUM5dklYeGxIcXpqRDdwRE5vNm9FdzN3N2pR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 27,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.1,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "eli_lilly",
+      "to": "novo_nordisk",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 29,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 26,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "jnj",
+        "count": 4
+      },
+      {
+        "id": "merck",
+        "count": 3
+      },
+      {
+        "id": "mckesson",
+        "count": 3
+      },
+      {
+        "id": "astrazeneca",
+        "count": 2
+      },
+      {
+        "id": "eli_lilly",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 27
+      },
+      {
+        "id": "drug_approval",
+        "count": 18
+      },
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "patent_cliff",
+        "count": 2
+      },
+      {
+        "id": "biotech_funding",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 454,
+    "dup_title": 255,
+    "too_old": 131,
+    "gate1_blocked": 10,
+    "gate2_blocked": 10,
+    "passed": 48,
+    "pass_rate": "24.1%",
+    "gate2_block_rate": "5.0%",
+    "gate2_samples": [
+      "India File: Homegrown companies are making bolder global bets - Reuters",
+      "Who Are Pfizer’s (PFE) Main Competitors? - Investopedia",
+      "Pfizer beats Q1 expectations, but COVID sales disappoint - medwatch.com",
+      "Is It Too Late To Consider Johnson & Johnson (JNJ) After A 46.9% One Year Rally? - simplywall.st",
+      "Switzerland's Roche agrees to acquire US-based PathAI - Reuters"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 29 則事件，焦點為J&J、Merck、McKesson相關動態：「CSL sinks to nine-year low on revenue warning, $5B write-...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "CSL sinks to nine-year low on revenue warning, $5B write-down（藥物核准、法說會、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "How AstraZeneca Plans to Hit $80 Billion in Revenue and Expand in the U.S. - WSJ（藥物核准、專利懸崖、法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

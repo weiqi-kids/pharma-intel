@@ -1,0 +1,16 @@
+{
+  "total_raw": 454,
+  "dup_title": 255,
+  "no_date": 0,
+  "too_old": 131,
+  "gate1_fail": 10,
+  "gate2_fail": 10,
+  "passed": 48,
+  "gate2_samples": [
+    "India File: Homegrown companies are making bolder global bets - Reuters",
+    "Who Are Pfizer’s (PFE) Main Competitors? - Investopedia",
+    "Pfizer beats Q1 expectations, but COVID sales disappoint - medwatch.com",
+    "Is It Too Late To Consider Johnson & Johnson (JNJ) After A 46.9% One Year Rally? - simplywall.st",
+    "Switzerland's Roche agrees to acquire US-based PathAI - Reuters"
+  ]
+}
