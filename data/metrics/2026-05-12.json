@@ -1,0 +1,69 @@
+{
+  "date": "2026-05-12",
+  "total_events": 37,
+  "by_company": {
+    "dr_reddy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pfizer": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "sun_pharma": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "bora": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "lonza": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "jnj": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    },
+    "roche": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "astrazeneca": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "novo_nordisk": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "eli_lilly": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "drug_approval": {
+      "count": 28,
+      "sentiment_avg": 0.02
+    },
+    "industry_general": {
+      "count": 25,
+      "sentiment_avg": -0.02
+    },
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "glp1_obesity": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

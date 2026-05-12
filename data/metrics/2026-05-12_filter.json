@@ -1,0 +1,16 @@
+{
+  "total_raw": 456,
+  "dup_title": 218,
+  "no_date": 0,
+  "too_old": 120,
+  "gate1_fail": 10,
+  "gate2_fail": 11,
+  "passed": 97,
+  "gate2_samples": [
+    "Who Are Pfizer’s (PFE) Main Competitors? - Investopedia",
+    "Johnson & Johnson to Participate in the Goldman Sachs 47th Annual Global Healthcare Conference - Bio",
+    "Johnson & Johnson to Participate in the Goldman Sachs 47th Annual Global Healthcare Conference - The",
+    "Is It Too Late To Consider Johnson & Johnson (JNJ) After A 46.9% One Year Rally? - simplywall.st",
+    "Switzerland's Roche agrees to acquire US-based PathAI - Reuters"
+  ]
+}
