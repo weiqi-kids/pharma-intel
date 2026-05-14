@@ -1,0 +1,514 @@
+{
+  "companies": [
+    {
+      "id": "teva",
+      "name": "Teva Pharmaceutical",
+      "aliases": [
+        "Teva",
+        "梯瓦"
+      ],
+      "ticker": "TEVA",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "upstream",
+      "role": "學名藥",
+      "description": "全球最大學名藥製造商",
+      "rss_url": "https://news.google.com/rss/search?q=\"Teva+Pharmaceutical\"&hl=en&gl=US&ceid=US:en",
+      "downstream": [
+        "mckesson",
+        "cencora",
+        "cardinal"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "dr_reddy",
+      "name": "Dr. Reddy's Laboratories",
+      "aliases": [
+        "Dr. Reddy's",
+        "瑞迪博士"
+      ],
+      "ticker": "RDY",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "upstream",
+      "role": "學名藥/API",
+      "description": "印度學名藥與原料藥大廠",
+      "rss_url": "https://news.google.com/rss/search?q=\"Dr.+Reddy's+Laboratories\"&hl=en&gl=US&ceid=US:en",
+      "downstream": [
+        "mckesson",
+        "cencora",
+        "cardinal"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "sun_pharma",
+      "name": "Sun Pharmaceutical",
+      "aliases": [
+        "Sun Pharma",
+        "太陽製藥"
+      ],
+      "ticker": "SUNPHARMA.NS",
+      "market": "NSE",
+      "currency": "INR",
+      "position": "upstream",
+      "role": "學名藥",
+      "description": "印度最大製藥公司",
+      "rss_url": "https://news.google.com/rss/search?q=\"Sun+Pharmaceutical\"&hl=en&gl=US&ceid=US:en",
+      "downstream": [
+        "mckesson",
+        "cencora"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "bora",
+      "name": "保瑞藥業",
+      "aliases": [
+        "Bora Pharmaceuticals",
+        "保瑞"
+      ],
+      "ticker": "6472.TW",
+      "market": "TWSE",
+      "currency": "TWD",
+      "position": "upstream",
+      "role": "CDMO",
+      "description": "台灣最大 CDMO，藥品委託研發製造",
+      "rss_url": "https://news.google.com/rss/search?q=\"Bora+Pharmaceuticals\"&hl=en&gl=US&ceid=US:en",
+      "downstream": [
+        "pfizer",
+        "jnj",
+        "astrazeneca"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "tci",
+      "name": "大江生醫",
+      "aliases": [
+        "TCI Co",
+        "大江"
+      ],
+      "ticker": "8436.TWO",
+      "market": "TPEx",
+      "currency": "TWD",
+      "position": "upstream",
+      "role": "生技代工",
+      "description": "保健食品與生技代工龍頭",
+      "rss_url": "https://news.google.com/rss/search?q=\"TCI+Co\"&hl=en&gl=US&ceid=US:en",
+      "fetch_mode": "http"
+    },
+    {
+      "id": "lonza",
+      "name": "Lonza Group",
+      "aliases": [
+        "Lonza",
+        "龍沙"
+      ],
+      "ticker": "LONN.SW",
+      "market": "SIX",
+      "currency": "CHF",
+      "position": "upstream",
+      "role": "CDMO",
+      "description": "全球最大生物藥 CDMO",
+      "rss_url": "https://news.google.com/rss/search?q=\"Lonza+Group\"&hl=en&gl=US&ceid=US:en",
+      "downstream": [
+        "pfizer",
+        "roche",
+        "novartis",
+        "astrazeneca"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "catalent",
+      "name": "Catalent",
+      "aliases": [
+        "Catalent"
+      ],
+      "ticker": "CTLT",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "upstream",
+      "role": "CDMO",
+      "description": "藥品遞送技術與製造服務",
+      "rss_url": "https://news.google.com/rss/search?q=\"Catalent\"&hl=en&gl=US&ceid=US:en",
+      "downstream": [
+        "pfizer",
+        "jnj",
+        "abbvie"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "pfizer",
+      "name": "Pfizer",
+      "aliases": [
+        "輝瑞"
+      ],
+      "ticker": "PFE",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "midstream",
+      "role": "大型藥廠",
+      "description": "全球前三大藥廠",
+      "rss_url": "https://news.google.com/rss/search?q=\"Pfizer\"+pharmaceutical&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "bora",
+        "lonza",
+        "catalent"
+      ],
+      "downstream": [
+        "mckesson",
+        "cencora",
+        "cardinal"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "jnj",
+      "name": "Johnson & Johnson",
+      "aliases": [
+        "J&J",
+        "嬌生"
+      ],
+      "ticker": "JNJ",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "midstream",
+      "role": "大型藥廠",
+      "description": "全球最大醫療保健公司",
+      "rss_url": "https://news.google.com/rss/search?q=\"Johnson+%26+Johnson\"&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "bora",
+        "catalent"
+      ],
+      "downstream": [
+        "mckesson",
+        "cencora",
+        "cardinal"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "roche",
+      "name": "Roche Holding",
+      "aliases": [
+        "Roche",
+        "羅氏"
+      ],
+      "ticker": "ROG.SW",
+      "market": "SIX",
+      "currency": "CHF",
+      "position": "midstream",
+      "role": "大型藥廠",
+      "description": "全球最大生技藥廠",
+      "rss_url": "https://news.google.com/rss/search?q=\"Roche+Holding\"&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "lonza"
+      ],
+      "downstream": [
+        "mckesson",
+        "cencora"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "novartis",
+      "name": "Novartis AG",
+      "aliases": [
+        "Novartis",
+        "諾華"
+      ],
+      "ticker": "NVS",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "midstream",
+      "role": "大型藥廠",
+      "description": "瑞士大型藥廠，專注創新藥",
+      "rss_url": "https://www.feeds.novartis.com/",
+      "upstream": [
+        "lonza"
+      ],
+      "downstream": [
+        "mckesson",
+        "cencora",
+        "cardinal"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "astrazeneca",
+      "name": "AstraZeneca",
+      "aliases": [
+        "AZ",
+        "阿斯特捷利康"
+      ],
+      "ticker": "AZN",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "position": "midstream",
+      "role": "大型藥廠",
+      "description": "英瑞合資藥廠，腫瘤領域強勢",
+      "rss_url": "https://news.google.com/rss/search?q=\"AstraZeneca\"&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "bora",
+        "lonza"
+      ],
+      "downstream": [
+        "mckesson",
+        "cencora"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "merck",
+      "name": "Merck & Co.",
+      "aliases": [
+        "Merck",
+        "默克",
+        "MSD"
+      ],
+      "ticker": "MRK",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "midstream",
+      "role": "大型藥廠",
+      "description": "Keytruda 免疫療法龍頭",
+      "rss_url": "https://news.google.com/rss/search?q=\"Merck+%26+Co.\"&hl=en&gl=US&ceid=US:en",
+      "downstream": [
+        "mckesson",
+        "cencora",
+        "cardinal"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "eli_lilly",
+      "name": "Eli Lilly",
+      "aliases": [
+        "Lilly",
+        "禮來"
+      ],
+      "ticker": "LLY",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "midstream",
+      "role": "大型藥廠",
+      "description": "GLP-1 減重藥物領導者",
+      "rss_url": "https://investor.lilly.com/rss/news-releases.xml",
+      "downstream": [
+        "mckesson",
+        "cencora",
+        "cardinal"
+      ],
+      "fetch_mode": "rss",
+      "ir_rss_url": "https://investor.lilly.com/rss/news-releases.xml"
+    },
+    {
+      "id": "abbvie",
+      "name": "AbbVie",
+      "aliases": [
+        "AbbVie",
+        "艾伯維"
+      ],
+      "ticker": "ABBV",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "midstream",
+      "role": "大型藥廠",
+      "description": "免疫學與腫瘤學藥廠",
+      "rss_url": "https://investors.abbvie.com/rss/news-releases.xml",
+      "upstream": [
+        "catalent"
+      ],
+      "downstream": [
+        "mckesson",
+        "cencora",
+        "cardinal"
+      ],
+      "fetch_mode": "rss",
+      "ir_rss_url": "https://investors.abbvie.com/rss/news-releases.xml"
+    },
+    {
+      "id": "novo_nordisk",
+      "name": "Novo Nordisk",
+      "aliases": [
+        "Novo",
+        "諾和諾德"
+      ],
+      "ticker": "NVO",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "midstream",
+      "role": "大型藥廠",
+      "description": "GLP-1 與胰島素領導者",
+      "rss_url": "https://news.google.com/rss/search?q=\"Novo+Nordisk\"&hl=en&gl=US&ceid=US:en",
+      "downstream": [
+        "mckesson",
+        "cencora"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "sanofi",
+      "name": "Sanofi",
+      "aliases": [
+        "Sanofi",
+        "賽諾菲"
+      ],
+      "ticker": "SNY",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "position": "midstream",
+      "role": "大型藥廠",
+      "description": "法國大型藥廠，疫苗與特殊護理",
+      "rss_url": "https://news.google.com/rss/search?q=\"Sanofi\"+pharmaceutical&hl=en&gl=US&ceid=US:en",
+      "downstream": [
+        "mckesson",
+        "cencora"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "mckesson",
+      "name": "McKesson Corporation",
+      "aliases": [
+        "McKesson",
+        "麥克森"
+      ],
+      "ticker": "MCK",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "downstream",
+      "role": "藥品分銷",
+      "description": "全球最大藥品分銷商",
+      "rss_url": "https://news.google.com/rss/search?q=\"McKesson+Corporation\"&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "pfizer",
+        "jnj",
+        "roche",
+        "novartis",
+        "merck",
+        "eli_lilly",
+        "abbvie"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "cencora",
+      "name": "Cencora",
+      "aliases": [
+        "AmerisourceBergen",
+        "Cencora"
+      ],
+      "ticker": "COR",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "downstream",
+      "role": "藥品分銷",
+      "description": "全球第二大藥品分銷商",
+      "rss_url": "https://news.google.com/rss/search?q=\"Cencora\"+pharma+distribution&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "pfizer",
+        "jnj",
+        "roche",
+        "novartis",
+        "merck",
+        "eli_lilly",
+        "abbvie"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "cardinal",
+      "name": "Cardinal Health",
+      "aliases": [
+        "Cardinal"
+      ],
+      "ticker": "CAH",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "downstream",
+      "role": "藥品分銷",
+      "description": "美國三大藥品分銷商之一",
+      "rss_url": "https://news.google.com/rss/search?q=\"Cardinal+Health\"&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "pfizer",
+        "jnj",
+        "novartis",
+        "merck",
+        "eli_lilly",
+        "abbvie"
+      ],
+      "fetch_mode": "http"
+    }
+  ],
+  "etfs": [
+    {
+      "id": "xlv",
+      "name": "Health Care Select Sector SPDR",
+      "ticker": "XLV",
+      "market": "NYSE",
+      "currency": "USD",
+      "description": "醫療保健 ETF，涵蓋大型藥廠與保險"
+    },
+    {
+      "id": "ibb",
+      "name": "iShares Biotechnology ETF",
+      "ticker": "IBB",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "description": "生技 ETF，追蹤 NASDAQ 生技指數"
+    },
+    {
+      "id": "xbi",
+      "name": "SPDR S&P Biotech ETF",
+      "ticker": "XBI",
+      "market": "NYSE",
+      "currency": "USD",
+      "description": "生技 ETF，等權重分散中小型生技股"
+    }
+  ],
+  "supply_chain_positions": {
+    "upstream": [
+      "學名藥",
+      "學名藥/API",
+      "CDMO",
+      "生技代工"
+    ],
+    "midstream": [
+      "大型藥廠"
+    ],
+    "downstream": [
+      "藥品分銷"
+    ]
+  },
+  "topics": [
+    {
+      "id": "drug_approval",
+      "name": "藥物核准"
+    },
+    {
+      "id": "patent_cliff",
+      "name": "專利懸崖"
+    },
+    {
+      "id": "gmp_inspection",
+      "name": "GMP 查廠"
+    },
+    {
+      "id": "biotech_funding",
+      "name": "生技募資"
+    },
+    {
+      "id": "glp1_obesity",
+      "name": "GLP-1 減重"
+    },
+    {
+      "id": "earnings",
+      "name": "法說會"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "date": "2026-05-14",
+  "total_events": 28,
+  "by_company": {
+    "teva": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "sun_pharma": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "catalent": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pfizer": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "jnj": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "roche": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "astrazeneca": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "merck": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "cardinal": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    }
+  },
+  "by_topic": {
+    "drug_approval": {
+      "count": 20,
+      "sentiment_avg": 0.05
+    },
+    "industry_general": {
+      "count": 26,
+      "sentiment_avg": 0.02
+    },
+    "glp1_obesity": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "patent_cliff": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
