@@ -1,0 +1,69 @@
+{
+  "date": "2026-05-15",
+  "total_events": 28,
+  "by_company": {
+    "teva": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "dr_reddy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "sun_pharma": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "jnj": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "roche": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "merck": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "novo_nordisk": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    },
+    "mckesson": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cardinal": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pfizer": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "drug_approval": {
+      "count": 23,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 26,
+      "sentiment_avg": -0.02
+    },
+    "earnings": {
+      "count": 5,
+      "sentiment_avg": -0.2
+    },
+    "glp1_obesity": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
