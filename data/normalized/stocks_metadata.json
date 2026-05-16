@@ -1,112 +1,112 @@
 {
   "teva": {
-    "earliest": "2016-03-28",
-    "latest": "2026-05-14",
-    "count": 2549
+    "earliest": "2015-12-29",
+    "latest": "2026-05-15",
+    "count": 2610
   },
   "dr_reddy": {
-    "earliest": "2016-03-28",
-    "latest": "2026-05-14",
-    "count": 2549
+    "earliest": "2015-12-29",
+    "latest": "2026-05-15",
+    "count": 2610
   },
   "sun_pharma": {
-    "earliest": "2016-03-28",
+    "earliest": "2015-12-29",
     "latest": "2026-05-15",
-    "count": 2503
+    "count": 2563
   },
   "bora": {
-    "earliest": "2016-04-01",
+    "earliest": "2016-01-04",
     "latest": "2026-05-15",
-    "count": 2379
+    "count": 2410
   },
   "tci": {
-    "earliest": "2016-03-25",
+    "earliest": "2015-12-28",
     "latest": "2026-05-15",
-    "count": 2464
+    "count": 2519
   },
   "lonza": {
-    "earliest": "2016-03-24",
+    "earliest": "2015-12-28",
     "latest": "2026-05-15",
-    "count": 2546
+    "count": 2607
   },
   "pfizer": {
-    "earliest": "2016-03-28",
-    "latest": "2026-05-14",
-    "count": 2549
+    "earliest": "2015-12-29",
+    "latest": "2026-05-15",
+    "count": 2610
   },
   "jnj": {
-    "earliest": "2016-03-28",
-    "latest": "2026-05-14",
-    "count": 2549
+    "earliest": "2015-12-29",
+    "latest": "2026-05-15",
+    "count": 2610
   },
   "roche": {
-    "earliest": "2016-03-24",
-    "latest": "2026-05-13",
-    "count": 2545
+    "earliest": "2015-12-28",
+    "latest": "2026-05-15",
+    "count": 2607
   },
   "novartis": {
-    "earliest": "2016-03-28",
-    "latest": "2026-05-14",
-    "count": 2549
+    "earliest": "2015-12-29",
+    "latest": "2026-05-15",
+    "count": 2610
   },
   "astrazeneca": {
-    "earliest": "2016-03-28",
-    "latest": "2026-05-14",
-    "count": 2549
+    "earliest": "2015-12-29",
+    "latest": "2026-05-15",
+    "count": 2610
   },
   "merck": {
-    "earliest": "2016-03-28",
-    "latest": "2026-05-14",
-    "count": 2549
+    "earliest": "2015-12-29",
+    "latest": "2026-05-15",
+    "count": 2610
   },
   "eli_lilly": {
-    "earliest": "2016-03-28",
-    "latest": "2026-05-14",
-    "count": 2549
+    "earliest": "2015-12-29",
+    "latest": "2026-05-15",
+    "count": 2610
   },
   "abbvie": {
-    "earliest": "2016-03-28",
-    "latest": "2026-05-14",
-    "count": 2549
+    "earliest": "2015-12-29",
+    "latest": "2026-05-15",
+    "count": 2610
   },
   "novo_nordisk": {
-    "earliest": "2016-03-28",
-    "latest": "2026-05-14",
-    "count": 2549
+    "earliest": "2015-12-29",
+    "latest": "2026-05-15",
+    "count": 2610
   },
   "sanofi": {
-    "earliest": "2016-03-28",
-    "latest": "2026-05-14",
-    "count": 2549
+    "earliest": "2015-12-29",
+    "latest": "2026-05-15",
+    "count": 2610
   },
   "mckesson": {
-    "earliest": "2016-03-28",
-    "latest": "2026-05-14",
-    "count": 2549
+    "earliest": "2015-12-29",
+    "latest": "2026-05-15",
+    "count": 2610
   },
   "cencora": {
-    "earliest": "2016-03-28",
-    "latest": "2026-05-14",
-    "count": 2549
+    "earliest": "2015-12-29",
+    "latest": "2026-05-15",
+    "count": 2610
   },
   "cardinal": {
-    "earliest": "2016-03-28",
-    "latest": "2026-05-14",
-    "count": 2549
+    "earliest": "2015-12-29",
+    "latest": "2026-05-15",
+    "count": 2610
   },
   "etf_xlv": {
-    "earliest": "2016-03-28",
-    "latest": "2026-05-14",
-    "count": 2549
+    "earliest": "2015-12-29",
+    "latest": "2026-05-15",
+    "count": 2610
   },
   "etf_ibb": {
-    "earliest": "2016-03-28",
-    "latest": "2026-05-14",
-    "count": 2549
+    "earliest": "2015-12-29",
+    "latest": "2026-05-15",
+    "count": 2610
   },
   "etf_xbi": {
-    "earliest": "2016-03-28",
-    "latest": "2026-05-14",
-    "count": 2549
+    "earliest": "2015-12-29",
+    "latest": "2026-05-15",
+    "count": 2610
   }
 }

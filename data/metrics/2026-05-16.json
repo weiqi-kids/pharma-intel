@@ -1,0 +1,49 @@
+{
+  "date": "2026-05-16",
+  "total_events": 20,
+  "by_company": {
+    "teva": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "dr_reddy": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "jnj": {
+      "count": 10,
+      "sentiment_avg": 0.0
+    },
+    "roche": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "merck": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 16,
+      "sentiment_avg": -0.06
+    },
+    "drug_approval": {
+      "count": 18,
+      "sentiment_avg": 0.0
+    },
+    "glp1_obesity": {
+      "count": 4,
+      "sentiment_avg": -0.25
+    },
+    "biotech_funding": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

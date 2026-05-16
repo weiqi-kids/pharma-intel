@@ -1,0 +1,16 @@
+{
+  "total_raw": 451,
+  "dup_title": 247,
+  "no_date": 0,
+  "too_old": 97,
+  "gate1_fail": 10,
+  "gate2_fail": 19,
+  "passed": 78,
+  "gate2_samples": [
+    "Lonza sells capsule business to Lone Star for $3bn - Financier Worldwide",
+    "Lonza Group AG: - marketscreener.com",
+    "Pfizer Just Locked In Its Next 5 Years of Growth -- Here's How - The Motley Fool",
+    "Prediction: Pfizer Will Beat the Market Over the Next 5 Years - The Motley Fool",
+    "These Johnson & Johnson leaders are breaking new ground in healthcare - Johnson & Johnson"
+  ]
+}
