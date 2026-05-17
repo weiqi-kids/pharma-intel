@@ -1,0 +1,16 @@
+{
+  "total_raw": 453,
+  "dup_title": 286,
+  "no_date": 0,
+  "too_old": 107,
+  "gate1_fail": 10,
+  "gate2_fail": 18,
+  "passed": 32,
+  "gate2_samples": [
+    "Lonza sells capsule business to Lone Star for $3bn - Financier Worldwide",
+    "Lonza Group AG: - marketscreener.com",
+    "Pfizer Just Locked In Its Next 5 Years of Growth -- Here's How - The Motley Fool",
+    "BridgeBio stands up to Pfizer in ATTR-CM as late-stage data hint at better survival - BioSpace",
+    "Prediction: Pfizer Will Beat the Market Over the Next 5 Years - The Motley Fool"
+  ]
+}
