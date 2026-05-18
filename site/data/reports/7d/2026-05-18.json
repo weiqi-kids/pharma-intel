@@ -1,0 +1,210 @@
+{
+  "date": "2026-05-18",
+  "date_range": {
+    "start": "2026-05-12",
+    "end": "2026-05-18"
+  },
+  "generated_at": "2026-05-18T11:51:50.187067Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-05-12-083",
+      "date": "2026-05-12",
+      "title": "Hims & Hers plummets 13% after first-quarter loss, weak earnings guidance - CNBC",
+      "importance_score": 0.9
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "astrazeneca",
+      "company_b": "merck",
+      "co_mention_count": 3,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "drug_approval": {
+      "this_week": 155,
+      "last_week": 118,
+      "week_over_week_change": "+31%",
+      "sentiment_this_week": -0.0
+    },
+    "industry_general": {
+      "this_week": 164,
+      "last_week": 112,
+      "week_over_week_change": "+46%",
+      "sentiment_this_week": -0.02
+    },
+    "earnings": {
+      "this_week": 20,
+      "last_week": 32,
+      "week_over_week_change": "-38%",
+      "sentiment_this_week": -0.07
+    },
+    "glp1_obesity": {
+      "this_week": 24,
+      "last_week": 12,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": -0.07
+    },
+    "biotech_funding": {
+      "this_week": 5,
+      "last_week": 2,
+      "week_over_week_change": "+150%",
+      "sentiment_this_week": 0.2
+    },
+    "patent_cliff": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "dr_reddy": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "pfizer": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "sun_pharma": {
+      "event_count": 12,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "bora": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "lonza": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 10
+    },
+    "jnj": {
+      "event_count": 39,
+      "sentiment_avg": 0.01,
+      "rank": 1
+    },
+    "roche": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "astrazeneca": {
+      "event_count": 23,
+      "sentiment_avg": -0.02,
+      "rank": 2
+    },
+    "novo_nordisk": {
+      "event_count": 20,
+      "sentiment_avg": -0.04,
+      "rank": 3
+    },
+    "eli_lilly": {
+      "event_count": 4,
+      "sentiment_avg": 0.25,
+      "rank": 11
+    },
+    "merck": {
+      "event_count": 11,
+      "sentiment_avg": 0.05,
+      "rank": 5
+    },
+    "sanofi": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "teva": {
+      "event_count": 11,
+      "sentiment_avg": 0.05,
+      "rank": 6
+    },
+    "catalent": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "cardinal": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 14
+    },
+    "mckesson": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 504,
+        "last": 532,
+        "change_pct": -5.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-12",
+      "event_count": 126,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-13",
+      "event_count": 106,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-14",
+      "event_count": 91,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-15",
+      "event_count": 80,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-16",
+      "event_count": 42,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-17",
+      "event_count": 10,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-18",
+      "event_count": 49,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-12 ~ 2026-05-18）共 504 則事件，重點為「Hims & Hers plummets 13% after first-quarter lo...」。Lilly表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "Dr. Reddy's",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "輝瑞",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Sun Pharma",
+        "reason": "本週出現 12 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

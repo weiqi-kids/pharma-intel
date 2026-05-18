@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T09:54:35.967826+00:00",
+  "updated_at": "2026-05-18T11:51:49.456267+00:00",
   "companies": {
     "teva": {
       "name": "Teva Pharmaceutical",
@@ -144,19 +144,19 @@
           "holder": "Gamma Investing LLC",
           "shares": 92,
           "pct_held": 0.0,
-          "value": 43184
+          "value": 42789
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 556,
           "pct_held": 0.0,
-          "value": 260986
+          "value": 258595
         },
         {
           "holder": "Main Street Group, Ltd                          ",
           "shares": 124,
           "pct_held": 0.0,
-          "value": 58205
+          "value": 57672
         }
       ]
     },

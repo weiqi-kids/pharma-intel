@@ -1,0 +1,73 @@
+{
+  "date": "2026-05-18",
+  "total_events": 49,
+  "by_company": {
+    "dr_reddy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "sun_pharma": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "lonza": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "jnj": {
+      "count": 9,
+      "sentiment_avg": 0.0
+    },
+    "roche": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "astrazeneca": {
+      "count": 13,
+      "sentiment_avg": -0.04
+    },
+    "merck": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "novo_nordisk": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "sanofi": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "mckesson": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "drug_approval": {
+      "count": 39,
+      "sentiment_avg": -0.03
+    },
+    "industry_general": {
+      "count": 40,
+      "sentiment_avg": 0.03
+    },
+    "patent_cliff": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "glp1_obesity": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
