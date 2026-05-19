@@ -1,0 +1,16 @@
+{
+  "total_raw": 456,
+  "dup_title": 220,
+  "no_date": 0,
+  "too_old": 120,
+  "gate1_fail": 11,
+  "gate2_fail": 17,
+  "passed": 88,
+  "gate2_samples": [
+    "Lonza sells capsule business to Lone Star for $3bn - Financier Worldwide",
+    "Pfizer Just Locked In Its Next 5 Years of Growth -- Here's How - The Motley Fool",
+    "Is It Time To Reassess Johnson & Johnson (JNJ) After Its 54% One Year Rally? - Yahoo Finance",
+    "These Johnson & Johnson leaders are breaking new ground in healthcare - Johnson & Johnson",
+    "Rutgers Business School propels graduating student into Johnson & Johnson leadership program - PR Ne"
+  ]
+}

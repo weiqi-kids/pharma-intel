@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T11:51:46.513138Z",
+  "updated_at": "2026-05-19T11:28:53.991633Z",
   "quarter": "2025-03-31, 2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -7,14 +7,14 @@
       "name": "艾伯維",
       "ticker": "ABBV",
       "currency": "USD",
-      "ar": 12589000000,
-      "ar_prev": 12769000000,
+      "ar": 12479000000,
+      "ar_prev": 12589000000,
       "ar_qoq": "-1%",
-      "inventory": 4951000000,
-      "inv_prev": 4938000000,
-      "inv_qoq": "+0%",
+      "inventory": 5049000000,
+      "inv_prev": 4951000000,
+      "inv_qoq": "+2%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "astrazeneca",
