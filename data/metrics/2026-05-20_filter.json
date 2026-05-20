@@ -1,0 +1,16 @@
+{
+  "total_raw": 456,
+  "dup_title": 230,
+  "no_date": 0,
+  "too_old": 122,
+  "gate1_fail": 12,
+  "gate2_fail": 15,
+  "passed": 77,
+  "gate2_samples": [
+    "Pfizer Just Locked In Its Next 5 Years of Growth -- Here's How - The Motley Fool",
+    "J&J gets naming rights to the Johnson & Johnson Exchange at the New Jersey Innovation Hub, Powered b",
+    "J&J secures HELIX innovation hub naming rights - NJBIZ",
+    "Johnson & Johnson Joins The New Brunswick HELIX Tech/Science Campus - Patch",
+    "Is It Time To Reassess Johnson & Johnson (JNJ) After Its 54% One Year Rally? - Yahoo Finance"
+  ]
+}

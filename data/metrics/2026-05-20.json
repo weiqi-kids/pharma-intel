@@ -1,0 +1,85 @@
+{
+  "date": "2026-05-20",
+  "total_events": 25,
+  "by_company": {
+    "bora": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "lonza": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "catalent": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "jnj": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "roche": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "astrazeneca": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "merck": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "novo_nordisk": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "sanofi": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "mckesson": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cencora": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cardinal": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pfizer": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 6,
+      "sentiment_avg": 0.08
+    },
+    "industry_general": {
+      "count": 21,
+      "sentiment_avg": -0.02
+    },
+    "drug_approval": {
+      "count": 21,
+      "sentiment_avg": 0.0
+    },
+    "glp1_obesity": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "biotech_funding": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

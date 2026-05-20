@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-19T11:28:53.991633Z",
+  "updated_at": "2026-05-20T10:59:27.122098Z",
   "quarter": "2025-03-31, 2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -63,28 +63,28 @@
       "name": "Cencora",
       "ticker": "COR",
       "currency": "USD",
-      "ar": 25979920000,
-      "ar_prev": 25225299000,
-      "ar_qoq": "+3%",
-      "inventory": 24078494000,
-      "inv_prev": 20492480000,
-      "inv_qoq": "+17%",
+      "ar": 24893220000,
+      "ar_prev": 25979920000,
+      "ar_qoq": "-4%",
+      "inventory": 20010006000,
+      "inv_prev": 24078494000,
+      "inv_qoq": "-17%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "dr_reddy",
       "name": "瑞迪博士",
       "ticker": "RDY",
       "currency": "USD",
-      "ar": 2786000000,
-      "ar_prev": 3713000000,
-      "ar_qoq": "-25%",
-      "inventory": 79009000000,
-      "inv_prev": 75821000000,
-      "inv_qoq": "+4%",
+      "ar": 3459000000,
+      "ar_prev": 2786000000,
+      "ar_qoq": "+24%",
+      "inventory": 76531000000,
+      "inv_prev": 79009000000,
+      "inv_qoq": "-3%",
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "eli_lilly",
@@ -133,14 +133,14 @@
       "name": "麥克森",
       "ticker": "MCK",
       "currency": "USD",
-      "ar": 28213000000,
-      "ar_prev": 28286000000,
-      "ar_qoq": "-0%",
-      "inventory": 27067000000,
-      "inv_prev": 26134000000,
-      "inv_qoq": "+4%",
+      "ar": 24247000000,
+      "ar_prev": 28213000000,
+      "ar_qoq": "-14%",
+      "inventory": 24207000000,
+      "inv_prev": 27067000000,
+      "inv_qoq": "-11%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "merck",
@@ -197,20 +197,6 @@
       "inv_qoq": "+0%",
       "alert": false,
       "quarter_date": "2026-03-31"
-    },
-    {
-      "id": "roche",
-      "name": "羅氏",
-      "ticker": "ROG.SW",
-      "currency": "CHF",
-      "ar": 12391000000,
-      "ar_prev": 11918000000,
-      "ar_qoq": "+4%",
-      "inventory": 7479000000,
-      "inv_prev": 7597000000,
-      "inv_qoq": "-2%",
-      "alert": false,
-      "quarter_date": "2025-12-31"
     },
     {
       "id": "sanofi",
