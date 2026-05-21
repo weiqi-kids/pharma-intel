@@ -1,0 +1,282 @@
+{
+  "date": "2026-05-21",
+  "generated_at": "2026-05-21T11:33:51.328476Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "eli_lilly-2026-05-21-019",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Focus: Lower cost Novo, Lilly weight-loss pills draw patients from compounded drugs, doctors say - Reuters",
+      "companies": [
+        "eli_lilly",
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ25vTUdkRUZmMGxvdG9EOWNNN3JrTTNpNmxZSFZlYURCRFVtMklWX281RjhxUnJNZ2Vsa21BRW5UME9ncWNINE1pYlAxbENySjByQ042eERmbWJiU0hiZC05Y2VBc1A0dTBXR0UwUDZPVTA5OXVCc1B6clFHS1hJLVY5d2t4RjVUWkJ2aU14U0lfNWZHMThtRU5peFJSdkg0VktDNHd3R2dqam84OXBxSjViOWdGSWpmbUFVME5NUnJZTjJiczB5b1dDYw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "sun_pharma-2026-05-21-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sun Pharmaceutical Industries Ltd stock (INE044A01036): earnings momentum and US focus in 2026 - AD HOC NEWS",
+      "companies": [
+        "sun_pharma"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTW1XTklwaHhDeGlPQUhuRmp6ZnBma0N6WnVnWHdtVzhULTU1ZW9qQ1VobHBEY21sMDVCZjNsYmVmS2RBYWtzbEFmTThwWWc0LUFscTRVVjJBNTBUUEM5UEZKSmcyTUZpVnVQUFRodDFQZXZvRXhzWmdxVnN4QUxIUzlEa0gzY1EzYjI0Z3k2cWFmdHpXS3FUSEhHLTYtbm9EUEEwbXRSQ0VUTVJRWEI5SXhFdXozXzNUNl9uSzlKTkZWWWdnbV9Jaw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "sanofi-2026-05-21-023",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sanofi stock (FR0000120578): Pipeline updates keep investors watching - AD HOC NEWS",
+      "companies": [
+        "sanofi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM19zVWNjOUItNmVKeWZiY1ozaE9DZGg3OW15VVRUVFNueldfSEQ4VGxXeDVJZENrTEZuMmtVNVRhc2dvbmloTW5kRF9sMHY2dmNFVlQza0FKUHNTZk1GLXY1bGM3eDAzT050UWF2cXF6OWpBR3JsLVMtRnREX1hBYUdkdE96cnR4OXgyWHJrc1FzbmtmM1lyaHM5YjVDU1hybENWYXYwVHdzZHFZV0JCbFFPamdKcS1lRGw2akJ0TDJCNzg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "eli_lilly-2026-05-21-017",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Lilly's triple agonist, retatrutide, delivered powerful weight loss in pivotal Phase 3 obesity trial",
+      "companies": [
+        "eli_lilly"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://investor.lilly.com/news-releases/news-release-details/lillys-triple-agonist-retatrutide-delivered-powerful-weight-loss"
+    },
+    {
+      "rank": 5,
+      "event_id": "novo_nordisk-2026-05-21-021",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Novo Nordisk launches higher-dose Wegovy for those seeking greater weightloss - BusinessLine",
+      "companies": [
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "glp1_obesity"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVE1NMDh6eUQ4MmQyY2dWS19JVXpTcTlSQVRVR1J0UThrejdhcGQyM3d4TDNGVk9WeVphcDBCZVVNakV6Y0UtNFpabHV5X1hBWm1SdWlwanlHV21OdlVJYjFVeDJRbnZNeEU4S3JRV2NCZlBnYzVfYzlKdGF5ZTAtMG1DUFhxUmZfR1Y1YzFRNnE3Vkc2a2daUjJOWFR5OUYtMzlRczdJS2Y5WGFvVXpEa01FMjRxVGFjV19HVm9XdVRYNXoweXY5SE9VSENraU5KVGVKYXFmSm9MbjRZ0gHjAUFVX3lxTE5lSVFNOWcxYkM1UnJzZXVuSVRKY1BwaEZmbkVBRUpMUkhRMUFDOWNnLWpvazZCbmk2Z0xYUWJYQnZvVmFzdVlKTk9ZLVM0MkJRWkxIS3h0WWk0czJ1a0xkbkZjdlg2NEM0MzdweEREVWNSdHg4bjVBLXNKckNfWndwNVNrMUc2U00wRS1vbDVGenpVNmdKT0p4ZkVwVmMtWHh3OHZfR0g0V2ZLQ0NXOTF6cnFZWWlrZUVPTUNGOVlOZXNMUjh3RUd4VjJuQmQxeVljOGtZblVGejhiQWRqN0lxelZz?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.11,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 26,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 18,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "jnj",
+        "count": 7
+      },
+      {
+        "id": "eli_lilly",
+        "count": 5
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 4
+      },
+      {
+        "id": "lonza",
+        "count": 2
+      },
+      {
+        "id": "astrazeneca",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 19
+      },
+      {
+        "id": "industry_general",
+        "count": 19
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 6
+      },
+      {
+        "id": "biotech_funding",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 456,
+    "dup_title": 227,
+    "too_old": 129,
+    "gate1_blocked": 13,
+    "gate2_blocked": 15,
+    "passed": 72,
+    "pass_rate": "31.4%",
+    "gate2_block_rate": "6.6%",
+    "gate2_samples": [
+      "Teva TD Findings Highlight Underdiagnosis And Shape Neuroscience Growth Story - Yahoo Finance",
+      "Johnson & Johnson Advances Creation of Global Intelligent OR Network in collaboration with Departmen",
+      "Is It Time To Reassess Johnson & Johnson (JNJ) After Its 54% One Year Rally? - Yahoo Finance",
+      "Johnson & Johnson Advances Creation of Global Intelligent OR Network in collaboration with Departmen",
+      "Johnson & Johnson Advances Creation of Global Intelligent OR Network in collaboration with Departmen"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 26 則事件，焦點為J&J、Lilly、Novo相關動態：「Focus: Lower cost Novo, Lilly weight-loss pills draw pati...」。主要關注主題為藥物核准、產業通用、GLP-1 減重，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Focus: Lower cost Novo, Lilly weight-loss pills draw patients from compounded...（藥物核准、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Sun Pharmaceutical Industries Ltd stock (INE044A01036): earnings momentum and...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
