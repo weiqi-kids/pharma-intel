@@ -1,0 +1,16 @@
+{
+  "total_raw": 457,
+  "dup_title": 224,
+  "no_date": 0,
+  "too_old": 133,
+  "gate1_fail": 11,
+  "gate2_fail": 13,
+  "passed": 76,
+  "gate2_samples": [
+    "Teva TD Findings Highlight Underdiagnosis And Shape Neuroscience Growth Story - Yahoo Finance",
+    "Why Johnson & Johnson (JNJ) Still Fits a Defensive Growth Case - Yahoo Finance",
+    "Johnson & Johnson backs NJ startup hub to drive new healthcare tech - Yahoo Finance",
+    "FDA warns public about Johnson & Johnson heart pump controllers after patient death - Cardiovascular",
+    "Johnson & Johnson advances intelligent OR network through Abu Dhabi agreement - MassDevice"
+  ]
+}
