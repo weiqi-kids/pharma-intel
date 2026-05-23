@@ -1,0 +1,16 @@
+{
+  "total_raw": 456,
+  "dup_title": 230,
+  "no_date": 0,
+  "too_old": 138,
+  "gate1_fail": 11,
+  "gate2_fail": 9,
+  "passed": 68,
+  "gate2_samples": [
+    "Johnson & Johnson advances intelligent OR network through Abu Dhabi agreement - MassDevice",
+    "Johnson & Johnson Advances Creation of Global Intelligent OR Network in collaboration with Departmen",
+    "FDA warns public about Johnson & Johnson heart pump controllers after patient death - Cardiovascular",
+    "AstraZeneca’s Baxfendy approved by US FDA for adults with uncontrolled hypertension - PMLiVE",
+    "Lilly to participate in Bernstein's 42nd Annual Strategic Decisions Conference"
+  ]
+}

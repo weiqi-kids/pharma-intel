@@ -1,0 +1,261 @@
+{
+  "date": "2026-05-23",
+  "generated_at": "2026-05-23T10:01:03.562504Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "roche-2026-05-23-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Roche Holding AG stock (CH0012032048): oncology focus and pipeline updates keep Swiss healthcare gia - AD HOC NEWS",
+      "companies": [
+        "roche"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "patent_cliff",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQd1dkT2NHcFdEMEdadVEzQk4tRjl0TUk0RkhiMWc5ZEpoTXYzRHEtb3pLU2psNTA1LW1EWGltaXFUNEtlOTNWelZqQ2hiaEV3TXJ6X1JoVWptaEpkVGZfb3NQbF9ISlJxMjZyRzBwOS02ZWFucW1ITUh4eFF3Zk5uYmVTN2lqQUR2am5OYmJqMnVlV2R3TzNDaEhkZmJXOGgzdlJ0TXpGVkxZcnQ2ZWJGZmRRS0I3dnBqWThMc1Z3QVlJcjFLOEdJTlpR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "dr_reddy-2026-05-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "FDA Tentative Approval for PALBOCICLIB issued to DR. REDDY'S LABORATORIES LIMITED - Quantisnow",
+      "companies": [
+        "dr_reddy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRS1wNXRHaWIyNHhxWF9aNk1TdXJXOGUxZ2VZZVQtWFgtVV9uUVcxa29TZGEydC1nb25hcnV2UnZwcjFjalNjVWc3dElYWWl0UlVXZUV4LTRqa3FiYURyd2t0SEViaE5xLW1ncEEycTF2ZXVfeWZJM1pwMHc3YXBxUXVKUi1aaEd3Sk0xNWRxQnBLRDFYVVpZcEdmUjlYbktZQ01KX1FQbDNOU1AyUEZIbDNuNjQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Dr Reddy’s Launches Generic Semaglutide Injection - Machine Maker",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaVR2eXpKUGRHbXVYVmd2a1ZaT3JDME5nUkxBOUJldzdBbmRiWTNuZFlGb2J4blZ0OGpmNU9yTktncXdEN0RkVXljb1RsTV9xVWNLZkdnbGppNFJQdHZHZ2Z4TXItd1ZKMDFtblpocTcwV2FjZXdXNS1udU5KLTNhWFRnNmhHNjRBaFE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lonza-2026-05-23-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lonza Group stock (CH0013841017): Solactive adds the name to an index adjustment - AD HOC NEWS",
+      "companies": [
+        "lonza"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOd3p3NmMweWY1enBkR2NUXzhHOWJQbi0tbDBHbEZXT2tiaUNXbUVUZEd4YWlueHQ5YTQtNEZFVUJkUWg1elJnRFFYMWcyYmhOS2dXRG4xV2trcnREb2VSTUNzb2JMT3FYR0VfNV9waFNuT0xGUHdOdVZsc0tLcFU1eVUtMEZXa1NvVWxQc0FJSGJlb2VaVk03eE9Zd0pucnp5LW1nc3hkcVQzRzIwWDZ2aGdoTjNlRUc2d2dVcVBVVTVLSWM?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "pfizer-2026-05-23-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Pfizer’s 50% Stock Crash: A Hidden Contrarian Buy Amid Booming Healthcare Sector - NAI500",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdnY5aDJEQV9CRHlvRWVKT1NsT2ljc3ZKTnA3eVJXTUY0NHcyRkFzWUVGOWV3OHpSY3Iydk4yMUxvRTJtdUxJWkZ3d3Z4azVYcjQwdUJ0WEZqcWhzaTFvNzBTX2lCZDVkRVdTTlNWbXZSWW9lN3ptZDRFQWR1cXgwaTdKU1pjQ3NrNTZYVWxOcnlPcHNiVC1qRjk0dkdIcTR0eXVhSTUwd3J2V2xucFF3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "jnj",
+        "count": 2
+      },
+      {
+        "id": "dr_reddy",
+        "count": 1
+      },
+      {
+        "id": "lonza",
+        "count": 1
+      },
+      {
+        "id": "pfizer",
+        "count": 1
+      },
+      {
+        "id": "roche",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 9
+      },
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 1
+      },
+      {
+        "id": "patent_cliff",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 456,
+    "dup_title": 230,
+    "too_old": 138,
+    "gate1_blocked": 11,
+    "gate2_blocked": 9,
+    "passed": 68,
+    "pass_rate": "30.1%",
+    "gate2_block_rate": "4.0%",
+    "gate2_samples": [
+      "Johnson & Johnson advances intelligent OR network through Abu Dhabi agreement - MassDevice",
+      "Johnson & Johnson Advances Creation of Global Intelligent OR Network in collaboration with Departmen",
+      "FDA warns public about Johnson & Johnson heart pump controllers after patient death - Cardiovascular",
+      "AstraZeneca’s Baxfendy approved by US FDA for adults with uncontrolled hypertension - PMLiVE",
+      "Lilly to participate in Bernstein's 42nd Annual Strategic Decisions Conference"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為J&J、Dr. Reddy's、Lonza相關動態：「Roche Holding AG stock (CH0012032048): oncology focus and...」。主要關注主題為藥物核准、產業通用、GLP-1 減重，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Roche Holding AG stock (CH0012032048): oncology focus and pipeline updates ke...（藥物核准、專利懸崖、法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "FDA Tentative Approval for PALBOCICLIB issued to DR. REDDY'S LABORATORIES LIM...（藥物核准、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
