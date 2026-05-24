@@ -1,0 +1,16 @@
+{
+  "total_raw": 456,
+  "dup_title": 263,
+  "no_date": 0,
+  "too_old": 145,
+  "gate1_fail": 11,
+  "gate2_fail": 7,
+  "passed": 30,
+  "gate2_samples": [
+    "Teva TD Findings Highlight Underdiagnosis And Shape Neuroscience Growth Story - Yahoo Finance",
+    "Lilly to participate in Bernstein's 42nd Annual Strategic Decisions Conference",
+    "Could Viking Therapeutics Be the Next Eli Lilly? - The Motley Fool",
+    "What Makes McKesson Corporation (MCK) an Attractive Bet? - Yahoo Finance",
+    "Immunovant’s potential autoimmune ‘blockbuster’; Wave’s RNA editing update"
+  ]
+}
