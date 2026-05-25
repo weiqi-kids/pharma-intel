@@ -1,0 +1,61 @@
+{
+  "date": "2026-05-25",
+  "total_events": 27,
+  "by_company": {
+    "teva": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "sun_pharma": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "lonza": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "jnj": {
+      "count": 9,
+      "sentiment_avg": 0.06
+    },
+    "roche": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "astrazeneca": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "merck": {
+      "count": 7,
+      "sentiment_avg": 0.0
+    },
+    "sanofi": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "drug_approval": {
+      "count": 26,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 25,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "glp1_obesity": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

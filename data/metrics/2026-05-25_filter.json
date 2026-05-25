@@ -1,0 +1,16 @@
+{
+  "total_raw": 458,
+  "dup_title": 252,
+  "no_date": 0,
+  "too_old": 143,
+  "gate1_fail": 11,
+  "gate2_fail": 10,
+  "passed": 42,
+  "gate2_samples": [
+    "Teva's Growth Story Is No Longer Just Generic, It's Getting Branded (NYSE:TEVA) - Seeking Alpha",
+    "Two Paths to Growth: Johnson & Johnson vs AbbVie - 24/7 Wall St.",
+    "Department of Energy Recognizes AstraZeneca for Achieving SEP 50001 at Gaithersburg Campus in Maryla",
+    "Merck & Co., Inc. (MRK) Completes $6 Billion Public Offering of Notes - GuruFocus",
+    "Lilly to participate in Bernstein's 42nd Annual Strategic Decisions Conference"
+  ]
+}
