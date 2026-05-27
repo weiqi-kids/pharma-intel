@@ -1,0 +1,265 @@
+{
+  "date": "2026-05-27",
+  "generated_at": "2026-05-27T11:45:52.327054Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "eli_lilly-2026-05-27-004",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Zacks Industry Outlook Highlights Eli Lilly, Johnson & Johnson, Novo Nordisk and Bayer - The Globe and Mail",
+      "companies": [
+        "eli_lilly",
+        "jnj",
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbVM1aGlqMzhuUVBpN2czMzU2RGxsWkdtU3BDckRBc3FKTF9fU1pqZkVnTHMwNFROd29RTGpBdUNUNlo4TUxKeXBQR0VTXzF1dHBwbEFQNWkzZXE1UEdISmR6S0VfODZnSlVJTnBxUWFTWUR4SFVpTnJkbzhJNDdUQnk0RVN5Z1h5SGVrdFNKQzNKYUd2Sy1ZMjdLM3l5WlNLWDlIbk9WZzN1ZFhUSl9EajBSc2dxTXRkZEN6QVZCXzZ6cXRwdGViNzBLRHZGbzdGRk5INDhpTmRGY2tPYWRfeVJKNFM0RVd3ekF6OG1jUWticmlUX1lReE1B?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "jnj-2026-05-27-005",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "WHO, AstraZeneca & J&J: Creating Precision Medicine For All - Healthcare Digital",
+      "companies": [
+        "jnj",
+        "astrazeneca"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbzN0dlZybEhzdXdXaWFqWUlZNEFwUy1QNC1NYkFTN2dYRGx5Rm16TDY0U2tRVHI2aWRQRDIzQ2pYOFl4dVZWdExmcGdvdFQwckxraWFTb3FkN0lwLUV2bnFEajFwVnJWelJLSVg0U216WDhoMkFfWGFLVnItSXN0MmppNGZycC1vbW5KSFRvNTB1R0NsUFE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "teva-2026-05-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Royal Palms Capital LLC Acquires Shares of 113,857 Teva Pharmaceutical Industries Ltd. $TEVA - MarketBeat",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObDdlemwtanN1andLOHhkdlJ1Yk82TzA5NEN2dVRTNGtTdWw1RjBTMjR3M1BzLVBkd0s1NS1yY05majVkWDd5VzJNRXhsMFFyaExOdkJkMnlidEZKTTJaaDE5TUM1Y3FZN0IwUHR2ZDNQTjlzelpGQWlRN1p0LTU5ME5WSzNzQjIyYTJRVFJXSXEwVUZJaHo4dzFOZHF1NEl2T3QzLWQ2eEhzcG5Ma0YxNlBuTzEwczhFT0dwdlQxQ1A4M2x1VmlzQ1psZ0RKRF9CZTBteEJxVDJxa0ZrSGJLbXk5emw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Generic Ozempic: What You Need To Know - Chatelaine",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YR3k4MzdmSTVpbDVrSWFJTlBWQ3o3YjdJWldWamhWY2dEdVR3eUh2ZW51eGxLVGgtdDdKNHJMZDctVUVHcF9tc0VWVGhoODFfclY1a3kzYWxXUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "jnj-2026-05-27-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Integrity Alliance LLC. Raises Stock Holdings in Johnson & Johnson $JNJ - MarketBeat",
+      "companies": [
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcTg2ZU9tVmg3aVU2VG52QV81eXhNdVNuQ1VFRkZEanN0c1M0Q1V0eFNBeDNLUVBlT2ZoNncxYWhmQ1doZlMxSU40bG95MFM0ZTNsLWZHUDRFUGw1QWJlVXRjSk1nVV96ZkF0VmZTeFdjSnBCM2hmR09JcjNwN2JFT0liYWlzLUVtN08xd2FHc3YxT1NiZU9vUG53dkJMclIwMlpFS3NKQVlhZzVHaElldlRvZ3JMZFlkSVdOX0JZSXBrN05wbzQ4?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.1,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.11,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 19,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "astrazeneca",
+        "count": 10
+      },
+      {
+        "id": "jnj",
+        "count": 4
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 3
+      },
+      {
+        "id": "merck",
+        "count": 3
+      },
+      {
+        "id": "teva",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 21
+      },
+      {
+        "id": "industry_general",
+        "count": 18
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 2
+      },
+      {
+        "id": "biotech_funding",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 455,
+    "dup_title": 214,
+    "too_old": 135,
+    "gate1_blocked": 15,
+    "gate2_blocked": 11,
+    "passed": 80,
+    "pass_rate": "33.2%",
+    "gate2_block_rate": "4.6%",
+    "gate2_samples": [
+      "Teva's Growth Story Is No Longer Just Generic, It's Getting Branded (NYSE:TEVA) - Seeking Alpha",
+      "China: the next Pfizer will be Chinese - ING THINK economic and financial analysis | ING THINK",
+      "Johnson & Johnson CMO explains advances behind 'game-changer' Shockwave C2 Aero catheter - MassDevic",
+      "Jennifer Taubert - Fortune",
+      "Two Paths to Growth: Johnson & Johnson vs AbbVie - 24/7 Wall St."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為AZ、J&J、Novo相關動態：「Zacks Industry Outlook Highlights Eli Lilly, Johnson & Jo...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Zacks Industry Outlook Highlights Eli Lilly, Johnson & Johnson, Novo Nordisk ...（藥物核准、法說會）",
+        "level": "red"
+      },
+      {
+        "text": "WHO, AstraZeneca & J&J: Creating Precision Medicine For All - Healthcare Digital（藥物核准、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

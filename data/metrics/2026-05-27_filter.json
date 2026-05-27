@@ -1,0 +1,16 @@
+{
+  "total_raw": 455,
+  "dup_title": 214,
+  "no_date": 0,
+  "too_old": 135,
+  "gate1_fail": 15,
+  "gate2_fail": 11,
+  "passed": 80,
+  "gate2_samples": [
+    "Teva's Growth Story Is No Longer Just Generic, It's Getting Branded (NYSE:TEVA) - Seeking Alpha",
+    "China: the next Pfizer will be Chinese - ING THINK economic and financial analysis | ING THINK",
+    "Johnson & Johnson CMO explains advances behind 'game-changer' Shockwave C2 Aero catheter - MassDevic",
+    "Jennifer Taubert - Fortune",
+    "Two Paths to Growth: Johnson & Johnson vs AbbVie - 24/7 Wall St."
+  ]
+}

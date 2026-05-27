@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-25T11:59:08.795924Z",
-  "quarter": "2025-03-31, 2025-12-31, 2026-03-31",
+  "updated_at": "2026-05-27T11:45:46.908959Z",
+  "quarter": "2025-12-31, 2026-03-31",
   "companies": [
     {
       "id": "abbvie",
@@ -262,17 +262,17 @@
       "name": "太陽製藥",
       "ticker": "SUNPHARMA.NS",
       "currency": "INR",
-      "ar": 130461100000,
-      "ar_prev": 129419900000,
-      "ar_qoq": "+1%",
+      "ar": 155096700000,
+      "ar_prev": 130461100000,
+      "ar_qoq": "+19%",
       "ar_period": "QoQ",
-      "inventory": 102433300000,
-      "inv_prev": 99356500000,
-      "inv_qoq": "+3%",
+      "inventory": 114929300000,
+      "inv_prev": 102433300000,
+      "inv_qoq": "+12%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2025-03-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "tci",
