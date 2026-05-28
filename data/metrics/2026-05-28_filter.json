@@ -1,0 +1,16 @@
+{
+  "total_raw": 456,
+  "dup_title": 216,
+  "no_date": 0,
+  "too_old": 131,
+  "gate1_fail": 13,
+  "gate2_fail": 13,
+  "passed": 83,
+  "gate2_samples": [
+    "Teva's Growth Story Is No Longer Just Generic, It's Getting Branded (NYSE:TEVA) - Seeking Alpha",
+    "China: the next Pfizer will be Chinese - ING THINK economic and financial analysis | ING THINK",
+    "Johnson & Johnson to Host Investor Conference Call on Second-Quarter Results 2026 - BioSpace",
+    "Johnson & Johnson to Host Investor Conference Call on Second-Quarter Results - Yahoo Finance",
+    "Johnson & Johnson to Acquire Atraverse Medical - JD Supra"
+  ]
+}
