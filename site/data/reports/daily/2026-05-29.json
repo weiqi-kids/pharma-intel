@@ -1,0 +1,232 @@
+{
+  "date": "2026-05-29",
+  "generated_at": "2026-05-29T11:36:36.522768Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "roche-2026-05-29-019",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "AstraZeneca, Roche to boost digital pathology uptake in APAC and more briefs - Healthcare IT News",
+      "companies": [
+        "roche",
+        "astrazeneca"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOWtZZXk0cTRuUUpFdHFmRmg2dVlTaTFlNW5RZ3hZS1pXcUdjS1c3SnR4TUNjRF9KNkQ3LTBMaXpOVkJVUXpXcFk5d1l4VUNCRk5DcWQySEcwcS1CU0p2R0JwNHhsN043NTFXeEJFM280d2Yyc2UtdVdDMU1kYnVrNUphZE9qNGpmWUdkeXZNSk9MMWphTmlGS0x3STRIZVhJMmtTWlFaSnR2QjhhOV9sZkp3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-29-032",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Opinion: I’m a weight-loss doctor. Here’s why I worry about GLP-1 ‘microdoses’",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.statnews.com/2026/05/29/glp-1-microdose-popular-but-unsupported-by-evidence/?utm_campaign=rss"
+    },
+    {
+      "rank": 3,
+      "event_id": "teva-2026-05-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Teva Pharmaceutical Industries Ltd. $TEVA Shares Purchased by Legal & General Group Plc - MarketBeat",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPN3VsSjFQTWxOSndESWFqc3VJRGptTmNZeGl1akhRa3A4Vlk5dlgyb25wa0FwTXZ3aTRJVGc1UFBJMmhQdV9KaE9seWFucTlYaUhpZ0xmTEpDa2NTV0xWS0JDZVFTNTg4cmYyTXozeE5CaUxoWVg5OC1RZHVUYWZiRmk4R1lFZV9Od0V2ekhBUnFVSl9FUmw5bDZFNDJjeklGYTFER0pzbEduRUJxbnBlNWFDYVY1SkNIajE0b09KamozWG1lWHpXRGVHSW43ZmR1VnZweDhDYzQ2TmFI?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "dr_reddy-2026-05-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Dr. Reddy's rings NYSE bell to celebrate 25 years of listing - scanx.trade",
+      "companies": [
+        "dr_reddy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVFY4LWNMeDdTUFBuR2V3dHdkWjE1WW8taTlfTXlrYVpIYnlMcks1a2xmNU9fNERnTEkwRjFLclN1YnRrRGtKZW1xQmFoWW9XbFczajJHRFA2RC1xMkYtU0ZQQTdkb3o1R0NNU043eUx3aG40MUNGc0Myd1dDUmNzRFN5SlF3bUNUMllrNzl3UXNoYjQ1NlQ5N0ViYV8tdUFLemZ1TkxqMFJYSjF0MTlLajFmWHh3WGtveDhj?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lonza-2026-05-29-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lonza Group AG stock (CH0013841017): Swiss CDMO trades softer after Q1 update - AD HOC NEWS",
+      "companies": [
+        "lonza"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRkc0WUlwVUN2THZ1UVVMVERlVkJwdDlISWRkeG5HTFFkVDVCLWNpb1ZJeDhRam01NlA2R0RqcjlDdDlmeGVaV2lycVdsS2V6blhuSTEtNFh0azFNdUpJTDF4RTVrSF93NVR2QUE3V29DZ2ViTzhaWFdzYnBtMGFXT00zQUxfbXJEUXM4dWVtUnFnTXlHcTBTTF9aR19QUmFVNjc4d0tiRTBxSG1JMWNucnZZbGMzUk9DaEVqTGVpeGRfT0Nh?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 28,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 27,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 33,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 32,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "pfizer",
+        "count": 15
+      },
+      {
+        "id": "merck",
+        "count": 6
+      },
+      {
+        "id": "jnj",
+        "count": 3
+      },
+      {
+        "id": "astrazeneca",
+        "count": 2
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 28
+      },
+      {
+        "id": "industry_general",
+        "count": 27
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 449,
+    "dup_title": 217,
+    "too_old": 135,
+    "gate1_blocked": 11,
+    "gate2_blocked": 12,
+    "passed": 74,
+    "pass_rate": "31.9%",
+    "gate2_block_rate": "5.2%",
+    "gate2_samples": [
+      "China: the next Pfizer will be Chinese - ING THINK economic and financial analysis | ING THINK",
+      "Johnson & Johnson to Acquire Atraverse Medical - JD Supra",
+      "Johnson & Johnson to Host Investor Conference Call on Second-Quarter Results - Yahoo Finance",
+      "Two Paths to Growth: Johnson & Johnson vs AbbVie - 24/7 Wall St.",
+      "US FDA decision date extended for SERENA-6 filing of camizestrant to enable review of additional dat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 33 則事件，焦點為輝瑞、Merck、J&J相關動態：「AstraZeneca, Roche to boost digital pathology uptake in A...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "AstraZeneca, Roche to boost digital pathology uptake in APAC and more briefs ...（藥物核准）",
+        "level": "yellow"
+      },
+      {
+        "text": "Opinion: I’m a weight-loss doctor. Here’s why I worry about GLP-1 ‘microdoses’（GLP-1 減重、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
