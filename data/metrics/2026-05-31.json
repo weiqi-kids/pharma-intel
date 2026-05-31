@@ -1,0 +1,45 @@
+{
+  "date": "2026-05-31",
+  "total_events": 6,
+  "by_company": {
+    "teva": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "lonza": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "jnj": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "astrazeneca": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "merck": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "drug_approval": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
