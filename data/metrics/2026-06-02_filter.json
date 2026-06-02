@@ -1,0 +1,16 @@
+{
+  "total_raw": 442,
+  "dup_title": 208,
+  "no_date": 0,
+  "too_old": 140,
+  "gate1_fail": 8,
+  "gate2_fail": 15,
+  "passed": 71,
+  "gate2_samples": [
+    "Dr. Reddy's Laboratories | 6-K: Report of foreign private issuer (related to financial reporting) - ",
+    "Dr. Reddy's Laboratories rings NYSE closing bell to mark 25 years of listing - Moneycontrol.com",
+    "Is It Too Late To Consider Johnson & Johnson (JNJ) After Its 48% One-Year Surge? - Yahoo Finance",
+    "J&J cutting 56 jobs at New Brunswick HQ - NJBIZ",
+    "Johnson & Johnson Wins Talc Verdict in Oklahoma, Appeal in Pennsylvania - Law.com"
+  ]
+}
