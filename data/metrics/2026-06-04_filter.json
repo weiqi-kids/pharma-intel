@@ -1,0 +1,16 @@
+{
+  "total_raw": 441,
+  "dup_title": 215,
+  "no_date": 0,
+  "too_old": 132,
+  "gate1_fail": 12,
+  "gate2_fail": 16,
+  "passed": 66,
+  "gate2_samples": [
+    "Dr. Reddy's Laboratories | 6-K: Report of foreign private issuer (related to financial reporting) - ",
+    "Dr. Reddy's Laboratories rings NYSE closing bell to mark 25 years of listing - Moneycontrol.com",
+    "BioNTech and Pfizer tout bispecifics data at ASCO, and Pazdur sees silver lining at FDA - statnews.c",
+    "Pfizer vs Merck: Chasing High Yield vs Higher Returns - 24/7 Wall St.",
+    "Johnson & Johnson Hopes to Dethrone AbbVie's Biggest Growth Driver. Here's Why Investors Shouldn't P"
+  ]
+}

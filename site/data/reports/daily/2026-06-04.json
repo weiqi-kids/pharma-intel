@@ -1,0 +1,250 @@
+{
+  "date": "2026-06-04",
+  "generated_at": "2026-06-04T11:21:58.292030Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "pfizer-2026-06-04-003",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Why Pfizer And Eli Lilly Are Betting On This $1.3 Billion AI Drug Discovery Startup - Forbes",
+      "companies": [
+        "pfizer",
+        "eli_lilly"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbU1Ja0lIbmZ6cEc4a0xkaDhuNW1xNGR5Z191NnJjbjllM2NYVFc3c0Fxa0JqdEtBaGJDS1J1eG40Z1hMMUljRGVuTDh6NW5DQUlNbGsyTDUwNlN0MEdZT0M2TmF6bmhNU0QyZHVRamRxYlIySk5POWtocUZTOFhlTXBGMHYzc1JBaWpKaHFvdHl5N1BzVnVDYVhoMDJPdDVvRFJ0UktPckoyUXlzN3h6SDBQdG1lRlIwd1pMdTRoby1JcnFOQU5YSHFadjJNdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "merck-2026-06-04-004",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Moderna Outshines Pharma Giants Lilly, Merck and Pfizer With 43% Year-to-Date Surge - NAI500",
+      "companies": [
+        "merck",
+        "pfizer",
+        "eli_lilly"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR0V1blRnak9IMEN1UjVGT2ZlU05UY2hHQUo5WEpycm1Nbl93NlRiUUt0bWdCVkNIWEpoTFFTazdaQUVEZFhWRzZZSG16QmhyeXVENW1TQ0dOZ0dmWWhKeHI0VHFLa3FLdWZpZ2dLcHY4R19zQjlXZXJDdnVaZ0ZPcld2d0JXM0ZteUR4UWRSYjFVdGk3QXB6QzhmcmlBVng2c0liMUh4R0lFY1ZibnNvTGxRNXM?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "teva-2026-06-04-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Teva Pharmaceutical Industries Ltd. $TEVA Holdings Lowered by Sound Shore Management Inc. CT - MarketBeat",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZHc1VXZIc2ctaVhzVDBSMGVUbW5lSjhwQU9uUVZycjJQR3hkckRiMG91ai1yLWJLdW9JenRfZms2dTlvdS1RNDQ1cUl4YVJHMzVYMy1VQ1B1NEc5dkNSTDg5VTFSaWEySHdJTkRRQWFjWkZQdm5xeWc5NDNKZ0ZFUG9qdGRSMGFoalNydklvc1lMX1VJR3hHd0NvM1hMMTRoU01tN3ZUZi1BN0RFQmphNDNSS3pRd3RIeVJFb2pFbm1oZDZNZl81V3QwVzE3cjFpLUcwQ3hpQ2tYdFpWVm1OVEIzYUE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "sun_pharma-2026-06-04-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sun Pharmaceutical Industries Ltd drops for fifth straight session - Business Standard",
+      "companies": [
+        "sun_pharma"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObEFlQTlnblFLTHJ2bVQ5YnN3YTBoWV81ZVRWd0xVMGkxUDZGa0NKOXBhaGxLX2xvdFhNNGJiZFN6Q2ltMy1jN25QRUtWeVgwOC1WSkRLVXUxUGE5dEZoY3RHTjVpMmRob1hJQlhBU3IxQk1XUGNxOTRKZUxPSVlYTjBrelZXcE9Ldm5QYmh2TndOUC1zTE95ZWFZUDF1MHBoT2RzQ0RPYU9OeEFtUlRGNFphckZLSkFVUXNyVnNoelhwakRvMkwxR0FZNzd5Z3hBTG5pZENJYzZ1UlZBLXBKS0VB0gHnAUFVX3lxTE9nZWY3YldxVDVlNTVSTEt2ZW1jMzE0UHdVRXh0UUFNYUpad3dyZDhfQjBzSThQTmtQSHpQOEpiNHctZGNIdTZMWlQ1ZjE0VW1rRkhTNEpQXy1uN0FGTFNyc19NU2RBMVZ3REN2WW5DUVpuVWR6ajBKZmpEWmUxTVFlQkUzaEV2OUVVOGp1YUxKSEhodlJPQnoxRi13MzNwWnNRZ3dLUjgxTFRGYkNKMkt3aGtUMWVWNTRnaWRBVWtjSHI3TWdzckJXdUJfSUJKX0Q4SlVLeDhuNnhIajhpQkR6ZlY4dF9rYw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "jnj-2026-06-04-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Johnson & Johnson reports phase 2 data showing nipocalimab reduced SLE disease activity - PharmaTimes",
+      "companies": [
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "biotech_funding",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa3pOMUlOWV9GdlA4N1g1Zll6WUV5Vl9zaWtGRHVTOHBsZ2dTaW5oMXFsYzczeGY0ZG94TENQbWxYbG1VRTFUaHV5dzN6MjF0eDI4NkNzakhpdzR5UlRSZ3FyTWNFZDIyXzg5aS1nQmFydFJNTFNJenFTcENqbm05bjBtSzRJYnB5eVo4aHVXaTJFN2o5RzRsUER0bkg5UHlVblhsZ3Vua3N2VWpoUGJCV0tWdGFSZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "eli_lilly",
+      "to": "pfizer",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "drug_approval"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 17,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "jnj",
+        "count": 3
+      },
+      {
+        "id": "pfizer",
+        "count": 2
+      },
+      {
+        "id": "eli_lilly",
+        "count": 2
+      },
+      {
+        "id": "merck",
+        "count": 2
+      },
+      {
+        "id": "teva",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 18
+      },
+      {
+        "id": "drug_approval",
+        "count": 11
+      },
+      {
+        "id": "biotech_funding",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 441,
+    "dup_title": 215,
+    "too_old": 132,
+    "gate1_blocked": 12,
+    "gate2_blocked": 16,
+    "passed": 66,
+    "pass_rate": "29.2%",
+    "gate2_block_rate": "7.1%",
+    "gate2_samples": [
+      "Dr. Reddy's Laboratories | 6-K: Report of foreign private issuer (related to financial reporting) - ",
+      "Dr. Reddy's Laboratories rings NYSE closing bell to mark 25 years of listing - Moneycontrol.com",
+      "BioNTech and Pfizer tout bispecifics data at ASCO, and Pazdur sees silver lining at FDA - statnews.c",
+      "Pfizer vs Merck: Chasing High Yield vs Higher Returns - 24/7 Wall St.",
+      "Johnson & Johnson Hopes to Dethrone AbbVie's Biggest Growth Driver. Here's Why Investors Shouldn't P"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為J&J、輝瑞、Lilly相關動態：「Why Pfizer And Eli Lilly Are Betting On This $1.3 Billion...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Why Pfizer And Eli Lilly Are Betting On This $1.3 Billion AI Drug Discovery S...（藥物核准、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Moderna Outshines Pharma Giants Lilly, Merck and Pfizer With 43% Year-to-Date...（藥物核准、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
