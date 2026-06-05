@@ -1,0 +1,16 @@
+{
+  "total_raw": 450,
+  "dup_title": 205,
+  "no_date": 0,
+  "too_old": 122,
+  "gate1_fail": 8,
+  "gate2_fail": 20,
+  "passed": 95,
+  "gate2_samples": [
+    "Teva to Present at the Goldman Sachs Global Healthcare Conference - GlobeNewswire",
+    "BioNTech and Pfizer tout bispecifics data at ASCO, and Pazdur sees silver lining at FDA - statnews.c",
+    "Pfizer vs Merck: Chasing High Yield vs Higher Returns - 24/7 Wall St.",
+    "Johnson & Johnson (JNJ) Exceeds Market Returns: Some Facts to Consider - Yahoo Finance",
+    "Talc Lawyers Ask Los Angeles Jury to Hit Johnson & Johnson With Punitive Damages: 'The Language They"
+  ]
+}

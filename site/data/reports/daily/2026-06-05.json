@@ -1,0 +1,250 @@
+{
+  "date": "2026-06-05",
+  "generated_at": "2026-06-05T11:34:55.179925Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "novo_nordisk-2026-06-05-022",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Lilly and Novo Now Look Beyond US for Obesity Drug Growth - Bloomberg.com",
+      "companies": [
+        "novo_nordisk",
+        "eli_lilly"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "patent_cliff",
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcWRjSTRUTkxFNVhveFVYcHZKOFM0MGkyNkRlZkZuZ0tiWklJZEZtV0lmTnB3cVpnZXYxZEdvaTRVcFRKYy01cHpMcEpybHBqdFI4SkFmRzBZMG00c1FaMDBCcFdVTF9QVURZVTJ3VzFZemsyZUhIM3d0T1NGRkN4LVV3UHplOE93VTdzX3hqdExhYmM5d1IwZlR1NEFtVGp2bXVjVWU0X2JZbEND?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-05-024",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "US diabetes conference is set to scrutinize weight-loss drugs - medwatch.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBVkN4NEhoOEVCN3UwM0RYVU40RTdVX18zRUhQam40SFlKN1gtTnlZMUZiTklTbkhhaWNVeUkzMmFEMHlBT2N4am9neTZsM0RYSU03TjR2TEswTDREOFhxU1dpWXhaaXJwUGJ3bkg5VQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "teva-2026-06-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Straight Path Wealth Management Sells 30,000 Shares of Teva Pharmaceutical Industries Ltd. $TEVA - MarketBeat",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdjJSM2VSWk82TVJVTHAwWVotT0JnX3Zxb3N4TURmWTBlWnQ4ZzZxYVZqcWlzV2tYUXlCWWhjTWxlTW5rS2NHRlNhNUlpUEJyeHd5Z1ZGUWFjRHdUaVlKUlJ6dzlLUGIwcmgyNFROUFVTUXlxU0ZfSjdaN3ltRkJMUlNyR1dLU0dYWmxjRlBtNENRclBnbmFETW83bUZSNUhCcWZqRDk4WHgxRWg5TV9aQk44aFk1dWpScHdsc0IzTjZGOTFYaFJNYUR6X3JZQW1XY3U4SWJLSzlQbGViRDZDVUNsOVRFYWhzbEE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "teva-2026-06-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arrowpoint Investment Partners Singapore Pte. Ltd. Acquires Shares of 152,712 Teva Pharmaceutical Industries Ltd. $TEVA - MarketBeat",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQNjBydXdNMUs4RWZHWk4tVXNmM1lEcmNXcFpmMnR4eUd6d0lRZEw0ZUxfUEUwRVZiU3Z4c2h1TWhOenlibTVnVTlxVlg5ZmcxT1lUMldKazNUZzBkMTdMU1R5Ni1QdVdvelFhWE01eDFSTzhud0VaU2tFRHhTRGFLTEVpZng1RnptWk9QOE1WeS11N09xeV8xN1dMd2NsNXNxaVA4UkpMbThrTkw3eTFYcmZvZ2E3OElENWhCM0hiZFJHZWZIeTdRaTViT3V4Q2U3VTZrWnc3NEdyNF8wLWVJWnNnR2szOUt4bno1VnNoVkszeUdhUl9ESlRsM2xUci1lQWVYMy1B?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "pfizer-2026-06-05-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Pfizer signs licence agreement with Chai for AI drug discovery - Pharmaceutical Technology",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZHY3QWJFanctR3FmU2FZWXJRZk1EVFFibVFxRkpib1liSnl3VnoxQWM1UDBNWndWTTk4VUo2emh4WkYtVS11SVlKYkxHUDlFUmk4dDNQaGZRX0l5WVlKeGlyVDc5Z09aWmtnS2Z1UW5kLTNKcW55T3hzMFptd2JnMEFmZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 25,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 25,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 28,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 26,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "jnj",
+        "count": 8
+      },
+      {
+        "id": "merck",
+        "count": 6
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 4
+      },
+      {
+        "id": "teva",
+        "count": 2
+      },
+      {
+        "id": "pfizer",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 25
+      },
+      {
+        "id": "industry_general",
+        "count": 25
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 2
+      },
+      {
+        "id": "patent_cliff",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 450,
+    "dup_title": 205,
+    "too_old": 122,
+    "gate1_blocked": 8,
+    "gate2_blocked": 20,
+    "passed": 95,
+    "pass_rate": "38.8%",
+    "gate2_block_rate": "8.2%",
+    "gate2_samples": [
+      "Teva to Present at the Goldman Sachs Global Healthcare Conference - GlobeNewswire",
+      "BioNTech and Pfizer tout bispecifics data at ASCO, and Pazdur sees silver lining at FDA - statnews.c",
+      "Pfizer vs Merck: Chasing High Yield vs Higher Returns - 24/7 Wall St.",
+      "Johnson & Johnson (JNJ) Exceeds Market Returns: Some Facts to Consider - Yahoo Finance",
+      "Talc Lawyers Ask Los Angeles Jury to Hit Johnson & Johnson With Punitive Damages: 'The Language They"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 28 則事件，焦點為J&J、Merck、Novo相關動態：「Lilly and Novo Now Look Beyond US for Obesity Drug Growth...」。主要關注主題為藥物核准、產業通用、GLP-1 減重，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Lilly and Novo Now Look Beyond US for Obesity Drug Growth - Bloomberg.com（藥物核准、專利懸崖、GLP-1 減重、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "US diabetes conference is set to scrutinize weight-loss drugs - medwatch.com（藥物核准、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
