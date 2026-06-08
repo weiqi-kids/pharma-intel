@@ -1,0 +1,281 @@
+{
+  "date": "2026-06-08",
+  "generated_at": "2026-06-08T12:40:54.420863Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "eli_lilly-2026-06-08-027",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Eli Lilly, Novo Both Share Good News on Weight-Loss Drugs. Only One Stock Is Rising. - Barron's",
+      "companies": [
+        "eli_lilly",
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYlhtWEpiS1JKOV9aVUpYdnQyQTNYdDdEdU5ENEgyeDhtdGhaY1NBbTM2V1l1NU5ja3JSTEwwWEhXUHZmVGhtcEpJdEhSN1BSbHB3c2Q2aHRtcHNNcTJyNHY2RkJqVGhSRU4zNlFNaUlFbUpVbEdoQVR4X1lOUTd2MEhLRHZUb1FNeVE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "cardinal-2026-06-08-035",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How Investors Are Reacting To Cardinal Health (CAH) Raising Guidance While Expanding Theranostics Amid Recall - simplywall.st",
+      "companies": [
+        "cardinal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "gmp_inspection",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbndDeExCRExMbmJHTEJVbWsxc3VTR1o5VXE2aThzdUhWZXhDNzBSdk02ZWR6c0xlUm9oLXdjWWpLaEVLX3hEVjlqcDRKUmxzVkJXd1g0WWpuOHlVakc3SEIxZWpjaDktb2cwV0NUMzI4VFd3QkprNTBUVm9XaWFWNEhSNGJYWlFpeWg2RHJRdnFHZ3pPOXNtZVZWcEs4bmcwMmx4Z0xyV0ZWd3BFTmZwT2JiZms5R0VhdzlsUXllc2lsYkk5YkZVbklHVXF3UdIB0wFBVV95cUxPeXRtNVBaUWxiMmxWbmhhaVNHRVEtLUFoLVBBeWdZU3BwNFZtV3Z0Z3RMWVNya2dhNE1xRGtqeUNXdmVRUUtORTU4UkhsVjZJRlc1ZTJXSEJoUmlUcHpfVWxlY1ZJaWcxeFdTczVHOHo5b0t3SzdYVlFBUGNsMnlpYU1RY3MzaVFlTGVYNW1Yb3k3ZHJQVlBtcWE5bTNzZFJKT2pUYnlrb3FXczZZVDV0Y0JBd3ppaHhpRGIwRTIwX1FNN0hBdDRpc0pZM05NTU1SWF9N?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "novo_nordisk-2026-06-08-024",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Novo Nordisk Weight-Loss Pill Prescriptions Hit Three Million Since Launch - WSJ",
+      "companies": [
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTFVUR01NU2VfVXloWng5REhkYzVKdXFjM3FrY2hBaDYwZlF3NkxxSTNkalFxZ3pyOHFkbk51NnFhdWMwR2h5WHN0c29SQ1FLdE9PTWtpaUdaYV9lRUN4Nmg4QXJHNWZ1X1NIeTRIWVM0ZWhsUU9JOWk0NmI0U1RFMWt5Q3pqNEdCY3YzQW9zaXdoWjY3OWp4bWhxVlh2WkpvaW1wbXpJTDhQeHlkWlBsbTRVNE1Bdk1u?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "novo_nordisk-2026-06-08-025",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Novo Nordisk's weight loss pill is hitting 3 million U.S. prescriptions — and most users had never tried one before - qz.com",
+      "companies": [
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBZYk5INF9iTVFLYmxQeUo0SGQ2YmVkNGVWemh3Mi1jT0I1ZFFDdktNcm5GeWR2dy0tMC1ueXh4cUJ5VmtuWXk2QkFaUmdOaEIzSTlJNkNBd2RkaGxBWTByNElCQVZfV184LW9SMEtDejZkSENjNER0M1Vn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "novo_nordisk-2026-06-08-028",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Novo Nordisk broadens semaglutide case beyond weight loss - The Pharma Letter",
+      "companies": [
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVk80UUNBV0ZYeVdxLU1mdFYyOUY4amZHZHhmRFh1alA1dGdVZTRkSHd2V0JqSnVOYTdFVWMzOHF3ckFPTHlULXJwWjBwNHBnVnVWSm93WmtxaVp4YkFpUEYzWndBbmtyRndlZlRPZWtpQzhBZDlwNTAxY0RoWDFsVmtuQ25nYmZjZXVjS0ZwN3pIa2xxSjVoVzRLVXN2WnBISU1v?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 37,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 41,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.2,
+      "sentiment_7d_avg": null
+    },
+    "gmp_inspection": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 49,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 40,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "jnj",
+        "count": 11
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 9
+      },
+      {
+        "id": "pfizer",
+        "count": 6
+      },
+      {
+        "id": "roche",
+        "count": 6
+      },
+      {
+        "id": "astrazeneca",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 41
+      },
+      {
+        "id": "drug_approval",
+        "count": 37
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 5
+      },
+      {
+        "id": "patent_cliff",
+        "count": 2
+      },
+      {
+        "id": "gmp_inspection",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 449,
+    "dup_title": 225,
+    "too_old": 123,
+    "gate1_blocked": 10,
+    "gate2_blocked": 15,
+    "passed": 76,
+    "pass_rate": "33.9%",
+    "gate2_block_rate": "6.7%",
+    "gate2_samples": [
+      "Kunwar Khurana Appointed Head – Sales and Marketing At Dr. Reddy’s Laboratories - hrtoday.in",
+      "Johnson & Johnson to buy Firefly Bio for $1 billion - AOL.com",
+      "Roche develops PCR test to detect the Ebola Bundibugyo virus - BioWorld News",
+      "NYSE Content Update: AstraZeneca Celebrates Largest Transfer in NYSE History - Investing News Networ",
+      "NYSE Content Update: AstraZeneca Celebrates Largest Transfer in NYSE History - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 49 則事件，焦點為J&J、Novo、輝瑞相關動態：「Eli Lilly, Novo Both Share Good News on Weight-Loss Drugs...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Eli Lilly, Novo Both Share Good News on Weight-Loss Drugs. Only One Stock Is ...（藥物核准、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "How Investors Are Reacting To Cardinal Health (CAH) Raising Guidance While Ex...（GMP 查廠、法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

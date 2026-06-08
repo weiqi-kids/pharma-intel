@@ -1,0 +1,16 @@
+{
+  "total_raw": 449,
+  "dup_title": 225,
+  "no_date": 0,
+  "too_old": 123,
+  "gate1_fail": 10,
+  "gate2_fail": 15,
+  "passed": 76,
+  "gate2_samples": [
+    "Kunwar Khurana Appointed Head – Sales and Marketing At Dr. Reddy’s Laboratories - hrtoday.in",
+    "Johnson & Johnson to buy Firefly Bio for $1 billion - AOL.com",
+    "Roche develops PCR test to detect the Ebola Bundibugyo virus - BioWorld News",
+    "NYSE Content Update: AstraZeneca Celebrates Largest Transfer in NYSE History - Investing News Networ",
+    "NYSE Content Update: AstraZeneca Celebrates Largest Transfer in NYSE History - Yahoo Finance"
+  ]
+}
