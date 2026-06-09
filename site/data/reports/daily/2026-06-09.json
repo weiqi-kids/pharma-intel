@@ -1,0 +1,248 @@
+{
+  "date": "2026-06-09",
+  "generated_at": "2026-06-09T11:25:48.125223Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "roche-2026-06-09-021",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "GSK inks $10.6B Nuvalent buyout to challenge Roche and Pfizer in lung cancer - Fierce Biotech",
+      "companies": [
+        "roche",
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObU5PcldrUFhjMzJFVHZ2WTdaMlo1aVU3QVY0WW9mWm1qZTlCbXJxOHE3c01jeUxyWHhvU3FlX2FBLXZ1dlBYc0EteXd3a1dNNURZTlJLcW1GRkIwNjhYN3FaZnBCLWVqM1NWN25PT01LZXZ2Vm5vMjc1VGVJcElvQi1VREJGVE9mM05PNWtOcFd5cEQ5Q0dBZ21mOFVzbW1CZWpGRTdMOU9YZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-09-024",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Opinion: Ending animal testing could set back xenotransplantation just as the field is poised for a breakthrough",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.statnews.com/2026/06/09/pig-organ-transplant-animal-testing-impact-xenotransplantation/?utm_campaign=rss"
+    },
+    {
+      "rank": 3,
+      "event_id": "teva-2026-06-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "TD Asset Management Inc Purchases 118,075 Shares of Teva Pharmaceutical Industries Ltd. $TEVA - MarketBeat",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNU28zU21hVnoxb3BrUXFETm5uc3hGSHAyX0JwZzNjVEhaeUZMRXNOMVJkUG1CZkpRSGNwS0RQaDdVSEpjeko5bnF0VGZzNWlyVWtsUEhhT0drR05ILS1YQUZxZ0Q3ZHF0TUpzT2Rsc3RrcDZ0ZVFfNmZURWNCNnpvNmktNmxicGhPS2E2emJQZnJ4N2RPNmNhU0J3SlpDUVN2RVkyWl9RUEgzZ0hVNlJnMml1U0UzbUI1RmZWUFotaTdISjBQdTFWazJwSzdQNk8tcDhOWUVJdVhVcmVYcVBoSThJdU1IZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "teva-2026-06-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Capital International Investors Raises Stake in Teva Pharmaceutical Industries Ltd. $TEVA - MarketBeat",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQkh4eTMwWG9qUXFNYUJGR2RlOUJSN1BMVER6YnZXWG9FcjBCYzE2b2VXQUcwNjROTXFaMU5YMWZBV3hvcmIxQkFFNTlINnVGRUFiR3BKYWRFVHlWbWdOLXhNS09DUVN5Sno1bEZOamZnbXhxOWhDNnlkR2NFUHZZVF9peHgtT0NwdXJjcjA5YW9LYVV1UUYxNVROWE1wN3dXQzZvbTlYZ1BYeGt6ZVAtTGl0dFBYVDl4elBmcW5GM2FKcjNSX3ZRLUhCd2Z4MjAyNFQtaVMtaUFvS0FsNUhjZkRR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "teva-2026-06-09-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BI Asset Management Fondsmaeglerselskab A S Lowers Stock Holdings in Teva Pharmaceutical Industries Ltd. $TEVA - MarketBeat",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTzhnTW01YnBjWG1hZURfalJDTkg5Vk01QUIwRmhyekdxRU1IVEozQ1ZVZnNteVVvYUhHaUtkWWxkS21mdXBDNlVyTU5paWRud3pIM29IUUo3ZlhCY1p3UEhPaHdoeFdiYU9SM2c0eVI5RUZSLUl0bU5MTExoblFpcURncWhHeG91RmVYZ1E0cHp3TW5kb0Z4VzdWdmUtSFJwSWlSbHBwYWpVU1NlVEJ2d2h1QXVFQWJfUXhYeVdhbjZkQXhaaGhJNGRLclZzd2V4Y1JxeUZvUFdMR2d6elBDek9RMTk2Sjh5NVNJdWhsbWw1MGRhYS10dVl6VElLUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 22,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 25,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 20,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "jnj",
+        "count": 4
+      },
+      {
+        "id": "astrazeneca",
+        "count": 4
+      },
+      {
+        "id": "teva",
+        "count": 3
+      },
+      {
+        "id": "sun_pharma",
+        "count": 3
+      },
+      {
+        "id": "pfizer",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 23
+      },
+      {
+        "id": "industry_general",
+        "count": 22
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 2
+      },
+      {
+        "id": "patent_cliff",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 447,
+    "dup_title": 195,
+    "too_old": 117,
+    "gate1_blocked": 9,
+    "gate2_blocked": 16,
+    "passed": 110,
+    "pass_rate": "43.7%",
+    "gate2_block_rate": "6.3%",
+    "gate2_samples": [
+      "Lonza Appoints Hans Trees as Global Head of Communications - marketscreener.com",
+      "US FDA Approves Pfizer’s Hympavzi for Children with Hemophilia - Новости GxP",
+      "Johnson & Johnson to Buy Firefly Bio for $1 Billion - WSJ",
+      "J&J makes $1B move for Firefly Bio, Carolyn Bertozzi’s twist on ADCs in KRAS field - Endpoints News",
+      "Johnson & Johnson acquires Firefly Bio for $1 billion - qz.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 25 則事件，焦點為J&J、AZ、Teva相關動態：「GSK inks $10.6B Nuvalent buyout to challenge Roche and Pf...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "GSK inks $10.6B Nuvalent buyout to challenge Roche and Pfizer in lung cancer ...（藥物核准、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Opinion: Ending animal testing could set back xenotransplantation just as the...（藥物核准、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

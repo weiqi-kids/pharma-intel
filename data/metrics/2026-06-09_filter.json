@@ -1,0 +1,16 @@
+{
+  "total_raw": 447,
+  "dup_title": 195,
+  "no_date": 0,
+  "too_old": 117,
+  "gate1_fail": 9,
+  "gate2_fail": 16,
+  "passed": 110,
+  "gate2_samples": [
+    "Lonza Appoints Hans Trees as Global Head of Communications - marketscreener.com",
+    "US FDA Approves Pfizer’s Hympavzi for Children with Hemophilia - Новости GxP",
+    "Johnson & Johnson to Buy Firefly Bio for $1 Billion - WSJ",
+    "J&J makes $1B move for Firefly Bio, Carolyn Bertozzi’s twist on ADCs in KRAS field - Endpoints News",
+    "Johnson & Johnson acquires Firefly Bio for $1 billion - qz.com"
+  ]
+}
