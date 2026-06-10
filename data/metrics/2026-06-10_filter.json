@@ -1,0 +1,16 @@
+{
+  "total_raw": 450,
+  "dup_title": 226,
+  "no_date": 0,
+  "too_old": 115,
+  "gate1_fail": 14,
+  "gate2_fail": 15,
+  "passed": 80,
+  "gate2_samples": [
+    "Lonza Appoints Hans Trees as Global Head of Communications - marketscreener.com",
+    "J&J makes $1B move for Firefly Bio, Carolyn Bertozzi’s twist on ADCs in KRAS field - Endpoints News",
+    "Johnson & Johnson to Buy Firefly Bio for $1 Billion - WSJ",
+    "Roche Expands BTK Degradation Platform With Nurix In Multi‑Area Bet - simplywall.st",
+    "Roche keeps €600M Germany project on track despite industry concerns - report (RHHBY:OTCMKTS) - Seek"
+  ]
+}
