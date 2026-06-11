@@ -1,0 +1,16 @@
+{
+  "total_raw": 444,
+  "dup_title": 225,
+  "no_date": 0,
+  "too_old": 114,
+  "gate1_fail": 9,
+  "gate2_fail": 18,
+  "passed": 78,
+  "gate2_samples": [
+    "How Investors Are Reacting To Teva (TEVA) AUSTEDO Real‑World Data On Tardive Dyskinesia Improvement ",
+    "Johnson & Johnson to Buy Firefly Bio for $1 Billion - WSJ",
+    "Johnson & Johnson acquires Firefly Bio for USD 1 billion - medwatch.com",
+    "Talc Verdict Tests Johnson & Johnson Balance Of Legal Risk And Growth - Yahoo Finance",
+    "Roche Expands BTK Degradation Platform With Nurix In Multi‑Area Bet - simplywall.st"
+  ]
+}

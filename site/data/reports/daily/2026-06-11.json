@@ -1,0 +1,269 @@
+{
+  "date": "2026-06-11",
+  "generated_at": "2026-06-11T12:16:36.258269Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-11-024",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "STAT+: Private Medicare plans erect barriers to rehab care in pursuit of profit, federal investigators find",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.statnews.com/2026/06/11/medicare-advantage-oig-report-rehab-care-deny-appeal-reverse/?utm_campaign=rss"
+    },
+    {
+      "rank": 2,
+      "event_id": "pfizer-2026-06-11-016",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "One Injection A Month For Weight Loss? Pfizer's New Obesity Drug Explained - NDTV",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOejY0TmkzekxOMVgzLWhBTGM2Ny1RUjlSdlNWNVJ4VGN3eGlUUTNiMHRJV0hickZ4WFhfU0dvZlJkeGJuRzdIUFdoa0dmY3ExQlo3VVlPbTNnSTlpMUxyVVpSNlBNTHN2ZjhGQXZVam9vbm4wMW9OcWpmVkd1ZU5vdVZicHpCSHc2YklvdTg0UFVaa2xaanF0VVpXQzZUSzRsdWQ5MV9US1dGU1dWTlHSAbYBQVVfeXFMT3NNWGVqZk9NTzZ2MHB5YW9veDFOMUp3YjBRVWtQTmc3RmJEbEFoN3ZRTVZPU3VzNlI1R3V0bW9MVnJfMnpRMHJCb0Q4Y2swTDJScEtfUnRpeW9vUUtGQmI5dE5MVkRrUlVxRldiRTVwVWhmMEpwX2R3R2xfSmJvX1NoZkRFYjNCSmJqdWMzMlp1RWVDRzNySFA0YnE3TzJLT0lIZ3NwNWZmNmdJUFNuNjNqLWVQNWc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "sun_pharma-2026-06-11-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Buy Sun Pharmaceutical Industries Ltd for the Target Rs.2,300 by Choice Institutional Equities - Investment Guru",
+      "companies": [
+        "sun_pharma"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMG9lUlVKXzZ0VFVFTk9PUWNDTlNRTER3aTNBZ3YxSWY1aGpTbUFzMkdHcVF4SjdhRGtnaThBYWtOMTFPWTA4eFQ4Q3hJR05sdjhLd2h5Z2d6NG1IdFpYQXRHMDdlR2NsTU9kcGhxWjhOM29vQnhOM0JxVHp6cURNY1lzTzJtUFM1MGM0XzlUeW05dGJVVG0zY3ZTNFhnSFU4bVRwTGIwTEFsdWUteFBFY0NqSEV3eFNJWlNfbkFfZ0pjbVVwYzlRUWdCdHAyMlBLbEl2amhhUU81U1k?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "pfizer-2026-06-11-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Pfizer weighs German investment as peers push back on reform - The Pharma Letter",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQalpKX1REXzRIN3RfeWJwM01GbEUyZWktVXNyemlGdVFZeHlmVWpLRDBBUnhWSlJwQnVxX3I1UC0zN0NTSUlUZVRZbjl5b3p5cDVWRHZOdGlPeUI4cEo3TlRLVUdHQXBEUTZvc09ndGdObDJYSmxjUTc0a2QydG1fVldiakhFdUl6a3I1RC1zdTk0TU83dFp2bzczUkQ5c3puN2VseFpyZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "pfizer-2026-06-11-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Pfizer to adjust planned investments in Germany after new pricing policy - medwatch.com",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Ibm91dm8xdXUteFBMbHdiQUFoTk1HcGo1R2ZrUVNuM0RIelVEQXdLVkhRbGpNSW0yX2dUQV9LdTgtek5feW9FUTNUWkliQ3JSM2MtcUpJbS1rQmxuU3A3S1B1YXZoNDl5NXJKYmFqcw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 24,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 21,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "jnj",
+        "count": 4
+      },
+      {
+        "id": "merck",
+        "count": 4
+      },
+      {
+        "id": "pfizer",
+        "count": 3
+      },
+      {
+        "id": "roche",
+        "count": 2
+      },
+      {
+        "id": "sun_pharma",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 20
+      },
+      {
+        "id": "drug_approval",
+        "count": 14
+      },
+      {
+        "id": "biotech_funding",
+        "count": 2
+      },
+      {
+        "id": "patent_cliff",
+        "count": 1
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 444,
+    "dup_title": 225,
+    "too_old": 114,
+    "gate1_blocked": 9,
+    "gate2_blocked": 18,
+    "passed": 78,
+    "pass_rate": "35.6%",
+    "gate2_block_rate": "8.2%",
+    "gate2_samples": [
+      "How Investors Are Reacting To Teva (TEVA) AUSTEDO Real‑World Data On Tardive Dyskinesia Improvement ",
+      "Johnson & Johnson to Buy Firefly Bio for $1 Billion - WSJ",
+      "Johnson & Johnson acquires Firefly Bio for USD 1 billion - medwatch.com",
+      "Talc Verdict Tests Johnson & Johnson Balance Of Legal Risk And Growth - Yahoo Finance",
+      "Roche Expands BTK Degradation Platform With Nurix In Multi‑Area Bet - simplywall.st"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 24 則事件，焦點為J&J、Merck、輝瑞相關動態：「STAT+: Private Medicare plans erect barriers to rehab car...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "STAT+: Private Medicare plans erect barriers to rehab care in pursuit of prof...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "One Injection A Month For Weight Loss? Pfizer's New Obesity Drug Explained - ...（GLP-1 減重、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
