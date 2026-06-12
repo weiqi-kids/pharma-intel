@@ -1,0 +1,16 @@
+{
+  "total_raw": 455,
+  "dup_title": 228,
+  "no_date": 0,
+  "too_old": 116,
+  "gate1_fail": 13,
+  "gate2_fail": 17,
+  "passed": 81,
+  "gate2_samples": [
+    "Johnson & Johnson Expands U.S. Availability of TECNIS PureSee IOL, an Advanced Lens Option for Catar",
+    "Johnson & Johnson to Buy Firefly Bio for $1 Billion - WSJ",
+    "Roche Expands BTK Degradation Platform With Nurix In Multi‑Area Bet - simplywall.st",
+    "Roche keeps €600M Germany project on track despite industry concerns - report (RHHBY:OTCMKTS) - Seek",
+    "Putnam International Equity Fund's Roche Holding AG(XSWX:ROP) Holding History - GuruFocus"
+  ]
+}

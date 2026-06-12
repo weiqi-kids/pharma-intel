@@ -1,0 +1,268 @@
+{
+  "date": "2026-06-12",
+  "generated_at": "2026-06-12T11:50:17.658578Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "pfizer-2026-06-12-009",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Pfizer, Amgen and Roche race to cut GLP-1 obesity shots to 4–13 a year - 동아사이언스",
+      "companies": [
+        "pfizer",
+        "roche"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QV01Dbm10UTFRUm5DdFRtWnJVa2c4ZVpoN0p4OEtyNXU0SWtFWlVZM2FaR3BBcDMtaEZEWjBHeFFrWXREQ1dFQmtKX2NhZGM0bEJtbw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "sun_pharma-2026-06-12-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Sun Pharmaceutical fixes record date for ₹5 final dividend - scanx.trade",
+      "companies": [
+        "sun_pharma"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcmtoX1BPNzE0LVJwcXhKTlpnblBvNVlWZnoxbDNBMU9BWUZZWS1QQjlGNENqc0R2allyLWhNRFBrUlpuNXIwaHgtSHM1d2lXMTFFV1d3UmtwTU0wb01WV2tOTU9OVk1Nc1ZWX3FvNmVHbk11bFAwNHQzQllTRnZta01lOG4yWV9PdXRZb2RwV1F1RmI0YUdqS1pRYjBVQ2kyajFaYTFqanBtUEdEUGJaUU1jdE0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "sun_pharma-2026-06-12-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Sun Pharmaceutical Industries fixes record date for final dividend - Business Standard",
+      "companies": [
+        "sun_pharma"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOG1JMllRNUFXN3A5dEpWTkxpeF9XNE9laHBLSjQwbUwweGc1bGZ2NWFjWDBjcmVmSW5QcG85SncxQXFpYXR1azRQMFFQNkx1ZHhPcE9oVWpQM19WcC00dDZ6Q3ZtYzZ1Y0ZOR2Z2bDYxbFBMR2FQUGl4eE9iU0FXeEpVMWpQU1FKSkZTcmNyMFdVbWdGajdIN29MQW43T0syWER6b0ZQXzliRnlVYzdhZWcyUDJtOHgySU44OXhsOHR0UVpya3Y2M0FSWkpYT1dDUUJJeWRTWjNDakdHUWhsOFh30gHnAUFVX3lxTE9YU3JfRy1QeV9yekNrS21GNjYwMGd0d2xLZjRCN2JoUHBZOGNpaVhtanpzSHBFTnRERkthRWFZLTNGWWJnWkpKZzZIQkZBVjFQWWFGd3BBVXl1c1RoUlFtQ1dDb1pJNTVlZTFRUjBIM2xEblU0MUwyT3lfUVNhYUE2NWg2eXlZSVV2WEVjc1ZldTdBeTh1R0VzaUs4Y1RtZkpHUjJiT2ZXcGxmc2NEWmIteTVEWTlIWHlHcXVWUTU2bzJNWWxjTnhKS0gwSEZQUV9wVi11bFJLTmItckxtNGpjSUlWcG5PWQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "mckesson-2026-06-12-023",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "McKesson Stock Hits Record High at $737 - MSN",
+      "companies": [
+        "mckesson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNa04td01DVDhHa2I5NHg2blFLQ044Z2xTZmNLdHJwVUM0NWhLalJGMk9xYTRTXzBnTlFpYkpzTzBEQ0dYd3BoZ0FpMGlsNDRzNFRkaVl5aDg5MW95b21pam1Td3VLV2xrY1czdmlBVERXSDFUVUpKYWh1Z3BnNDUwUlVYV3hmU3JveXpoWTAtZGNDbUlpV3ZVT1FXcEMxOGQxZ1V1bzBrWG5nNTc2a1Z6dzQ0RURTZlBadVdNelhPN2JOclh1ZnJ1RzVjb1VMRFJtTlc2NGMyOExxWjdIN3oxZ3dBQ0ZKZzE4a3I3WVZTYjhnZFd0YWRhWkp4RXh1ejJUT18zV3RkOGhsQlhvdml2OTBwMHhEaHJQbjNIellhMHVlb2FaM0hDSjF1ckU3THNuSFZBWExHVDJZVXNEWE1ydW9nM0NPUXlISko0RC03dG0?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "teva-2026-06-12-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Paragon completes $900M sale of Emalex to Teva Pharma - Crain's Chicago Business",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX09BaEZ0OVdKUVBGVXI4ejJmT042QXFpUzQxcUFJNzRXOFFjbFNDOFhfcHhFd3l2a3F6Um1QU0R6T25HcDFvdENHS1o0c2wxRVZIUEwyMWdKT1dWV0VkTW9abWQ0c2d1cDFfWDRTSC1GS2FkYnpmODZzQzhGa2trdTlFU3BzRFg5d29uN3lxWQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 27,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 24,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "novo_nordisk",
+        "count": 7
+      },
+      {
+        "id": "teva",
+        "count": 4
+      },
+      {
+        "id": "sun_pharma",
+        "count": 3
+      },
+      {
+        "id": "pfizer",
+        "count": 3
+      },
+      {
+        "id": "jnj",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 24
+      },
+      {
+        "id": "drug_approval",
+        "count": 21
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 3
+      },
+      {
+        "id": "patent_cliff",
+        "count": 1
+      },
+      {
+        "id": "biotech_funding",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 455,
+    "dup_title": 228,
+    "too_old": 116,
+    "gate1_blocked": 13,
+    "gate2_blocked": 17,
+    "passed": 81,
+    "pass_rate": "35.7%",
+    "gate2_block_rate": "7.5%",
+    "gate2_samples": [
+      "Johnson & Johnson Expands U.S. Availability of TECNIS PureSee IOL, an Advanced Lens Option for Catar",
+      "Johnson & Johnson to Buy Firefly Bio for $1 Billion - WSJ",
+      "Roche Expands BTK Degradation Platform With Nurix In Multi‑Area Bet - simplywall.st",
+      "Roche keeps €600M Germany project on track despite industry concerns - report (RHHBY:OTCMKTS) - Seek",
+      "Putnam International Equity Fund's Roche Holding AG(XSWX:ROP) Holding History - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 27 則事件，焦點為Novo、Teva、Sun Pharma相關動態：「Pfizer, Amgen and Roche race to cut GLP-1 obesity shots t...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Pfizer, Amgen and Roche race to cut GLP-1 obesity shots to 4–13 a year - 동아사이언스（藥物核准、GLP-1 減重、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Sun Pharmaceutical fixes record date for ₹5 final dividend - scanx.trade（藥物核准、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
