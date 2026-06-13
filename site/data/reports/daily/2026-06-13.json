@@ -1,0 +1,239 @@
+{
+  "date": "2026-06-13",
+  "generated_at": "2026-06-13T10:36:17.808104Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-13-022",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Biopharma’s 2025 industry pay report; Parabilis sets industry record IPO; and more",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "biotech_funding",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://endpoints.news/biopharmas-2025-industry-pay-report-parabilis-sets-industry-record-ipo-and-more/"
+    },
+    {
+      "rank": 2,
+      "event_id": "teva-2026-06-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Teva Pharmaceutical Industries Ltd. $TEVA Shares Acquired by Clal Insurance Enterprises Holdings Ltd - MarketBeat",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSmZTdkltc2ljNzZfNmIzQndsczJXWmQybTRSYzlZYU1pdzJhblRpci1iZzVMaEsxLUZvajJLNmQ1VU1tRXhmUzBDMU5XRXprM3lWS1VlRHhGTE9qc1FwR29yY2Z0czFiQkluQ1lIcFF0S1JNdjY0SFlVZ3BZWjVvcVU1QmtocmNLWjFTbGNEMVdFejJjcnFZU0c2b0psOUR5U3Z6VElLRUQyVm9BTUVhNXJKb0ROQ3BmeGY3S0RJd3FGakg5MUdzMlpGTUZVNVJNWllKeE5lb2pNRVZMcUdIYjB0c1VSckZWal9YZjhEVEo?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Dr. Reddy’s Announces the First-to-Market Launch of Bosutinib Tablets 400mg, a Generic Equivalent of Bosulif - Business Wire",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQS2VsS1J3OGZVb3BHaTRMWUtTOTVYbVNEbHpCcnpuWnJDN24zLU9HUVcwZk4taTBaM254Z2tYQ3RYdnlTTDRoQi1KUlZaeWpXM1A0UkE5S1oxN0hOSUlnOWE1OVdLMTlMN0V1SWNfWjdoQ29wSm1XRGdLLURIWmJDZUx2ZDcwN2tiMUhwWnhUekl2MzZBZlpMcFZvTXphcUxVZ0g0MWt2NmE4ajktX3pRRnBWVXFmS19zZ0VONHVXcmNORFZwYXFDVzdJSDd2c0dBUlo0Rl8xSGpVU0dJcGRXX1gyQ3FJRUNkRXRuT29kYU9QVDZBZmk3N3dkaDVGMUJTX083UFpEMXN0TWtvSjYxTnhn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-13-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Dr Reddy's launches first-to-market Bosutinib in US - scanx.trade",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWVFuSzNLSERwcTVpb1kzM2l3TmlhMEtPOUdobW5hWGtzQVd1WmRMNW1faERWYXhINTZLVWIyd0s4SmJTNUViWXFsSXJMalh0MERRLXBfMHh2cjB0QTExX3liMTF3S1JKNU95WjcwVWx2VGs4aGtkX1dDblE1a29kcThGbU9Dck13NGNQZTNzdEI0OG1EenlHTFo3MWRaYzNMYXozVHhIaGVvMmJO?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "jnj-2026-06-13-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "EHA: J&J sharpens myeloma edge as Talvey, Darzalex Faspro combo proves its worth in earlier disease stage - Fierce Pharma",
+      "companies": [
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNmNWOEVjNTJCNHJEN1p0SzZvaDBpU3lZS3diQ3NiMzJxa19jcUJtZ1g2bzQ1dW9URHg4NmJNcnJqQ3BxQ2hBU3JSZEJpMUYzbzlvVFpXNWw0djNDTFNCd2tvUzQweFEwdVZ3bnhYZXllWUdwZEhQOElYcFk0dzhaX3lRNUdDTlVGQS1NZ0hTUHhjejJTRmc0Qm1saGNrUkxCSkVrSk93Z0pZcENERWNCcjZObVlMNk95Rnd3bWppRDZoODdt?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 22,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 20,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "merck",
+        "count": 12
+      },
+      {
+        "id": "jnj",
+        "count": 4
+      },
+      {
+        "id": "teva",
+        "count": 1
+      },
+      {
+        "id": "roche",
+        "count": 1
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 21
+      },
+      {
+        "id": "industry_general",
+        "count": 19
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 1
+      },
+      {
+        "id": "biotech_funding",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 452,
+    "dup_title": 244,
+    "too_old": 121,
+    "gate1_blocked": 13,
+    "gate2_blocked": 17,
+    "passed": 57,
+    "pass_rate": "27.4%",
+    "gate2_block_rate": "8.2%",
+    "gate2_samples": [
+      "How Investors Are Reacting To Teva (TEVA) AUSTEDO Real‑World Data On Tardive Dyskinesia Improvement ",
+      "Pfizer's New Weight-Loss Data Just Gave Eli Lilly and Novo Nordisk Investors Something to Worry Abou",
+      "Johnson & Johnson makes WSJ 2026 Best Companies for the Future list - Johnson & Johnson",
+      "Johnson & Johnson (JNJ) Jumped on Market Optimism - Yahoo Finance",
+      "Johnson & Johnson to Buy Firefly Bio for $1 Billion - WSJ"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 22 則事件，焦點為Merck、J&J、Teva相關動態：「Biopharma’s 2025 industry pay report; Parabilis sets indu...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Biopharma’s 2025 industry pay report; Parabilis sets industry record IPO; and...（生技募資、產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Teva Pharmaceutical Industries Ltd. $TEVA Shares Acquired by Clal Insurance E...（藥物核准、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

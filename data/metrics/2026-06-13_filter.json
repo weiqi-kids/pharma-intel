@@ -1,0 +1,16 @@
+{
+  "total_raw": 452,
+  "dup_title": 244,
+  "no_date": 0,
+  "too_old": 121,
+  "gate1_fail": 13,
+  "gate2_fail": 17,
+  "passed": 57,
+  "gate2_samples": [
+    "How Investors Are Reacting To Teva (TEVA) AUSTEDO Real‑World Data On Tardive Dyskinesia Improvement ",
+    "Pfizer's New Weight-Loss Data Just Gave Eli Lilly and Novo Nordisk Investors Something to Worry Abou",
+    "Johnson & Johnson makes WSJ 2026 Best Companies for the Future list - Johnson & Johnson",
+    "Johnson & Johnson (JNJ) Jumped on Market Optimism - Yahoo Finance",
+    "Johnson & Johnson to Buy Firefly Bio for $1 Billion - WSJ"
+  ]
+}
