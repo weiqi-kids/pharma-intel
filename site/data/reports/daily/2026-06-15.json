@@ -1,0 +1,248 @@
+{
+  "date": "2026-06-15",
+  "generated_at": "2026-06-15T14:31:14.883900Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sanofi-2026-06-15-041",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "STAT+: Lilly’s Ajax acquisition may have been worth it",
+      "companies": [
+        "sanofi",
+        "eli_lilly"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.statnews.com/2026/06/15/biotech-news-lilly-ajax-acquisition-may-have-been-worth-it/?utm_campaign=rss"
+    },
+    {
+      "rank": 2,
+      "event_id": "pfizer-2026-06-15-042",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "STAT+: Pharmalittle: We’re reading about Pfizer’s emergency penicillin program, a Sanofi diabetes drug, and more",
+      "companies": [
+        "pfizer",
+        "sanofi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.statnews.com/pharmalot/2026/06/15/pfizer-emergency-penicillin-program-sanofi-diabetes-drug/?utm_campaign=rss"
+    },
+    {
+      "rank": 3,
+      "event_id": "teva-2026-06-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Atlas Capital Advisors Inc. Buys Shares of 31,944 Teva Pharmaceutical Industries Ltd. $TEVA - MarketBeat",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQd254VDdLY3h3bG9FekFiek9EalBJV1pzX21ZYkgyVUhiM1Q0amV6d3J5ZS1SeEk2VmhRRzJablBIQ1hnNV9NTXZrQ3Q1dEF2STFVdVdxcGF5RGJvdDJyOXl2V2xzT25jV1hMOFNaTUdoTGVaV2VzcGo0Q21HcnVsei0wMEctRmFVQzRxSTh1elYwYktlMXh0NG8tZUlhdlVNMWF3WmJLX0t2R21VUWJKal9RVHgyeVI0RkNYSkdkS0ZBY3IySUJsbE4tOGFyRjlRS3ZkdlpMTUpsMERRMzVNRU1R?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Dr. Reddy’s (NYSE: RDY) debuts first-to-market generic Bosulif 400mg in U.S. - Stock Titan",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMnN4LWZ4NHJZUks4bXhlZHktZHdHblhXcnVWamI3azNzcnIzWkM4ZWh6Z251WFhxS0xvZXhKdXQ0dXI0OUh6X0h1QkxzYUlZMEJLSjFDRmlDeEJyenJ3LTBtVUExUmd6Q2VrYTBxN0RuR2FhcVE0WjM2b3JoNkwyYnRqVzgxUEZnY3E2eW5MQnlsMkY1NVU0VmdhRldXUXNnV0RQYmhzVU05djUwU21sU1Y2LTNOWjM2MnRQRG1n?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "pfizer-2026-06-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Dr Reddy’s challenges Pfizer with US launch of Bosutinib - The Pharma Letter",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcTc5SHJvNEpHbGY4QjFBMUVXa1ZobWxzXy1naEI4ek1mTWdETU8yODgxSVJWaF9sckhzYk14MWktd2E5UDBDT2liNWhsN2JObE9Wcm5peFBpTG4yMFJTaDJWcllHWGh2WHAxYW1wYmhjY0VCVTFvNjdmTW1IdTRidkw1XzlUZVdqNTl1YndqU2RMR1RSX3cycEc2Tk40eWY3NDJHNQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 36,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 36,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 44,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 41,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "jnj",
+        "count": 10
+      },
+      {
+        "id": "merck",
+        "count": 6
+      },
+      {
+        "id": "astrazeneca",
+        "count": 5
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 5
+      },
+      {
+        "id": "pfizer",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 36
+      },
+      {
+        "id": "industry_general",
+        "count": 36
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 1
+      },
+      {
+        "id": "biotech_funding",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 454,
+    "dup_title": 235,
+    "too_old": 120,
+    "gate1_blocked": 14,
+    "gate2_blocked": 19,
+    "passed": 66,
+    "pass_rate": "30.1%",
+    "gate2_block_rate": "8.7%",
+    "gate2_samples": [
+      "How Investors Are Reacting To Teva (TEVA) AUSTEDO Real‑World Data On Tardive Dyskinesia Improvement ",
+      "Dr. Reddy's Laboratories (RDY) Faces 15% Drop Amid Market Moveme - GuruFocus",
+      "Pfizer's New Weight-Loss Data Just Gave Eli Lilly and Novo Nordisk Investors Something to Worry Abou",
+      "Johnson & Johnson makes WSJ 2026 Best Companies for the Future list - Johnson & Johnson",
+      "Roche Expands BTK Degradation Platform With Nurix In Multi‑Area Bet - simplywall.st"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 44 則事件，焦點為J&J、Merck、AZ相關動態：「STAT+: Lilly’s Ajax acquisition may have been worth it」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "STAT+: Lilly’s Ajax acquisition may have been worth it（藥物核准、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "STAT+: Pharmalittle: We’re reading about Pfizer’s emergency penicillin progra...（產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

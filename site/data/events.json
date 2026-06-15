@@ -1,5 +1,899 @@
 [
   {
+    "id": "teva-2026-06-15-001",
+    "date": "2026-06-15",
+    "companies": [
+      "teva"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Atlas Capital Advisors Inc. Buys Shares of 31,944 Teva Pharmaceutical Industries Ltd. $TEVA - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQd254VDdLY3h3bG9FekFiek9EalBJV1pzX21ZYkgyVUhiM1Q0amV6d3J5ZS1SeEk2VmhRRzJablBIQ1hnNV9NTXZrQ3Q1dEF2STFVdVdxcGF5RGJvdDJyOXl2V2xzT25jV1hMOFNaTU",
+    "sources": [
+      {
+        "name": "teva",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQd254VDdLY3h3bG9FekFiek9EalBJV1pzX21ZYkgyVUhiM1Q0amV6d3J5ZS1SeEk2VmhRRzJablBIQ1hnNV9NTXZrQ3Q1dEF2STFVdVdxcGF5RGJvdDJyOXl2V2xzT25jV1hMOFNaTUdoTGVaV2VzcGo0Q21HcnVsei0wMEctRmFVQzRxSTh1elYwYktlMXh0NG8tZUlhdlVNMWF3WmJLX0t2R21VUWJKal9RVHgyeVI0RkNYSkdkS0ZBY3IySUJsbE4tOGFyRjlRS3ZkdlpMTUpsMERRMzVNRU1R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-15-002",
+    "date": "2026-06-15",
+    "companies": [],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dr. Reddy’s (NYSE: RDY) debuts first-to-market generic Bosulif 400mg in U.S. - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNMnN4LWZ4NHJZUks4bXhlZHktZHdHblhXcnVWamI3azNzcnIzWkM4ZWh6Z251WFhxS0xvZXhKdXQ0dXI0OUh6X0h1QkxzYUlZMEJLSjFDRmlDeEJyenJ3LTBtVUExUmd6Q2VrYTBxN0",
+    "sources": [
+      {
+        "name": "dr_reddy",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMnN4LWZ4NHJZUks4bXhlZHktZHdHblhXcnVWamI3azNzcnIzWkM4ZWh6Z251WFhxS0xvZXhKdXQ0dXI0OUh6X0h1QkxzYUlZMEJLSjFDRmlDeEJyenJ3LTBtVUExUmd6Q2VrYTBxN0RuR2FhcVE0WjM2b3JoNkwyYnRqVzgxUEZnY3E2eW5MQnlsMkY1NVU0VmdhRldXUXNnV0RQYmhzVU05djUwU21sU1Y2LTNOWjM2MnRQRG1n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pfizer-2026-06-15-003",
+    "date": "2026-06-15",
+    "companies": [
+      "pfizer"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dr Reddy’s challenges Pfizer with US launch of Bosutinib - The Pharma Letter",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNcTc5SHJvNEpHbGY4QjFBMUVXa1ZobWxzXy1naEI4ek1mTWdETU8yODgxSVJWaF9sckhzYk14MWktd2E5UDBDT2liNWhsN2JObE9Wcm5peFBpTG4yMFJTaDJWcllHWGh2WHAxYW1wYm",
+    "sources": [
+      {
+        "name": "dr_reddy",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcTc5SHJvNEpHbGY4QjFBMUVXa1ZobWxzXy1naEI4ek1mTWdETU8yODgxSVJWaF9sckhzYk14MWktd2E5UDBDT2liNWhsN2JObE9Wcm5peFBpTG4yMFJTaDJWcllHWGh2WHAxYW1wYmhjY0VCVTFvNjdmTW1IdTRidkw1XzlUZVdqNTl1YndqU2RMR1RSX3cycEc2Tk40eWY3NDJHNQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dr_reddy-2026-06-15-004",
+    "date": "2026-06-15",
+    "companies": [
+      "dr_reddy"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dr. Reddy's launches first generic version of Bosulif in the US; stock in focus - CNBC TV18",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUE5qZWwzYXppX0djUWdWaFpleFA3dERBOFYyWHR0TjlCRFhzR0x1Yk14OXBIMkUzcHZYdGxSckQzeldOelJ2MVJ4bVJSdlJVUlZfT2hUcHE5SkdRb0N6bm9DR2JVaEZUZlFPX3dQVW",
+    "sources": [
+      {
+        "name": "dr_reddy",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUE5qZWwzYXppX0djUWdWaFpleFA3dERBOFYyWHR0TjlCRFhzR0x1Yk14OXBIMkUzcHZYdGxSckQzeldOelJ2MVJ4bVJSdlJVUlZfT2hUcHE5SkdRb0N6bm9DR2JVaEZUZlFPX3dQVWZpaGtjV0dwNVEtME5nWUVsVy1jMEVmMHB1Y3pGTmR6RVdFdjE1RmVrOFh1ZVpmY3FqQ0lINnFOdWtaUkFVSkdtWERRSGt5YUIyY0thQkVtMGMwSEtxMjgzVUt0d3RWTHZCODZvTtIB2gFBVV95cUxQeUlIc2VXVG5LUDFyRDNiclFEOGNRamJaYVBISGJtUVpzcW8yTDlVaWFqRnQtTHQxVEgyUWpaSjdfTDNTSzdleF9DTlVfRTNyS2dMa1gza0xybU5nMjFJVVRKQ1RHSFlFbjhxSGx5eXF4R0taZFpHcW5WVHNNLUFwS2d5MjhKQTZBbVVhNW9McnhycXNXUkNqeDdSdTl2WHRSUUlIUW94MVBGYlR1RkVCamZ4SXJidVNUNEtGX0xKRGNtcy1vN0QzT3dxWHBOQzVkcjNMNGdkR0hDUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-15-005",
+    "date": "2026-06-15",
+    "companies": [],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "HiveMinds bags integrated digital marketing mandate for Dr. Reddy’s Laboratories - Social Samosa",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd3c2M3VYTlM4OFoySlFuUHJsdHNmNkFGTU5ZOE91OFhvNktUZ2dqeHdaRXo2Q1htWkpRbFlvb3padk1FZkw4emhkdW1DZnh6M1JZdDJjaUZjM3dXUDNBU2lUejVKVy1GaDVkX3YtNn",
+    "sources": [
+      {
+        "name": "dr_reddy",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd3c2M3VYTlM4OFoySlFuUHJsdHNmNkFGTU5ZOE91OFhvNktUZ2dqeHdaRXo2Q1htWkpRbFlvb3padk1FZkw4emhkdW1DZnh6M1JZdDJjaUZjM3dXUDNBU2lUejVKVy1GaDVkX3YtNnVwZ1N4WWtVR3N3d0VXUnJRLWRCbWs2ZEdOOVQyTUJOTHBuUHctbmZnckJvZWpVTThvdDJLMERwd0ttSlFzR05veFhiY3d5VlFX0gG4AUFVX3lxTE53dzYzdVhOUzg4WjJKUW5Qcmx0c2Y2QUZNTlk4T3U4WG82S1RnZ2p4d1pFejZDWG1aSlFsWW9velp2TUVmTDh6aGR1bUNmeHozUll0MmNpRmMzd1dQM0FTaVR6NUpXLUZoNWRfdi02dXBnU3hZa1VHc3d3RVdSclEtZEJtazZkR045VDJNQk5McG5Qdy1uZmdyQm9lalVNOG90MkswRHB3S21KUXNHTm94WGJjd3lWUVc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-15-006",
+    "date": "2026-06-15",
+    "companies": [],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "Dr Reddy's launches Bosutinib 400mg in US, secures exclusivity - scanx.trade",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOWVFuSzNLSERwcTVpb1kzM2l3TmlhMEtPOUdobW5hWGtzQVd1WmRMNW1faERWYXhINTZLVWIyd0s4SmJTNUViWXFsSXJMalh0MERRLXBfMHh2cjB0QTExX3liMTF3S1JKNU95WjcwVW",
+    "sources": [
+      {
+        "name": "dr_reddy",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWVFuSzNLSERwcTVpb1kzM2l3TmlhMEtPOUdobW5hWGtzQVd1WmRMNW1faERWYXhINTZLVWIyd0s4SmJTNUViWXFsSXJMalh0MERRLXBfMHh2cjB0QTExX3liMTF3S1JKNU95WjcwVWx2VGs4aGtkX1dDblE1a29kcThGbU9Dck13NGNQZTNzdEI0OG1EenlHTFo3MWRaYzNMYXozVHhIaGVvMmJO?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-15-007",
+    "date": "2026-06-15",
+    "companies": [],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "Hiveminds wins digital mandate for Dr. Reddy’s - Storyboard18",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNMjFqTUlGVEQ3dDlPR29rU2x2OVMwWVN6YmExMlF2dlZDalQyYUQ0Y1k1bVdWbkJrT2xReUJ3SU1LTllvVjNiRXFUTEY4M2ZFU3U0TGkxWVIyQzY3cjI2ZDNaeGQ3bUlfQWh0bURYaX",
+    "sources": [
+      {
+        "name": "dr_reddy",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMjFqTUlGVEQ3dDlPR29rU2x2OVMwWVN6YmExMlF2dlZDalQyYUQ0Y1k1bVdWbkJrT2xReUJ3SU1LTllvVjNiRXFUTEY4M2ZFU3U0TGkxWVIyQzY3cjI2ZDNaeGQ3bUlfQWh0bURYaXNBNmhIbERfd2VnaHdpYUN5b1pKcDM4YXVQZHk3cEpJb3dsZlNJZTRyOTVxWknSAaIBQVVfeXFMTUdJM3N3VHdGSU52NFV2RW92TFVCN3c3WDZfdDNRWmZKbWxTY3VfcGI5V0xzTzRvOTFBY3NqRk5ZVEE4NDVQRzFVMi1fUU9pUEttdDVVMTZwcUdRUldGaDl3MDZLSWV0ZFdUZnEtTlRSd2M2Qmd2ZFNadGRkQjFxbERVTkJfZmN0eTZwTkRPLWozcHkzNU9aUUc0alhHOGpTQ3hn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jnj-2026-06-15-008",
+    "date": "2026-06-15",
+    "companies": [
+      "jnj"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Johnson & Johnson Invests more than $1 Billion to Strengthen U.S. Vision Manufacturing in Jacksonville, Florida - Johnson & Johnson",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRkJWRlgweUJsTXJlVnRCeVpzX1o4eWZIUlo2WjRMRUNxVk5yNHc5enZtRUppUmlJM19CM0xxSjVyZDktWldtM3ZlOHp0Z2V1elNfalZIS0tVRDRydGlqSTFSY3NHbF9WRkE0b1JDZl",
+    "sources": [
+      {
+        "name": "jnj",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRkJWRlgweUJsTXJlVnRCeVpzX1o4eWZIUlo2WjRMRUNxVk5yNHc5enZtRUppUmlJM19CM0xxSjVyZDktWldtM3ZlOHp0Z2V1elNfalZIS0tVRDRydGlqSTFSY3NHbF9WRkE0b1JDZldVOUhUV25hX2hCNGZsZlVPRUY2b3VzN2k5bGp1Rm9vbjJob1hfT2RHX2NVQXBjQWJFTHA0SE54T25aMnNVWDMzdkhWLVN3cEVjR01hb3ZCbWxPdVVoTnhyeld1SDRfUDY4RExVS0gwcl9WbFI1VXB6M1RUUTgxUERFQkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jnj-2026-06-15-009",
+    "date": "2026-06-15",
+    "companies": [
+      "jnj"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Johnson & Johnson CEO Joaquin Duato on Fighting Cancer, AI and Medical Innovation - WSJ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxPelV4bGFtUjc4VmR0cjF1X081Z0xURm9tTXBJZlhhTXYxZzVKbTBkb19DNS1IQTlLWDFwUVloMnhLeDNLODVfcC1KM2hJSThJMmZtd3ZqU1lHOTZ4dlNWMjR0Ni1wWm0wclVPZVF5bH",
+    "sources": [
+      {
+        "name": "jnj",
+        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPelV4bGFtUjc4VmR0cjF1X081Z0xURm9tTXBJZlhhTXYxZzVKbTBkb19DNS1IQTlLWDFwUVloMnhLeDNLODVfcC1KM2hJSThJMmZtd3ZqU1lHOTZ4dlNWMjR0Ni1wWm0wclVPZVF5bHdEYmFSRlJQQ21BZmhjWFY0d2RBNEVrLURGdFZEc3lyLXhrQl9BVndrcHB4RXhxVkhmUzlEcTcxc20zYUhzcVVCbndwbzRIOXRBVlZCLV90MHRpX2FZcEt2b0dvRFhfaWFielNnbmZBRHMzQS1kcFNrY3NvOVlLc2hhNGc4R2JMSVZmNHV5ZGpDcWVOWldXQTJpSFlCVWdKWXpNTG9FaGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jnj-2026-06-15-010",
+    "date": "2026-06-15",
+    "companies": [
+      "jnj"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Johnson & Johnson (JNJ) Boosts Vision Operations in $55B U.S. Manufacturing Push - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOaUZoUzhNbll1U1pwaEJpWWZLSThNUXdNY2todnNueVRrRDFoekFYZ1JkQjNVdnFTaHVERjVmS05adHUyS0EzSWh5NERiRnRidHJkdU9MR3otMWxOOGtDaHlzNXFxT3NKX0tvams3OW",
+    "sources": [
+      {
+        "name": "jnj",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaUZoUzhNbll1U1pwaEJpWWZLSThNUXdNY2todnNueVRrRDFoekFYZ1JkQjNVdnFTaHVERjVmS05adHUyS0EzSWh5NERiRnRidHJkdU9MR3otMWxOOGtDaHlzNXFxT3NKX0tvams3OWtLYmZhMXNjSGl2VUFFQkY0S01KQ0JpOVo3dUt1T1FQaGxuRU5JamdSb3JHbmQ2Zm5WWTZ3WFJtQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jnj-2026-06-15-011",
+    "date": "2026-06-15",
+    "companies": [
+      "jnj"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Johnson & Johnson invests $1B in US Vision manufacturing - MassDevice",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOdnozOW9LOFlPUmx2WFZYQ2Z5d0k1aUVkMW1YMlRTd2I5bHlobzlvNXVfejJUN05aWmhpeVlEaXJrYmlCT1Q2Ql93VVhQMjh3YkpHVHp3emJaZlR0UUh5eUUtVkpIdnRWTTJhVlJHLU",
+    "sources": [
+      {
+        "name": "jnj",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdnozOW9LOFlPUmx2WFZYQ2Z5d0k1aUVkMW1YMlRTd2I5bHlobzlvNXVfejJUN05aWmhpeVlEaXJrYmlCT1Q2Ql93VVhQMjh3YkpHVHp3emJaZlR0UUh5eUUtVkpIdnRWTTJhVlJHLUJxcmVoQzBDSWZnQnFjVVFZSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jnj-2026-06-15-012",
+    "date": "2026-06-15",
+    "companies": [
+      "jnj"
+    ],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "Johnson & Johnson to invest more than $1 billion in Jacksonville Vision operations expansion - The Business Journals",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOS2FOM0VtSXh4R1NUNlgzblV6UV9WV1pPVngxeE5XRnFHUnRveWhOZVZxR1h1aXhjWVhEcW94OTVYQzd1QXRRNEY2T2N2N0Ftc1ZPa1dRRTFLWjh2elZ2eEdwSEYtencydTVnRXZpR1",
+    "sources": [
+      {
+        "name": "jnj",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS2FOM0VtSXh4R1NUNlgzblV6UV9WV1pPVngxeE5XRnFHUnRveWhOZVZxR1h1aXhjWVhEcW94OTVYQzd1QXRRNEY2T2N2N0Ftc1ZPa1dRRTFLWjh2elZ2eEdwSEYtencydTVnRXZpR1pyYlp3dHpIRkhVUWNMbTZXNHlWRlVXVkJUVWg3UjhPMXgtUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jnj-2026-06-15-013",
+    "date": "2026-06-15",
+    "companies": [
+      "jnj"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How Investors Are Reacting To Johnson & Johnson (JNJ) Multiple Myeloma Trial Data For TALVEY Combinations - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZzAzdlUzcHVyY2tRNVptM09yejl6Z2JJSHRETlFYYUVNLXJjYUVMSWwzQ2ZaREJTTGgtQ0JrTDdNR2UtMmV5WXpsTmVIWXlmRkJMemVSV0hHaXNJSnp2TUZPUk1xblNUQ1Q5RVlORm",
+    "sources": [
+      {
+        "name": "jnj",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZzAzdlUzcHVyY2tRNVptM09yejl6Z2JJSHRETlFYYUVNLXJjYUVMSWwzQ2ZaREJTTGgtQ0JrTDdNR2UtMmV5WXpsTmVIWXlmRkJMemVSV0hHaXNJSnp2TUZPUk1xblNUQ1Q5RVlORmpfV3Bvdjg1cm5YSXdLaW5KUUFWOTNFMG9SWHNJc1l5S0R0Y005UUtjWFBjUm9jSW1HWmRmVUhiY3dPN1lQZUNvZV8yZkkzZjVXdkhYYTVBZGVBOGhTWGJxRVU4Z3Zjc2hYaExkZmMySU5fM3U3NFJN0gHkAUFVX3lxTFAxZndGZGJxR2pZRVltU29Db25vNlRvNzRMX09wLTNKdlg1ampCaXM4dXpTWHlNdXNYSzkzVldlNC1Nam5XanU0NjVHNkpGTU80N0ZodHQ5REwteWc2c3prOXVzOUs4Q0tVTjFaNzd3WkdlY1BTNXcxVlo1YVZ2anM1NDFPOWZpbDR5TU1nY0xvZ1hUazJMektmOUxZcnN2azZISGpaQnpGZTJueVZsRFBEc3hCUFY0NmI2MnVrZVdZSDN2N2tTU09ZcUlYaElfbTk4U0tBRTNaYVFUYnRrOU9SYk1OaA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jnj-2026-06-15-014",
+    "date": "2026-06-15",
+    "companies": [
+      "jnj"
+    ],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "positive",
+    "title": "Johnson & Johnson Investing $1 Billion in Florida to Expand Vision Operations - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOd0F5cDFfRFpoeEZEVXh3WXJEWlVsQ1RQU2pfQVk1cFJ4bWRHR1h4SGo0dVhVUWJiOWJvakZremdWS1dUZDlQY0hQNnhIbnFjVU5hN2YxajhTWXhVdVduUGpFS0Vuem4zOEtNMFctaz",
+    "sources": [
+      {
+        "name": "jnj",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd0F5cDFfRFpoeEZEVXh3WXJEWlVsQ1RQU2pfQVk1cFJ4bWRHR1h4SGo0dVhVUWJiOWJvakZremdWS1dUZDlQY0hQNnhIbnFjVU5hN2YxajhTWXhVdVduUGpFS0Vuem4zOEtNMFctazNVQTlmd2lJaXlDbkVSVUlORVlLRi1ReDdHVTBqNVhEZnc1eVY3eWF4MEZxeUcybnhRNEV1aDBkbE1wczNVTFMwb0JEQlNoWlA4NUd1YUxSRHRQeG5GLWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jnj-2026-06-15-015",
+    "date": "2026-06-15",
+    "companies": [
+      "jnj"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mariner LLC Purchases 55,073 Shares of Johnson & Johnson $JNJ - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPdF9zSGJaazZMeDlNWlo4eUQ5UV9qb3JjS2xHa1RhRXhoejhHU2g4TVltTWJBMWpZbEhxcXNhaG53TWhiX195bVRvejBRbC0yb2dzbXZGcHhTVlYzU3hIMjNSVno4NGVmQkQzTzFvNW",
+    "sources": [
+      {
+        "name": "jnj",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdF9zSGJaazZMeDlNWlo4eUQ5UV9qb3JjS2xHa1RhRXhoejhHU2g4TVltTWJBMWpZbEhxcXNhaG53TWhiX195bVRvejBRbC0yb2dzbXZGcHhTVlYzU3hIMjNSVno4NGVmQkQzTzFvNWJzdDYwOWNHVmNwMVlzRGpHZnVIUHVBZWVRdkc3TnlBSFBQNnFSQWlEZXhuQlZONVAtY0xJZmhqeG1YZ2E3MVNyNE91SHJTLWg1dnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jnj-2026-06-15-016",
+    "date": "2026-06-15",
+    "companies": [
+      "jnj"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Johnson & Johnson Commits More Than $1 Billion to Expand Vision Manufacturing and Distribution in Jacksonville - citybiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQU0hYUnRJN3Z3WWxLS1FscU9hQk1YRjZOMmFhNm5QU1VfekstSGdrVmk5SXhqVzU1QjJhZWRzYjVwWUJESlZoMTBXRXJ6bkNzalZzRUR1T2R3bEhLYjBmOHRmWHViQlBHNHlieWRGbU",
+    "sources": [
+      {
+        "name": "jnj",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQU0hYUnRJN3Z3WWxLS1FscU9hQk1YRjZOMmFhNm5QU1VfekstSGdrVmk5SXhqVzU1QjJhZWRzYjVwWUJESlZoMTBXRXJ6bkNzalZzRUR1T2R3bEhLYjBmOHRmWHViQlBHNHlieWRGbUt6SWhFYkFVWVpWbjhqRFlVNnNDci11OVduQ1hoVDhkTW4zU29BTXlsTGdFdUptY05vaUplY0ltUEd0bF9zTzZicHYzanhaVzlGdldxVmtKWTQxZzdiY0pSRXp4Njc5ZmFGaXZyZGhuYUk5UzFyT0xV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jnj-2026-06-15-017",
+    "date": "2026-06-15",
+    "companies": [
+      "jnj"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Resources Management Corp CT ADV Purchases 60,009 Shares of Johnson & Johnson $JNJ - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ210eHdWZ3FBcHNlemtONmFoQ25YMURJSnQzOExsT2ZhMkd0d1ktYkg2dDZEWlk5eDl6M1dOZDNkLV9ndC1mY29jVVo1SXhLWEl5aEZrNDZtWUMtMjdvT0VrOGljUldoRW5tWmhTVH",
+    "sources": [
+      {
+        "name": "jnj",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ210eHdWZ3FBcHNlemtONmFoQ25YMURJSnQzOExsT2ZhMkd0d1ktYkg2dDZEWlk5eDl6M1dOZDNkLV9ndC1mY29jVVo1SXhLWEl5aEZrNDZtWUMtMjdvT0VrOGljUldoRW5tWmhTVHBPRjNwU0pxclZUWnYzdnNucl9meW1IM0RHVW1mTnQ5VzdwQlBzOUpnOEx1Z1k1THlsck8xR0IwQW1Qb2p0OWhkTzVHZkJrcGw5QUJzSnBhQTcxQVdaOUhlTW5leVl4SDloMjdiZnZ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "astrazeneca-2026-06-15-018",
+    "date": "2026-06-15",
+    "companies": [
+      "astrazeneca"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AstraZeneca Says Truqap Approved In US For Prostate Cancer - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNNDZwb0dnald2WWhvT1d0OEZhb0o0aTlKdVl4VUltdUxUd1lZMGlmZm1FdE9sOVRwdmJYUXNWSjFPVXlaQ1RuQkhQZkctbXIzX0RmZFFsNmxVMC01d2tHWTVaOHAyS3lmRzZ4RWU2Wm",
+    "sources": [
+      {
+        "name": "astrazeneca",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNDZwb0dnald2WWhvT1d0OEZhb0o0aTlKdVl4VUltdUxUd1lZMGlmZm1FdE9sOVRwdmJYUXNWSjFPVXlaQ1RuQkhQZkctbXIzX0RmZFFsNmxVMC01d2tHWTVaOHAyS3lmRzZ4RWU2Wms4TVV6U0djUTVYRV81eUZ3cndJRHpTeGpXbDV6NWx0LUR0RjRRamlZTlh6SE5haU5oaEFrOThzaHFJczIxNzdGUVFPVGV1N1NVLU9ZSXJNbzNnaklCeDM0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "astrazeneca-2026-06-15-019",
+    "date": "2026-06-15",
+    "companies": [
+      "astrazeneca"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AstraZeneca Joins ZERO Prostate Cancer's Historic 'Blitz the Barriers' Initiative as a Founding Partner - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWDRnSy1hTW4yV3FkNE9Wb2pyTXB2RF8yN2lmTVVUNUdadlcwTkpRX1kzUk5vUS1sWUhRSnY1SDZjRWRpQmJLc25pRk9Hak9GSUZYLTNsZzhRMWN5dWtZelpKbGxDTHk0bGRrTlY0TT",
+    "sources": [
+      {
+        "name": "astrazeneca",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWDRnSy1hTW4yV3FkNE9Wb2pyTXB2RF8yN2lmTVVUNUdadlcwTkpRX1kzUk5vUS1sWUhRSnY1SDZjRWRpQmJLc25pRk9Hak9GSUZYLTNsZzhRMWN5dWtZelpKbGxDTHk0bGRrTlY0TTFNLTlmOXVveW5nUUYzWUpOM0dQdmxlc3Q5SnJrZzdtdDNheU1Mc1p4RTVYWDVGZENEMDFKS1BwSkVBeFByVTYtTVp0VlR1cDF6ZGVfekpZak90YjlpOVR6NHlOTndZNjJVSzBKRWpXanR3YWNTYjdlS3RKTHdBTVJGbUkzRA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "astrazeneca-2026-06-15-020",
+    "date": "2026-06-15",
+    "companies": [
+      "astrazeneca"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "TRUQAP Approval Adds Precision Prostate Cancer Upside To AstraZeneca Valuation - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPb25icVhqOGI2aG0tckJXd3BXRGtqWThVOXliOFlra1lJZlFUTEw3dWJXV2J5Q1czQVl3TENJSjh6eFc5S2Q0dzF1REk1aDJrRERzeE1iVkplai05RU80R01OYTNGaVRDTXpzUXByNW",
+    "sources": [
+      {
+        "name": "astrazeneca",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb25icVhqOGI2aG0tckJXd3BXRGtqWThVOXliOFlra1lJZlFUTEw3dWJXV2J5Q1czQVl3TENJSjh6eFc5S2Q0dzF1REk1aDJrRERzeE1iVkplai05RU80R01OYTNGaVRDTXpzUXByNW1yTzhKdGJVbWhuUFlrR1Rnd2wzZGhKVVV6RXlWU3VQa3UxSExIUEVGWEFncVJqWC1JMUxoVXhQYWVYZVRp?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "astrazeneca-2026-06-15-021",
+    "date": "2026-06-15",
+    "companies": [
+      "astrazeneca"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US approves AstraZeneca (NYSE: AZN) Truqap combo for PTEN-deficient metastatic prostate cancer - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOb1N0UjdlN2pxLUdVS2x4d2ZUb051eFpQNklBMGtWNThuc3JRQWpGbm9kand0YVUtajlNQzZ3Sk5UVktGbFZDODdCUHl3MGV2ZkFOT3ZPWkMzUEdVRWkxUDd5MjE4WnlZamRBVnFEdk",
+    "sources": [
+      {
+        "name": "astrazeneca",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb1N0UjdlN2pxLUdVS2x4d2ZUb051eFpQNklBMGtWNThuc3JRQWpGbm9kand0YVUtajlNQzZ3Sk5UVktGbFZDODdCUHl3MGV2ZkFOT3ZPWkMzUEdVRWkxUDd5MjE4WnlZamRBVnFEdkJ4SVNabldfdzJ2c040dXQ5UG1URndSaGd0eFp6UEZSbHFaR2hXV2JoSUY1VEVDcHNfOF8tZ0oyTm9CN2lhM1lF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "astrazeneca-2026-06-15-022",
+    "date": "2026-06-15",
+    "companies": [
+      "astrazeneca"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FDA Grants Priority Review to AstraZeneca’s Ultomiris for Rare Kidney Disease Treatment (AZN) - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPajlpTFdTaTBtN2MtTlN2ZGE3TXNNWkIwUzRZbExfN1FKTW95MWE1R2drZ3dtWFRuaS1IZ2I3c3BEbjNQM09YVWlMbEdpeF9VNDFiak1qVkRCVWdTWndlZlVSUl95TnhsTzA3cVR0am",
+    "sources": [
+      {
+        "name": "astrazeneca",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPajlpTFdTaTBtN2MtTlN2ZGE3TXNNWkIwUzRZbExfN1FKTW95MWE1R2drZ3dtWFRuaS1IZ2I3c3BEbjNQM09YVWlMbEdpeF9VNDFiak1qVkRCVWdTWndlZlVSUl95TnhsTzA3cVR0am43cG9pVUYxcF9zTTl5dlYyVE9yay1SRl9UQ3JITW9oNTg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "merck-2026-06-15-023",
+    "date": "2026-06-15",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Merck & Co., Inc. $MRK Shares Acquired by Resources Management Corp CT ADV - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc1BKcjBHOURkck9yVUJpT2Z1Y3hhd2VSdlpLZEk5Q3ctZnN2TlV0SWotMm45Z1BxcmFveXhWR3B2WFdaS1c0OUlRd0dDeDFxWGtHeEswRjlsMmFMVEFoamJEdmZKYlN4eDAwdVlZSn",
+    "sources": [
+      {
+        "name": "merck",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc1BKcjBHOURkck9yVUJpT2Z1Y3hhd2VSdlpLZEk5Q3ctZnN2TlV0SWotMm45Z1BxcmFveXhWR3B2WFdaS1c0OUlRd0dDeDFxWGtHeEswRjlsMmFMVEFoamJEdmZKYlN4eDAwdVlZSndXWE4zQmdsMDN0aWxieFpZU2lmQ2F0eEhTaXByMFNZWWQtUW9VTXVwTEFtdmUyZTNoZmhYN0ZxUnpuQ1ZPSEFLVTVHaVpYMGY0dk4yVm1kUmhNMEpKdU83cw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "merck-2026-06-15-024",
+    "date": "2026-06-15",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mariner LLC Has $289.84 Million Stock Position in Merck & Co., Inc. $MRK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU0ZiT2x1M2YyOGJ0cmlRbjhrM1JydEl2N0VVeEdEZkI0ajNRTTRRQmtGWU9reE90WEN5bGlBUXpJeTQ1U0dWSzZYWDRPTl9KbXpFZnRqTDJmRXBsMkZkMFp5MURwdmF3b0trUkc1ME",
+    "sources": [
+      {
+        "name": "merck",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU0ZiT2x1M2YyOGJ0cmlRbjhrM1JydEl2N0VVeEdEZkI0ajNRTTRRQmtGWU9reE90WEN5bGlBUXpJeTQ1U0dWSzZYWDRPTl9KbXpFZnRqTDJmRXBsMkZkMFp5MURwdmF3b0trUkc1MEtpYWtqUmZZYnlhZnJ2OGhuRUNNcTJFVHRKbEV2T2JSYzJXRzh2UmQ3N0dIbjJQVUU3alpham5yWGFlakd5dDFhOV9hUWhaTWNWRDF2WVVqOGZ6b2M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "merck-2026-06-15-025",
+    "date": "2026-06-15",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kennedy Capital Management LLC Sells 16,448 Shares of Merck & Co., Inc. $MRK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPQUdNVzNKQkJ2VkNickktbWI1ZlVTaXE5SV9DdGZuYlRRNFJwNmZaMFpsbEdtWUxHMUtoTmVVRWJwMEEyaFFIZXQtT3pYYkVHbjJ4alplelFNTGcyRmRZWTFNQkY2SnQ4UVdwakVVbU",
+    "sources": [
+      {
+        "name": "merck",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQUdNVzNKQkJ2VkNickktbWI1ZlVTaXE5SV9DdGZuYlRRNFJwNmZaMFpsbEdtWUxHMUtoTmVVRWJwMEEyaFFIZXQtT3pYYkVHbjJ4alplelFNTGcyRmRZWTFNQkY2SnQ4UVdwakVVbUNKVGR0VVFwZ1BZaWdveFRRa1V2X0NVTWV5U0FobzJlYzc4OGdwYXJqVVFvNlp5QnplREFwWnJhR0ozdHR0YVhIemQtMk5fZzNSMV90TEpHLUduTmpnaDlmVVd3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "merck-2026-06-15-026",
+    "date": "2026-06-15",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "Perryman Financial Advisory Inc. AD Makes New Investment in Merck & Co., Inc. $MRK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTUh3bmxQVG93THRPVGpqOWptOUlfb0Q4NGNCVEd0YzFwTnZuVC1CQ2pBQTZia3I5UFFZVFd0MFlFQndQSE9sbFFiRE45SlR2UVQ1Vm5IYVBoMXNSdmw2TUdQaG4zSkxIbHlmQUdrTG",
+    "sources": [
+      {
+        "name": "merck",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTUh3bmxQVG93THRPVGpqOWptOUlfb0Q4NGNCVEd0YzFwTnZuVC1CQ2pBQTZia3I5UFFZVFd0MFlFQndQSE9sbFFiRE45SlR2UVQ1Vm5IYVBoMXNSdmw2TUdQaG4zSkxIbHlmQUdrTGRkTFctY1pCUzVjQ2Y2YzVVaG5GUElvdnVlWURpWmV1YmduNjdUTHV5TTQ3dmlpNFVWWFB2OXkzWklMb09MZFJhNEtfRTNGd2t3RU9fdGVKbzlHWXFXUUI5V2hXd0ZON2RBOUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "merck-2026-06-15-027",
+    "date": "2026-06-15",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Panagora Asset Management Inc. Purchases 567,249 Shares of Merck & Co., Inc. $MRK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQRUpEUG1nOUxUY19IY0IwaWJGeE1Balp4cHdKbnFzaldEcDNzTlZQTm9iZmxnLW5TdElGdW9oY0ZSOVU1U3dXYmNjczUtcFNwUmRGVmpyaHQ0LTNPODRPRXR0T3ptYV85cHFiV3dTWk",
+    "sources": [
+      {
+        "name": "merck",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRUpEUG1nOUxUY19IY0IwaWJGeE1Balp4cHdKbnFzaldEcDNzTlZQTm9iZmxnLW5TdElGdW9oY0ZSOVU1U3dXYmNjczUtcFNwUmRGVmpyaHQ0LTNPODRPRXR0T3ptYV85cHFiV3dTWk1aQmN2SnJ1eHRSNmtCSDZNeUp4ZjhheUlTdVk0SG5jSGp5RnBtODE4bEN2ODJDOVVxbFBtV2xSSHMxdnhQTlFJWlVPOF84emY2Y0o0eE9CVVZqWGtST2ZqNGJzZ2dyaFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "merck-2026-06-15-028",
+    "date": "2026-06-15",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Vanguard Personalized Indexing Management LLC Grows Stock Holdings in Merck & Co., Inc. $MRK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPREdxdUkwUzZPQ2VjVDVmVkhnQUlLYnYwQklHV0o5VjJsdGRQaGh1b2JhR2hZRmVfWjU1WWJSeXhnc3BVOEpERGJSM1VEOGRoWHBNZXJxX1hwd0trNmxGWkM1aG5ILVNxTDMzaTNVSj",
+    "sources": [
+      {
+        "name": "merck",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPREdxdUkwUzZPQ2VjVDVmVkhnQUlLYnYwQklHV0o5VjJsdGRQaGh1b2JhR2hZRmVfWjU1WWJSeXhnc3BVOEpERGJSM1VEOGRoWHBNZXJxX1hwd0trNmxGWkM1aG5ILVNxTDMzaTNVSjVUS090RWJfbHctcDdCSFNUSlNuYzljdUlOWHJmVHQ4WGJpWjJ5bWVROVc0cGY4U1U1N3lhVEpJMTdlU0JjSTNwT3ZlZUdteVRHaVhGR0I3S2U4UWRrVDZYQWZKWDBPZzFnbHFwYUUya1dXUXJmemNYMg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-06-15-029",
+    "date": "2026-06-15",
+    "companies": [
+      "novo_nordisk"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Novo Nordisk Expands 2026 Share Buyback, Holding 0.8% of Capital in Treasury Shares - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQeVF3N0VzTGNibEJfOG1hY2hhU1V3Q012SjZoTzl0SUVReTZiZjNXZzRPM2FfZjJScnpkZTVJeDNuMlItbFlQNjVaNktlMTF3bWUybHVSanBGRTlTa3F3N0hQampDMTFIN1JHUy1CTV",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeVF3N0VzTGNibEJfOG1hY2hhU1V3Q012SjZoTzl0SUVReTZiZjNXZzRPM2FfZjJScnpkZTVJeDNuMlItbFlQNjVaNktlMTF3bWUybHVSanBGRTlTa3F3N0hQampDMTFIN1JHUy1CTVNnS1FhZC1lcXQweXJvbFg3b2NtREw1alBMY3NNcndBUnN3LXZ5RTdkM1dZOU1TYlp6cEtYbWg0TEFLOWVzYzJhbEMyYTctSENrdDYzQnNTR1BDVHhGTzdIeElUeEk4dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-06-15-030",
+    "date": "2026-06-15",
+    "companies": [
+      "novo_nordisk"
+    ],
+    "topics": [
+      "drug_approval",
+      "glp1_obesity"
+    ],
+    "impact": "neutral",
+    "title": "Ozempic Maker Novo Nordisk Says Hackers Breached IT Systems - SecurityWeek",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPTHhQX0x3NTl6VFJ4WF9MdGdrQWRCd2phVjFnSk9sdWJrYldTdTBtNVEwaTBna05GcXBVbkxVNHROblJ1UEx3QjJSTVBHdXpiYkNGRWNERW92cTYwSGpGejNKN190NVNoeTdvbm1SQ3",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTHhQX0x3NTl6VFJ4WF9MdGdrQWRCd2phVjFnSk9sdWJrYldTdTBtNVEwaTBna05GcXBVbkxVNHROblJ1UEx3QjJSTVBHdXpiYkNGRWNERW92cTYwSGpGejNKN190NVNoeTdvbm1SQ3paMTBEdWdfQWltQnJ6Rnh4SDBuVkhFdzFBaFYzNl9uTm1qRGPSAZgBQVVfeXFMTzhGLUZsSWNtT1ZpanpYRzA5ZDFTOXNNM01TWHhBNTlkV3E5Nlk2cTkzN0pjOVI1Ul96R1FGWVJPLUJMR0liRGxsUDFQazFtckNTTWtQNndaX1hYLVIxUDNfbE9Gejl0Zmd6c3BxYWt3RTF4YU1QZUQwVXgxRGJtRmFvUE9yQ2lKazFWVnRGNFVPODVOdjRISXM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-06-15-031",
+    "date": "2026-06-15",
+    "companies": [
+      "novo_nordisk"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Clinical Trial Data Stolen in Novo Nordisk Cyberattack - The HIPAA Journal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5adTV3UDJ2MnNiUGdJcC1jNkE1cU4yVGZOR0hmeGJzR0hBcVpreVp5d0YwQUNnVTI1MVg5bGhQQVhJcXBrNWI3ZGxvbUk1bWY3RlFEcGQtQlhVNmVYdmhkaTZVdU0?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5adTV3UDJ2MnNiUGdJcC1jNkE1cU4yVGZOR0hmeGJzR0hBcVpreVp5d0YwQUNnVTI1MVg5bGhQQVhJcXBrNWI3ZGxvbUk1bWY3RlFEcGQtQlhVNmVYdmhkaTZVdU0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-06-15-032",
+    "date": "2026-06-15",
+    "companies": [
+      "novo_nordisk"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Novo Nordisk Gains 7% in a Week: How Should Investors Play the Stock? - Zacks Investment Research",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNlJqMTZodEUxRUE0WmJFQ0VmTGh3WV9FNWhaNlY2RjBjYW9ieklNUUg4N25IRWpXMWdMZnVwbGZhVHNrUE5CRlRyR3prMDRGNG9WUFY5bDc0OGVNUElGbjQ0Q0g5eGViSlV3WFJoej",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNlJqMTZodEUxRUE0WmJFQ0VmTGh3WV9FNWhaNlY2RjBjYW9ieklNUUg4N25IRWpXMWdMZnVwbGZhVHNrUE5CRlRyR3prMDRGNG9WUFY5bDc0OGVNUElGbjQ0Q0g5eGViSlV3WFJoejBZa0VvQzZxelFLcUZkN2dfRl84SzdpNE9reU1VTWEzTmtvajY0R0pNRGtpci1vdjZuTVZzdGdDUUkwbDA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-06-15-033",
+    "date": "2026-06-15",
+    "companies": [
+      "novo_nordisk"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Novo Nordisk (NVO) repurchases 19.9M B shares under 2026 plan - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQYU1tYTh3QU1PcmNqSGtqVzNYNXljVGh5VUtpeXJsb3ZZZXFJZmZRcVlrTG1TQkZqQnFKU0RmaG4wY1o0SkpCcVhrT1BJOXY2Zk5TRDU4dnVJelBOUy1jUmZpLTExc3UzS3BYV3NBUn",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYU1tYTh3QU1PcmNqSGtqVzNYNXljVGh5VUtpeXJsb3ZZZXFJZmZRcVlrTG1TQkZqQnFKU0RmaG4wY1o0SkpCcVhrT1BJOXY2Zk5TRDU4dnVJelBOUy1jUmZpLTExc3UzS3BYV3NBUnZlX1dDbktXeHVNRGtjOWpXWlN4R1B2TWtQM28zRmhha2F2V0NVYXQxeGprSHo5Ync2Y3d0b2JuWXJxNVZGR1QyQw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cencora-2026-06-15-034",
+    "date": "2026-06-15",
+    "companies": [
+      "cencora"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Flagship logistics upgrade: Cencora’s Fusion Center platform scales real-time pharma visibility - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZFE1WGhuekw2NUp5T0d5UFFKN0k1MlpMQ2EzUWdIWl85WEc0cVBHYjdKT0VqcWY2ZzVUbE1qOVM0RS10b0sxRjIyX1hvbi1hLXJ3Y0V0Vzd4emM0SE5JV1hkN1RNRG4tN3puRVJWd2",
+    "sources": [
+      {
+        "name": "cencora",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZFE1WGhuekw2NUp5T0d5UFFKN0k1MlpMQ2EzUWdIWl85WEc0cVBHYjdKT0VqcWY2ZzVUbE1qOVM0RS10b0sxRjIyX1hvbi1hLXJ3Y0V0Vzd4emM0SE5JV1hkN1RNRG4tN3puRVJWd21LVm5jNHQ5VkRaMEJ5ZDRQREM4T21rSk45LWxvWUNMNnlwUlg2eUNMOXZLWldrak9GaHkyeDVwbkR6VWRMYVIwVENuOVJDTUc3X3pxM0RzY0I5UUU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-15-035",
+    "date": "2026-06-15",
+    "companies": [],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Top 3 Health Care Stocks That May Collapse This Quarter - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZnV2YzV5d0lIRTFUeVZlaG56SUdtNFRIQTQ0cWEzN2RtM0VULTAyVWxOSGZ0bVBjbWY0XzZQcV92M0QzWGhUUGpGRkxMZk9MeXdEZEFDN3FicFhjYWZsaUliQWs4Q3ZucWpkZndJQk",
+    "sources": [
+      {
+        "name": "cardinal",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZnV2YzV5d0lIRTFUeVZlaG56SUdtNFRIQTQ0cWEzN2RtM0VULTAyVWxOSGZ0bVBjbWY0XzZQcV92M0QzWGhUUGpGRkxMZk9MeXdEZEFDN3FicFhjYWZsaUliQWs4Q3ZucWpkZndJQkJQaXItU2NmUkg1a3ZDNFJtenJhQ3l0YXByWjRtYjBBLW40d1IyeEpMdFZTN25uQUg4aHgwOExXQVlMbHB4Y193cm9jcGVCc1RGZ09IdmZPTjY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "eli_lilly-2026-06-15-036",
+    "date": "2026-06-15",
+    "companies": [
+      "eli_lilly"
+    ],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "Lilly’s Ajax acquisition may have been worth it - statnews.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNMFNyM05rYWtEZXE2YnRTaGxPMlVxaEZTWHhkaUtUc0lZMnNWNngyd0VhYUZveUtyRktzOENwampWY3M2XzMzV3c0bmFJUzdVWDFjXzRPcXJiSm9vTkgxN1VOWkxSVW9HdkcxbVFtbW",
+    "sources": [
+      {
+        "name": "pfizer_news",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMFNyM05rYWtEZXE2YnRTaGxPMlVxaEZTWHhkaUtUc0lZMnNWNngyd0VhYUZveUtyRktzOENwampWY3M2XzMzV3c0bmFJUzdVWDFjXzRPcXJiSm9vTkgxN1VOWkxSVW9HdkcxbVFtbW9DV3pGUkdfNUN3X3RyQ2s0Z3Z0WnNhdm1lbWZRR1JRbC1sajdpeVRDRUluYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-15-037",
+    "date": "2026-06-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Neumora drug fails two more Phase 3 trials, biotech to lay off 35% of staff",
+    "summary": "The Really Big Neuroscience Company is proving to be a Really Big Flop with each passing update.\n\n Neumora Therapeutics will discontinue its lead depression drug after it failed another two Phase 3 st",
+    "sources": [
+      {
+        "name": "endpoints_news",
+        "url": "https://endpoints.news/neumora-drug-fails-two-more-phase-3-trials-biotech-to-lay-off-35-of-staff/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-15-038",
+    "date": "2026-06-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Six leaders working on LGBTQ+ inclusion in biopharma",
+    "summary": "It’s been a tough 18 months for the LGBTQ+ community.\n\n The American Civil Liberties Union tracked 530 anti-LGBTQ bills across dozens of states this year. Nearly 40% of US workers say ...",
+    "sources": [
+      {
+        "name": "endpoints_news",
+        "url": "https://endpoints.news/six-leaders-working-on-lgbtq-inclusion-in-biopharma/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "eli_lilly-2026-06-15-039",
+    "date": "2026-06-15",
+    "companies": [
+      "eli_lilly"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lilly puts its stamp at #EHA26 with Jaypirca combo data in CLL, first clinical data from Ajax buyout",
+    "summary": "Eli Lilly made a push in blood cancer at this year’s European Hematology Association meeting in Stockholm over the weekend.\n\n The drugmaker presented data for Jaypirca combined with the standard of ca",
+    "sources": [
+      {
+        "name": "endpoints_news",
+        "url": "https://endpoints.news/lilly-puts-its-stamp-at-eha26-with-jaypirca-combo-data-in-cll-first-clinical-data-from-ajax-buyout/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-15-040",
+    "date": "2026-06-15",
+    "companies": [],
+    "topics": [
+      "biotech_funding",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HMNC Brain Health raises $50M Series B to advance two depression drugs",
+    "summary": "HMNC Brain Health has secured $50 million in a Series B fundraise designed to support two psychiatry programs into mid-stage studies.\n\n The family-owned German drugmaker Medice led the Series B, which",
+    "sources": [
+      {
+        "name": "endpoints_news",
+        "url": "https://endpoints.news/hmnc-brain-health-raises-50m-series-b-to-advance-two-depression-drugs/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sanofi-2026-06-15-041",
+    "date": "2026-06-15",
+    "companies": [
+      "sanofi",
+      "eli_lilly"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "STAT+: Lilly’s Ajax acquisition may have been worth it",
+    "summary": "A syphilis drug shortage, Sanofi's diabetes drug approval, and more biotech news from The Readout",
+    "sources": [
+      {
+        "name": "statnews",
+        "url": "https://www.statnews.com/2026/06/15/biotech-news-lilly-ajax-acquisition-may-have-been-worth-it/?utm_campaign=rss",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pfizer-2026-06-15-042",
+    "date": "2026-06-15",
+    "companies": [
+      "pfizer",
+      "sanofi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "STAT+: Pharmalittle: We’re reading about Pfizer’s emergency penicillin program, a Sanofi diabetes drug, and more",
+    "summary": "Pfizer hasn't complied with a request to donate emergency penicillin to state health agencies as a backstop to prevent congenital syphilis",
+    "sources": [
+      {
+        "name": "statnews",
+        "url": "https://www.statnews.com/pharmalot/2026/06/15/pfizer-emergency-penicillin-program-sanofi-diabetes-drug/?utm_campaign=rss",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pfizer-2026-06-15-043",
+    "date": "2026-06-15",
+    "companies": [
+      "pfizer"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "STAT+: Amid confusion over Pfizer’s emergency penicillin program, newborn is diagnosed with preventable syphilis",
+    "summary": "Congenital syphilis should be preventable. An Arizona case shows how drug shortages and procedural hurdles are fueling a growing public health crisis.",
+    "sources": [
+      {
+        "name": "statnews",
+        "url": "https://www.statnews.com/2026/06/15/pfizer-bicillin-shortage-preventable-congenital-syphilis-surging/?utm_campaign=rss",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-15-044",
+    "date": "2026-06-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Opinion: I’m a pediatrician. I want to prescribe the right AI to my patients",
+    "summary": "AI for children requires “randomized controlled trials measuring real developmental outcomes, not engagement metrics,” writes Dua Hassan.",
+    "sources": [
+      {
+        "name": "statnews",
+        "url": "https://www.statnews.com/2026/06/15/ai-children-screen-time-pediatrician-prescription-guidance/?utm_campaign=rss",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "teva-2026-06-14-001",
     "date": "2026-06-14",
     "companies": [
@@ -141,6 +1035,274 @@
       {
         "name": "novo_nordisk",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYmVEbzVhLUZrTDNSZ0duek1kc0Q0aDVxS045aG9IRXFMV0tXNW93dW1oSFl1aEhWUUk2c21aM1NjMmRfTl8xclhYZ2tzcVVJbXd4emtEemo5MnU3S2ZCTG53a05RVm1ybkFyOTR5b0NtRmh2VjR1YWhhUWZVNi04bUhDcmdtU3hZVUxMOF96MFZmeE40bGhLRmp6dGFHRmxGc3NCVUs0ZnlDNmZmUmZDZ1lUUnF3UEs1VDR3Y3doNzc4Y2RTZ2w1ZUx3dWtrdWw0Szc5bjJRNGVyMlnSAeABQVVfeXFMTjJsYjhSQm00UjdLUGtXQWdIcUJBVW02NVFKdVNRVFNkdERUS2pnYTVLUzJKTnppUjRPZXZia1BBS1pob2NBb3p4alRfVWExcUZZLW9uN1F5U1hoRktsNUFzalBzUkZPZ0ZXUVhsRnlJLUsySkhVQTJMbGVCS0J3cng0OGNHOWhzQjhRdTVHV2dtYW1SN3NIemVSbWVvTFpCVF91MkxHNDYwaHJycnBvZUlXckQ3eU9pSHBhZXdxZzUtcHpxRzFDV0kyMkpaWlZYUGF4bUlEdjhlWmg0Zzh5S3E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dr_reddy-2026-06-14-008",
+    "date": "2026-06-14",
+    "companies": [
+      "dr_reddy"
+    ],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "Dr. Reddy's (RDY) Launches Generic Bosutinib Tablets in the U.S. - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOcUxrS3JZa2RkNG5ZeWVQd0Y3cVlpQXRvQjdDZ0lNVVNTWnFRNUdzQUdDanZPUTRXM3JMTXVEaDdZQnNXdm1adFFhSGJVOGdhRjdBRjVwUjBnRUF5Ry02MW9hVHRIWnhQOFY4Y2FhT3",
+    "sources": [
+      {
+        "name": "dr_reddy",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcUxrS3JZa2RkNG5ZeWVQd0Y3cVlpQXRvQjdDZ0lNVVNTWnFRNUdzQUdDanZPUTRXM3JMTXVEaDdZQnNXdm1adFFhSGJVOGdhRjdBRjVwUjBnRUF5Ry02MW9hVHRIWnhQOFY4Y2FhT3QydXRYWGgtUzJ5LUZpT0pyMTdiSlJkRW1GbG9oZ0UxcEU4clhCMjJWd2dtZDBUdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-14-009",
+    "date": "2026-06-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dr Reddy’s launches blood cancer generic in US - ETPharma.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPeVlsaHZwQWlab0ZfX2dmcGlLRW1nUjUyc2FZS3ZQeWswbjJpVjNaNVlBOFJLWnRKVTZyUDVjdXlRYXFLbGRQNkYtQ3BkamtjbTZZMERWNzZjTHdYUW9XOVpvZW1KM0Z1NlMzR3VoQn",
+    "sources": [
+      {
+        "name": "dr_reddy",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeVlsaHZwQWlab0ZfX2dmcGlLRW1nUjUyc2FZS3ZQeWswbjJpVjNaNVlBOFJLWnRKVTZyUDVjdXlRYXFLbGRQNkYtQ3BkamtjbTZZMERWNzZjTHdYUW9XOVpvZW1KM0Z1NlMzR3VoQndSZ0h5UXN1ODV3Z0FfZm1mcXJ5RWlpMjFfSVR5c3hZdDlKOWFQQkdzemVPdERadHdsLUUzNW1WeTlNV1hCLUl4WmNlZHFvc1czSEFZQllvQ3lPUE91VGVSRS1uQ1fSAdIBQVVfeXFMUDlqQjdYVGx0Z0RlOWdMOXNoNzB3MVF5dkRudDNveHhYREFuTmI2cVdzNHM3a0ZTZXhiZDVMb0xtYTZuaEp2WE5yb2tTamlMaG1vOFp6SEUwV0FwZjF4a0FzY05ZNDhscVJvazJydllEVnBic3B2NmkzOGxWWWJPLWFsaVJEdnNoS1VMdTlZaGh0c3M1WnhrSldpeDViUU5qSG5XUWNFLUhLUVVFbkE1ZVctejE5eUpOdVQ1Y1VudnlhSmczSVdpeV9wMTV0OTkyWERB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jnj-2026-06-14-010",
+    "date": "2026-06-14",
+    "companies": [
+      "jnj"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jim Cramer Explains Johnson & Johnson’s (JNJ) Shares Have Gained - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNUmVtd0dBWUhfZUVWTmVsTFNGc25iLS16Zk5yMHVWelItdlBHUzcxTE1QckdvbE54VWlRUHNBX3ZyVEticnhiRk5IUjhHczluZFp1dlF4a3h0VmZkMEJvZmpMMDE2SEhVQWRWbWVybF",
+    "sources": [
+      {
+        "name": "jnj",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUmVtd0dBWUhfZUVWTmVsTFNGc25iLS16Zk5yMHVWelItdlBHUzcxTE1QckdvbE54VWlRUHNBX3ZyVEticnhiRk5IUjhHczluZFp1dlF4a3h0VmZkMEJvZmpMMDE2SEhVQWRWbWVybFBsdFFqcDZjRlFyMWt6MVBoUnpoRERQOEo4VWl2OG1UbFhRdzZCenlIOVJhV3d4c1J4SUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "merck-2026-06-14-011",
+    "date": "2026-06-14",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Huber Capital Management LLC Buys 10,000 Shares of Merck & Co., Inc. $MRK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOSGxvNkZNQnktb2JZZXlEQURRRHlabWVBUVptQjBvdXVwX2FvVU96WUlWZ1lMLWpMb0JjOFlZNlQwR0xRQVRTenRta3Zfd2czeGdBUE5fRU5pYzhkUTdxNjZMVkNHRk5uUU16VHB2RE",
+    "sources": [
+      {
+        "name": "merck",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSGxvNkZNQnktb2JZZXlEQURRRHlabWVBUVptQjBvdXVwX2FvVU96WUlWZ1lMLWpMb0JjOFlZNlQwR0xRQVRTenRta3Zfd2czeGdBUE5fRU5pYzhkUTdxNjZMVkNHRk5uUU16VHB2REtqZjV6YnFId2xfZDdjbVB0NHpNMUY2MlF5UFc0b3ZYbVdWcC1OeWhhZWphdUJMdk9CY3R6U1pBMnZaeHltcWRlR1FnN1hENkl6cW9rQ1NGaUs3d0NIdlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "merck-2026-06-14-012",
+    "date": "2026-06-14",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "LM Advisors LLC Reduces Holdings in Merck & Co., Inc. $MRK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQODJaRXdHa1VWUmgtM2R3dkE4Smtocl8wdlhCM0wxdloyanhmWTlwdnZCZjhweDVNZmFVakZhUG1qcUtpVE1LMXRjTFExUVo5SUgwZ3Z3SUFjYmFESWlfYjc1TktsQ1NVTlo2a0taYk",
+    "sources": [
+      {
+        "name": "merck",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQODJaRXdHa1VWUmgtM2R3dkE4Smtocl8wdlhCM0wxdloyanhmWTlwdnZCZjhweDVNZmFVakZhUG1qcUtpVE1LMXRjTFExUVo5SUgwZ3Z3SUFjYmFESWlfYjc1TktsQ1NVTlo2a0taYkdHdF93VnJMLTRlWHc3cVRWUmpQS2JQNlJtNlFVTVJsQWNIRHd6R3psSUMyUlE2M1dPWkJFcG9yczR3cXNvd2xoUTRBYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "merck-2026-06-14-013",
+    "date": "2026-06-14",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Brown Advisory Inc. Purchases 36,941 Shares of Merck & Co., Inc. $MRK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPRGxHR0pjVFR3NUJNdVpmR3FwLWtuTVhtOW9EUF9mRzlTb2ZVQ2FVak5PNnBvQWVXOEc5WGh1YmpIYWZfT3FvU1JlYlJjN2lRRENqRzRCNlA4STFON193SDJjWHd2QWRzNVc0UkxPaD",
+    "sources": [
+      {
+        "name": "merck",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRGxHR0pjVFR3NUJNdVpmR3FwLWtuTVhtOW9EUF9mRzlTb2ZVQ2FVak5PNnBvQWVXOEc5WGh1YmpIYWZfT3FvU1JlYlJjN2lRRENqRzRCNlA4STFON193SDJjWHd2QWRzNVc0UkxPaDJvcmctU0ExU2p2aElEY0dxNVpDT0hfb0VLRi11cWN1WWdQTWJobHpHVXMwM2o0QWVkSlZJd2M4NnVZRlZkZmpqMGVJRWxxWUV2dHFELWlSbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "merck-2026-06-14-014",
+    "date": "2026-06-14",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bollard Group LLC Has $13.90 Million Stock Holdings in Merck & Co., Inc. $MRK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxORVJRSmkxcWFaTk5XSFpnX0otaGRUWDQxMGpRQmxjUndBV3hDRlJTVS1BZEhJU25aaDJTQnhRci1senJHbUdTVEkzckpkTnNfTF9uZWF6b3Y4Y0dKaTB4OUgwM3JYUXFZajNQMUktMl",
+    "sources": [
+      {
+        "name": "merck",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORVJRSmkxcWFaTk5XSFpnX0otaGRUWDQxMGpRQmxjUndBV3hDRlJTVS1BZEhJU25aaDJTQnhRci1senJHbUdTVEkzckpkTnNfTF9uZWF6b3Y4Y0dKaTB4OUgwM3JYUXFZajNQMUktMlNZUTljajQzVHgzMFpFa2dhcTh2SlRZVW9yVE9sZF9FQkNsdHd0dmFjTHBMcGFTYjVnMXVoWjNvLTN5eXJ4Y1BEUXF4cmFQMkxld1M5dW8tLW9fNnBDaDVVTXNB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "merck-2026-06-14-015",
+    "date": "2026-06-14",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Arax Advisory Partners Has $30.94 Million Stock Position in Merck & Co., Inc. $MRK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUk5iYmN5dHFBSXhrbFR4eC1SV0gyME16bkVjaXdneUZ2RVlCT3U0QUR5OUJtdHNjbExPZElGaWQzT0lHQV9LMTZqR1k4ZUtVcHRvM05SbHMtQk9VZW9ROW9KbGs5SjRvazh3LU00Uk",
+    "sources": [
+      {
+        "name": "merck",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUk5iYmN5dHFBSXhrbFR4eC1SV0gyME16bkVjaXdneUZ2RVlCT3U0QUR5OUJtdHNjbExPZElGaWQzT0lHQV9LMTZqR1k4ZUtVcHRvM05SbHMtQk9VZW9ROW9KbGs5SjRvazh3LU00Ukk0VDZuWjl1MWdiN0t5b0Y1c1ZSc2FJZFBseW9GNWVtTXc2b05tSUIta3RoeU5ERnJ1RnBWdmgyc3ZEQmdjOXJwazBJTkdyQmlGREdRMU5xOFZkeHc1LVA3T05qcEd4ekFx?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "merck-2026-06-14-016",
+    "date": "2026-06-14",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Arrowstreet Capital Limited Partnership Decreases Stock Position in Merck & Co., Inc. $MRK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTWhBbTZ1R0VLUi1fVlZNVm05UFBUenVkdk9rZ2NJd2NuOGY0cFdBeHBhX2ljUGE4c3pJZ2pmWl9yRklyM083VGxGSk52TWRlem15aGw0V19hTXRSUGNPNGVVaktYdmxzRk11OHdiNT",
+    "sources": [
+      {
+        "name": "merck",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTWhBbTZ1R0VLUi1fVlZNVm05UFBUenVkdk9rZ2NJd2NuOGY0cFdBeHBhX2ljUGE4c3pJZ2pmWl9yRklyM083VGxGSk52TWRlem15aGw0V19hTXRSUGNPNGVVaktYdmxzRk11OHdiNTkwclRwV2lkNXVvWU41Y2I4Z3lta0dIa1NWOUlRVFkzVGZQUm4wZDRicllSNEJUbWVIcWFvNlA3R182Nl8xTk0wZzdxQWlPVFZRSTNHWXY4OS01MFVRTzRDZ3FVWHNkZTNrQXJhX2x6Y1lDR25NSXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "merck-2026-06-14-017",
+    "date": "2026-06-14",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Epoch Investment Partners Inc. Grows Stock Holdings in Merck & Co., Inc. $MRK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPbEs0cVNKRHR0RXUzRHB2b3FESG1BUjRSME5mTWVnUHltakhKVkJENkNfSVZVSVY1VWxRMFliTHFKclkzVVQxbEtMRzI0TGVUX2JRQXR5c3p2Y29jZFVObTFWU0l6ZXlXZEF0MHg3dG",
+    "sources": [
+      {
+        "name": "merck",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbEs0cVNKRHR0RXUzRHB2b3FESG1BUjRSME5mTWVnUHltakhKVkJENkNfSVZVSVY1VWxRMFliTHFKclkzVVQxbEtMRzI0TGVUX2JRQXR5c3p2Y29jZFVObTFWU0l6ZXlXZEF0MHg3dGswdDZJaTN4cmcwRUNvVkxvNDhGbVI2S2JFdGxaRTFIRkxaSUlKMGhYUTBjbHl6NnpOSDBsUkhIVjEzS3JXWlltc1dRcWo3VmtBZ3lGVkVhcU81YVNja3F4RWxqdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-06-14-018",
+    "date": "2026-06-14",
+    "companies": [
+      "novo_nordisk"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Goldman Sachs doubles down on Novo stock target after key event - thestreet.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUTJQbFcxS3B1akVtSTB1bDZaaVdEUDJlU19RenRETFByWF9UQjdaejhld3Q4aXVqNWVrN01ORE9sM0hHOFJLRE5uZWd5dnJuWHo5dFVLRjI3eXZDdmk4eXE0RlZ5cmlRTWNubFl4VW",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUTJQbFcxS3B1akVtSTB1bDZaaVdEUDJlU19RenRETFByWF9UQjdaejhld3Q4aXVqNWVrN01ORE9sM0hHOFJLRE5uZWd5dnJuWHo5dFVLRjI3eXZDdmk4eXE0RlZ5cmlRTWNubFl4VWVMdlRHWW9ROGVqR3dmS3JVMGtNVjdzQU5INVRv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-06-14-019",
+    "date": "2026-06-14",
+    "companies": [
+      "novo_nordisk"
+    ],
+    "topics": [
+      "drug_approval",
+      "glp1_obesity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Oral Wegovy Win In UK Puts Focus On Novo Nordisk Valuation Gap - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNUnV0WldrTUpCZWhPNXFfZTNqNmxMckI2QjNqTDFzb0tiQ0xBeEJhSndZNW5EWm1BbjBJMUJrMXlWSU1EaHJuN3JJV3JwdzQtb29NUG5VTDFKM2l2TGpUZTdRM2RNLUs3aHZPWkdtdW",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUnV0WldrTUpCZWhPNXFfZTNqNmxMckI2QjNqTDFzb0tiQ0xBeEJhSndZNW5EWm1BbjBJMUJrMXlWSU1EaHJuN3JJV3JwdzQtb29NUG5VTDFKM2l2TGpUZTdRM2RNLUs3aHZPWkdtdWJ5aUJIR3lxNVRoeVhqTTFSV0VHZkhpU2x4YkU2WmpwZlFmQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-14-020",
+    "date": "2026-06-14",
+    "companies": [],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "6 Best Healthcare Stocks for 2026 and How to Invest - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFAzYldfXzNGYzFPZGREZFpucVQzd0lSLTdOR1RRRDgtSHdTcG5iVi1ZdDhYVWs3a2lCM1hsRWhWWDg0TWRERHFkSmk1WFJlY1dTQk96VndJZV9TMlZkTUR3eGVnYk92MUhnaDJrY01yVk",
+    "sources": [
+      {
+        "name": "cardinal",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzYldfXzNGYzFPZGREZFpucVQzd0lSLTdOR1RRRDgtSHdTcG5iVi1ZdDhYVWs3a2lCM1hsRWhWWDg0TWRERHFkSmk1WFJlY1dTQk96VndJZV9TMlZkTUR3eGVnYk92MUhnaDJrY01yVkRTM25VYk5NRHZR?oc=5",
         "type": "rss"
       }
     ]
@@ -941,6 +2103,90 @@
       {
         "name": "statnews",
         "url": "https://www.statnews.com/2026/06/13/teplizumab-tzield-sanofi-fda-approval-children-stage-3-diabetes/?utm_campaign=rss",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jnj-2026-06-13-040",
+    "date": "2026-06-13",
+    "companies": [
+      "jnj"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "J&J multiple myeloma drug Talvey cuts mortality risk (JNJ:NYSE) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNQlFiV1BVVjNPbmE0LWQ5T1ZaUEh6NFBLMFZGeDdnWXFFbUpCcmhnb1UzTFRyRTEzNmZVcXdkTDNlTGRsYmo0YjNsN3drWGo1RGFPLVdYSm4wYjF3cDJwT2M3ejRkaXRLRXY2WFFfd3",
+    "sources": [
+      {
+        "name": "jnj",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQlFiV1BVVjNPbmE0LWQ5T1ZaUEh6NFBLMFZGeDdnWXFFbUpCcmhnb1UzTFRyRTEzNmZVcXdkTDNlTGRsYmo0YjNsN3drWGo1RGFPLVdYSm4wYjF3cDJwT2M3ejRkaXRLRXY2WFFfd3NHZDNDUzBSeEc1aW1oZGtOb0tvb3RiZHJ3VXVER0F2dGE4YlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "merck-2026-06-13-041",
+    "date": "2026-06-13",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Macquarie Group Ltd. Has $186.10 Million Holdings in Merck & Co., Inc. $MRK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNZS04cUN6OHFTdlkwZzZzVGdldE1mTG9kM2hqU2w1NlYwWkhWTjhHOW9sZFhuNVZsa2NIQkVYQWFGZlZnbTJVZXkzUUtkQ3RZaHNsYkozeVJsaVAtR3Zuc2NWTG5NdGpYQk9sZDkxaz",
+    "sources": [
+      {
+        "name": "merck",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZS04cUN6OHFTdlkwZzZzVGdldE1mTG9kM2hqU2w1NlYwWkhWTjhHOW9sZFhuNVZsa2NIQkVYQWFGZlZnbTJVZXkzUUtkQ3RZaHNsYkozeVJsaVAtR3Zuc2NWTG5NdGpYQk9sZDkxazkzeXlVS3VDeS1BWTBSckZyZVZOUTNiS2Z6SjNPZXBQSXVWZ2Y3V1RYUHlGeXNNRERxUkN6SVRWWWVibnhOY2t2X19WVEtIZE5COUY0MHFRNExzWVZONUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "merck-2026-06-13-042",
+    "date": "2026-06-13",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Platinum Investment Management Ltd. Sells 875,470 Shares of Merck & Co., Inc. $MRK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOU1o5dWp6cUdZWkUyVG5scFN3dENwSnBiaGg3RDhla1ZqRHhYbHBqaDd2UDZPM2ZWNE1wWGlBSllTOHJZckc3THdvbm5xT2FrRFQwNDNLWE5xbTFDVjNTSUhtUFdGdUFvMTFWcFhpTW",
+    "sources": [
+      {
+        "name": "merck",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOU1o5dWp6cUdZWkUyVG5scFN3dENwSnBiaGg3RDhla1ZqRHhYbHBqaDd2UDZPM2ZWNE1wWGlBSllTOHJZckc3THdvbm5xT2FrRFQwNDNLWE5xbTFDVjNTSUhtUFdGdUFvMTFWcFhpTWFXVWMtUWNLaW96Q1JYMklFd2g1REtWSzY0NjJaWl83cU12RHA5bGRQbmtjNFlvT0ZueXdwYUFnbTE0cHJKSXdNbU9Vc0ZfV3dCZHp4VlJKd21oR29jU1FMa1dLMnlaVEtj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-06-13-043",
+    "date": "2026-06-13",
+    "companies": [
+      "novo_nordisk"
+    ],
+    "topics": [
+      "drug_approval",
+      "glp1_obesity"
+    ],
+    "impact": "neutral",
+    "title": "Novo Nordisk: Why The Wegovy Pill Doesn't Change My Thesis - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPQ2dlbXNuYUpUZnZQSVIyeXVzTm04OC16VGI4aE1JRzhINXRBaVFiMVFJczI4UzBCaVpiNWw1Q0QtZ1pjcUZURkg3M3g3QldzN2gwU2l5dXRTQkRpel9paENxR2c5Y29CQlVBOXZlYj",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ2dlbXNuYUpUZnZQSVIyeXVzTm04OC16VGI4aE1JRzhINXRBaVFiMVFJczI4UzBCaVpiNWw1Q0QtZ1pjcUZURkg3M3g3QldzN2gwU2l5dXRTQkRpel9paENxR2c5Y29CQlVBOXZlYjFWalhKSzdiMXJCY2pMbTVqbEF4SXdubTFIdGgzTUtieXJWc2VJS3BYeml6U2RtUQ?oc=5",
         "type": "rss"
       }
     ]
@@ -2180,6 +3426,67 @@
       {
         "name": "novo_nordisk",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa3lHY09ib1ZhcTk1SnJZd2tmOXhrUHVRcVY3WnplNy1CMG85U2tEMkVMTjROTW1UWTItMy04bVQxSERJMWJwNWZVSjk0NFV6ZW9RM1JCTUlLakpQRkFhdThPRW5TVUc4UnRLUmIxOE50WFZCZXA1SmxoeXZjOXFsTXFzZ2V0ME93Q0VJbkNjQnhTZUpUc2hUZ29scGxjUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-12-061",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "Layoff Tracker: Genentech R&D cuts include longtime top exec - BioSpace",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1N2d4NnYwN0JiU181Tm9vV0dUM1c1NWVMUHNCdlZFVmRSZXpmRFp3TnBQUVJXYnFYV1VlNVBIZXU0TzY4bE5BNTd4NGpIT21aYlZHMy1qSW1HWDFH?oc=5\" target=\"_blank\">Lay",
+    "sources": [
+      {
+        "name": "catalent",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1N2d4NnYwN0JiU181Tm9vV0dUM1c1NWVMUHNCdlZFVmRSZXpmRFp3TnBQUVJXYnFYV1VlNVBIZXU0TzY4bE5BNTd4NGpIT21aYlZHMy1qSW1HWDFH?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-06-12-062",
+    "date": "2026-06-12",
+    "companies": [
+      "novo_nordisk"
+    ],
+    "topics": [
+      "drug_approval",
+      "biotech_funding"
+    ],
+    "impact": "neutral",
+    "title": "Novo's M&A leader leaves for Forbion; Perrigo CEO's 'personal conduct' issues led to resignation - Endpoints News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxONGdiZllEdzdfUHZ2N2EtalBfeDF4WVhpYkx4RnJLUk1QVk1OUDVfRDJRWHhVa2wtaGFteXE3UnZEQ0VOSzJGN2ZXX0F2ZHRydDhGcldET0lXRHNiQ2J2dnU2TkFSZTdyMHJab1ZDTX",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONGdiZllEdzdfUHZ2N2EtalBfeDF4WVhpYkx4RnJLUk1QVk1OUDVfRDJRWHhVa2wtaGFteXE3UnZEQ0VOSzJGN2ZXX0F2ZHRydDhGcldET0lXRHNiQ2J2dnU2TkFSZTdyMHJab1ZDTXUzYW1hRmRWalMtZmVoLTBBSDVRb1RKTU1JTkZwX2JVWHU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-06-12-063",
+    "date": "2026-06-12",
+    "companies": [
+      "novo_nordisk"
+    ],
+    "topics": [
+      "drug_approval",
+      "glp1_obesity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Regulatory tracker: Novo's oral GLP-1 picks up UK approval - Fierce Pharma",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1HR2pJQXJsR0JMdGpBX2JINnZaLTk0S3JUd1dsWDVWTVp1WlpDSUs5ZFlzNC03ZTQySzJ4cTZOelRQM2JqUHJiUkxac3llMUE0Tlo0Mlk2ZmZqeXRVSEJ4aUg0TVlYRUFmT2pNVUhsVF",
+    "sources": [
+      {
+        "name": "google_news_pharma",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HR2pJQXJsR0JMdGpBX2JINnZaLTk0S3JUd1dsWDVWTVp1WlpDSUs5ZFlzNC03ZTQySzJ4cTZOelRQM2JqUHJiUkxac3llMUE0Tlo0Mlk2ZmZqeXRVSEJ4aUg0TVlYRUFmT2pNVUhsVFQ3MURPelB0amtNNnZBUQ?oc=5",
         "type": "rss"
       }
     ]
@@ -3551,6 +4858,27 @@
       {
         "name": "novo_nordisk",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcEFPT2NiQlVSaWZuSUdoYVdJWFR5R0dSSWFXc3EtUlROQXMwems4eTRyd3BUbXVSM3FVdDBpQmV3N0dYLXpZR1pSSHJQdGJLRXpoNGxJcGpVNkY1dnQ0cmRWb1p6MFBuZ2NNTUhqbWFETXduLVg3aGlWQ1h1UldNanJuQ01KUXFXWm81NEpBQThxYmk2MFlzaGxpTGFqMzY3bWdMYk1ZYjNFREJMNzIwMzhNekNfUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "roche-2026-06-11-069",
+    "date": "2026-06-11",
+    "companies": [
+      "roche"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ADA 2026: Roche Still Looking For Ways To Stand Out In Obesity - Citeline News & Insights",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxQcnhaRkJVZHZjczlRTDNVdlFnVmpxQnRmMzl2dmh2SHhpVlV1dzBpWjNoVV96dE1IZ1lJNzhmai1GSzBQWGtOT18wWjV2dmdySHg3cWVqX1F4dW1WTjJLWGhyZDhpTTJDT29DMk9pV0",
+    "sources": [
+      {
+        "name": "roche",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQcnhaRkJVZHZjczlRTDNVdlFnVmpxQnRmMzl2dmh2SHhpVlV1dzBpWjNoVV96dE1IZ1lJNzhmai1GSzBQWGtOT18wWjV2dmdySHg3cWVqX1F4dW1WTjJLWGhyZDhpTTJDT29DMk9pV0RBUGxvYnJRbGdHZjdQSWJtaGdtdUI3MC1RU1lYenpETEY1cUg2WFhXU0RiU3gwdFdQWDlJak9IcUtpdlp0Tl9qWkxPc0ljWHJkUWYyMDR4M2R1RFEtYXFUQkxDXzg2YkJLWGh2YUpFLU95dVRmdTh5bWE2V2RoRURkdWdfREh6MHVyNXJ5NGpqbFNTcw?oc=5",
         "type": "rss"
       }
     ]
@@ -5234,6 +6562,27 @@
       {
         "name": "jnj",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNemU4d3VpYmNYa2YzLXEtSmpXTkpKY01hX2tvbkZIUVRrSFZITG01ZmdjWjR0Mm9sQUxEVnNIM2s4LXFYN0UtellqOVRGX2FEWXEyNmZ6V055VnJSbjgzbGM1MERDbHZfYlN0bUk2ZzF2UmpvelpyMzVyN3VLdlBSNVltQ3FCMjRwRk9aOU1PWmkzRW8yWUpzUWJqLThKZk8w?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "teva-2026-06-10-084",
+    "date": "2026-06-10",
+    "companies": [
+      "teva"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Piper Sandler Maintains Teva Pharmaceutical Industries(TEVA.US) With Buy Rating, Maintains Target Price $42 - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR0FTUlpoMzJUcFNXMUZZNVJ5cFFkRmFwX2llQzMwSWhBXzdWbV9UdC1sd2VnQVg4aHpXcklEWFhhdFMzRHRJNDVrSENOQmtxR2E3OXpoTUVJWFFwN1RHUG1Sd2dTS2lZQmRvamd2SX",
+    "sources": [
+      {
+        "name": "teva",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR0FTUlpoMzJUcFNXMUZZNVJ5cFFkRmFwX2llQzMwSWhBXzdWbV9UdC1sd2VnQVg4aHpXcklEWFhhdFMzRHRJNDVrSENOQmtxR2E3OXpoTUVJWFFwN1RHUG1Sd2dTS2lZQmRvamd2SXl2d3FRc0w0eERKVzFDWGg0S2N4RkhXRUY5QUNJdGNNQk9sODY5bFpLTlZ1dHJ0dHRNSE93TkhtMjJrdi1uY1hFX2lLdGk0T1NvaGhn?oc=5",
         "type": "rss"
       }
     ]

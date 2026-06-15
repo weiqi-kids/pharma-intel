@@ -1,0 +1,16 @@
+{
+  "total_raw": 454,
+  "dup_title": 235,
+  "no_date": 0,
+  "too_old": 120,
+  "gate1_fail": 14,
+  "gate2_fail": 19,
+  "passed": 66,
+  "gate2_samples": [
+    "How Investors Are Reacting To Teva (TEVA) AUSTEDO Real‑World Data On Tardive Dyskinesia Improvement ",
+    "Dr. Reddy's Laboratories (RDY) Faces 15% Drop Amid Market Moveme - GuruFocus",
+    "Pfizer's New Weight-Loss Data Just Gave Eli Lilly and Novo Nordisk Investors Something to Worry Abou",
+    "Johnson & Johnson makes WSJ 2026 Best Companies for the Future list - Johnson & Johnson",
+    "Roche Expands BTK Degradation Platform With Nurix In Multi‑Area Bet - simplywall.st"
+  ]
+}
