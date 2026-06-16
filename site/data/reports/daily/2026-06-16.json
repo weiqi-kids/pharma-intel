@@ -1,0 +1,263 @@
+{
+  "date": "2026-06-16",
+  "generated_at": "2026-06-16T13:01:47.284408Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "novo_nordisk-2026-06-16-020",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Novo Nordisk Seeks China Approval for Wegovy Pill, Intensifying Rivalry with Lilly - TipRanks",
+      "companies": [
+        "novo_nordisk",
+        "eli_lilly"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZU1SMmFxYWgxbHBJM2wwdG9TREotX0wtZjYweVdkOEg1Qm9icTVTa0VEQmlDNms1Wl9oMUc0MEdCNzNnVWc1ekw2RC1iTzNWd1pXNE4tenhlOUJmNC16ZVVUN2swY21HS1BKa0dfWVlqUVJNcFVNNWtxR2dWa0RGdkFicHhDSUpndGFSeVZOb3VTaU4xNHF2dHVZQi10OGViMzVEZWZoeWxpa2FTSU5BYw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-16-028",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "[Podcast] (Season 2) The Progress Profile: Alzheimer’s Research in Focus",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.biopharmadive.com/spons/podcast-season-2-the-progress-profile-alzheimers-research-in-focus/822189/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-16-030",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "How supplement use changed over decades",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "glp1_obesity"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.statnews.com/2026/06/16/health-news-how-supplement-use-changed-over-decades/?utm_campaign=rss"
+    },
+    {
+      "rank": 4,
+      "event_id": "teva-2026-06-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Teva (NYSE: TEVA) CFO sells 106,563 ordinary shares under plan - Stock Titan",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZDB2LWxxWUlDblpzSTBLQ0NsZWJNN0FkUXRHVDJuc3g3am5NZGhTZV9BeWNxVGlBempwN2RaMlJ4b0tqM0R5VFNZYllYUHpKYWZaUTdEZzNpU0dxSENKS2pzTGVwTWRta3NPM1dOSFJRU1UwZG1QTktXSDFuTHpjc0oxOF85SkdVZ2dLeUZ1TXJraUV2QWo5UXpJNDZkbUNHTkpOZWh5R1Y0aklYOGk2S2c1ZDZVcWlwUW1zN1FWTFU3XzVyRDZJ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "dr_reddy-2026-06-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Dr. Reddy's Laboratories falls Tuesday, underperforms market - MarketWatch",
+      "companies": [
+        "dr_reddy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "patent_cliff",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUjFLa3Y3d3llOEdxZ2lPRnlTR193WGc0NXpPdlNVcktpaE1sbjBpQXJLbWlkWTA4WGoyX2hsdGY4RTloN25vZzh2MnJhUW1NX3lGRHNHWnBBNjNLd2tTTjlCZTFxOHhhb3Z0UDVQOV9CZWZTc25zaXBSOElPS0dhbWY5aHFIMGR2cHIxSFJ5V21UbWxnZmZoRFVGWHkxSVEzbllibER0b0NZVGhuMThTbzE3c242Z1BaQnNiS291azJWVXdfWFhwb25CeHBCcmo4RC13ZHJjVXg4emNscWc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 28,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 28,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 32,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 29,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "jnj",
+        "count": 8
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 7
+      },
+      {
+        "id": "lonza",
+        "count": 2
+      },
+      {
+        "id": "catalent",
+        "count": 2
+      },
+      {
+        "id": "teva",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 28
+      },
+      {
+        "id": "industry_general",
+        "count": 28
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 6
+      },
+      {
+        "id": "patent_cliff",
+        "count": 1
+      },
+      {
+        "id": "biotech_funding",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 456,
+    "dup_title": 233,
+    "too_old": 126,
+    "gate1_blocked": 14,
+    "gate2_blocked": 16,
+    "passed": 67,
+    "pass_rate": "30.0%",
+    "gate2_block_rate": "7.2%",
+    "gate2_samples": [
+      "How Investors Are Reacting To Teva (TEVA) AUSTEDO Real‑World Data On Tardive Dyskinesia Improvement ",
+      "Dr. Reddy's Laboratories (RDY) Faces 15% Drop Amid Market Moveme - GuruFocus",
+      "Pfizer's New Weight-Loss Data Just Gave Eli Lilly and Novo Nordisk Investors Something to Worry Abou",
+      "Johnson & Johnson makes WSJ 2026 Best Companies for the Future list - Johnson & Johnson",
+      "Johnson & Johnson to invest $1B in vision operations in Jacksonville - JaxToday"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 32 則事件，焦點為J&J、Novo、Lonza相關動態：「Novo Nordisk Seeks China Approval for Wegovy Pill, Intens...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Novo Nordisk Seeks China Approval for Wegovy Pill, Intensifying Rivalry with ...（藥物核准、GLP-1 減重、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "[Podcast] (Season 2) The Progress Profile: Alzheimer’s Research in Focus（藥物核准、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
