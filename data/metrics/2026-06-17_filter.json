@@ -1,0 +1,16 @@
+{
+  "total_raw": 434,
+  "dup_title": 211,
+  "no_date": 0,
+  "too_old": 116,
+  "gate1_fail": 9,
+  "gate2_fail": 20,
+  "passed": 78,
+  "gate2_samples": [
+    "Dr. Reddy's Laboratories (RDY) Secures License for XACDURO Distr - GuruFocus",
+    "Innoviva Specialty Therapeutics inks distribution and licensing agreement with Dr. Reddy’s - BioSpec",
+    "Innoviva partners with Dr. Reddy's for XACDURO licensing - grafa.com",
+    "Dr. Reddy's Laboratories (RDY) Faces 15% Drop Amid Market Moveme - GuruFocus",
+    "Amid confusion over Pfizer's emergency penicillin program, newborn is diagnosed with preventable syp"
+  ]
+}
