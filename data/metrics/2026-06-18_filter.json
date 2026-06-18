@@ -1,0 +1,16 @@
+{
+  "total_raw": 453,
+  "dup_title": 241,
+  "no_date": 0,
+  "too_old": 124,
+  "gate1_fail": 8,
+  "gate2_fail": 16,
+  "passed": 64,
+  "gate2_samples": [
+    "Dr. Reddy's Laboratories (RDY) Secures License for XACDURO Distr - GuruFocus",
+    "Dr. Reddy's Laboratories (RDY) Faces 15% Drop Amid Market Moveme - GuruFocus",
+    "Amid confusion over Pfizer's emergency penicillin program, newborn is diagnosed with preventable syp",
+    "Johnson & Johnson to build $1B Florida distribution hub - NJBIZ",
+    "EHA26: AstraZeneca battles Roche in untreated follicular lymphoma - Yahoo Finance"
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "date": "2026-06-18",
+  "generated_at": "2026-06-18T11:56:29.740479Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-18-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Breakthroughs that Change Patients’ Lives - Taiwan Business TOPICS",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM3RSNGh1endrSEZhdU9xdjZ2YmNSaENNZktYLUR3RndldmFKMGVKMjV6VHphbU1ZdlEyUHJOTXFuMURjQjhCWWdncGZWX3JuMHI3WjkzWTBOZE9GejMwci1neVJGYjctVmJveF9uR1EyRkM3NllmNUUxd2JnZjBlWlJFaEI?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-18-023",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Biogen makes up to $1B deal for secretive anti-inflammatory biotech",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://endpoints.news/biogen-makes-up-to-1b-deal-for-secretive-anti-inflammatory-biotech/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-18-026",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "What’s next for GLP-1 weight loss drugs?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.statnews.com/2026/06/18/weight-loss-drug-market-update-status-report-alex-hogan/?utm_campaign=rss"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-18-027",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "STAT+: Senate Democrats demand HHS provide records on federal vaccine policy",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.statnews.com/2026/06/18/rfk-jr-vaccine-policy-probe-senate-democrats/?utm_campaign=rss"
+    },
+    {
+      "rank": 5,
+      "event_id": "teva-2026-06-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Eversept Partners LP Has $20.60 Million Position in Teva Pharmaceutical Industries Ltd. $TEVA - MarketBeat",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPLUNoMlZuWkNZdWcwUURtMFJwT29FX3lSX0piTmZuOUxFak9xcG1SaGVWMHRYZ2IxZS12UlVKV2hEV2MyX2k2aHVMekhYQXpnSW1aNkE2eWJfQlREU3RqdzRoV1pHVHQ1X2ZMRFRMUFBkYUZRdVd2NXk0aWJTSktGQ1dlMmFFbXZlZGR0ZXI2ems5ZXloX2dYS2hsSXBZX0VUUEV5YVBkWl8xd2hFelZoaEtuc2UyeDIxaFNvNktnbTQ2TUxPYm5jTjBSNy1YT1hmQ0l1Sm9TbXJzZDFnMllCcWFaakk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 26,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 29,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 25,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "teva",
+        "count": 6
+      },
+      {
+        "id": "jnj",
+        "count": 3
+      },
+      {
+        "id": "merck",
+        "count": 2
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 2
+      },
+      {
+        "id": "sun_pharma",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 26
+      },
+      {
+        "id": "drug_approval",
+        "count": 20
+      },
+      {
+        "id": "patent_cliff",
+        "count": 1
+      },
+      {
+        "id": "biotech_funding",
+        "count": 1
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 453,
+    "dup_title": 241,
+    "too_old": 124,
+    "gate1_blocked": 8,
+    "gate2_blocked": 16,
+    "passed": 64,
+    "pass_rate": "30.2%",
+    "gate2_block_rate": "7.5%",
+    "gate2_samples": [
+      "Dr. Reddy's Laboratories (RDY) Secures License for XACDURO Distr - GuruFocus",
+      "Dr. Reddy's Laboratories (RDY) Faces 15% Drop Amid Market Moveme - GuruFocus",
+      "Amid confusion over Pfizer's emergency penicillin program, newborn is diagnosed with preventable syp",
+      "Johnson & Johnson to build $1B Florida distribution hub - NJBIZ",
+      "EHA26: AstraZeneca battles Roche in untreated follicular lymphoma - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 29 則事件，焦點為Teva、J&J、Merck相關動態：「Breakthroughs that Change Patients’ Lives - Taiwan Busine...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Breakthroughs that Change Patients’ Lives - Taiwan Business TOPICS（藥物核准）",
+        "level": "green"
+      },
+      {
+        "text": "Biogen makes up to $1B deal for secretive anti-inflammatory biotech（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
