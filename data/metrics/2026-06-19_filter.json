@@ -1,0 +1,16 @@
+{
+  "total_raw": 455,
+  "dup_title": 227,
+  "no_date": 0,
+  "too_old": 121,
+  "gate1_fail": 7,
+  "gate2_fail": 23,
+  "passed": 77,
+  "gate2_samples": [
+    "Dr. Reddy’s Laboratories supercharges HCP engagement with unified data - Salesforce",
+    "Dr. Reddy's Laboratories (RDY) Secures License for XACDURO Distr - GuruFocus",
+    "Innoviva partners with Dr. Reddy's for XACDURO licensing - grafa.com",
+    "Dr. Reddy's Laboratories (RDY) Faces 15% Drop Amid Market Moveme - GuruFocus",
+    "Lonza Group, reported €2.5 billion divestment plan - AD HOC NEWS"
+  ]
+}
