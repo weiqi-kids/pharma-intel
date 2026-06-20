@@ -1,0 +1,234 @@
+{
+  "date": "2026-06-20",
+  "generated_at": "2026-06-20T10:38:51.442132Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-20-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Endpoints News History: 10 Years, Bootstrap to FT",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://endpoints.news/endpoints-news-history-10-years-bootstrap-to-ft/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-20-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Dr Reddy’s Launches First Generic Bosutinib 400 mg in the US - Machine Maker",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZVdjcnA1d044d04zcEJMWXk4M1R4OHNkc2J4QW1JZ0VFME9YTGZ3THp4c1pKTXNsOVRTcm95dGZfcnZRc29sWjRnQlZMTWdNMW5EU2NRNW5GUTB5UDZsUVMySy1Lckp6VW05M1ZDckhfbkZ5MHdLZ1lMOGV1dHBZSC1VRkE3c1NTa1UzemxMdkx5SVpMV0swbw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-20-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Dr Reddy's fixes July 23 for AGM, recommends Rs.8 dividend - scanx.trade",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbFNrbFFIQmEtY3o5c3dfWm9qVXd0TTEtSE13UHZyRy13OFA0V0pyeVk5UndBQkZfaXRYdmpuZUlxT0pQZ2Y0UVhCWmZpNXl6Z1gxY1JLa3plOUVxOURfekZvSEktQzhlSGdYdUhEclJndVJTZFc5dVpweDA1NlMybU9qb3R1VUpsVEdWR1JnbzIybDB4cUFzaUhPNDQyRTVILWZOWC1lU1hzeWlJNUtDaFJCbW4?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "sun_pharma-2026-06-20-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sun Pharma recalls Chemo, asthma drugs in US - ETPharma.com",
+      "companies": [
+        "sun_pharma"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "gmp_inspection",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONkVxWWItTTNEY3VWNEFSTUxuQllWSGQtMW1YbjJwNWUtSlM3c1RoVUNRRW1kYlIzczNtTUtSMzN3cThldHpwMThMcF9mNlpQRW5UbVRPNC1OWTdVMWJYUTBEN24wRXk2MWhsbHkwMVNoRTRTaG9NcEtCaWhTNEM3WDBpSTJOS1hhN1RwSy01RHYtM0x5bnd2bjMwUzRYNmg0WFlOb0xDcFZDV2RwX1RNdDR3QkM5WU4yZ1HSAb8BQVVfeXFMTTdVZlRCTU1XM2k0NnJ3aG5Nczc2NlFTXzFfNjdpcnZvRm4tc25nOFE1S3R5dUlLTXl0U0Y4elgycGZPd282ak9CWFV0Q0E3LWwyZ2xqZS1FVVQxOVJYdUctLWsxX3hlNGdQbzJ6MFlIQWRIR3ZaaElUazM2bjkyXzhVUzMtOW0zTHlBZGdicHlZUTUybXNNbDYza0hHSVNuVmVpdEtIOXVZcWRMeFBNSDF2TmtRU2htNjBvSmYzcU0?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "jnj-2026-06-20-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Johnson & Johnson $JNJ Shares Bought by Tobam - MarketBeat",
+      "companies": [
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWFNYOVlWYkV4bEZqdlhJbE9vTmxtTEZMVlhNWllwNi1iel9RX09hTlFfVzRmUUpVYjFGRWRiV2h1UmZUbHVHMDJRNjI2dV9fc3ZRT0FwbEl0NkFHb0RjWXpEYkxSUkJrUDBQX19tWjB2R1VGc2NPN0g2ZU85TV9fUTZQMVFUcDVrWmRteksxTHlodUtjcE53R0FfN1NlUTN2MlJzSDRn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "gmp_inspection": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 11,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "jnj",
+        "count": 3
+      },
+      {
+        "id": "astrazeneca",
+        "count": 2
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 2
+      },
+      {
+        "id": "sun_pharma",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 9
+      },
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "gmp_inspection",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 453,
+    "dup_title": 263,
+    "too_old": 121,
+    "gate1_blocked": 8,
+    "gate2_blocked": 27,
+    "passed": 34,
+    "pass_rate": "17.9%",
+    "gate2_block_rate": "14.2%",
+    "gate2_samples": [
+      "Dr. Reddy’s Laboratories supercharges HCP engagement with unified data - Salesforce",
+      "Dr. Reddy's Laboratories (RDY) Faces 15% Drop Amid Market Moveme - GuruFocus",
+      "Kunwar Khurana Appointed Head – Sales and Marketing At Dr. Reddy’s Laboratories - hrtoday.in",
+      "Pfizer CFO Dave Denton stepping down in August 2026 - qz.com",
+      "Pfizer CFO Dave Denton to leave company in August - CNBC"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為J&J、AZ、Novo相關動態：「Endpoints News History: 10 Years, Bootstrap to FT」。主要關注主題為藥物核准、產業通用、GMP 查廠，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Endpoints News History: 10 Years, Bootstrap to FT（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Dr Reddy’s Launches First Generic Bosutinib 400 mg in the US - Machine Maker（藥物核准）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
