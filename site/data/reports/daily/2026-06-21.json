@@ -1,0 +1,232 @@
+{
+  "date": "2026-06-21",
+  "generated_at": "2026-06-21T11:22:24.962116Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "novo_nordisk-2026-06-21-009",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Novo Nordisk (NYSE:NVO) Launches Pan European Obesity Research Push As Pfizer Closes In - Yahoo Finance",
+      "companies": [
+        "novo_nordisk",
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdk9tUldUWHp6Uk1VOW5Pa0l6XzZLRkNjcnRiR0JadXB1TFRHT2FfYW54SHlFNnFtSHNKTXdHTWNzbjFLSlJMRjhFRnhCLU9JRVJCakpwWW9sM1Q3dFhaTXY0bGpEdDJjN25rdktYbkZSeG1ZOUt4OU9OV3lOcUFVR1NpMTZpR2JOVWtQYTBSckFzY2diM1E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "sun_pharma-2026-06-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sun Pharma acquires Innovcare Lifesciences in ₹271.2 crore cash deal - Storyboard18",
+      "companies": [
+        "sun_pharma"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOWNQZXpBLVVXcUlFU1I4eUd5bVRtYzNZQTk2ckVZSVZiMVdyU3d5MXlpMldkVFlSMkdXbWk1TkptN1N4cVY3elMtR1RHeEo0VDQ3aU9iODhoU05pbFplTG1hemVpeldIRnU3MUZrQjhySEl2UTBONW0ydWZuMS1hdFRxLV9QeTFKWlZOUkdSVFZVQ0RiNkFpNTlfRUFVb1NWbDgxZFBGYmhDS3NyN1hYdnNYSXJWS29FVTNhZmdEREhBRnVGMXgwemJqbmXSAdIBQVVfeXFMUFZhaklvX1JHY3BPU3dESFY3NkR3Z2NQTDE2dkdfSGYzUFZ4NU1kSUYxN0ZGUnk5UnA3RGlaLVAtUFZZMVpzS3FWb21qTGZxSWFYMnlmOFJDQ3NUOUhuNGVqMWtqNS1uVXA3b3NHT3k5SkpldHNhVDgxZkNtd2lzSmJEMEtwdk9VMkJfM3RFZ25mYUdINUtMY21pM1IyOVdySC15bjVZNDNaQXZnVmJ2eGdPMDNIUFZ5Nnhoa2FLQXJnUGtmNTREV25XLVFrZlFUVEFR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lonza-2026-06-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lonza Group Stock - Sunday background on strategy after board and CEO changes - AD HOC NEWS",
+      "companies": [
+        "lonza"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZmpJT3dTZDE5SElGMy1sMXBYaHlFMGx6bWJ3MVVCTXFLWGFLd1h0dWNnV0RnSFNnMnA3ZWhrMGl3MHRkdDYxLXhabU1mVjUzRTRKVUR4eS14Z3dOeGRCUVdfWUdaZDBRTVRlaFVtcF9xRTF6dGViam1UWU0zQVVfTkFHbEFiRFA4aXdkaWM2YUFfZzB1UDNJaWFMOGlGT0pjWXI2NldNLTBNZjcwdXNIRHk1VlAwYTRndkpVei11UVFfa0h1?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lonza-2026-06-21-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lonza Stock - Sunday background on the Swiss CDMO group - AD HOC NEWS",
+      "companies": [
+        "lonza"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX2V2LWRJM1otMlBfSkpJOTVjRDZmZnZXWnd3VENMZzlhRWE2QUVacEl0ZmxzY2pQQnV0NkRPM3I1Z19XUDJxNEdTNW9OOFBFMW5Za0lnUlhJNzlXUVlidzNrdUtsS3doLVFqSi1KNHAyMnowWjlpaHI5LThHLTVyRDFkcE5Nbk9fZmFvUGdlNGM2THUzU24telVDazN6VnQ3TnZSLVhQMUJHRl9QVktjOUt3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "jnj-2026-06-21-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Johnson & Johnson (JNJ) Stock Could Be 7.3% Undervalued Based On Its Pharma And MedTech Focus - simplywall.st",
+      "companies": [
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZEFmZ0NRM1R2Ni1HMDdRODRwN1dhOEpBbkZXRF9nTno2enRobDNFOXlLUTdUNUpCRTRMbVZMQ3JkaDd6ZkZjcmFLNEt3SmUwYXBjM3hGaEktUDhFSWZ5MXlhc3NRX1hJRjdHMTA3ZFI1RjJ2NDJQRDhzUkJzcDdVYmctTTJnZ1ZHeWxtVDh6WV9XM1FJbGFWWU5abzFWTnBsX1pvLWVhYTM3TEdNcU1EUm1oLVZGb1NGVy1ybHgyOWVyMmt5d0JYRjdka0I4R2VCeWhqQ1dOQktzbTI2U2ZJ0gHkAUFVX3lxTE10TmZwdVduSEJNRmw5NFhwODFyZFNUYkJDZ2JvVFFJdXpMWjk0bjZ0Ymx1enNaU25zcFRVTUJGeng1bmRSQjBEbTJFWmMwa0NhSXlCdTZGTjNHOGhxTTNHczNYWDBEZ1N0NFNYQ1hSWUREMTlUeWR6c3EzZHFwdW1WeEhNamJFNFBqZmlPYXB0M0hmVnl6OWEtRGVIbXJNczh6d1d0dWsyV3lfZUlDSjFsYy1uQTl1TmlCbnZWODJVbER0SmJPVTBNZUYydDVHYWc3OUt1VU5VaG9BdU94X3QtNllJMw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "drug_approval": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "jnj",
+        "count": 4
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 3
+      },
+      {
+        "id": "lonza",
+        "count": 2
+      },
+      {
+        "id": "sun_pharma",
+        "count": 1
+      },
+      {
+        "id": "pfizer",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "drug_approval",
+        "count": 7
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 456,
+    "dup_title": 277,
+    "too_old": 122,
+    "gate1_blocked": 8,
+    "gate2_blocked": 24,
+    "passed": 25,
+    "pass_rate": "14.0%",
+    "gate2_block_rate": "13.4%",
+    "gate2_samples": [
+      "Dr. Reddy’s Laboratories supercharges HCP engagement with unified data - Salesforce",
+      "Dr. Reddy's Laboratories (RDY) Faces 15% Drop Amid Market Moveme - GuruFocus",
+      "Kunwar Khurana Appointed Head – Sales and Marketing At Dr. Reddy’s Laboratories - hrtoday.in",
+      "Pfizer CFO Dave Denton to leave company in August - CNBC",
+      "Pfizer CFO departs for consumer goods sector - CFO Dive"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為J&J、Novo、Lonza相關動態：「Novo Nordisk (NYSE:NVO) Launches Pan European Obesity Res...」。主要關注主題為產業通用、藥物核准、GLP-1 減重，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Novo Nordisk (NYSE:NVO) Launches Pan European Obesity Research Push As Pfizer...（藥物核准、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Sun Pharma acquires Innovcare Lifesciences in ₹271.2 crore cash deal - Storyb...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
