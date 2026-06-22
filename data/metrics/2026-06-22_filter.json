@@ -1,0 +1,16 @@
+{
+  "total_raw": 456,
+  "dup_title": 228,
+  "no_date": 0,
+  "too_old": 120,
+  "gate1_fail": 7,
+  "gate2_fail": 21,
+  "passed": 80,
+  "gate2_samples": [
+    "New Austedo Data Gives Teva (TEVA) Another Reason for Optimism - Insider Monkey",
+    "Dr. Reddy’s Laboratories supercharges HCP engagement with unified data - Salesforce",
+    "Nifty 50 June 22, 2026, Gainers: Cipla, Tech Mahindra, Dr Reddy's Lead - HDFC Sky",
+    "Kunwar Khurana Appointed Head – Sales and Marketing At Dr. Reddy’s Laboratories - hrtoday.in",
+    "Pfizer CFO departs for consumer goods sector - CFO Dive"
+  ]
+}

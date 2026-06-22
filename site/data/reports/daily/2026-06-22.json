@@ -1,0 +1,271 @@
+{
+  "date": "2026-06-22",
+  "generated_at": "2026-06-22T13:41:39.953612Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "pfizer-2026-06-22-016",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Following Pfizer's exit: Eli Lilly and Roche continue clinical trials in Denmark - medwatch.com",
+      "companies": [
+        "pfizer",
+        "eli_lilly",
+        "roche"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RZ3NDZ0haVFdqNEZSWEVJNHNKaWNzell5dTdQbExXQVVNRGVRenhxRE5WM2JSSWtmU1FFcVpaOVVEM3NXSjBEaUVrM3laTzBqSEZxNENBQVJia09tdnJkcGhxUWtRZVl1bU12cmdCcw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "eli_lilly-2026-06-22-030",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Eli Lilly, Novo Nordisk top AI citation share as new report questions DTC spend culture - Fierce Pharma",
+      "companies": [
+        "eli_lilly",
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc3JtSE0xby1PR19jZ0JZQUxrci15eXhFREFsRE1QSGNQTVEwbVpWaEY5RjJmRUtpOWdUbDZodU1pQVlMVHBrdWRGeXBkVmtHS3pDZ3BRZnhkUE85bUpYektCM2pRaXliVGdTTUw3ODJ0Z082YW5EZTlNUDc0TWhTMzRGdDJOWElTczd1M3BCckVpYXJLbmxOempGZ0NYQ09TUUhtalNJVXVDbWpDazRsbjhWUnBvQ1NObWIwTEpTbw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "sanofi-2026-06-22-037",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Sanofi's R&D chief Ashrafian to hit the exit as new CEO seeks to fix stuttering pipeline with Roche alum - Fierce Biotech",
+      "companies": [
+        "sanofi",
+        "roche"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU3N3YUwwTm1iVkhwV0ZpNXpaeDU4MzA4T2ROSFAtaDNyLXZjckRIRzNJd1Jqc1pZWUZ3UjVhZDBEU2FSZnFSQlpRa3RYSEtMVi1rNmpNNHFRN1pKTmpkUmVnUnVPU0pZMHNQR0ljZGg1dnpsY08zQnVsZFhXMFJJRnQtb0NDMDZWZVlaM0VTUzBUX3JYNV83WF9USQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "sanofi-2026-06-22-047",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Sanofi taps former Roche executive to lead Pharma R&D - marketscreener.com",
+      "companies": [
+        "sanofi",
+        "roche"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbmxlV3FkUUFiOEhzLThBVElSRThBWWV2UkIzdl9zcmpjSjRSVERHNTU4M2NpUGVZTGM0Q19jRGZSWi1qMWlPb0oyMzVKb1dZVVIwRnRrZHdqbTRpZkFqTjJCSG9MeDQwd2dPLWgtNnBmcjBvN2ZBQUJLZzFRdnE3cmwwclFUYVdsbTl0dGFwWXFFUGxPUEwxTjR3NVdGM3NuMXk1WVpXN2cxUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "sun_pharma-2026-06-22-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Sun Pharmaceutical Industries advances Monday, outperforms competitors - MarketWatch",
+      "companies": [
+        "sun_pharma"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQWx2WUpyMWdvSjluYnB2Zkl2ZlVfSmFEMk05aHloOUpfbGNSLWxad18wQllNT0x5RWF1YU5SVVpCRTFlUGk5UE0zMDNzZmtfZlMzZWktOGJXMUt3aGNXYVFhS2d5TE1zTk9lcEFlZW41S0VkSlZIbDlRdmZtblFmRzFaU1BGQVVGbVVKc0JubnJ4ZjlibldmN2tick1Fc01EbVg5SHVQaW9JRGRHS3B2dGh1VmNodUNvSU9PQkRzQlpyM0U?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 50,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 64,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "roche",
+      "to": "sanofi",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "drug_approval"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 69,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 66,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "sanofi",
+        "count": 17
+      },
+      {
+        "id": "sun_pharma",
+        "count": 9
+      },
+      {
+        "id": "jnj",
+        "count": 8
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 7
+      },
+      {
+        "id": "abbvie",
+        "count": 5
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 64
+      },
+      {
+        "id": "drug_approval",
+        "count": 50
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 4
+      },
+      {
+        "id": "biotech_funding",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 456,
+    "dup_title": 228,
+    "too_old": 120,
+    "gate1_blocked": 7,
+    "gate2_blocked": 21,
+    "passed": 80,
+    "pass_rate": "35.1%",
+    "gate2_block_rate": "9.2%",
+    "gate2_samples": [
+      "New Austedo Data Gives Teva (TEVA) Another Reason for Optimism - Insider Monkey",
+      "Dr. Reddy’s Laboratories supercharges HCP engagement with unified data - Salesforce",
+      "Nifty 50 June 22, 2026, Gainers: Cipla, Tech Mahindra, Dr Reddy's Lead - HDFC Sky",
+      "Kunwar Khurana Appointed Head – Sales and Marketing At Dr. Reddy’s Laboratories - hrtoday.in",
+      "Pfizer CFO departs for consumer goods sector - CFO Dive"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 69 則事件，焦點為Sanofi、Sun Pharma、J&J相關動態：「Following Pfizer's exit: Eli Lilly and Roche continue cli...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Following Pfizer's exit: Eli Lilly and Roche continue clinical trials in Denm...（藥物核准、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Eli Lilly, Novo Nordisk top AI citation share as new report questions DTC spe...（藥物核准、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

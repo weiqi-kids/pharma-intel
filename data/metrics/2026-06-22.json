@@ -1,0 +1,84 @@
+{
+  "date": "2026-06-22",
+  "total_events": 69,
+  "by_company": {
+    "teva": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "sun_pharma": {
+      "count": 9,
+      "sentiment_avg": 0.06
+    },
+    "pfizer": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "eli_lilly": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "roche": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "jnj": {
+      "count": 8,
+      "sentiment_avg": 0.0
+    },
+    "astrazeneca": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "merck": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "abbvie": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "novo_nordisk": {
+      "count": 7,
+      "sentiment_avg": 0.0
+    },
+    "sanofi": {
+      "count": 17,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "drug_approval": {
+      "count": 50,
+      "sentiment_avg": 0.01
+    },
+    "industry_general": {
+      "count": 64,
+      "sentiment_avg": 0.02
+    },
+    "glp1_obesity": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "biotech_funding": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "roche",
+      "to": "sanofi",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "drug_approval"
+      ]
+    }
+  ]
+}
