@@ -1,0 +1,16 @@
+{
+  "total_raw": 449,
+  "dup_title": 237,
+  "no_date": 0,
+  "too_old": 113,
+  "gate1_fail": 8,
+  "gate2_fail": 13,
+  "passed": 78,
+  "gate2_samples": [
+    "New Austedo Data Gives Teva (TEVA) Another Reason for Optimism - Yahoo Finance",
+    "Dr. Reddy’s Laboratories supercharges HCP engagement with unified data - Salesforce",
+    "Lonza Group AG Restates 2025 HY Financials Includes Updated Consolidated Income Statement And Key Pe",
+    "Lonza Publishes Restated Half-Year 2025 Financials Reflecting Capsules & Health Ingredients as Disco",
+    "Smart Money Is Fleeing Tech for Johnson & Johnson Ahead of the Next Market Storm - The Motley Fool"
+  ]
+}
