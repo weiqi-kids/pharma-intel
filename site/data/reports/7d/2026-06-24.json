@@ -1,0 +1,213 @@
+{
+  "date": "2026-06-24",
+  "date_range": {
+    "start": "2026-06-18",
+    "end": "2026-06-24"
+  },
+  "generated_at": "2026-06-24T10:58:46.442305Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "eli_lilly-2026-06-23-073",
+      "date": "2026-06-23",
+      "title": "STAT+: Lilly’s retatrutide has been offered to a single person via ‘compassionate use’ program",
+      "importance_score": 0.85
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "novo_nordisk",
+      "company_b": "pfizer",
+      "co_mention_count": 5,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "eli_lilly",
+      "company_b": "pfizer",
+      "co_mention_count": 5,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "drug_approval": {
+      "this_week": 134,
+      "last_week": 145,
+      "week_over_week_change": "-8%",
+      "sentiment_this_week": 0.02
+    },
+    "industry_general": {
+      "this_week": 165,
+      "last_week": 158,
+      "week_over_week_change": "+4%",
+      "sentiment_this_week": 0.03
+    },
+    "patent_cliff": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.0
+    },
+    "biotech_funding": {
+      "this_week": 5,
+      "last_week": 7,
+      "week_over_week_change": "-29%",
+      "sentiment_this_week": 0.0
+    },
+    "glp1_obesity": {
+      "this_week": 9,
+      "last_week": 12,
+      "week_over_week_change": "-25%",
+      "sentiment_this_week": -0.11
+    },
+    "gmp_inspection": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 5,
+      "last_week": 3,
+      "week_over_week_change": "+67%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "teva": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "sun_pharma": {
+      "event_count": 15,
+      "sentiment_avg": 0.04,
+      "rank": 4
+    },
+    "lonza": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "pfizer": {
+      "event_count": 12,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "jnj": {
+      "event_count": 28,
+      "sentiment_avg": 0.02,
+      "rank": 2
+    },
+    "roche": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "astrazeneca": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "merck": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "novo_nordisk": {
+      "event_count": 29,
+      "sentiment_avg": -0.02,
+      "rank": 1
+    },
+    "eli_lilly": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "abbvie": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "sanofi": {
+      "event_count": 20,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "dr_reddy": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 13
+    },
+    "mckesson": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 389,
+        "last": 430,
+        "change_pct": -9.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-18",
+      "event_count": 93,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-06-19",
+      "event_count": 35,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-06-20",
+      "event_count": 20,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-21",
+      "event_count": 19,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-22",
+      "event_count": 124,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-06-23",
+      "event_count": 76,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-06-24",
+      "event_count": 22,
+      "sentiment_avg": 0.07
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-18 ~ 2026-06-24）共 389 則事件，重點為「STAT+: Lilly’s retatrutide has been offered to ...」。Dr. Reddy's表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "Teva",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Sun Pharma",
+        "reason": "本週出現 15 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Lonza",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

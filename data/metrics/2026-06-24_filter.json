@@ -1,0 +1,16 @@
+{
+  "total_raw": 437,
+  "dup_title": 218,
+  "no_date": 0,
+  "too_old": 117,
+  "gate1_fail": 10,
+  "gate2_fail": 14,
+  "passed": 78,
+  "gate2_samples": [
+    "New Austedo Data Gives Teva (TEVA) Another Reason for Optimism - Yahoo Finance",
+    "Dr. Reddy’s Laboratories supercharges HCP engagement with unified data - Salesforce",
+    "Lonza Group AG Restates 2025 HY Financials Includes Updated Consolidated Income Statement And Key Pe",
+    "Pfizer CFO departs for consumer goods sector - CFO Dive",
+    "Medtronic appoints veteran J&J exec as first CFO of innovation - MedTech Dive"
+  ]
+}
