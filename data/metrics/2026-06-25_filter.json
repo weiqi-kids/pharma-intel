@@ -1,0 +1,16 @@
+{
+  "total_raw": 450,
+  "dup_title": 219,
+  "no_date": 0,
+  "too_old": 116,
+  "gate1_fail": 12,
+  "gate2_fail": 14,
+  "passed": 89,
+  "gate2_samples": [
+    "New Austedo Data Gives Teva (TEVA) Another Reason for Optimism - Yahoo Finance",
+    "Dr. Reddy’s Laboratories supercharges HCP engagement with unified data - Salesforce",
+    "Kunwar Khurana Appointed Head – Sales and Marketing At Dr. Reddy’s Laboratories - hrtoday.in",
+    "Lonza Group AG Restates 2025 HY Financials Includes Updated Consolidated Income Statement And Key Pe",
+    "Medtronic appoints veteran J&J exec as first CFO of innovation - MedTech Dive"
+  ]
+}
