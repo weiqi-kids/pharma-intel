@@ -1,0 +1,16 @@
+{
+  "total_raw": 448,
+  "dup_title": 277,
+  "no_date": 0,
+  "too_old": 110,
+  "gate1_fail": 7,
+  "gate2_fail": 23,
+  "passed": 31,
+  "gate2_samples": [
+    "Is It Too Late to Buy Dr Reddy's Laboratories Ltd (RDY) After 4. - GuruFocus",
+    "Dr. Reddy's Laboratories | 6-K: Report of foreign private issuer [Rules 13a-16 and 15d-16] - Moomoo",
+    "Enterprise value to EBITDA forward of Dr. Reddy's Laboratories Ltd. – NSE:DRREDDY - TradingView",
+    "TCI Co., Ltd. Actuals & Estimates (TPEX:8436) - TradingView",
+    "Price to sales forward of Lonza Group AG – SIX:LONN - TradingView"
+  ]
+}

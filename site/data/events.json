@@ -1,5 +1,215 @@
 [
   {
+    "id": "teva-2026-06-28-001",
+    "date": "2026-06-28",
+    "companies": [
+      "teva"
+    ],
+    "topics": [
+      "drug_approval",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Price to earnings forward of Teva Pharmaceutical Industries Limited Sponsored ADR – BX:TEV - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNdnMzUkZtNDd4TlVzNXBFMkV4Ti1EdTNtMDVjU3hSMFZRVjVydjJJYlJ6TEVFdjFJb0liVnJKZUdBWUVVOEtFdVZkelhBVzRGU1dEVkdlU1EzOG5wczNGamNkN2lLN1pKTkVYa1lvRU",
+    "sources": [
+      {
+        "name": "teva",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdnMzUkZtNDd4TlVzNXBFMkV4Ti1EdTNtMDVjU3hSMFZRVjVydjJJYlJ6TEVFdjFJb0liVnJKZUdBWUVVOEtFdVZkelhBVzRGU1dEVkdlU1EzOG5wczNGamNkN2lLN1pKTkVYa1lvRUhMSklQZVRwWWp6cmliWlVndjF6QmRMcU9kSENFc2lfV3RQT0YxZTQxZ1ExUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bora-2026-06-28-002",
+    "date": "2026-06-28",
+    "companies": [
+      "bora"
+    ],
+    "topics": [
+      "drug_approval",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Enterprise value to revenue forward of Bora Pharmaceuticals Co Ltd – TWSE:6472 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSFZtLTlvWjFOMkdLRTFpWEJQN0tBekdJWkFYcHRiYVNGSWkxMFpHdDRfdDBqZUdiejZ1U0x4TGVPNnhJX212NkVVQmFFQnpxNmlFbFAzX0lpa0ZJa2NZX0FCZGVwdnNKOXJCOTljek",
+    "sources": [
+      {
+        "name": "bora",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSFZtLTlvWjFOMkdLRTFpWEJQN0tBekdJWkFYcHRiYVNGSWkxMFpHdDRfdDBqZUdiejZ1U0x4TGVPNnhJX212NkVVQmFFQnpxNmlFbFAzX0lpa0ZJa2NZX0FCZGVwdnNKOXJCOTljekNUWURwRGJkSDdPaUg5WmtGUjN4SlZFa0hwXzN5YkpJcEgyWlVkNWpLVUU2OE5YdWdELXdDNXBYNkJXdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lonza-2026-06-28-003",
+    "date": "2026-06-28",
+    "companies": [
+      "lonza"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Lonza refines long-term growth strategy, shares tracked against European health peers - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPWVA2VHBKS1FSa2QxYXNvN21rUWQtRFRyOHNaNkJUdlZ4TE5aMFl6TjdLMlF4bjRFcHZuUUNTeGhpUWJPZGRieFhTNUotSlVOX19Zb2MzalRGc2xNaDE3UEh1ZXl1eTVBY04zZjhXQT",
+    "sources": [
+      {
+        "name": "lonza",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWVA2VHBKS1FSa2QxYXNvN21rUWQtRFRyOHNaNkJUdlZ4TE5aMFl6TjdLMlF4bjRFcHZuUUNTeGhpUWJPZGRieFhTNUotSlVOX19Zb2MzalRGc2xNaDE3UEh1ZXl1eTVBY04zZjhXQTBrRVZfdDJveU5rYnJtYm83OU40OW03S2dra0NEVG53RWZCVDhJdlM5ckMtZjltd3FGYnhXYl95R2lXSWFjNFV6S2RVcGwtY2h6TFVkY25KWV9hREpIX09sWVJn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pfizer-2026-06-28-004",
+    "date": "2026-06-28",
+    "companies": [
+      "pfizer"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A CFO Departure. A Clinical Miss. A $43 Billion Question Mark. Should You Throw in the Towel on Pfizer Stock? - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPOVh3WmZtQUdaNjZWUEZMM2d4b05fQU9hWU1mVkJGNHFsNEs2c3M4YkdSQVl4VEE2TnNNOG9rMzBhY0tuLTJLb3VHejcyaEZUU2Q0Wl9rLWNvWVlscnJUMFNRNG1HaDd5d2hCYmplZF",
+    "sources": [
+      {
+        "name": "pfizer",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOVh3WmZtQUdaNjZWUEZMM2d4b05fQU9hWU1mVkJGNHFsNEs2c3M4YkdSQVl4VEE2TnNNOG9rMzBhY0tuLTJLb3VHejcyaEZUU2Q0Wl9rLWNvWVlscnJUMFNRNG1HaDd5d2hCYmplZFR6bmpNeUhrSEJ4RXA4X0lQUTVyT1JiZlNOTDN0X1RfNTRab29rZ0ZvUw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jnj-2026-06-28-005",
+    "date": "2026-06-28",
+    "companies": [
+      "jnj"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Johnson & Johnson (JNJ) – Among the 10 Best Dividend Stocks to Buy for Passive Income - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUdfaHVPYTd5T0t5b19jZEIyMzBUZWtlYVFLYS1pMm1id0pXZmRTTkttaDVwLTlQQmRBbWlva2FUUm5GTk9oOGE0dFRxeU03ZjR0WVZkZzVmSlFtZGR0SExzYnBOU0lpcEFmd1FpOU",
+    "sources": [
+      {
+        "name": "jnj",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUdfaHVPYTd5T0t5b19jZEIyMzBUZWtlYVFLYS1pMm1id0pXZmRTTkttaDVwLTlQQmRBbWlva2FUUm5GTk9oOGE0dFRxeU03ZjR0WVZkZzVmSlFtZGR0SExzYnBOU0lpcEFmd1FpOUFjMklMTVpZX3hxTTYxelhGdzBjc0hQZWJhd1NmT2JrbGM0RFNDYjI1MA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jnj-2026-06-28-006",
+    "date": "2026-06-28",
+    "companies": [
+      "jnj"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ritholtz Wealth Management Acquires 7,116 Shares of Johnson & Johnson $JNJ - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNb3dOcm1DLTFYM2VMbllRZFpKSFAyOWhnX3VXTmVJVjlNcVNlUU9jektzN3RpajFlOHRCN2MtZkJFZ25zdHkydXMwVGpqMGtsUEJxSjdDMllBanF6VlVMWGlTX3BTRS1DeE5VbzV3RV",
+    "sources": [
+      {
+        "name": "jnj",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb3dOcm1DLTFYM2VMbllRZFpKSFAyOWhnX3VXTmVJVjlNcVNlUU9jektzN3RpajFlOHRCN2MtZkJFZ25zdHkydXMwVGpqMGtsUEJxSjdDMllBanF6VlVMWGlTX3BTRS1DeE5VbzV3RVI5Vm44a3FSZS16YjFRM1VrY3RtRHpEanFKUTdPbnZnLVpYRHJCN1BaSkVub1pNMjFOUWFWZUlBTFpiZndjcXk3d2ttd3MwdGRRRnROcnBnWjJFMmNEVWw5US1Zaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jnj-2026-06-28-007",
+    "date": "2026-06-28",
+    "companies": [
+      "jnj"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Johnson & Johnson (JNJ) – Among the 10 Best Dividend Stocks to Buy for Passive Income - Insider Monkey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQzRvTlhYUXljYVRwUHVaeXdCblhwbE0zWFdqNzk0NGVhOTZ6QVhOZkU3bUFINlpTMWpaS2V6SmhjVDlPTnpDOFBVaHZUREVoX2NmMThCQzU2SkZ6TzFDS1ZIdGozaTl6cTdQTE9Daz",
+    "sources": [
+      {
+        "name": "jnj",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQzRvTlhYUXljYVRwUHVaeXdCblhwbE0zWFdqNzk0NGVhOTZ6QVhOZkU3bUFINlpTMWpaS2V6SmhjVDlPTnpDOFBVaHZUREVoX2NmMThCQzU2SkZ6TzFDS1ZIdGozaTl6cTdQTE9DazdoRU9ES2xOREVpejJabG93R3BnZGJhVW1JWEg4dUQzeG9SSmt5WDNLWHo0RmdXREd6Z3VVWExYcVJKdElpNzRnb2pPd2ltSnpsMGlCa3ByMEnSAcgBQVVfeXFMTVFOdjFzak1pVThXQVliYlRtRDRrODJOM3EtUi0xS0piUGozSFk2YWpxNWZKRDRwMWpMeTZoOHRza0ZGSjdveHd4TUxuUUN3bFJZTEpFelZWSzFaSEhYcEhHQUpic0VhRjBPbDRTa3dmSGpaUU93RlZZeHBXNHJ4d3NpSkNfOGZPbE9wUkpCRHJPc3VFMW4xMUFlLV9XUzA0dXZQVjVwVXZLVFRoYVBSRjR2STA5RUNIRDczeWV6ZGNjQXRvR21XWFU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jnj-2026-06-28-008",
+    "date": "2026-06-28",
+    "companies": [
+      "jnj"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "122,800 Shares in Johnson & Johnson $JNJ Acquired by Louisiana State Employees Retirement System - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdko4dGw5djBtZWxNenhOV3VWUWV5b29XM0NzWHZjQURMT19JcEhrN1FWYlk4aWtFSmI3S2gxNTN0TFEzOHFUS1h0OElsZFhnYVlKZ19IRGw1NG1BZVVuYmxxcWJQMlE1WS1aY2s2Rz",
+    "sources": [
+      {
+        "name": "jnj",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdko4dGw5djBtZWxNenhOV3VWUWV5b29XM0NzWHZjQURMT19JcEhrN1FWYlk4aWtFSmI3S2gxNTN0TFEzOHFUS1h0OElsZFhnYVlKZ19IRGw1NG1BZVVuYmxxcWJQMlE1WS1aY2s2Rzd0dl8zWHhWZEJseDJwZDRNdjFPUFBEQ25OYjVBUVVmVGN3UFNZNlR2ZUZnM0oxQWxQeXVnVVlicV9hNWVEVXp6d1M2b2M2ZHhYd0RGdVFIS3VJSGZkOGMxZXltNjVVaTY3OXBTYnFYX19wcTdKdkpnTHpOazlKYUZT?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-06-28-009",
+    "date": "2026-06-28",
+    "companies": [
+      "novo_nordisk"
+    ],
+    "topics": [
+      "glp1_obesity"
+    ],
+    "impact": "neutral",
+    "title": "Will Novo Nordisk’s GLP-1 Telehealth Tie-Up Change Hims & Hers Health's (HIMS) Cash-Pay Narrative - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNc2JxZUhEbnJlcmNnTW5NekZFSEhwckozcE1sM01uTENzY0s2RTJldlo5dE5Gdm5jeFhsRXF1OGEyTG9YcmVJMG52UlNIU0h3RjFYamlUQ1VvR3ZYNngyMkx2am11QXhOTUpGRE9PLU",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNc2JxZUhEbnJlcmNnTW5NekZFSEhwckozcE1sM01uTENzY0s2RTJldlo5dE5Gdm5jeFhsRXF1OGEyTG9YcmVJMG52UlNIU0h3RjFYamlUQ1VvR3ZYNngyMkx2am11QXhOTUpGRE9PLUpFMDFjcER6NURzX2xSb24xN01pbHhoNmExdDRBclg1UURESm9pMm5iTFdaU0tSWjBEMXhGREdNY2NBM0lzZ3Q0TzBhZUtDb1h4UHBnZ1dUSmpYMlU2SUNPYmN2bTNPWm_SAdQBQVVfeXFMUE5hOXpELWRVQXhsN2hIOW9oZWRGbjZ2NDhlUU9weXZxX0U0LXdQVWpIMzhjU2xuUWtpaVlab3FpdzlhNDh2OHlTejgyV2FPal9xWFZ3NXd0a1ZtNmxzZXRBNW1FMGQ4MWpKVk1DdEZJeG44XzF3ZmRIbGZJZEpyZk16cGozakNrMDdvZjFaZ2w3cDEtZHRZUk5pR0hYamhrR3VBc1pHUEV4STJWVXhDdEJyMUE3XzcxdE92VXQtMGRXNWdoZ2tORWZ0NW5MUm5JMEhoX2s?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mckesson-2026-06-28-010",
+    "date": "2026-06-28",
+    "companies": [
+      "mckesson"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "McKesson outlines specialty growth strategy, shares anchored in S&P 500 healthcare - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTDBzbmJfOWhsQUFFVUdTSFZNX041b3NOa0sydU10bzJNMEJUekhFeGc5Y2VZeGlvd0pNbTd5YWEwRnp4a2w3bTZrTWdMQU01TDB4blluYlBoeUY3MkJNeDJ4aS1SN3NuSFp6c1BROG",
+    "sources": [
+      {
+        "name": "mckesson",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTDBzbmJfOWhsQUFFVUdTSFZNX041b3NOa0sydU10bzJNMEJUekhFeGc5Y2VZeGlvd0pNbTd5YWEwRnp4a2w3bTZrTWdMQU01TDB4blluYlBoeUY3MkJNeDJ4aS1SN3NuSFp6c1BROGZuaXRaeE8tNjgydjFJdnpvZWxISlZkYmxxekJmUnBJc1FiamxRS1FQTjFiZDZqa21WbEJQYnhuZlAwU3N6SFFtckwyMWpyY2tlb0FkVF9tOFpJSHk1VnlNMg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-06-27-001",
     "date": "2026-06-27",
     "companies": [],
@@ -118,6 +328,172 @@
       {
         "name": "astrazeneca",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdTZIQURUZEhDX3NpUk1fTWptSDdLamJRUmhYTnRGMGdpZWRDVEhkOGpQZFdxVDRtbWhaMUV5aTNWUFVVLWVOeTN3RlQxZFZnX2xHcW9OdEZJSUtIMnJBcXh5V0JZMXFneUJYTk96eEFOWVY1YlhpOE5ocTljNnFBcEZNeDlUTmdlcW5TZU9rVktGLW04VGRXTUJTeVNFZUNjd3BHNHIyWXdHSkNJY3JkMWNjVVVnaDBRX0gxTHhMTnJKUFEybWZMbjhQd1dKc1czV2syMnpUMzFLUdIB3wFBVV95cUxOOUlrblRudVJhRWtuVW9mU0UzaFpvcDBnajBLcUJRQUpaVG9yZzdXazBBT2ozRExHMVE0WC1COXBfMFVraWZIakkyM3FraG5kcEM4RGlNOHZDNU5mYlVSbjdTQW9zcS1heXRpdmlOcWZfSW9kMWlXZjNRZmR3OU9sLTczSnJPdkZZcjgxYWpsLXhBb0lFR3FldDZ5M2VZeE83dnZ4XzllY0FOanJ3S3RGeUFEZFkzS2NyUlVEZEtIYWItcVpLdGp1dHNiVEY2TFd4dmVhX0FkWUZ5SWVpTkdZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "teva-2026-06-27-007",
+    "date": "2026-06-27",
+    "companies": [
+      "teva"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Union Bancaire Privee UBP SA Sells 44,839 Shares of Teva Pharmaceutical Industries Ltd. $TEVA - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPREZUY1BvZU95WjJpVkNyUUtxeFJUZW1ENGYxM09WQVNUM2ZHTVlDZWFwN0JBTXVOekxSX1ZCT1JUTFZjNldzZW4zdHc3Uk1UV1FZcFJNRHNDNElXY1RDZXBmSGNsMFd5QnF6Rnhwal",
+    "sources": [
+      {
+        "name": "teva",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPREZUY1BvZU95WjJpVkNyUUtxeFJUZW1ENGYxM09WQVNUM2ZHTVlDZWFwN0JBTXVOekxSX1ZCT1JUTFZjNldzZW4zdHc3Uk1UV1FZcFJNRHNDNElXY1RDZXBmSGNsMFd5QnF6Rnhwal9xSTZuZjh1N3BxOGhvV0sybWExNUF1QTdyMTQwWC1JR05QOE1mQ2l3SjU3NTFSaWVvSjgxTzNrOUVLRkIta28zekQ5TFJuSWtocERYWllzWDNzNHc3bThzeGpUQUVzUkY1RnotWFo2dzR4bldKWUhxS2JrSjFpQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "teva-2026-06-27-008",
+    "date": "2026-06-27",
+    "companies": [
+      "teva"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Teva Pharmaceutical Industries Ltd. $TEVA Shares Sold by Sterling Capital Management LLC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQUNWX2NLSlVLd0RoeUF0dWZGVk0tYmwwV3p3TFV6TEZ2WWxhakFjQS11QnFGQjc1a05fVnNEcFZNa2p4TDFEd3p4Z0J0WklsNk43LU1FT1RyanNBM1ByVlRpaHdGX2pac010bThpS0",
+    "sources": [
+      {
+        "name": "teva",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQUNWX2NLSlVLd0RoeUF0dWZGVk0tYmwwV3p3TFV6TEZ2WWxhakFjQS11QnFGQjc1a05fVnNEcFZNa2p4TDFEd3p4Z0J0WklsNk43LU1FT1RyanNBM1ByVlRpaHdGX2pac010bThpS0oxejhXYldBVlFXYmNTa01JRGxIdzFBbDhPczVSbFlSVkg1X3ppeEJMeVZpZUt3ZUJDaDhQVGFSa3h0ZE1kWXA1UE5kRS1YQVRVc05sT0hGb2VUNW1sMm9pLVNUSGk3S0ZUSDNvRHNSbzZQMkpGTmthWg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sun_pharma-2026-06-27-009",
+    "date": "2026-06-27",
+    "companies": [
+      "sun_pharma"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sun Pharma To Acquire Innovcare Lifesciences For Rs 2.71 Billion - BW Healthcare",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOc1dIVkZsSVVyTFdFMlNiMmc5RGdzLXFoSk42UUJvM0c3MjlfZno5VDh1YTZYb0lSd0xQQld2R0phWk83anctS2NIMjM1NnlBRV9ybGFTd3BIS0tTQ1ZvS3NWSGZaWEE1d1o4MDdtQl",
+    "sources": [
+      {
+        "name": "sun_pharma",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc1dIVkZsSVVyTFdFMlNiMmc5RGdzLXFoSk42UUJvM0c3MjlfZno5VDh1YTZYb0lSd0xQQld2R0phWk83anctS2NIMjM1NnlBRV9ybGFTd3BIS0tTQ1ZvS3NWSGZaWEE1d1o4MDdtQlRlel9JMjdqenM3d1g4c29RbWlraXRsVkQyLThEZXQ1a1JscDB0V1o4NTBqb0hsbTJUbjY5RVFaeFdLclV4aVZieks1TQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pfizer-2026-06-27-010",
+    "date": "2026-06-27",
+    "companies": [
+      "pfizer"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Here's How Many Shares of Pfizer You Must Own to Get $5,000 in Yearly Dividends - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQWpHc3lZVUNjM25ISnJmdGhQSW5VZUg4a2dYY0xYRFJxWVYzdnVEZWFvODI3R3BxZFFJN0tDbzZscjM4TUF0SWNKRXBRMlNCZ25Vd0pvblZsYzNQcHAyWlN1RGotUGd0VmxVRmR5ZE",
+    "sources": [
+      {
+        "name": "pfizer",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQWpHc3lZVUNjM25ISnJmdGhQSW5VZUg4a2dYY0xYRFJxWVYzdnVEZWFvODI3R3BxZFFJN0tDbzZscjM4TUF0SWNKRXBRMlNCZ25Vd0pvblZsYzNQcHAyWlN1RGotUGd0VmxVRmR5ZEFYZ3BZWk14SUtzVWp3Zl9Zd05rSGd5bGJUbFdTbzFNQnU4Vi1RcnljeTlDYklsYUwwb0Y5bTM0Xzh4T1JoMEswT0NGMTA0VmZmMWNLN1FzUHM4SzB3cXV0LUc4YlljNTBmaUNBVnVMS0YxOFZLVlE2cXhpV0VBb1BtV0NIdG9n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pfizer-2026-06-27-011",
+    "date": "2026-06-27",
+    "companies": [
+      "pfizer"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Opinion: Pfizer Is a Fantastic Dividend Stock for Income Investors to Buy Right Now - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQVU8xQ3hGUlZYSWc3aFZZMlhXWFoycTAwX1FEUS1ycFZGWnJZZzNFMG93SEltSWY4RVg5WVd0XzdxdTZWVTBkcGdGV2VXUG5PaVpOaVM1a0w4RHFObVNsbnptS25vNVdXS0Vhd3gxcT",
+    "sources": [
+      {
+        "name": "pfizer",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVU8xQ3hGUlZYSWc3aFZZMlhXWFoycTAwX1FEUS1ycFZGWnJZZzNFMG93SEltSWY4RVg5WVd0XzdxdTZWVTBkcGdGV2VXUG5PaVpOaVM1a0w4RHFObVNsbnptS25vNVdXS0Vhd3gxcTFzVWszb3FvZ1huMEkxSG51X2I5UWRuUmFwRGhfUlhERVdmTVMzVURyVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jnj-2026-06-27-012",
+    "date": "2026-06-27",
+    "companies": [
+      "jnj"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Johnson & Johnson (JNJ) Stock After 71% One-Year Rally And Pharma Pipeline Focus - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTWFKY0wzQklRU19qcXRvdTVRNWRJaVQtNk9oWHJ1TmtKdlRTUmVyb0ZjbXFodERfenFnNUprT1lvZXNuVVhyazhrcnlmZ1l3c3Z2Z2JPNHM3Y0JFTl9TX0c1d1B2OV94aGtfcW9xR1",
+    "sources": [
+      {
+        "name": "jnj",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTWFKY0wzQklRU19qcXRvdTVRNWRJaVQtNk9oWHJ1TmtKdlRTUmVyb0ZjbXFodERfenFnNUprT1lvZXNuVVhyazhrcnlmZ1l3c3Z2Z2JPNHM3Y0JFTl9TX0c1d1B2OV94aGtfcW9xR1E2YTFOcURrQUFGQmlETDhHbzk1aWtDRGtmSVYtZGpVVGVoUlI2WDE4Wnh6X1lycDF1Zy1NRzhmeEttSEVUcFVEaWFyeERWclBOMVBQSERqa19QN0FMUE1KenRQc1MyakoyUXRKNk9iOXhBU3ZvZEE40gHkAUFVX3lxTFByTHJ1ZXVOOHN5TWNzU1pnXzZ5d09ibERRWGFybFNBcDVmdFpsN3hWTU1ZQU1ZT1YxUlB4MGFpbHBTcWRrVDNabE9mT3RoTVBSb3A2ZVA1MGdNZlk1bWxsU3d4OTRUQkVYS1o1aUdfOFBfTmhsRVhkX0lIeFVnM2M0cmRpempDOWlCcFJNY0tNRVMtblBWRWJEU2s1ejJTQVV5djRYR284clNUNmU5TEpjOTBOZVVvMlJZeDliV2UtZ2dJQllNeFd5Q1FfOUZpdDJ0ZkxFa09NTzFRZFlmZlZ1QmhQWg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-06-27-013",
+    "date": "2026-06-27",
+    "companies": [
+      "novo_nordisk"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is Novo Nordisk (NVO) One of the Best Low Volatility Stocks to Buy Under $50? - Insider Monkey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdmZYSms4NGNZOVJERVJfaklZRXpfM1hibVBLQUJYajFvVEY4TFI5RENGYnc5cWNpbmszbTJaR29YTlNsWjhHVnhKYmxyeUpzaEpHT3I5eU9DbXpJM1lsODhpb3JaRDl4S2l5ZW4zVW",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdmZYSms4NGNZOVJERVJfaklZRXpfM1hibVBLQUJYajFvVEY4TFI5RENGYnc5cWNpbmszbTJaR29YTlNsWjhHVnhKYmxyeUpzaEpHT3I5eU9DbXpJM1lsODhpb3JaRDl4S2l5ZW4zVWNhaVZmYWJ2SXpYUW9aM1dkS1JTN3l2N3hWYjZTWjJQWUlCMm41ZU1BUmFxdnVIUFdNR0N0cEo3eGpTOUFyYkU0QWV5ZWhEdTda0gHAAUFVX3lxTE55ckJJd200RnMzcm5RWldIR2RsaGpJQXJNSVRJeXVySjlFNk01Z1VmcjQ0UVJ0RmtkNVNrWHNtTk5vT0tVRml6TDRUdF8yN0NtX2xtbXcwcnFscEZaTGR3MjRQSk9hQ0haWmhiZXlfWVExMUV4REVrM0lTSjZROG1MM2hlSlM3YUREU3R0bFlqcUp1RS1fYVpOUWlIN2pSLVI1eUlYV0tzaU9QX2tpU2JQRk9VZGItbEtYZjhPZVFjRw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pfizer-2026-06-27-014",
+    "date": "2026-06-27",
+    "companies": [
+      "pfizer"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pfizer (PFE) Wins EU Approval For Keytruda And Padcev In Bladder Cancer - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRkJodHlfNGZqMXI2aFMwTFpYMDBJVGROQlNvbmlZdjFpUHdKNGgxR0Mya19ZMmRGY3NfUW5XZlZjSEdMLUFIcVpkRkpBMF9jSHlZdTNLbzF6NlBJMTA3OFdxTkZLWXNGTy1heGVEbk",
+    "sources": [
+      {
+        "name": "pfizer_news",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRkJodHlfNGZqMXI2aFMwTFpYMDBJVGROQlNvbmlZdjFpUHdKNGgxR0Mya19ZMmRGY3NfUW5XZlZjSEdMLUFIcVpkRkpBMF9jSHlZdTNLbzF6NlBJMTA3OFdxTkZLWXNGTy1heGVEbkhvLVJ5QU1uMXVpNlY4QzFQNVJ3ZEJyejdTLURycE1Gb3BHdVZuNkxpRmpKZ1dqSDFSZjRSRmNKa2ZuLUxBVURQUFN3YW5XRVVLaElIS3hVaXBleWVtWWUxUFlKelExLW1sRnJB0gHYAUFVX3lxTE5naUsxTHBLekx6Z1ZSUU42WXhfeWw2NUZkd2I5TFQ3MVowRFM4TWdnSlMxcENxVUxyb0oxUmVRNWhzVkQzVllsMlFISEVmbW1La05hNTFOcm13T2FpcWhPTnRhdzV0Y05JamVRN0g2eEp6azVWN0E5X0xUd0xOYlRJcjNoVFZMZ3ppenJmVm1rd0IwT0YzXzdxYmpNM2lsVjV4WW9HRHUwSUNfQVozV0FQUVJvMU05S3Z6SEthWWhWWEdxSVZFZE5UUWxubXh6TWp4RUtSZnBCZg?oc=5",
         "type": "rss"
       }
     ]
@@ -1596,6 +1972,171 @@
     ]
   },
   {
+    "id": "dr_reddy-2026-06-26-074",
+    "date": "2026-06-26",
+    "companies": [
+      "dr_reddy"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FDA slaps Dr. Reddy's Hyderabad biologics plant with seven observations in new Form 483 - Fierce Pharma",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNTTRCSDVUZElXeW5EMk9GT3NYZkVjaE56eDRuWkNBcEpfZ013WV9mVVBILTFoajRISTBtN05DbW9mbjlVMFY0RFAzNGV1YkRLMHRXZGl3VFBaeEk5VjIxSGhSMVZMeXFkc0owTnc1UD",
+    "sources": [
+      {
+        "name": "dr_reddy",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTTRCSDVUZElXeW5EMk9GT3NYZkVjaE56eDRuWkNBcEpfZ013WV9mVVBILTFoajRISTBtN05DbW9mbjlVMFY0RFAzNGV1YkRLMHRXZGl3VFBaeEk5VjIxSGhSMVZMeXFkc0owTnc1UDVvSHRmRm9Mb3VNZTJicW5ycHYzNVZ4WUt4c2lpOGpJcHN3Rm9sbjhVYTBQLWE5TjNZdVdmV1hqa2RkeGR5eGxCeFowTEVXQUZ0cWJPaQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-26-075",
+    "date": "2026-06-26",
+    "companies": [],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dr. Reddy’s files 2026 annual report with the SEC - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNWVVRVlZXTGp6eFVtQ0NYTDFVZjdBV0RZNmJRekhyVXFYQnlyUEVuaUNvY29sZnVHNHNXUldCSzZwckc1a29BUjhHU2NDZGRfdUU1djNtSTZBWFlPX1VDT1VyV2tvOF9zQWllNU9mdU",
+    "sources": [
+      {
+        "name": "dr_reddy",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWVVRVlZXTGp6eFVtQ0NYTDFVZjdBV0RZNmJRekhyVXFYQnlyUEVuaUNvY29sZnVHNHNXUldCSzZwckc1a29BUjhHU2NDZGRfdUU1djNtSTZBWFlPX1VDT1VyV2tvOF9zQWllNU9mdURHMWdweDRUY2ZiaHo1a200eGdxNDhpUGpGNl9FNUdxNlFBOHBKcW4xRkoxbmNTUGhjVFRmWUhNM1NaVG1HdXpHR1p6cUtPbzNaMHJFN1VIbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sun_pharma-2026-06-26-076",
+    "date": "2026-06-26",
+    "companies": [
+      "sun_pharma"
+    ],
+    "topics": [
+      "drug_approval",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Enterprise value to revenue forward of Tianjin Chase Sun Pharmaceutical Co., Ltd. Class A – SZSE:300026 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOYmZYeUYwQktUUXZyLVByV1pkeXB1cTFnVjltVmw5RDFyeFhZak9teWFvQ2t1N2dzNURici1YRGF0ZDF4MXdHWE5rRHV6eklLQS04VWtyd01VMi1oRzR0V2pULUJBSlFKV1RLbUptcT",
+    "sources": [
+      {
+        "name": "sun_pharma",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYmZYeUYwQktUUXZyLVByV1pkeXB1cTFnVjltVmw5RDFyeFhZak9teWFvQ2t1N2dzNURici1YRGF0ZDF4MXdHWE5rRHV6eklLQS04VWtyd01VMi1oRzR0V2pULUJBSlFKV1RLbUptcTFPRFk4YWMzb0I1WFBHOWFIRHpSaVcxZ1VodmZmVk1IQ0hFaGpuTGZUOXYyMENWM0daMWxhVEtmQ3JrMy1B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jnj-2026-06-26-077",
+    "date": "2026-06-26",
+    "companies": [
+      "jnj"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Johnson & Johnson Stock Popped on Friday - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOWWJ3R0toU1JqV0o3ZUtzd1ItZlRrcmg4WER5ODRvNllyR2NZbUtvWl9feG1JbGpLZEVFY0V3UU1kMFdES1M4U2lhVVJUWmM0MUFpWEMyemtza0FQX3VBN1FIeHFTQkF6QkpEbVZiT1",
+    "sources": [
+      {
+        "name": "jnj",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWWJ3R0toU1JqV0o3ZUtzd1ItZlRrcmg4WER5ODRvNllyR2NZbUtvWl9feG1JbGpLZEVFY0V3UU1kMFdES1M4U2lhVVJUWmM0MUFpWEMyemtza0FQX3VBN1FIeHFTQkF6QkpEbVZiT1g4MHNVTlV3UDZTS3p6RmJldFppWnh1d2h0M09jM3NR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-26-078",
+    "date": "2026-06-26",
+    "companies": [],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "RHO6 Forecast — Price Target — Prediction for 2027 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9RV1E2bmZsOXVpRjhicHlhc3dKWkxGV3I0WUZiVzlaZ0VEN3Y1ZFhwdHdZU09LV09iSy1udjgxMnd2dHJSSVJ4amFIZm8zbTByUURGaUluQlBEQ2VYYzNvT29NaUNXOXNXZ1MwTDlnYj",
+    "sources": [
+      {
+        "name": "roche",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RV1E2bmZsOXVpRjhicHlhc3dKWkxGV3I0WUZiVzlaZ0VEN3Y1ZFhwdHdZU09LV09iSy1udjgxMnd2dHJSSVJ4amFIZm8zbTByUURGaUluQlBEQ2VYYzNvT29NaUNXOXNXZ1MwTDlnYjZxZXBhemc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "merck-2026-06-26-079",
+    "date": "2026-06-26",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Merck & Co., Inc. (MRK) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOcWtNU0Nxblk5QTFFNThHblZlejRjbGl3aEtLeDZSLXlueVBlZnVKcnVWSHM5OWxiSkpiS0QxUTBCeXVSbGNxaWVEQmxieTNFczFwa09RT1Nvc1p1TjFnUl9hTWFBRGptVWZXNjdfTG",
+    "sources": [
+      {
+        "name": "merck",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcWtNU0Nxblk5QTFFNThHblZlejRjbGl3aEtLeDZSLXlueVBlZnVKcnVWSHM5OWxiSkpiS0QxUTBCeXVSbGNxaWVEQmxieTNFczFwa09RT1Nvc1p1TjFnUl9hTWFBRGptVWZXNjdfTGVnTC15OGE1c3p3azdfLURWNHVKTEJncWNpNjMySUhCVDlrWkkz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "merck-2026-06-26-080",
+    "date": "2026-06-26",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cardano Risk Management B.V. Lowers Position in Merck & Co., Inc. $MRK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ0IzSWExSUM0WmI2VUVwQWlmaThlYmZyMTNVWUl3VlZtcXZCRXNrQ202anVLU1pubjhUdkNjYUZFZGRseGEyZnVXVnN4ckRfcmNHelRiSzBQVHlUVWpwQmRIeE5vdUhYUFFuM0lGU0",
+    "sources": [
+      {
+        "name": "merck",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ0IzSWExSUM0WmI2VUVwQWlmaThlYmZyMTNVWUl3VlZtcXZCRXNrQ202anVLU1pubjhUdkNjYUZFZGRseGEyZnVXVnN4ckRfcmNHelRiSzBQVHlUVWpwQmRIeE5vdUhYUFFuM0lGU0txQ0xMSlM1YWUweEtsQVdEZmlrZUVndG5CdVNRSGlpbGg4ZWZoRlVXajV4dXVoSkFscW9aZTZiRVp1TGEzVjNWYWg1ek1DMk54V25vbU5ON2g?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cardinal-2026-06-26-081",
+    "date": "2026-06-26",
+    "companies": [
+      "cardinal"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cardinal Health Inc. stock underperforms Friday when compared to competitors despite daily gains - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOc0Y3S09sV1JhVG9kbE9sbmFvczJlTFFzSXJkNkhyMWJFUzQ5RE9teXc3QXVJZGMwLWd4SElPcDJxeGJzZHJXeUlvbkt3ekxISVBpTjVVcnhzeDFwb2VoeHVQRUhmWjJwTnYwVXNqbX",
+    "sources": [
+      {
+        "name": "cardinal",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOc0Y3S09sV1JhVG9kbE9sbmFvczJlTFFzSXJkNkhyMWJFUzQ5RE9teXc3QXVJZGMwLWd4SElPcDJxeGJzZHJXeUlvbkt3ekxISVBpTjVVcnhzeDFwb2VoeHVQRUhmWjJwTnYwVXNqbXpUSmhTWWlWQU5fS0EyUlg4a0Y1cXAtNjUyaWoxbGZTYXVBUDllSDd3c1lzcHh5UlZpNVlFQ2tFUm5GWEpHQ3FOUWxEVUZWTlJDT2RkSjcxYVplUk9seFJSdHpDaVF0eVpSb2gtOUk5amRPekg0eXZIYjY4RHlzQ3BKaTlj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "teva-2026-06-25-001",
     "date": "2026-06-25",
     "companies": [
@@ -2934,6 +3475,28 @@
       {
         "name": "teva",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWkFBR2NncGlLdFc4WWV4R0pBdnpGOG00ZHN3VDNPd0NueVdYYnZNT2VRXzlkS3ZnbVRDUGFyME5VZ0xpTktDVTJSZUZKZUVnYURiZDdUUk10Q0VDQm1DQld1cXBCc3JtZGtsYWpyQVBzUFhURlRFbGRWOS1IMVlWSVRQZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cardinal-2026-06-25-068",
+    "date": "2026-06-25",
+    "companies": [
+      "cardinal"
+    ],
+    "topics": [
+      "drug_approval",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What Cardinal Health (CAH) Guidance Raise Means For Valuation - Sahm",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNekhFaTA4cTl6MmJMYVIxUDZqMmp2YzAySDZsYmY4dmRrcGluYXZZWUxKWkZSd3pWei13ajRDU3I5NEdiRjhjZDh1MkFZcGs4YS02eEtYR1JkUk52QXlrNG5FRjBQZnN6SWdWVnNBRF",
+    "sources": [
+      {
+        "name": "cardinal",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNekhFaTA4cTl6MmJMYVIxUDZqMmp2YzAySDZsYmY4dmRrcGluYXZZWUxKWkZSd3pWei13ajRDU3I5NEdiRjhjZDh1MkFZcGs4YS02eEtYR1JkUk52QXlrNG5FRjBQZnN6SWdWVnNBRFpYbGtvUlhjMmVwWGwwNERZZ0M4VGdBN3lTV3d4UFBBSGJIYWZOcTBSdzJmNXlXU1ZXTnNDNTg1YVpxcEdXaVppQg?oc=5",
         "type": "rss"
       }
     ]
@@ -4662,6 +5225,88 @@
       {
         "name": "mckesson",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTk1tZC1NVkVYMXA4SlI4SVNmSm9KLWItUlhULUdtLUZNNmtEcjRSWmZYSFZhRnZaTENjTF9zV0JjOWgwX0JKUTRiTEtHUVVTWUItaGg4UVhzV003S00tUXNFZG1wUy0xdTFkYm9rMUdTX011UXV2dzc1ZS1WeXMta0xSWC1LaGI4VUZxNXVDRXVtSTdfNGNFckxOTDBlT3NhZ25XOVJhWGEwdDR0OUtOcmlRZm05SGpuUXJHZUxZam11QjlfaXZkRHNxLW9vSjFRdVZ0bnM4cjI2Q21yX0HSAd4BQVVfeXFMTU5NbWQtTVZFWDFwOEpSOElTZkpvSi1iLVJYVC1HbS1GTTZrRHI0UlpmWEhWYUZ2WkxDY0xfc1dCYzloMF9CSlE0YkxLR1FVU1lCLWhoOFFYc1dNN0tNLVFzRWRtcFMtMXUxZGJvazFHU19NdVF1dnc3NWUtVnlzLWtMUlgtS2hiOFVGcTV1Q0V1bUk3XzRjRXJMTkwwZU9zYWduVzlSYVhhMHQ0dDlLTnJpUWZtOUhqblFyR2VMWWptdUI5X2l2ZERzcS1vb0oxUXVWdG5zOHIyNkNtcl9B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "teva-2026-06-24-087",
+    "date": "2026-06-24",
+    "companies": [
+      "teva"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is Teva Pharmaceutical Industries Limited (TEVA) Strengthening Its Neurology Portfolio With New Austedo Results? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNQkpZYlFDUV9WZkJXYW9WcENaTGY3NzJNaVhXYXN2VnlNRGFZc1VfMEliQkEyY2RVZGc5VzRlUThkandOT0hEU2J0M2ljYzJ0Uk8yZHJVYTRleG1hQXp3LVJEandXT3hMWkVSVkVtcW",
+    "sources": [
+      {
+        "name": "teva",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQkpZYlFDUV9WZkJXYW9WcENaTGY3NzJNaVhXYXN2VnlNRGFZc1VfMEliQkEyY2RVZGc5VzRlUThkandOT0hEU2J0M2ljYzJ0Uk8yZHJVYTRleG1hQXp3LVJEandXT3hMWkVSVkVtcW11UXBCMVdiTk5Nc3NSNV9rZEs1d2lCdDdfeU9Tbjh0c1AzaVY1TnlsMURRQ3R4VGxfYzh3cFRfbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-088",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Big Pharma restructures to ride out ‘existential risk’ - BioSpace",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQRnUxU3cwb3BfeXFfNTc5S1g2eDdKRldNOVp0dDFfcDJaZWVnOUVOS05LaXhiNVQ2S0JydXc5a3lab3JidTZqT1lzY1picW5TOERDWVpzOExlc2YwWE4wVEl5Ul9pU0xXTHQxWW05WF",
+    "sources": [
+      {
+        "name": "pfizer",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRnUxU3cwb3BfeXFfNTc5S1g2eDdKRldNOVp0dDFfcDJaZWVnOUVOS05LaXhiNVQ2S0JydXc5a3lab3JidTZqT1lzY1picW5TOERDWVpzOExlc2YwWE4wVEl5Ul9pU0xXTHQxWW05WFFodXJNREoyRUNYVDNNT1V6WTJpTk9WN0ZVVzVHOGRHMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "astrazeneca-2026-06-24-089",
+    "date": "2026-06-24",
+    "companies": [
+      "astrazeneca"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AstraZeneca and YMCA of the USA Announce Landmark Partnership Aimed to Address Gaps in Cancer Care - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSElmamhIMUNYRngzYjlyb3Z2UENnWERwU0xjb0ZCNVJZeGV6cXd2QnU5ZFhLZHZIRTdkZGs4bjlXaVhJTTZaZ0dxUUc0S3Nqd3pyUFU2TUZfRTJyWjhtM05YRndPZXlLU18wZHlNdG",
+    "sources": [
+      {
+        "name": "astrazeneca",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSElmamhIMUNYRngzYjlyb3Z2UENnWERwU0xjb0ZCNVJZeGV6cXd2QnU5ZFhLZHZIRTdkZGs4bjlXaVhJTTZaZ0dxUUc0S3Nqd3pyUFU2TUZfRTJyWjhtM05YRndPZXlLU18wZHlNdGhWdDBfTXhuOHZ3UzFKbnBGRjc3bGp6ZEpXOGFnMThkcVJQa2trUklGNlNWOW1xUWZxdGs2OHViQXN6ZlJzUnZGRGZQT0tZYkVfS0lsUXlNT2s4a01nOHJQa25OUFFKMmwyNG9SN0NvdjhpNHBzM3dxbFV3WDlvQ2ozSWE4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "merck-2026-06-24-090",
+    "date": "2026-06-24",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Merck & Co | 11-K: Annual report of employee stock purchase, savings and similar plans (and amendment thereto) - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQVmJZZ1BTYi12aFJyejlNNHc0dUw3dlFWaDVyTnUxS3FGMkxQdlJydU5CN01ySU0zMy10cThRWnM0cjkxSDVHVERldTVQUzdpbmVJVVlpbmVlbnZVbG0xdktUVVhCY2RuUEFLSzRCc1",
+    "sources": [
+      {
+        "name": "merck",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVmJZZ1BTYi12aFJyejlNNHc0dUw3dlFWaDVyTnUxS3FGMkxQdlJydU5CN01ySU0zMy10cThRWnM0cjkxSDVHVERldTVQUzdpbmVJVVlpbmVlbnZVbG0xdktUVVhCY2RuUEFLSzRCc1FJclFES0ZuN002VGw1b2dHcXp4QjZPRmtUYTdaaUJNWmdUWmtNMDlxX0NIMmRFODEx?oc=5",
         "type": "rss"
       }
     ]
