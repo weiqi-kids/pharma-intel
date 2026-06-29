@@ -1,0 +1,16 @@
+{
+  "total_raw": 449,
+  "dup_title": 248,
+  "no_date": 0,
+  "too_old": 108,
+  "gate1_fail": 8,
+  "gate2_fail": 21,
+  "passed": 64,
+  "gate2_samples": [
+    "Is It Too Late to Buy Dr Reddy's Laboratories Ltd (RDY) After 4. - GuruFocus",
+    "TCI Co., Ltd. Actuals & Estimates (TPEX:8436) - TradingView",
+    "Price to sales forward of Lonza Group AG – SIX:LONN - TradingView",
+    "Lonza Group Ltd (LONN) Gets a Buy from Barclays - The Globe and Mail",
+    "Enterprise value to EBIT forward of Lonza Group AG – DUS:LO3 - TradingView"
+  ]
+}

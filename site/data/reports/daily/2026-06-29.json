@@ -1,0 +1,259 @@
+{
+  "date": "2026-06-29",
+  "generated_at": "2026-06-29T12:44:45.228301Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "novo_nordisk-2026-06-29-026",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Novo Nordisk's and Eli Lilly's weight-loss drugs will soon have expanded US coverage - medwatch.com",
+      "companies": [
+        "novo_nordisk",
+        "eli_lilly"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nLThtak1UUUxZSzgxZHlabmlzZVhabEJ4RlA2bmhwNC16LXFwNjFRSHF5dFU1UldHRXhFTkx5YTNNd0c2T1ZYM0ZnQUJkS2dEd2s3MVozY3NHT09vWFlRaDJLMFJQcWVibEp2WG9tNA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lonza-2026-06-29-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lonza Group consensus and earnings outlook, what analysts see for the shares - AD HOC NEWS",
+      "companies": [
+        "lonza"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdzNzbzRHUXNMVV9zVWhRRDVmUFI1dURGYzVOMW1EVUt4MV9xbG14d3ZNcWV1LUlsUURrMUF5dGNiQllXSWNZWEVvS25nOFJ4Q1pCUDM4dmxNRTB3MGlYOGlVcHZXRG5QWjFFeURLbHJfZmdjMWRFNWJfTnh3R0VmeklQTHU2THIyYUU2NV9zVkVGWFFGMVNxM1JUSDV0OVdYcUJYQkNLaTM4OEN3MzctQko5SkRNMElLSzBrVjY1T1FWNUttZVE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Dr. Reddy’s Laboratories Limited Announces Filing of Annual Report on Form 20-F - BioSpace",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLTlXY25qX1ZPc3hDeDlNOFVpTmIyTGlVc3hPdGhkTV9SVm1tZURhblJKOUt4SDQ5OUpyT1hld0xMa21oMDEyQi14Si1yVHQ0SWVhOXRUMEdhWUdJT3BqNE5DRzhZSDZLenlaZWlYV3ZnbXRoNHZZNFc3RzN2cGQ2WkhwbDRfQlBBczBLRUpTWXZNcUJBU3pWaGg0WnlWRUZMZnNfc0otMzhNV0xERVdLWUMySUlXWkJs?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Dr Reddy's Laboratories shares extend rise to 6th day on high volumes - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSHVrRzVkWVZFcG9hOFdoYjNHZUU0WVZJVDFaVVBGajFqN2s2a19BWmgwendTTTduYnlwSWNvWmZiSjZ6WE1QbjZBU2x3MWlyUld2WTFJQXpTcUlEUGoyYVk3VHNocERWaGR4bXQ4aE1nZjNuNWpwRWpUWGhXNFNLR1BpQ2dxajN5Q3lmaEJkdTJrNlFHcEpFcGFYNGU0cDZKMWpWQk10VGU2aXhOdEZiSVNHMnNfaU43MWdacWhKRWVqSzByX0poQ1ZkRk4?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-29-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Dr Reddy’s biologics plant gets 7 observations from FDA - ETPharma.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSEw4V0VBMmd6Ympfc01ZclREQ0lmaGJTWE5QdDBwWEtXZFJNMHVrS2pLT2c2RVZ0d2NncURBb0VHOHRkeVgzdFF3UHhoWWtzcnNsei1KLU9SdWEwb1VZR2RXMlZSeTBvRnFyZlVscDh5RjEzX2ZMLUZnSlAxZlpGZW9yTWppZnVkaUFGUUh5STE2QlJZc1JCTkljSFBzSHR5X3pGMTBIaGlGd3laOXZDQnh0Z0R1ZUpxZ3VXT1pzdTU4MEc4R1RzeNIBzgFBVV95cUxQZDc4U0d4dGZ0VXV2b1hmdk41WGp5Rmh6aGhTNkg2cEFZTGE2cHdSWlNjSEJuQmhQWE96b3RfTGVrZDZTWUFnOXVDaUJfNG84YkwyRzdha1RfWmxpVGJTNU52QVBmS3htT2IxWGNDRkNhMVVHLWViQ2w3VFRqbWhobFV2aFBLanNRN1BzSDBFNlZjdXFiUXZPQkU5eDA5UTRxc0ZOTVBoQ0tvUE5ETFNXWjY3Tk81V0lLLUdzMDI5dFFVOVprS25ybEpEZTQwZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 28,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 39,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 42,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 40,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "astrazeneca",
+        "count": 7
+      },
+      {
+        "id": "pfizer",
+        "count": 3
+      },
+      {
+        "id": "jnj",
+        "count": 2
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 2
+      },
+      {
+        "id": "cardinal",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 39
+      },
+      {
+        "id": "drug_approval",
+        "count": 28
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "patent_cliff",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 449,
+    "dup_title": 248,
+    "too_old": 108,
+    "gate1_blocked": 8,
+    "gate2_blocked": 21,
+    "passed": 64,
+    "pass_rate": "31.8%",
+    "gate2_block_rate": "10.4%",
+    "gate2_samples": [
+      "Is It Too Late to Buy Dr Reddy's Laboratories Ltd (RDY) After 4. - GuruFocus",
+      "TCI Co., Ltd. Actuals & Estimates (TPEX:8436) - TradingView",
+      "Price to sales forward of Lonza Group AG – SIX:LONN - TradingView",
+      "Lonza Group Ltd (LONN) Gets a Buy from Barclays - The Globe and Mail",
+      "Enterprise value to EBIT forward of Lonza Group AG – DUS:LO3 - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 42 則事件，焦點為AZ、輝瑞、J&J相關動態：「Novo Nordisk's and Eli Lilly's weight-loss drugs will soo...」。主要關注主題為產業通用、藥物核准、GLP-1 減重，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Novo Nordisk's and Eli Lilly's weight-loss drugs will soon have expanded US c...（藥物核准、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Lonza Group consensus and earnings outlook, what analysts see for the shares ...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
