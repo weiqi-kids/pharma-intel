@@ -1,0 +1,281 @@
+{
+  "date": "2026-06-30",
+  "generated_at": "2026-06-30T11:17:12.935866Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "pfizer-2026-06-30-015",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Pfizer opens the week with a clear earnings calendar, shares on NYSE in focus - AD HOC NEWS",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVnB0ZWpVQW1vNEdlejgydHF4TnZrcFNVdEoydkFDci04ZDRMd0dzckRSVHdISmNOb18zenRYRVU0RDRETHNtSXhPT2E1RDZta2p2cW81UWkyUFhETFp5V3hlV2RkM2FkSHIwcjJLVnNvVU5qbHhFUGZjbDdFNVNueWU2ZEVrdzdnZl9ORG81b0Z4UkZpTUxBODJFbTVUdTUxUXhMLV9zX2dIbFBwY3J1c1dPYWJtSmtld296ZnlmaXQ0SzVBRVlQcA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "novo_nordisk-2026-06-30-013",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "The loophole in Trump’s obesity drug deal with Eli Lilly and Novo Nordisk - statnews.com",
+      "companies": [
+        "novo_nordisk",
+        "eli_lilly"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNclpSVnYtblI2SDNzdUZZNDFrYmQ4a3Y1Qm8zamR4TmotcUVYUjJ4MWs5THRDcWR6Ti1odG9WblNob2JRc0pRVUFOekdRVEV6MGFmTzBtSk5HNXViM2hVY3BxaERiTENKZlFlNnZoRUwyb0lxc3FwenhtaHFnWHVRLURfWk1BWUhXN3UzaGVBaVpFYUZTZ2JfMk81cUlPQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "novo_nordisk-2026-06-30-021",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "STAT+: The loophole in Trump’s obesity drug deal with Eli Lilly and Novo Nordisk",
+      "companies": [
+        "novo_nordisk",
+        "eli_lilly"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.statnews.com/2026/06/30/medicare-medicaid-glp1-costs-explained-balance-out-bridge-in/?utm_campaign=rss"
+    },
+    {
+      "rank": 4,
+      "event_id": "lonza-2026-06-30-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lonza Expands HPAPI Capacity in Visp, Further Supporting its Position in Payload-Linker Manufacturing - boerse.de",
+      "companies": [
+        "lonza"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSWl0enNUQlJCM0lJT0FkV3R4UmVZN1RpT0g1ZnRYcHJTS0V5Tnh0VU5KWGVqcnZoVm1ZYjNCNm00cEY3cVBXbktzR0s0cm94bXBjWWYydnFzZ2x6bGkyeVZSNUtFd2hVdVoyNDJtUmF1ajF6MUZiMTNkM0J0VktXREF4eFVMdDhJaDFjQ3RxZTlKZWdSV1RJQ1B2b0x1UjJfdGRrelk0dG5Dd20zaG4xV1FnUDBWeEkxMVNBMUdwbFFrbE1oUy1ER0JZbC05ZWx2al8yc2RyekRwQmc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "pfizer-2026-06-30-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Pfizer Wins Dismissal From Broad Generic Drug Antitrust Lawsuit - Law Commentary",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWlJSQk1Cc3RyUW9IQlA3UXlqYVp6TDh6b2o1YkNWUFQ4QXVvM3FUSFlFUll1OVFvN1lsWU5xQm5xWmZqWlExRzBrNmRuWGtvZThpdUJOamE2MVVjY1VxN3hoNnd1S2xaV0pkMTgwZlh0Mmw3bmp4TDlGdkNKeThfT0dDQUd0R1pFdVZ2Mnh3Qnh4c25yS3RHa3pCV18zaHRNU2xDQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "eli_lilly",
+      "to": "novo_nordisk",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 22,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 20,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "jnj",
+        "count": 9
+      },
+      {
+        "id": "pfizer",
+        "count": 3
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 2
+      },
+      {
+        "id": "eli_lilly",
+        "count": 2
+      },
+      {
+        "id": "lonza",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 19
+      },
+      {
+        "id": "drug_approval",
+        "count": 15
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 3
+      },
+      {
+        "id": "patent_cliff",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 450,
+    "dup_title": 226,
+    "too_old": 107,
+    "gate1_blocked": 7,
+    "gate2_blocked": 32,
+    "passed": 78,
+    "pass_rate": "34.8%",
+    "gate2_block_rate": "14.3%",
+    "gate2_samples": [
+      "Enterprise value to EBIT forward of Dr. Reddy's Laboratories Ltd. Sponsored ADR – MUN:RDDA - Trading",
+      "Is It Too Late to Buy Dr Reddy's Laboratories Ltd (RDY) After 4. - GuruFocus",
+      "TCI Co., Ltd. Actuals & Estimates (TPEX:8436) - TradingView",
+      "Price to sales forward of Lonza Group AG – SIX:LONN - TradingView",
+      "Lonza Group Ltd (LONN) Gets a Buy from Barclays - The Globe and Mail"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 22 則事件，焦點為J&J、輝瑞、Novo相關動態：「Pfizer opens the week with a clear earnings calendar, sha...」。主要關注主題為產業通用、藥物核准、GLP-1 減重，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Pfizer opens the week with a clear earnings calendar, shares on NYSE in focus...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "The loophole in Trump’s obesity drug deal with Eli Lilly and Novo Nordisk - s...（藥物核准、GLP-1 減重、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,73 @@
+{
+  "date": "2026-06-30",
+  "total_events": 22,
+  "by_company": {
+    "lonza": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "pfizer": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "jnj": {
+      "count": 9,
+      "sentiment_avg": 0.0
+    },
+    "merck": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "novo_nordisk": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "eli_lilly": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "sanofi": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "drug_approval": {
+      "count": 15,
+      "sentiment_avg": 0.03
+    },
+    "industry_general": {
+      "count": 19,
+      "sentiment_avg": 0.0
+    },
+    "patent_cliff": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "glp1_obesity": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "eli_lilly",
+      "to": "novo_nordisk",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "industry_general"
+      ]
+    }
+  ]
+}
