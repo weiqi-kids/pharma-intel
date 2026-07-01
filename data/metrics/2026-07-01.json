@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-01",
+  "total_events": 24,
+  "by_company": {
+    "lonza": {
+      "count": 3,
+      "sentiment_avg": 0.5
+    },
+    "jnj": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "astrazeneca": {
+      "count": 3,
+      "sentiment_avg": -0.17
+    },
+    "merck": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "novo_nordisk": {
+      "count": 6,
+      "sentiment_avg": -0.17
+    },
+    "eli_lilly": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "pfizer": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "drug_approval": {
+      "count": 20,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 19,
+      "sentiment_avg": 0.03
+    },
+    "glp1_obesity": {
+      "count": 2,
+      "sentiment_avg": -0.5
+    },
+    "biotech_funding": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

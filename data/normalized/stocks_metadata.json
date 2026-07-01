@@ -1,45 +1,45 @@
 {
   "teva": {
-    "earliest": "2005-03-16",
-    "latest": "2026-06-29",
-    "count": 5355
+    "earliest": "2004-12-16",
+    "latest": "2026-06-30",
+    "count": 5417
   },
   "dr_reddy": {
-    "earliest": "2005-03-16",
-    "latest": "2026-06-29",
-    "count": 5355
+    "earliest": "2004-12-16",
+    "latest": "2026-06-30",
+    "count": 5417
   },
   "sun_pharma": {
-    "earliest": "2005-03-17",
-    "latest": "2026-06-30",
-    "count": 5252
+    "earliest": "2004-12-17",
+    "latest": "2026-07-01",
+    "count": 5315
   },
   "bora": {
     "earliest": "2014-10-03",
-    "latest": "2026-06-30",
-    "count": 2665,
+    "latest": "2026-07-01",
+    "count": 2666,
     "history_complete": true
   },
   "tci": {
     "earliest": "2012-06-20",
-    "latest": "2026-06-30",
-    "count": 3421,
+    "latest": "2026-07-01",
+    "count": 3422,
     "history_complete": true
   },
   "lonza": {
-    "earliest": "2005-03-14",
-    "latest": "2026-06-30",
-    "count": 5367
+    "earliest": "2004-12-14",
+    "latest": "2026-07-01",
+    "count": 5432
   },
   "pfizer": {
-    "earliest": "2005-03-16",
-    "latest": "2026-06-29",
-    "count": 5355
+    "earliest": "2004-12-16",
+    "latest": "2026-06-30",
+    "count": 5417
   },
   "jnj": {
-    "earliest": "2005-03-16",
-    "latest": "2026-06-29",
-    "count": 5355
+    "earliest": "2004-12-16",
+    "latest": "2026-06-30",
+    "count": 5417
   },
   "roche": {
     "earliest": "2015-04-02",
@@ -48,70 +48,70 @@
     "history_complete": true
   },
   "novartis": {
-    "earliest": "2005-03-16",
-    "latest": "2026-06-29",
-    "count": 5355
+    "earliest": "2004-12-16",
+    "latest": "2026-06-30",
+    "count": 5417
   },
   "astrazeneca": {
-    "earliest": "2005-03-16",
-    "latest": "2026-06-29",
-    "count": 5355
+    "earliest": "2004-12-16",
+    "latest": "2026-06-30",
+    "count": 5417
   },
   "merck": {
-    "earliest": "2005-03-16",
-    "latest": "2026-06-29",
-    "count": 5355
+    "earliest": "2004-12-16",
+    "latest": "2026-06-30",
+    "count": 5417
   },
   "eli_lilly": {
-    "earliest": "2005-03-16",
-    "latest": "2026-06-29",
-    "count": 5355
+    "earliest": "2004-12-16",
+    "latest": "2026-06-30",
+    "count": 5417
   },
   "abbvie": {
     "earliest": "2013-01-02",
-    "latest": "2026-06-29",
-    "count": 3392,
+    "latest": "2026-06-30",
+    "count": 3393,
     "history_complete": true
   },
   "novo_nordisk": {
-    "earliest": "2005-03-16",
-    "latest": "2026-06-29",
-    "count": 5355
+    "earliest": "2004-12-16",
+    "latest": "2026-06-30",
+    "count": 5417
   },
   "sanofi": {
-    "earliest": "2005-03-16",
-    "latest": "2026-06-29",
-    "count": 5355
+    "earliest": "2004-12-16",
+    "latest": "2026-06-30",
+    "count": 5417
   },
   "mckesson": {
-    "earliest": "2005-03-16",
-    "latest": "2026-06-29",
-    "count": 5355
+    "earliest": "2004-12-16",
+    "latest": "2026-06-30",
+    "count": 5417
   },
   "cencora": {
-    "earliest": "2005-03-16",
-    "latest": "2026-06-29",
-    "count": 5355
+    "earliest": "2004-12-16",
+    "latest": "2026-06-30",
+    "count": 5417
   },
   "cardinal": {
-    "earliest": "2005-03-16",
-    "latest": "2026-06-29",
-    "count": 5355
+    "earliest": "2004-12-16",
+    "latest": "2026-06-30",
+    "count": 5417
   },
   "etf_xlv": {
-    "earliest": "2005-03-16",
-    "latest": "2026-06-29",
-    "count": 5355
+    "earliest": "2004-12-16",
+    "latest": "2026-06-30",
+    "count": 5417
   },
   "etf_ibb": {
-    "earliest": "2005-03-16",
-    "latest": "2026-06-29",
-    "count": 5355
+    "earliest": "2004-12-16",
+    "latest": "2026-06-30",
+    "count": 5417
   },
   "etf_xbi": {
     "earliest": "2006-02-06",
-    "latest": "2026-06-29",
-    "count": 5130,
+    "latest": "2026-06-30",
+    "count": 5131,
     "history_complete": true
   }
 }

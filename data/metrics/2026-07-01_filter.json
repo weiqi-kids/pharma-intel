@@ -1,0 +1,16 @@
+{
+  "total_raw": 452,
+  "dup_title": 240,
+  "no_date": 0,
+  "too_old": 108,
+  "gate1_fail": 10,
+  "gate2_fail": 23,
+  "passed": 71,
+  "gate2_samples": [
+    "Enterprise value to EBIT forward of Dr. Reddy's Laboratories Ltd. Sponsored ADR – MUN:RDDA - Trading",
+    "Is It Too Late to Buy Dr Reddy's Laboratories Ltd (RDY) After 4. - GuruFocus",
+    "TCI Co., Ltd. Actuals & Estimates (TPEX:8436) - TradingView",
+    "Price to sales forward of Lonza Group AG – SIX:LONN - TradingView",
+    "ANTITRUST—D. Conn.: Pfizer off the... - VitalLaw.com"
+  ]
+}

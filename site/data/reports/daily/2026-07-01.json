@@ -1,0 +1,270 @@
+{
+  "date": "2026-07-01",
+  "generated_at": "2026-07-01T11:30:50.480262Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "novo_nordisk-2026-07-01-017",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Medicare Launches GLP-1 Bridge Program Covering Novo Nordisk (CPH: NOVO-B) And Eli Lilly (NYSE: LLY) Weight-Loss Drugs - foreignpolicyjournal.com",
+      "companies": [
+        "novo_nordisk",
+        "eli_lilly"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZUtJWGY4cG1hTGVtelAxQXJBRWhhdjBwZzE5YlVaWTlkVnU5TFpzUXRyblRMbHhIYVRPMUpGblZwREZFUFBBdnhmSVVJZG1BT0ZVLWF1dlZyZ0xveEw4ZWNZc19WOXdwMlEwYVc1NFdGM0d4Tzc3OU41dVZFb1VpM3BqTVlaUGJDMDNMUXRTNmlZbk16bmp2bHBsZWljMHhfM1BldW9CVGdjRWlBWi02UVhzc1pTVHdONk40cGdpYWNjaHZKN3VtTEp4ZWxWQlhwYlZkOV9lZkM4QnRPRHZhTmFXYlVseFIwMTN3QVRTRkcyNlk?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-01-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Full Transcript: Dr Reddy's Laboratories Q4 2026 Earnings Call - Benzinga",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUVNvQUh4UDFELUhVbFdVWDJqbkg5aThZdXRWbGRPWWg3azZXXy05MEh4Q09pTUN2aWlBdVF5aHo5M3NJd3B5LUJmWmhKbEVGSGpzdFp5eHgwbFV2WVRwVFdYSHhTS3o5MzRIRjlJZmZObGhLS3pFSmxEYWJQZW1lZVhyS3lUNWZkZDh0dWJ1YVB4c0RUVl9VZFJSblJvTy1paGdjM3pXUFdDdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "merck-2026-07-01-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Merck to Hold Second-Quarter 2026 Sales and Earnings Conference Call Aug. 4 - Business Wire",
+      "companies": [
+        "merck"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb25YcjB3d1plS1Rwcy1DMHFKbVhRRHlkX3hqT1BJd1ZsalF1X2JENzhncG9rc2dSOVBaQ0N2bDRJZk9PdDR6V2RkemRMLU5VRXpuemNHZlJwa1hMZDh3NzIzQjEwVVdSaTRIVzA2Rk93SGZaVUZBN2p5QUc5QjdtOURtVm1MNFdXcUhBWFdKVlhyNGFKSGR4LXVJdEdTNHZYMFFmWTExVmtXWUg4Y2dGaGhWUEVMNjA2ajJRQXRjVHZqR1BkaE05dTNxQ1A?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lonza-2026-07-01-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Lonza Group AG Expands Strategic Collaboration With Leading US Biopharmaceutical Company - marketscreener.com",
+      "companies": [
+        "lonza"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcjVpNXhfeEZSQUt1Ni0zLXZoOEhRak0yd3hFTmFRdndfSllhNndXbkhDRWlDM21wdlFXTWdORUZUajNfNmVoTG5KaXRCeGtHMFIyNkZZbXAzNGRPQ1FUNWo5S2NWVldVNEx2b29FSEVDTkpQa1lXUlV1SnhwTXhCU0RhODZEek9fSkZ3bURyWUtqM2E2dDVUZ0hpbFpiSWRfelVvazNHZjlqZ0l1UW5SQTNSa3BXS0FrMXZhdXBJN3llZHRQemFaUTB2djRxSlZwcmF6bnp4R2Y?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lonza-2026-07-01-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Lonza Expands Strategic Collaboration with Leading US Biopharmaceutical Company - AD HOC NEWS",
+      "companies": [
+        "lonza"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSmRrMS1WMnBJVWhsTnRhUGRQNS15SWR0Z2ttX2x3aXdaX1lmeHE1d192dVNhUThYYlF1OGk1cG1nOFM5VDhPOTB0Wm1CWWFWSHNKTHozbm1YVTBxaUpYaUtJamY2TWtYUWFJMjZXYWh0ZF9TMkFmeGlWdmhpWWcyeS1neWUyN1BXTl9NSnZKbDNvcmx2?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 24,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 20,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "jnj",
+        "count": 6
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 6
+      },
+      {
+        "id": "lonza",
+        "count": 3
+      },
+      {
+        "id": "astrazeneca",
+        "count": 3
+      },
+      {
+        "id": "merck",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 20
+      },
+      {
+        "id": "industry_general",
+        "count": 19
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 2
+      },
+      {
+        "id": "biotech_funding",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 452,
+    "dup_title": 240,
+    "too_old": 108,
+    "gate1_blocked": 10,
+    "gate2_blocked": 23,
+    "passed": 71,
+    "pass_rate": "33.5%",
+    "gate2_block_rate": "10.8%",
+    "gate2_samples": [
+      "Enterprise value to EBIT forward of Dr. Reddy's Laboratories Ltd. Sponsored ADR – MUN:RDDA - Trading",
+      "Is It Too Late to Buy Dr Reddy's Laboratories Ltd (RDY) After 4. - GuruFocus",
+      "TCI Co., Ltd. Actuals & Estimates (TPEX:8436) - TradingView",
+      "Price to sales forward of Lonza Group AG – SIX:LONN - TradingView",
+      "ANTITRUST—D. Conn.: Pfizer off the... - VitalLaw.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 24 則事件，焦點為J&J、Novo、Lonza相關動態：「Medicare Launches GLP-1 Bridge Program Covering Novo Nord...」。主要關注主題為藥物核准、產業通用、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Medicare Launches GLP-1 Bridge Program Covering Novo Nordisk (CPH: NOVO-B) An...（藥物核准、GLP-1 減重、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Full Transcript: Dr Reddy's Laboratories Q4 2026 Earnings Call - Benzinga（藥物核准、法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
