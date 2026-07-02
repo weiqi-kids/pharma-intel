@@ -1,0 +1,16 @@
+{
+  "total_raw": 450,
+  "dup_title": 246,
+  "no_date": 0,
+  "too_old": 100,
+  "gate1_fail": 11,
+  "gate2_fail": 16,
+  "passed": 77,
+  "gate2_samples": [
+    "Enterprise value to EBIT forward of Dr. Reddy's Laboratories Ltd. Sponsored ADR – MUN:RDDA - Trading",
+    "TCI Co., Ltd. Actuals & Estimates (TPEX:8436) - TradingView",
+    "Price to sales forward of Lonza Group AG – SIX:LONN - TradingView",
+    "J&J’s DePuy Synthes names new CFO - MassDevice",
+    "Roche Holding Expands India Footprint In Hyderabad - TradingView"
+  ]
+}

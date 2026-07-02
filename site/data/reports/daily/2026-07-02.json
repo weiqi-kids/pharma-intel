@@ -1,0 +1,247 @@
+{
+  "date": "2026-07-02",
+  "generated_at": "2026-07-02T10:48:22.558983Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-02-029",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "STAT+: A former AI regulator, now in industry, says biopharma is reading FDA’s guidance wrong",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.statnews.com/2026/07/02/fda-ai-guidance-pharma-industry-caution-tala-fakhouri-explains/?utm_campaign=rss"
+    },
+    {
+      "rank": 2,
+      "event_id": "roche-2026-07-02-008",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Roche tops oncology reputation rankings as AstraZeneca climbs back to 2nd place - Fierce Pharma",
+      "companies": [
+        "roche",
+        "astrazeneca"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcE9Gclh2VkZCZ1plRGZZY01kbzJBZi1kWkZoUVZHQkwzUWxvcXZvRjN4UWM2NmZyZFlacmo0ZmtiLWtkSTA1MDJTbm1MYzdPb3hmLXI1Wk9hU2x5M1lFMDI3dlFqWEdGNkVhWmN5R0s2ci1zSUY4U1R2RVZLU0tpcUtnLXlOQWFtTGdydEpDSXRydV9vTnNpck1QY0k4VXNCd1BWMzhCUTRZSmRqUXdVWXR3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "teva-2026-07-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "iA Global Asset Management Inc. Purchases 91,026 Shares of Teva Pharmaceutical Industries Ltd. $TEVA - MarketBeat",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMEdfYUFQZFlIVGFmMzZILTZuYkRUYWs4amQ2U1hDdnQyRm1Cd1VRZi1XRnpXSmNTYmpka251Y1hHUUtFVXplSzN5SGZuMzJOOWZpRDhkLWljQnV0NEp0QWxNUWF6dUxsYlhuNkpHZk9ial9LcVVGRTdWb1R2V1JxSE1PNVlEMF94S1Z1Rm5hWkNGSlBUOUFfVGI4MnNqX211eTJBMkNGRU1UZUplSkhoQ0lDaHVudmdhVFFFR3FEU0FRSnZkR3NzZDNOc0ZqY3kwOS1OSXJhSzZpUUhJS2wtVFpKQlVuVGdNd1ZFeGtB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "sun_pharma-2026-07-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Enterprise value to EBITDA forward of Sun Pharmaceutical Industries Limited – NSE:SUNPHARMA - TradingView",
+      "companies": [
+        "sun_pharma"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZENyRjBDVTRTdWZ5c1pfUEZad1hvZWcwTXBBa3RmM25Ua0Y1NElMSVpRb2pRQ1pQMXBmYVZMNEl2Zjl3bWJJWVY2V3ZrcHo0emR1RTRmRGd2cVJLd214cGxSNDh0c3VmMGJ0NzJpRUlRRHZjN1EzWnZTbTZyNUVWNWRMZ251WG4wc1NJUDdPOXlqVTdvM3pBRTZ1VFEydkFSZ0VfWnlmRDYtdnRyOEVHaQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "sun_pharma-2026-07-02-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ashok Leyland, Sun Pharmaceutical among Ajit Mishra's top picks - CNBC TV18",
+      "companies": [
+        "sun_pharma"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQzFhLUhRXzNLOUY4ZS1Wb2JueHdBcmZTTkZvaWMtMWs4WDlXTnJXODB6Y1lIa2JvUHFxS29NeEJyeG40NWRpTHZJdFg0TWEyT181LTcwZTZDMWFtdzJuRVhqdXZIR0JUbDUwV2dtWlo0eVppT3RHUzJ3RmpsZHN1cVIxYnd4c0F5VzRwWVpGRHhhYWU4bVRxVl9pTXpEVWtSdXIwNW8tZm9QZVIyUTZBNGJOU2Z0QdIBuwFBVV95cUxOWnhJSmlRUDVRNF9sNExkLXpnRWszdkcwUG9Fdndya1R0YnVST0tFbzY5bkVXQnlfOWRJYl91eE1RNnhwdENxY0NHWVBwNmYzZXQxZVFoc2I1RGxNU0R2dmhNdUttUjFxMjBGNnRpOWFWR3ltaHZjamtqMUZEN3pBcFUtZE9paWxGLTdua3NFenhiVVFPb2ZvcUpUTFhQYV9DeFZVb00tcjZyMFpUZ0JNTzc1elRnWFBqTllR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 27,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 30,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 29,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "astrazeneca",
+        "count": 9
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 5
+      },
+      {
+        "id": "jnj",
+        "count": 3
+      },
+      {
+        "id": "sun_pharma",
+        "count": 2
+      },
+      {
+        "id": "roche",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 27
+      },
+      {
+        "id": "drug_approval",
+        "count": 23
+      },
+      {
+        "id": "biotech_funding",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 450,
+    "dup_title": 246,
+    "too_old": 100,
+    "gate1_blocked": 11,
+    "gate2_blocked": 16,
+    "passed": 77,
+    "pass_rate": "37.7%",
+    "gate2_block_rate": "7.8%",
+    "gate2_samples": [
+      "Enterprise value to EBIT forward of Dr. Reddy's Laboratories Ltd. Sponsored ADR – MUN:RDDA - Trading",
+      "TCI Co., Ltd. Actuals & Estimates (TPEX:8436) - TradingView",
+      "Price to sales forward of Lonza Group AG – SIX:LONN - TradingView",
+      "J&J’s DePuy Synthes names new CFO - MassDevice",
+      "Roche Holding Expands India Footprint In Hyderabad - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 30 則事件，焦點為AZ、Novo、J&J相關動態：「STAT+: A former AI regulator, now in industry, says bioph...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "STAT+: A former AI regulator, now in industry, says biopharma is reading FDA’...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Roche tops oncology reputation rankings as AstraZeneca climbs back to 2nd pla...（藥物核准、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
