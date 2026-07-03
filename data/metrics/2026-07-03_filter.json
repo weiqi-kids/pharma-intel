@@ -1,0 +1,16 @@
+{
+  "total_raw": 447,
+  "dup_title": 231,
+  "no_date": 0,
+  "too_old": 98,
+  "gate1_fail": 7,
+  "gate2_fail": 17,
+  "passed": 94,
+  "gate2_samples": [
+    "TCI Co., Ltd. Actuals & Estimates (TPEX:8436) - TradingView",
+    "Price to sales forward of Lonza Group AG – SIX:LONN - TradingView",
+    "A Look at Johnson & Johnson (JNJ) After 3.6% Gain -- GF Value $1 - GuruFocus",
+    "Johnson & Johnson (JNJ) Surges 4.0%: Is This an Indication of Further Gains? - Yahoo Finance",
+    "Roche Holding Expands India Footprint In Hyderabad - TradingView"
+  ]
+}

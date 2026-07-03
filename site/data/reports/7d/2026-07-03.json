@@ -1,0 +1,198 @@
+{
+  "date": "2026-07-03",
+  "date_range": {
+    "start": "2026-06-27",
+    "end": "2026-07-03"
+  },
+  "generated_at": "2026-07-03T10:45:16.655676Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "novo_nordisk-2026-06-29-026",
+      "date": "2026-06-29",
+      "title": "Novo Nordisk's and Eli Lilly's weight-loss drugs will soon have expanded US coverage - medwatch.com",
+      "importance_score": 0.85
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "drug_approval": {
+      "this_week": 115,
+      "last_week": 135,
+      "week_over_week_change": "-15%",
+      "sentiment_this_week": 0.03
+    },
+    "industry_general": {
+      "this_week": 133,
+      "last_week": 162,
+      "week_over_week_change": "-18%",
+      "sentiment_this_week": 0.02
+    },
+    "earnings": {
+      "this_week": 7,
+      "last_week": 8,
+      "week_over_week_change": "-12%",
+      "sentiment_this_week": 0.0
+    },
+    "glp1_obesity": {
+      "this_week": 11,
+      "last_week": 12,
+      "week_over_week_change": "-8%",
+      "sentiment_this_week": -0.09
+    },
+    "patent_cliff": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "biotech_funding": {
+      "this_week": 5,
+      "last_week": 5,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.1
+    }
+  },
+  "company_7d_summary": {
+    "sun_pharma": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "lonza": {
+      "event_count": 7,
+      "sentiment_avg": 0.43,
+      "rank": 5
+    },
+    "jnj": {
+      "event_count": 29,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "roche": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "astrazeneca": {
+      "event_count": 24,
+      "sentiment_avg": -0.02,
+      "rank": 2
+    },
+    "teva": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "bora": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "pfizer": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "novo_nordisk": {
+      "event_count": 22,
+      "sentiment_avg": -0.01,
+      "rank": 3
+    },
+    "mckesson": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 15
+    },
+    "dr_reddy": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 10
+    },
+    "merck": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 7
+    },
+    "eli_lilly": {
+      "event_count": 4,
+      "sentiment_avg": -0.06,
+      "rank": 8
+    },
+    "sanofi": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "cardinal": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 384,
+        "last": 515,
+        "change_pct": -25.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-27",
+      "event_count": 20,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-06-28",
+      "event_count": 24,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-06-29",
+      "event_count": 97,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-06-30",
+      "event_count": 68,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-07-01",
+      "event_count": 65,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-07-02",
+      "event_count": 91,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-07-03",
+      "event_count": 19,
+      "sentiment_avg": 0.03
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-27 ~ 2026-07-03）共 384 則事件，重點為「Novo Nordisk's and Eli Lilly's weight-loss drug...」。Lonza、McKesson表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "Sun Pharma",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Lonza",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "J&J",
+        "reason": "本週出現 29 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
