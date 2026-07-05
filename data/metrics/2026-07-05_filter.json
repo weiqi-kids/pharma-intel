@@ -1,0 +1,16 @@
+{
+  "total_raw": 450,
+  "dup_title": 297,
+  "no_date": 0,
+  "too_old": 108,
+  "gate1_fail": 8,
+  "gate2_fail": 11,
+  "passed": 26,
+  "gate2_samples": [
+    "Johnson & Johnson (JNJ) Surges 4.0%: Is This an Indication of Further Gains? - Yahoo Finance",
+    "Roche Holding Expands India Footprint In Hyderabad - TradingView",
+    "Fidelity Blue Chip Value Fund's Roche Holding AG(XSWX:ROP) Holding History - GuruFocus",
+    "Why Astrazeneca (AZN) Dipped More Than Broader Market Today - Yahoo Finance",
+    "MRK - Merck & Co Inc Volatility & Greeks - Finviz"
+  ]
+}
