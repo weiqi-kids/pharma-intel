@@ -1,0 +1,245 @@
+{
+  "date": "2026-07-07",
+  "generated_at": "2026-07-07T11:15:42.708909Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-07-013",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "STAT+: This whistleblower took on a health insurance giant and a political machine. She’s not stopping there",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.statnews.com/2026/07/07/employer-based-insurance-whistleblower-out-of-pocket-series-part-3/?utm_campaign=rss"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-07-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Wegovy weight-loss pill goes on sale on UK high street and online pharmacies - The Guardian",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUjRqZzlyTHg3X2NfSVNleV9iWi1sRV81VVRJMWdESm5vZEhKdm5WNHFMa1owS2hoOXg5TVhfZldtTWpWN1VEVmE5Q3hDZk5NOTdlc01aa0d2VzFtQUEtYWNOMEwzTFRlYjVBV3lBNFBtSnFJX0g1eTk5R3pVcTBiNkhaUXRWQ2dDQXJ6YU1VaEtIVENYUUR6Mm43Si1HbU9nbEtqSExnRlJVb3VrX2FSemtR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "sun_pharma-2026-07-07-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sun Pharmaceutical Industries Ltd spurts 0.07%, up for five straight sessions - Business Standard",
+      "companies": [
+        "sun_pharma"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPWVJ2V2pPd0Y1N3lfUW9mYTZ4dkhBQlVBMHJQWGpxWXRlU1BZQW5UVGpUZGQ2YVR1NHotTFFqaE16OFVFNWR5bUx5OFc2V2FjaEgyX3RIX19sc3R6UkRVNHBteXNLdTFJeVNTMUg2NkpTalNjYVhsc2ZWeFU2LTlTYV9DdnBXZVhWZ1dnNl9kSFZyVjRRdl9qZV9Kdng3NnF3dk5lU2JhQ01XZ0NwNnBJb2NWbHJ6Z3RUQ0txVlBGSThZMTV0N1laNnQ0R3Nhbmd1Wk4xN29RdThxSEkyQVpYUDY4NnE3V2ZFWjVHOGR30gHzAUFVX3lxTE9KOGxQS2lYR2ZobzcyMS1pMVdWWThHMElPWnk2YlFaZGViWm5kV1pGRXU3Y3ZjUGZ4dmJMbTJUeTRodmV6dEtkRi1GWmF6YktBX2RPNlRmcm82ZUFBZldOcTFkamdqbmY5ZzdHazIxU1RBS0x6MV9qbHBHclV5bHppTko4cUF6VW9aT1p4VGU3VFVTZXlvWnVsRE52ODhNYXlBdkFtaFR6UVNmOU5LQzEyYzI0S1R3aERTbWFxMkV5OEZ5RDhhdGpLYjI2bzFIY1pMQjIwRWFueFlVQmk2X1VESVcxMWFfVTR1d1BUX2tMM2ZENA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lonza-2026-07-07-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lonza stock holds focus as analysts watch the Swiss drugmaker - AD HOC NEWS",
+      "companies": [
+        "lonza"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcl84blNjSXE4aXBUQ0ZZalNzR3pnV2lnOUktWGk0OXlHU0dROXl1R3cxZ3lYQ1B6eldmR20wb25HeEoxaDczVXZtNlI1Q1NmMW9fblNqTHVFNTdLRHlORTJLTHFZTWRvSXVSNTNWZ05LN19FRkFmYnRqVXg1UnRxTkl6S0NMdEJUQjVTNVdzbzRXU0g2UHJpWVlfMlBuS09SY3EtNXdXekJMQ1NOZzNocnd0U29aQmh2TWFBYw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "catalent-2026-07-07-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "John Chiminski, Former Catalent Chair and CEO, to Serve as CD&R Operating Advisor - PR Newswire",
+      "companies": [
+        "catalent"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcVk4eFBpUGdWVWtDQm02QkFCbTBCdXhmcnpZcnJISXFoek9WRDFfdHJsR09DMjQ5QUUzdUVLSUVMUk9ZLVZtcWhNRl9ucHZZZFNHR2VPd25DSTNKNmJzMDFPZU5xYVlHYTdkajYycEgxVmYyT1huN2hGYi01SEpTVUxodFk0UFhYNnRET0VYcFpncHo4QlFUbGhVc01uVkpMc0FQRHNrVVpWOFpFSmFIa1NGdi1SRHE0bHA4TENPSVlsWTgwaTkzZTA0bzQyMGM?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.09,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 11,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "astrazeneca",
+        "count": 2
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 2
+      },
+      {
+        "id": "sun_pharma",
+        "count": 1
+      },
+      {
+        "id": "lonza",
+        "count": 1
+      },
+      {
+        "id": "catalent",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 11
+      },
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 454,
+    "dup_title": 274,
+    "too_old": 105,
+    "gate1_blocked": 9,
+    "gate2_blocked": 14,
+    "passed": 52,
+    "pass_rate": "28.9%",
+    "gate2_block_rate": "7.8%",
+    "gate2_samples": [
+      "Teva to Advance Its Anti-IL-15 Antibody, Designed for - GlobeNewswire",
+      "Codis To Acquire Catalent's Nottingham, UK Facility to Create Europe's Leading End-to-End Spray Dry ",
+      "90 years of innovation in Schaffhausen: from Cilag to Johnson & Johnson - Johnson & Johnson",
+      "Why Is Johnson & Johnson (NYSE:JNJ) Gaining S&P 500 Focus? - Kalkine Media",
+      "Nasdaq Reclaims Key Level; Howmet Aerospace, Johnson & Johnson, Sandisk In Focus - Investor's Busine"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為AZ、Novo、Sun Pharma相關動態：「STAT+: This whistleblower took on a health insurance gian...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "STAT+: This whistleblower took on a health insurance giant and a political ma...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Wegovy weight-loss pill goes on sale on UK high street and online pharmacies ...（藥物核准、GLP-1 減重、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
