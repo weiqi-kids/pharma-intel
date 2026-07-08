@@ -1,0 +1,16 @@
+{
+  "total_raw": 454,
+  "dup_title": 237,
+  "no_date": 0,
+  "too_old": 95,
+  "gate1_fail": 12,
+  "gate2_fail": 17,
+  "passed": 93,
+  "gate2_samples": [
+    "Teva Advances TEV-'408 Into Phase 2b for Vitiligo - Dermatology Times",
+    "Teva reports early vitiligo data for anti-IL-15 TEV-‘408, advances into Phase IIb - AllSci",
+    "Teva to Advance Its Anti-IL-15 Antibody, Designed for - GlobeNewswire",
+    "Codis To Acquire Catalent's Nottingham, UK Facility to Create Europe's Leading End-to-End Spray Dry ",
+    "Codis Acquiring Catalent’s Nottingham UK Facility - Pulse 2.0"
+  ]
+}

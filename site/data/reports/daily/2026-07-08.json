@@ -1,0 +1,278 @@
+{
+  "date": "2026-07-08",
+  "generated_at": "2026-07-08T10:26:23.242743Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "roche-2026-07-08-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Roche Holding shares stay tied to pipeline updates. Investors watch the drugmaker's clinical cadence - AD HOC NEWS",
+      "companies": [
+        "roche"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPODYyMHVYTU9Nc2trUmRRS2o4QUhvc0pzVXBzWWk2akh6VDhvcjllZUtLWDIyVjN6NG9EQ01fdndIc2IyNzdENVVKRXc1N1NvWHI4RlRjSkkwbjFDejgxcC1laDRQN2Q5TGI1Nldpa2tVSDZUcl84ZVJJYVhld002TnNnQ0dUQ1BPV21LNmsyUW9qOGpKTi1lMDREeHpnVHpVSU9QNXdob2tERmRsdTNQUXBncGpkVFQwZ2JJb2dfTlJnd0RXWFYycw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "roche-2026-07-08-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Roche balances pharma growth and diagnostics challenges as investors assess outlook - AD HOC NEWS",
+      "companies": [
+        "roche"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdXFreU5OR21JTkswT2xodFBsVVkxNzh0dUdna0dlQjYyNXJOSGFKOXo0MDU3SUFtdHZKczVVcFhJY016MnYzYnZTMmFtQWRWZC0ySXNCQWM3Y1JHSHVyNEdEdW9NZFQ4LUNjQk10alB5ckZVem9VVlVWeU1JN3M0elJpMWtXVWtwQldMQml5OS1GX1hJc0I3OUcxOXN1RjUyN2VaTm5mTkY1U3h2Vk9nN1laNEwwMVdaZGg0Qi1NcDdCc0tNcnc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "astrazeneca-2026-07-08-012",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "AstraZeneca pens $2.1B Sino deal for challenger to Merck’s COPD drug Ohtuvayre - Fierce Biotech",
+      "companies": [
+        "astrazeneca",
+        "merck"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbDRMSk92MFlvQm1yS2ZGeEduanZqWmpvZS1yR1FxUERuNHllN2I2MkxVWWpZN3ZfX0V4eXdoOHE1YjFCOFZnSEpIbnpDNlJ3eEp4eC1TbE9EWGM4aURHOERBT3diWktiMEZPcmtyRHFOQWx1c2VSZjFYbHhyT2JtRVRwR19vNDU3WGtyOXVOenVqRjVzWURybElQMDYzZGtBVjVhcw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-08-021",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "India Fat-Loss Drug Sales Slow After Early Spike From Generics - Bloomberg.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMlQwODRkRWFfU2F3ZDQ0VVp0ZTR4TXNEVV96a2dxQmV3anZQMWR0Uzd0MW5LY0kweTRvYm02aFJwOU9COEM1c2xxM05qdnVDNTdSTmNOYUF3TVhmSFhNTDJ4NngyWHdNcXNkaWtUTkJsWWNwN2tWMmZ2NER5NzdERkdBUTZLb3VYbjNaYnQtRzhUNDR3SHY1RHBjc0lIeFkzWjd1aFJyRXBTd2FGR2xhUHcwYw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "bora-2026-07-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "MacroGenics Sells GMP Manufacturing Operations to Bora Pharmaceuticals for $122.5 Million - Minichart",
+      "companies": [
+        "bora"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZGZfMTJneHJFRERKVHJOMVlnU05udUszM1VUSzFBeGxFME1vMlBtWnBNTG9JQVlsZndoRmdCaHdWOE5pZl8xcnI4U2pjTzREVERhbzJ6UFotMm9HbHA2VnBWSDNxY0pwSDJqbTRWaUFSM1BldnpqdzluWE55eHNKM25rcmp1dFFRWUhhWS1fX2E5ZzUxdE9GYUlUeWdGaUo4TUktekJqcE9XM0tWeUwyZEdFcVZpbGhzYmFTcXFxRDBrdUl4dEN0dg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 25,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.01,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 29,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 22,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "jnj",
+        "count": 5
+      },
+      {
+        "id": "astrazeneca",
+        "count": 5
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 4
+      },
+      {
+        "id": "merck",
+        "count": 3
+      },
+      {
+        "id": "roche",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 25
+      },
+      {
+        "id": "drug_approval",
+        "count": 23
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "biotech_funding",
+        "count": 2
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 454,
+    "dup_title": 237,
+    "too_old": 95,
+    "gate1_blocked": 12,
+    "gate2_blocked": 17,
+    "passed": 93,
+    "pass_rate": "42.9%",
+    "gate2_block_rate": "7.8%",
+    "gate2_samples": [
+      "Teva Advances TEV-'408 Into Phase 2b for Vitiligo - Dermatology Times",
+      "Teva reports early vitiligo data for anti-IL-15 TEV-‘408, advances into Phase IIb - AllSci",
+      "Teva to Advance Its Anti-IL-15 Antibody, Designed for - GlobeNewswire",
+      "Codis To Acquire Catalent's Nottingham, UK Facility to Create Europe's Leading End-to-End Spray Dry ",
+      "Codis Acquiring Catalent’s Nottingham UK Facility - Pulse 2.0"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 29 則事件，焦點為J&J、AZ、Novo相關動態：「Roche Holding shares stay tied to pipeline updates. Inves...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Roche Holding shares stay tied to pipeline updates. Investors watch the drugm...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Roche balances pharma growth and diagnostics challenges as investors assess o...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

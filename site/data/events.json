@@ -1,5 +1,601 @@
 [
   {
+    "id": "bora-2026-07-08-001",
+    "date": "2026-07-08",
+    "companies": [
+      "bora"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "MacroGenics Sells GMP Manufacturing Operations to Bora Pharmaceuticals for $122.5 Million - Minichart",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZGZfMTJneHJFRERKVHJOMVlnU05udUszM1VUSzFBeGxFME1vMlBtWnBNTG9JQVlsZndoRmdCaHdWOE5pZl8xcnI4U2pjTzREVERhbzJ6UFotMm9HbHA2VnBWSDNxY0pwSDJqbTRWaU",
+    "sources": [
+      {
+        "name": "bora",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZGZfMTJneHJFRERKVHJOMVlnU05udUszM1VUSzFBeGxFME1vMlBtWnBNTG9JQVlsZndoRmdCaHdWOE5pZl8xcnI4U2pjTzREVERhbzJ6UFotMm9HbHA2VnBWSDNxY0pwSDJqbTRWaUFSM1BldnpqdzluWE55eHNKM25rcmp1dFFRWUhhWS1fX2E5ZzUxdE9GYUlUeWdGaUo4TUktekJqcE9XM0tWeUwyZEdFcVZpbGhzYmFTcXFxRDBrdUl4dEN0dg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lonza-2026-07-08-002",
+    "date": "2026-07-08",
+    "companies": [
+      "lonza"
+    ],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "positive",
+    "title": "Lonza Group outlines strategic focus as investors weigh long-term growth - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQemQxOG1JNHZaWTFTQ3pELTh1d2MtVFVtZkdHTDFIZkpfRVJmRDNxMXk1NnU4Q2JlZEVIbWNfeTJHNS1mX0JqcF9xWmdybkNvaElKVWNkLTF3UDAzTlc2YkxmNGRjV1VZYlpQSklHVX",
+    "sources": [
+      {
+        "name": "lonza",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQemQxOG1JNHZaWTFTQ3pELTh1d2MtVFVtZkdHTDFIZkpfRVJmRDNxMXk1NnU4Q2JlZEVIbWNfeTJHNS1mX0JqcF9xWmdybkNvaElKVWNkLTF3UDAzTlc2YkxmNGRjV1VZYlpQSklHVXk5Vjg1NWZESjBLeGxLd1NCcTQzMWx0MnFydXllUTQ3bmRETjRmSXR6cUJWMXN4ejM0UXd6NktnZkt2SGZha0ZFMk5sandzWTA5MzJjaEpmUGlXSzc1VHRCcXlkVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pfizer-2026-07-08-003",
+    "date": "2026-07-08",
+    "companies": [
+      "pfizer"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Two Healthcare Blue-Chip Stocks Offer Opportunities as Dividends Shine Bright for Pfizer and Bristol-Myers Squibb - NAI500",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPU2NkU21pemNNQzhjOXFtQ3NQSkF5TWFOUEVYV1NxUFFBblV5WXJfUHRHSTZlUnVnaW16NnBRejBjeks1QVJXVmFycUpZbnBvSVhGY2lZQ0xxZ2lhNDRBaWxqSWExc1dVUVhUY2xkSH",
+    "sources": [
+      {
+        "name": "pfizer",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPU2NkU21pemNNQzhjOXFtQ3NQSkF5TWFOUEVYV1NxUFFBblV5WXJfUHRHSTZlUnVnaW16NnBRejBjeks1QVJXVmFycUpZbnBvSVhGY2lZQ0xxZ2lhNDRBaWxqSWExc1dVUVhUY2xkSHIyVHdXNHk1U0ZIdFpSMkwzZ2c2NVVjM2JGUnRsTDk5MVlQYVlGczhtSlYwcDh2VVp3ZFdrR0wwYV8yWmM4Njg2Tmg1Z1pnRngxcElMdldYY3dDMU55R3JkeWNReWFkZG51SDlOcTh2YWlnV2VBOEE0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jnj-2026-07-08-004",
+    "date": "2026-07-08",
+    "companies": [
+      "jnj"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Johnson & Johnson (JNJ) Highlights IMAAVY Data, Is The Stock Above Fair Value? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNd3FNT3JwNXpHTl9UTlVjZ2EyNmxFYWxlUmJyeXk1TjFEX0xwa1F4VWM2a09jZW1WNUpBY0NEN0dPZGluXzdKWnQwQzZMdlpXdUp3N25QTUg1UndBTklvTUZqTXNSV0k5WXlVc2FDZk",
+    "sources": [
+      {
+        "name": "jnj",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNd3FNT3JwNXpHTl9UTlVjZ2EyNmxFYWxlUmJyeXk1TjFEX0xwa1F4VWM2a09jZW1WNUpBY0NEN0dPZGluXzdKWnQwQzZMdlpXdUp3N25QTUg1UndBTklvTUZqTXNSV0k5WXlVc2FDZkZ6TlgwWGJSM2pnYzFILTNTcjFySHBibXdfSTB6TUlIYUlNUjI0dUtDY0NaM0xLVlVzUEUzQm9Va1UyaE5IQ25iNWxMUDJKOF9raUFYY3NjSlJOSlBfLXVrYmQzcS1qbjYwMHBrRDl3aWpya19Za2NJ0gHkAUFVX3lxTFBvR3pfMlhmaTFjRWVDLVJqVzZlNmFiNTY0aENFVWJPWnE5dlNTZm1GaDFwLUxjeGdpd3lFYVBnaTVYWFNCeElGQUduUTVlN2J5ZEJEazhvcjNRakpPckpzMGcxVEhNRy1iWGgtYTQzTHZjS3VKWVR6X0dlUWJDYzBxQmZKV3pOVlBzODRhVFF5NXZpaG1kT054Q3lWZnJ2QnVTSjIydzNER05QTHdpQVdkV3NqNWVBZTNmeTJGakVsNkdFQTdleG9vTWRHMWsyUkVMVVo1eE9XWnNNbUlhMXhBSFVsWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jnj-2026-07-08-005",
+    "date": "2026-07-08",
+    "companies": [
+      "jnj"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Johnson & Johnson $JNJ Shares Sold by Hudson Edge Investment Partners Inc. - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxONmtvR2YzNnB3V204SEg0eTRMODdDQldRTmNtb0Q0aWFfY2lUUHo3aW9xa1IydG9LMDE5WmxreHFlZGVYck9RRGxEcHNRdTdwT3NDZWEtWTROYnJmanhqQWRuSTFjWDQ5RGdXMmhmcU",
+    "sources": [
+      {
+        "name": "jnj",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONmtvR2YzNnB3V204SEg0eTRMODdDQldRTmNtb0Q0aWFfY2lUUHo3aW9xa1IydG9LMDE5WmxreHFlZGVYck9RRGxEcHNRdTdwT3NDZWEtWTROYnJmanhqQWRuSTFjWDQ5RGdXMmhmcU9oLWd5eDlQZTI3cEVOd2ZDeDJPWm5CM0cyX1pGYVFZcDJGcWVlV05FSlVrWVVmYllyVGc1enBXM3huVE5PT0RMMWplc0szYk5JNkw2d0NlSXRGQ05QUUJyUFpvSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jnj-2026-07-08-006",
+    "date": "2026-07-08",
+    "companies": [
+      "jnj"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Morgan Stanley Adjusts Price Target Johnson & Johnson to $284 From $283, Maintains Overweight Rating - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcFZ0N2pmWkZJcnhPWXN6VkxJdVlHZFhVakc3UGRYZHhma20tSnhtb3Z2OVFsbVFmV3ZtY01XejlRTTVkRThJdXpaWTVWSkdjQWVfdUM4R2hSTmo3SW9RVlBJaldIWGNCeFhuaFBLUH",
+    "sources": [
+      {
+        "name": "jnj",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcFZ0N2pmWkZJcnhPWXN6VkxJdVlHZFhVakc3UGRYZHhma20tSnhtb3Z2OVFsbVFmV3ZtY01XejlRTTVkRThJdXpaWTVWSkdjQWVfdUM4R2hSTmo3SW9RVlBJaldIWGNCeFhuaFBLUHJhX21zeVN0ei0tRE9Qd0wteGJBbkl0c01LVzd4VXZNX3hOczdZQUhNM3JLaUF6US1JV1dBbnRyNXZVejVpY3RuQUNvZGliNVpYRnAxWG11Z28tRUYxVThheEdTQ0x4Qk4ydE4tN2ZtUHczbXBZaXlEcjR3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jnj-2026-07-08-007",
+    "date": "2026-07-08",
+    "companies": [
+      "jnj"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "QRG Capital Management Inc. Has $101.93 Million Holdings in Johnson & Johnson $JNJ - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbkdsSGFWREk2YlZIVHFQSjFVemtYUFdSR3NiYXZQYmpobzViMTRJNWUyanlXaDhhTVJhOFZJaGJZbTR6WmNXcktVZEp3aDY3TFZGNWxmNkJ0anViT3JzUWh1d0Q2ZlFXb1NCNVNYV1",
+    "sources": [
+      {
+        "name": "jnj",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbkdsSGFWREk2YlZIVHFQSjFVemtYUFdSR3NiYXZQYmpobzViMTRJNWUyanlXaDhhTVJhOFZJaGJZbTR6WmNXcktVZEp3aDY3TFZGNWxmNkJ0anViT3JzUWh1d0Q2ZlFXb1NCNVNYV19oY1B5QWN1akY2MkRhYm1vLWFkQnF0MEZoR1JxeWFubDNqc3Q2Sm9uRmRoQzhKZDhhTm9PMlQzSDZENEZuSnBIRlBqb09TSGxVLURhb3VTa2gxVjczem5WS3VlVEJVakJ3WjZz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jnj-2026-07-08-008",
+    "date": "2026-07-08",
+    "companies": [
+      "jnj"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Johnson & Johnson $JNJ Shares Sold by Berger Financial Group Inc - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNSEphMENOb2xkVDJKa0VPbTJWd0NPcy1uTkx4bTIzNVd6RGFxMm1RS0ZEYzE2SnlIWm1YRjEyZkJCMnR0NFdXSUZ6VC10QlVvUnBJSUxTdE12cUJqX0s0ZjN1QllKbkYwUzJlNmhSX0",
+    "sources": [
+      {
+        "name": "jnj",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSEphMENOb2xkVDJKa0VPbTJWd0NPcy1uTkx4bTIzNVd6RGFxMm1RS0ZEYzE2SnlIWm1YRjEyZkJCMnR0NFdXSUZ6VC10QlVvUnBJSUxTdE12cUJqX0s0ZjN1QllKbkYwUzJlNmhSX0VkemZMMGp1dy1EZVBlMjZtdHczcDJfVDBNeUUwLUZ2MGpiVkZHTVlGQXBDQVBoZnZMcVVWbm5GRXg3dThkdVBUUEFzNHdKaFJUWjF6eGhidw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "roche-2026-07-08-009",
+    "date": "2026-07-08",
+    "companies": [
+      "roche"
+    ],
+    "topics": [
+      "drug_approval",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Roche Holding shares stay tied to pipeline updates. Investors watch the drugmaker's clinical cadence - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPODYyMHVYTU9Nc2trUmRRS2o4QUhvc0pzVXBzWWk2akh6VDhvcjllZUtLWDIyVjN6NG9EQ01fdndIc2IyNzdENVVKRXc1N1NvWHI4RlRjSkkwbjFDejgxcC1laDRQN2Q5TGI1Nldpa2",
+    "sources": [
+      {
+        "name": "roche",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPODYyMHVYTU9Nc2trUmRRS2o4QUhvc0pzVXBzWWk2akh6VDhvcjllZUtLWDIyVjN6NG9EQ01fdndIc2IyNzdENVVKRXc1N1NvWHI4RlRjSkkwbjFDejgxcC1laDRQN2Q5TGI1Nldpa2tVSDZUcl84ZVJJYVhld002TnNnQ0dUQ1BPV21LNmsyUW9qOGpKTi1lMDREeHpnVHpVSU9QNXdob2tERmRsdTNQUXBncGpkVFQwZ2JJb2dfTlJnd0RXWFYycw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "roche-2026-07-08-010",
+    "date": "2026-07-08",
+    "companies": [
+      "roche"
+    ],
+    "topics": [
+      "drug_approval",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Roche balances pharma growth and diagnostics challenges as investors assess outlook - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPdXFreU5OR21JTkswT2xodFBsVVkxNzh0dUdna0dlQjYyNXJOSGFKOXo0MDU3SUFtdHZKczVVcFhJY016MnYzYnZTMmFtQWRWZC0ySXNCQWM3Y1JHSHVyNEdEdW9NZFQ4LUNjQk10al",
+    "sources": [
+      {
+        "name": "roche",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdXFreU5OR21JTkswT2xodFBsVVkxNzh0dUdna0dlQjYyNXJOSGFKOXo0MDU3SUFtdHZKczVVcFhJY016MnYzYnZTMmFtQWRWZC0ySXNCQWM3Y1JHSHVyNEdEdW9NZFQ4LUNjQk10alB5ckZVem9VVlVWeU1JN3M0elJpMWtXVWtwQldMQml5OS1GX1hJc0I3OUcxOXN1RjUyN2VaTm5mTkY1U3h2Vk9nN1laNEwwMVdaZGg0Qi1NcDdCc0tNcnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "astrazeneca-2026-07-08-011",
+    "date": "2026-07-08",
+    "companies": [
+      "astrazeneca"
+    ],
+    "topics": [
+      "drug_approval",
+      "biotech_funding",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sino Biopharm Strikes Drug Licensing Deal With AstraZeneca, Deepens GSK Partnership - WSJ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeEt1NE1hOVl2dlFzT1FGZWc1N2dMN0t3UERKNDhXZzNNS2xVSFZZNjVncUg0dnotT2g5cV95SzIydGpheW5sNURzUWFKajUtTXRFaEVHVWpVSUZ5WWF5TEZBNzNUUzAxMkxkcmRmZU",
+    "sources": [
+      {
+        "name": "astrazeneca",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeEt1NE1hOVl2dlFzT1FGZWc1N2dMN0t3UERKNDhXZzNNS2xVSFZZNjVncUg0dnotT2g5cV95SzIydGpheW5sNURzUWFKajUtTXRFaEVHVWpVSUZ5WWF5TEZBNzNUUzAxMkxkcmRmZUlKWmkzTWp4TnhveVBONTY5NHduNjRhLTQzUnNid0hLbVB0alRqV0c4ZDAyVjVhOFFEN1FZZGJYd1hBZDY3SVhGVmhaX2VmWW10SHVWdGJfb0g?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "astrazeneca-2026-07-08-012",
+    "date": "2026-07-08",
+    "companies": [
+      "astrazeneca",
+      "merck"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AstraZeneca pens $2.1B Sino deal for challenger to Merck’s COPD drug Ohtuvayre - Fierce Biotech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPbDRMSk92MFlvQm1yS2ZGeEduanZqWmpvZS1yR1FxUERuNHllN2I2MkxVWWpZN3ZfX0V4eXdoOHE1YjFCOFZnSEpIbnpDNlJ3eEp4eC1TbE9EWGM4aURHOERBT3diWktiMEZPcmtyRH",
+    "sources": [
+      {
+        "name": "astrazeneca",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbDRMSk92MFlvQm1yS2ZGeEduanZqWmpvZS1yR1FxUERuNHllN2I2MkxVWWpZN3ZfX0V4eXdoOHE1YjFCOFZnSEpIbnpDNlJ3eEp4eC1TbE9EWGM4aURHOERBT3diWktiMEZPcmtyRHFOQWx1c2VSZjFYbHhyT2JtRVRwR19vNDU3WGtyOXVOenVqRjVzWURybElQMDYzZGtBVjVhcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "astrazeneca-2026-07-08-013",
+    "date": "2026-07-08",
+    "companies": [
+      "astrazeneca"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AstraZeneca to pay $200M upfront for Sino Biopharmaceutical’s COPD drug license deal - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOVmFWek15V2Y1VDE3QWdRYWpsUHRZMEV1d0dnWFJKLVR0UVVNcTdIU1RlNThEb3JjaXUzRjNqdEZuQ2w0REZYSy05THpMVUVkR3FYaFYyRjF6QVM1TFltVWxqd01QRElfY1AyQzhiQT",
+    "sources": [
+      {
+        "name": "astrazeneca",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVmFWek15V2Y1VDE3QWdRYWpsUHRZMEV1d0dnWFJKLVR0UVVNcTdIU1RlNThEb3JjaXUzRjNqdEZuQ2w0REZYSy05THpMVUVkR3FYaFYyRjF6QVM1TFltVWxqd01QRElfY1AyQzhiQTRoSnBHemRqMGx1VXNWVHZTZ3R0MTNtZFZwSE0taC1LV0d5NkZJbU5lbHlvV0R0S1I4ZlZ6Y19WbUYtaC1vaHFiMnFfdEpZNlI2VU1ZVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "astrazeneca-2026-07-08-014",
+    "date": "2026-07-08",
+    "companies": [
+      "astrazeneca"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Helix opens genomic cohorts to AstraZeneca - The Pharma Letter",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNQnhvQi03U1pxQkprQ1B4YXM4N0E3M1JqYXZMZVZzcllrVkxZb0xqSnRJVFJPN1pEMFNiOElkTnZlUHd4M3pLaWNvaW9XTHI3eXRtLUZub25TZjV1eVNhUE1IN0VQTzJXd255bzJDQU",
+    "sources": [
+      {
+        "name": "astrazeneca",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQnhvQi03U1pxQkprQ1B4YXM4N0E3M1JqYXZMZVZzcllrVkxZb0xqSnRJVFJPN1pEMFNiOElkTnZlUHd4M3pLaWNvaW9XTHI3eXRtLUZub25TZjV1eVNhUE1IN0VQTzJXd255bzJDQUVISnZURlFYR0FiNkstajBPYmVxMmlDVms?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "astrazeneca-2026-07-08-015",
+    "date": "2026-07-08",
+    "companies": [
+      "astrazeneca"
+    ],
+    "topics": [
+      "drug_approval",
+      "biotech_funding",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Sino Biopharm signs AstraZeneca licensing deal, expands GSK tie-up; shares up - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOR3RFRDNfVk9VMFhsWVlVeVVGMFJqdDJnZXFKaG5OZGdfblNza095Rk95SGotbXNvUklTLVlwME1hTF9pLUxWeVgwUDhUOU9vZjBOcGk3OG41RzhiZEhBNUpwMjR4ZGJFX2RtMmMyMW",
+    "sources": [
+      {
+        "name": "astrazeneca",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOR3RFRDNfVk9VMFhsWVlVeVVGMFJqdDJnZXFKaG5OZGdfblNza095Rk95SGotbXNvUklTLVlwME1hTF9pLUxWeVgwUDhUOU9vZjBOcGk3OG41RzhiZEhBNUpwMjR4ZGJFX2RtMmMyMWQ3ZGg3czJkeXBSNmQ2Zm5ITHJJeXlFR040T1VUY2R0WGFqWTc5QVJUWEpPZW9mVnQzTE15Ny1DaU4yblVqeXVFQnNDWEtXZW9RcVlnSk1PcERoOXdlbXdWcWd1bw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "merck-2026-07-08-016",
+    "date": "2026-07-08",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Merck & Co. Inc. balances pharmaceuticals growth and pipeline investment - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQRk5mWURvQVZJdnU0dnd0QXJyLWd6OEQ5M3BiS3JTWWJZbmg1NnNzM0ppcTg5VnEtbHpGUHRvWjRIeWhWaXVReUpROUtQa1lQNi0zZ2VtV2g1TXZXNjUwY2dHQk0tT1pQZ011bDMzQW",
+    "sources": [
+      {
+        "name": "merck",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRk5mWURvQVZJdnU0dnd0QXJyLWd6OEQ5M3BiS3JTWWJZbmg1NnNzM0ppcTg5VnEtbHpGUHRvWjRIeWhWaXVReUpROUtQa1lQNi0zZ2VtV2g1TXZXNjUwY2dHQk0tT1pQZ011bDMzQWVSRUg1SEdTM0ZjZ2RqRHlFLWh6Mm9id0FrWG14V1FwcWQ4dXBpTE1YUUdxaW8ySkpNdzhPQzFlMjlBNTVDRDZRMWdCMEpnYjhQQldnYQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "merck-2026-07-08-017",
+    "date": "2026-07-08",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Merck & Co. highlights its pharmaceutical portfolio as investors track long-term growth prospects - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQSGhfTTloWnMzYjZiOEh3SkVUUVY2YVdqTVAzNHFGRVROMkJQdU8xMW1EYVE1aHFuYWZnLTl0Z0NhTHp4VGNOdTQzdFN4ZHN5VGNOMTdkSk5taTdMdWlwd0VQTUg5TDVPd0drOTZxYn",
+    "sources": [
+      {
+        "name": "merck",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSGhfTTloWnMzYjZiOEh3SkVUUVY2YVdqTVAzNHFGRVROMkJQdU8xMW1EYVE1aHFuYWZnLTl0Z0NhTHp4VGNOdTQzdFN4ZHN5VGNOMTdkSk5taTdMdWlwd0VQTUg5TDVPd0drOTZxYnVZLWlUdWVHeFVCem5TSE1pOEtvMFlTV1RJLTloZUdHbExLelJnenZVdmJrSjA3d05rcHhUTmYwUXhrRjRTZ3RBaW9mRXNlX25YTW9tQkVnVHVLdzBtUEVuWmhB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-07-08-018",
+    "date": "2026-07-08",
+    "companies": [
+      "novo_nordisk"
+    ],
+    "topics": [
+      "drug_approval",
+      "glp1_obesity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Novo Nordisk signs pact with Vivani for long-lasting semaglutide implant - Pharmaceutical Technology",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOV0ZfU2tlV1prT3lZZFFLMlZuNmFfOEFXU1BHN3JqWXJUenV2cGpGV2RLNl9JT1prbG9GNENhRDBNQTFuYkliVVJsSVBlMlJGMGlOdlBvTkhDcHlfQk9RTnFnZU5LZlF0ZzdvRDdQdU",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV0ZfU2tlV1prT3lZZFFLMlZuNmFfOEFXU1BHN3JqWXJUenV2cGpGV2RLNl9JT1prbG9GNENhRDBNQTFuYkliVVJsSVBlMlJGMGlOdlBvTkhDcHlfQk9RTnFnZU5LZlF0ZzdvRDdQdU1wZExKUjZJeHBzeGlYQjhndzRWLWJPR1h4UEh1cF9XSjF2TFliaUdZVHVwZENpMkdEdWpueDZkY3dRdWtrVUtrYnZRSnZlTEcxM0VlOQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-07-08-019",
+    "date": "2026-07-08",
+    "companies": [
+      "novo_nordisk"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Major investor sells off shares in Novo Nordisk and Coloplast - medwatch.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aWjlvMGNOUmNQRllQYzA0azZ2OENPYmVTYnJpeTF0emZ1ZGh4eWw4M2RvenJwMTl4SUFuZEtqQmdqdHZpMlV4UDBXUFVZVG5TdGc?oc=5\" target=\"_blank\">Major investor s",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aWjlvMGNOUmNQRllQYzA0azZ2OENPYmVTYnJpeTF0emZ1ZGh4eWw4M2RvenJwMTl4SUFuZEtqQmdqdHZpMlV4UDBXUFVZVG5TdGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-07-08-020",
+    "date": "2026-07-08",
+    "companies": [
+      "novo_nordisk"
+    ],
+    "topics": [
+      "drug_approval",
+      "patent_cliff",
+      "glp1_obesity",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Novo Nordisk shares dip as latest prescription data points to GLP-1 pill slowdown - Proactive financial news",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbmZLLVFjWko0bGIwVVJtbWpobXNNU3RLOEYyQmloSFNfS19UTEI0RUdKUjdtYkFUWFVpY19oSFNOS21vNjhzVVpwbm9xakIzY2JPeUlwNlJRYXFpbDFmdFFWZmFVSnMtU1pPcGNJdT",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbmZLLVFjWko0bGIwVVJtbWpobXNNU3RLOEYyQmloSFNfS19UTEI0RUdKUjdtYkFUWFVpY19oSFNOS21vNjhzVVpwbm9xakIzY2JPeUlwNlJRYXFpbDFmdFFWZmFVSnMtU1pPcGNJdTFTekJpTGc3bk9FdG5jSXROa2N4VHZqa05TZ3BlbVRGTkpBa0tQWnBjUl9EZjVkUWNvRnNOaEpuSExha0QtMllSZTc1YlBLRWNxZlRqdnJwZHBXdkxDMkhwNzhWRTNmRG5JY3lnMW1ua1pTMjZKZzBSMDI2R1A0MG8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-021",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "India Fat-Loss Drug Sales Slow After Early Spike From Generics - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOMlQwODRkRWFfU2F3ZDQ0VVp0ZTR4TXNEVV96a2dxQmV3anZQMWR0Uzd0MW5LY0kweTRvYm02aFJwOU9COEM1c2xxM05qdnVDNTdSTmNOYUF3TVhmSFhNTDJ4NngyWHdNcXNkaWtUTk",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMlQwODRkRWFfU2F3ZDQ0VVp0ZTR4TXNEVV96a2dxQmV3anZQMWR0Uzd0MW5LY0kweTRvYm02aFJwOU9COEM1c2xxM05qdnVDNTdSTmNOYUF3TVhmSFhNTDJ4NngyWHdNcXNkaWtUTkJsWWNwN2tWMmZ2NER5NzdERkdBUTZLb3VYbjNaYnQtRzhUNDR3SHY1RHBjc0lIeFkzWjd1aFJyRXBTd2FGR2xhUHcwYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-07-08-022",
+    "date": "2026-07-08",
+    "companies": [
+      "novo_nordisk"
+    ],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "Novo Nordisk extends payment deadlines to subcontractors - medwatch.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBGdHB1SDBsNXVPYUk4ZFRHdG1qUVVFNnh5RE1CX2VTSG1VWUs4eEp4aF9LcFdfelptY1RSTGVBa1I2NTdVclBnM3pLUjhvRzlnMEVEM2p1QktueGJoUEcxUEFJazFPQ24tRzBxTW5qSQ",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGdHB1SDBsNXVPYUk4ZFRHdG1qUVVFNnh5RE1CX2VTSG1VWUs4eEp4aF9LcFdfelptY1RSTGVBa1I2NTdVclBnM3pLUjhvRzlnMEVEM2p1QktueGJoUEcxUEFJazFPQ24tRzBxTW5qSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sanofi-2026-07-08-023",
+    "date": "2026-07-08",
+    "companies": [
+      "sanofi"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Sanofi's Marketing Under Scrutiny: EU Commission Investigates - Devdiscourse",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOc1lNOWZfUGpoZUg2ZlM5QzJVd2tfM0tqeG1Vd1dhU0dVY0ttbXNIazVmSVo1VTlmYTJHQ0VSVkQ5M2lGN0NrSUJnS3AzTVR3QmE3eGtWX29FZUZEVkFMWHRFM2g2WlNXUkltUDI5b3",
+    "sources": [
+      {
+        "name": "sanofi",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc1lNOWZfUGpoZUg2ZlM5QzJVd2tfM0tqeG1Vd1dhU0dVY0ttbXNIazVmSVo1VTlmYTJHQ0VSVkQ5M2lGN0NrSUJnS3AzTVR3QmE3eGtWX29FZUZEVkFMWHRFM2g2WlNXUkltUDI5b3Z3NExmMWpiR25yRXVfQkFtVkozVVBjYUtxclg4NUlURUpud01LcW56T3JBdnNQRG9nM05ETG1GUlhhTS14WEQ2WNIBtgFBVV95cUxOcjZMU0t3dGJfY3pLbHVYTUpuaE5Ec3RrWWRCbXJiaDNRRWVoSUhhcFRUa1VJTzBTbkM5YzAtekJYRkZXTnFpNTEydW5NYzloSkdrTjBEdERpNWFma3dQcXVVUzU1TFBhTnhDS3BMR3VuNmU5ZTJ2X2xSSF9nWjNzWGZIYTBrWHUwMmpMbXpHV3dENkh0a2p1SkRsdmpYaHVQUUFNZ19obHMzWkFWZk9WQnk3R05wZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sanofi-2026-07-08-024",
+    "date": "2026-07-08",
+    "companies": [
+      "sanofi"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sanofi outlines its role in global pharmaceuticals. Long-term strategy and pipeline shape the outloo - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOWmd1dFJpV0RZd29ock1BNTJoemJrQ1JFYTNhUFVGSGpvbXM0Nk1Pb2NEamZYSjlranZ6bEVKbGYxYnZhamUyM0VLVjFvMHhpWGtKRlZ0RjZ2LWViamlHUXhOS05OV0hmR3pqWXk0dX",
+    "sources": [
+      {
+        "name": "sanofi",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWmd1dFJpV0RZd29ock1BNTJoemJrQ1JFYTNhUFVGSGpvbXM0Nk1Pb2NEamZYSjlranZ6bEVKbGYxYnZhamUyM0VLVjFvMHhpWGtKRlZ0RjZ2LWViamlHUXhOS05OV0hmR3pqWXk0dXRiUkJYbXc1VEpMQzFGcWh3b3BMcUVrZDNUaTNqZVVmbEd4cGNFQ2JPTUpPdkhhWGVBUmdSN2x4MkJMVnpFYm5vYUR4cEpLUkJkeE5BZ2NuSmcxMS1WbDBhM2xySUc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cardinal-2026-07-08-025",
+    "date": "2026-07-08",
+    "companies": [
+      "cardinal"
+    ],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "Cardinal Health focuses on core distribution and services as investors track the S&P 500 component - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSms5bXJkaVhmZEthNkpxWGFoV0U1cWZzZzQwMFlhNmc2Szk1QjdSSHJDMVpxdW5icVJLZmdCQkJNX3V3WFRvcjVLbmdUSzhoR09PcWxRSWY1NTBzUkJXX1lZZVg5QlBfYkZDazVDMX",
+    "sources": [
+      {
+        "name": "cardinal",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSms5bXJkaVhmZEthNkpxWGFoV0U1cWZzZzQwMFlhNmc2Szk1QjdSSHJDMVpxdW5icVJLZmdCQkJNX3V3WFRvcjVLbmdUSzhoR09PcWxRSWY1NTBzUkJXX1lZZVg5QlBfYkZDazVDMXF2bklpc1BUR05TelhfeklVS2IxYTVfMnhVZjR1ck5EdEViLVgtTHZnUmRFZkxTdUszeHR0YVloOW1LLWhfVXRrb09Ra1lNc3NUaHJGM2Fya3loY1hvSmhHOQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-026",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Grünenthal receives FDA designations for tegacorat in Duchenne muscular dystrophy",
+    "summary": "<p>SEGRAM aims to offer an alternative to glucocorticoid‑based treatment</p>\n<p><img src=\"https://pharmatimes.com/wp-content/uploads/2023/11/p20-2.jpg\" style=\"display: block; margin: 1em auto\"></p>\n",
+    "sources": [
+      {
+        "name": "pharma_times",
+        "url": "https://pharmatimes.com/news/grunenthal-receives-fda-designations-for-tegacorat-in-duchenne-muscular-dystrophy/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-027",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The overlooked burden of ageing",
+    "summary": "<p>Why the UK needs a unified strategy for chronic disease and adult vaccination</p>\n<p><img src=\"https://pharmatimes.com/wp-content/uploads/2026/07/13.png\" style=\"display: block; margin: 1em auto\"></",
+    "sources": [
+      {
+        "name": "pharma_times",
+        "url": "https://pharmatimes.com/thought_leadership/the-overlooked-burden-of-ageing/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-028",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Are glucose monitors a good thing for 2-year-olds? Experts look at risks, benefits",
+    "summary": "The newly approved over-the-counter CGM offers a new approach to tackling childhood obesity but also raises a host of questions.",
+    "sources": [
+      {
+        "name": "statnews",
+        "url": "https://www.statnews.com/2026/07/08/dexcom-stelo-cgm-risk-benefit-otc-glucose-monitoring-children/?utm_campaign=rss",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-029",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Opinion: The AI licensure debate is missing the point of licensure",
+    "summary": "“AI will reshape medicine. The physicians who answer for the outcome must lead the way it enters patient care,\" write Afnan R. Tariq and Ami Bhatt.",
+    "sources": [
+      {
+        "name": "statnews",
+        "url": "https://www.statnews.com/2026/07/08/licensing-ai-medicine-physician-responsibility/?utm_campaign=rss",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "sun_pharma-2026-07-07-001",
     "date": "2026-07-07",
     "companies": [
@@ -277,6 +873,1202 @@
       {
         "name": "statnews",
         "url": "https://www.statnews.com/2026/07/07/gen-z-doctors-too-soft/?utm_campaign=rss",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "teva-2026-07-07-015",
+    "date": "2026-07-07",
+    "companies": [
+      "teva"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Teva Pharmaceutical Industries (TEVA) Study result Summary - Quartr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPNFJpcGc1ZFZDVmg3LUZqMXJ5T2tuemsxWlBrZmlMWTFlazZUYVhUTVVWbzNwTmlKOUNlMDByOGZJc3BCT21lUHN0YmduSGkwZnlLS3dXRTA3R3Y5c2JaaVQ4eW5rWUpVdTJQNDZWdE",
+    "sources": [
+      {
+        "name": "teva",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNFJpcGc1ZFZDVmg3LUZqMXJ5T2tuemsxWlBrZmlMWTFlazZUYVhUTVVWbzNwTmlKOUNlMDByOGZJc3BCT21lUHN0YmduSGkwZnlLS3dXRTA3R3Y5c2JaaVQ4eW5rWUpVdTJQNDZWdEYyYldJWkVYR204a2FFZklITzFzeDhtTVBvMTdXazBjcDI3QUlJWFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "teva-2026-07-07-016",
+    "date": "2026-07-07",
+    "companies": [
+      "teva"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Teva Reports Early Skin Repigmentation Data, Preps For Next Trial - Teva Pharmaceutical Indus (NYSE:TEVA) - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQdkdnM21FS3NqY0NLSG03eVFkdmxzUDlCc2FkaGZkLVAzWVAzY0oxQm9td1hVZUFrWmRQN2psR0F0eDlZUVNjTmUzckdUWmY3UGhpb3RQU18zQ2F2cUYxVF9zYzk4dnhoN04yTk5veT",
+    "sources": [
+      {
+        "name": "teva",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdkdnM21FS3NqY0NLSG03eVFkdmxzUDlCc2FkaGZkLVAzWVAzY0oxQm9td1hVZUFrWmRQN2psR0F0eDlZUVNjTmUzckdUWmY3UGhpb3RQU18zQ2F2cUYxVF9zYzk4dnhoN04yTk5veTNXUHQwLW5ZdkdMUUE0b3luY1Faci1JcXYxd0pKV0IwRGY2U0lLbkdXc0JrcFpHYmgyakVybHREZWNNbXVhcGJ2RTNZdVNIMFZEUjdiWnVlSTRuNVBU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "teva-2026-07-07-017",
+    "date": "2026-07-07",
+    "companies": [
+      "teva"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Teva advances experimental vitiligo drug after encouraging early results - Ynetnews",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1UczZHZUhET2FwNmIySTkzZm03ekctdjE5VGotVzlUdERJSXM2ZlpuRjd6VjFkNTVKWDlWenlab0NiT2kwMmlJc1BJUFd1Q2MxQ0Njc0JZVy1nWkM1bnRpV0tKR2JNUm9tWnc?oc=5\" ",
+    "sources": [
+      {
+        "name": "teva",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UczZHZUhET2FwNmIySTkzZm03ekctdjE5VGotVzlUdERJSXM2ZlpuRjd6VjFkNTVKWDlWenlab0NiT2kwMmlJc1BJUFd1Q2MxQ0Njc0JZVy1nWkM1bnRpV0tKR2JNUm9tWnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sun_pharma-2026-07-07-018",
+    "date": "2026-07-07",
+    "companies": [
+      "sun_pharma"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SBI joins global banks to fund Sun Pharma's $11.75 billion Organon buy - Business Standard",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcEVqTWNXeDN4aUt4bmo2RXh3SUJRMlh3dEJSOGRuYWhBaUZCTTVNSVhLSVNGUDhGME9oNzNXNy1RSFM4dzNwRVNVYUFYOWRGdkZqQXZHUDRGSVZmZUk2Nm8yMW9LVzNJY0llX0JLdW",
+    "sources": [
+      {
+        "name": "sun_pharma",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcEVqTWNXeDN4aUt4bmo2RXh3SUJRMlh3dEJSOGRuYWhBaUZCTTVNSVhLSVNGUDhGME9oNzNXNy1RSFM4dzNwRVNVYUFYOWRGdkZqQXZHUDRGSVZmZUk2Nm8yMW9LVzNJY0llX0JLdWpQSnNlY3ZZZWNLN3NiVXQwSGZJM1F6SS13VGJjWEtncEVCOUQ1M1lhYlIxQzljUUE0aTlNM1FFb1VMdjV4Z2s1M3oxcGE4OWlxMk9LdDlDeGM0ekl6bGtSQ2NnSVlOQl8zMGlTb9IB2gFBVV95cUxPWmtMNEdOWjJCSVQza0xtWWxsbEZsZ21xU2FLRlQ4TUtUUnVLbk1OaTVYcWhxRzg0QzEzSm1sb2tELTZjcTYyNGduVTdnR1gzTVh5YUVLaXdIbHlDbUtDTzVYeTNuV0tGTXpaeE5vallOVFFhNkpvbEhJN3pyZ3Nvc3hNenYydDhLN2VqVVVMWHJEYm85b0I5cnZHRF9hd1JoZ3JCQUZaeDVudzhtU3FBV1pZMXk3bHlXM3BrNk1sQU5CSGctaXFEQWhDVVpiM2ZPLU16TnBPdHM4Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bora-2026-07-07-019",
+    "date": "2026-07-07",
+    "companies": [
+      "bora"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bora Pharmaceuticals Completes Acquisition of MacroGenics’ Rockville Mfg. Ops - Contract Pharma",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNNjktVzRvZmFKUEV1bnk5UlFwUG9NbjljbzJUcFBvdUVGcy0wM3V5TjZLMlVxTDlKME9FRVNEdWNvV21LS3p1VmNVaVNfcTVvRm1oMkxFUEpyakpqS0hBMFZoZC13OEJkSEZad0psRn",
+    "sources": [
+      {
+        "name": "bora",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNjktVzRvZmFKUEV1bnk5UlFwUG9NbjljbzJUcFBvdUVGcy0wM3V5TjZLMlVxTDlKME9FRVNEdWNvV21LS3p1VmNVaVNfcTVvRm1oMkxFUEpyakpqS0hBMFZoZC13OEJkSEZad0psRnVmc0pJR3ZKNmVCQXV4S0xvdW13MkVWSzgyU2ZLbTZvRnVEcmpqLXdENjRSWk1YcUliYUVmb0hzLVpDQXlwaDBHS2xka2tNQkItbjdyckp3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lonza-2026-07-07-020",
+    "date": "2026-07-07",
+    "companies": [
+      "lonza"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Lonza Group (SWX:LONN) Expands Biologics And ADC Push As Undervalued Narrative Builds - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRlNFeWFKSWdvQkFWQWFqQ3JvVTBkOVVNbzgtT1EtWGxLMXZ3aUMzWDFVSlRYbVZKSmFsMVdmanNuSTBNTVQyMmxIaVB6V1BqbnFOZlRwX0l6RkhhZ2hCVjEtYUJoSHVxaF9Td0o4ZX",
+    "sources": [
+      {
+        "name": "lonza",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRlNFeWFKSWdvQkFWQWFqQ3JvVTBkOVVNbzgtT1EtWGxLMXZ3aUMzWDFVSlRYbVZKSmFsMVdmanNuSTBNTVQyMmxIaVB6V1BqbnFOZlRwX0l6RkhhZ2hCVjEtYUJoSHVxaF9Td0o4ZXJnOUhadjVLVGJOTHp2SGtmNWlHOGNCeHJ4S2VZS3J5R1RpN29ZVFFXWVRqd0V2eE1uLUpsdDI0STRHOGV3OFZKOFlVZXhSUkdkZ3ZFQ004WXFDQi0xOFVtVGZuOGhOYnZ1NEZmTU5FM1lzUFdkQS1WOFRNQlNmWE9I0gHoAUFVX3lxTFBGU0V5YUpJZ29CQVZBYWpDcm9VMGQ5VU1vOC1PUS1YbEsxdndpQzNYMVVKVFhtVkpKYWwxV2Zqc25JME1NVDIybEhpUHpXUGpucU5mVHBfSXpGSGFnaEJWMS1hQmhIdXFoX1N3Sjhlcmc5SFp2NUtUYk5MenZIa2Y1aUc4Y0J4cnhLZVlLcnlHVGk3b1lUUVdZVGp3RXZ4TW4tSmx0MjRJNEc4ZXc4Vko4WVVleFJSR2RndkVDTThZcUNCLTE4VW1UZm44aE5idnU0RmZNTkUzWXNQV2RBLVY4VE1CU2ZYT0g?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lonza-2026-07-07-021",
+    "date": "2026-07-07",
+    "companies": [
+      "lonza"
+    ],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "positive",
+    "title": "Lonza Group looks to long-term growth as a global contract manufacturer - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNemtFejRlbVFtXzBEaHJMQVBsQm1NSEVRNEg3ZkpWdmZtZnBreU1kUTRxcklQVExEdkRmTkZOZWJVTk5CQVZUZTZwLXVEa1VOODZvMDk3Qld4RE90VzBTRjZHemNHbmtYWDUtNVdILX",
+    "sources": [
+      {
+        "name": "lonza",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNemtFejRlbVFtXzBEaHJMQVBsQm1NSEVRNEg3ZkpWdmZtZnBreU1kUTRxcklQVExEdkRmTkZOZWJVTk5CQVZUZTZwLXVEa1VOODZvMDk3Qld4RE90VzBTRjZHemNHbmtYWDUtNVdILXliNXg0R0loMTJyRFp4ZWdYZVg0SlJDYTE1UGVtRE02MW1ZWGtLckNzYnBMUm5RZDRTMndoVTczQ3BOV2RCTkNybEE4OEF2M1ljNzNHYnhpazNLZlJ3bHJHekxn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lonza-2026-07-07-022",
+    "date": "2026-07-07",
+    "companies": [
+      "lonza"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lonza Group AG focuses on contract manufacturing and biotech services - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNTDFhMUFjcmVpUjZzWWlpay1jSEZNclA5NHZYandCVUNqMjRrZkZvcTR0NXNKRHVtcjBkeGFJT0tpS2xYSmU1SkRRczN3ZTI3anA3c2VUTVM1MEdKaGVtQW9zTTVMTjY2eFZpVE85eW",
+    "sources": [
+      {
+        "name": "lonza",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTDFhMUFjcmVpUjZzWWlpay1jSEZNclA5NHZYandCVUNqMjRrZkZvcTR0NXNKRHVtcjBkeGFJT0tpS2xYSmU1SkRRczN3ZTI3anA3c2VUTVM1MEdKaGVtQW9zTTVMTjY2eFZpVE85eWt5WTdCWjNjV1JsXzdGUFZ6TXNRN3NVQlpRalRWSVhQbm1ScWxscW5vc2l3UGsyRE5zWWhQNlJaNkJ5SFlNMUExbGhGZmFXU1ZxblAxRE9WdjZuR083M0xN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "catalent-2026-07-07-023",
+    "date": "2026-07-07",
+    "companies": [
+      "catalent"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Catalent Announces Expanded Partnership with Nanoscope Therapeutics - Pharmaceutical Executive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNTnNjTHN1ZUR1Zl93a3JHM2Y3Ty1BaHAzUkxHcnh0ZnZiSlV1NFJWcHZTYU1JSkR1ODF3T2hPR1NMNUlldjFtQmVTczZXN3hucjJPYnBOX3pHa2h1LTRrb1AxUjcxTHpHdTRCVHNpQW",
+    "sources": [
+      {
+        "name": "catalent",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTnNjTHN1ZUR1Zl93a3JHM2Y3Ty1BaHAzUkxHcnh0ZnZiSlV1NFJWcHZTYU1JSkR1ODF3T2hPR1NMNUlldjFtQmVTczZXN3hucjJPYnBOX3pHa2h1LTRrb1AxUjcxTHpHdTRCVHNpQW9yN0x6M1hva1lXVGU5S3pZQnA4NlNHUGZLaDA1NDJyUzFmTUFFWi1hOQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "catalent-2026-07-07-024",
+    "date": "2026-07-07",
+    "companies": [
+      "catalent"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Codis to Acquire UK Catalent Facility, Creating End-to-End Spray Drying Capabilities - Contract Pharma",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNEVua2lERU5LLUEzQXNZUTltZGVBYTR2X3k4VGRMRGRRRzlpYjdJYlRFYTNmMjBwUHBjV1h4dEJ4Qjc4ZHJ5TE8zcWVoYzVTbWpiWUtzSzM0VHVKR2dyZHpnbDRWWW9MZkRYcktuU2",
+    "sources": [
+      {
+        "name": "catalent",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNEVua2lERU5LLUEzQXNZUTltZGVBYTR2X3k4VGRMRGRRRzlpYjdJYlRFYTNmMjBwUHBjV1h4dEJ4Qjc4ZHJ5TE8zcWVoYzVTbWpiWUtzSzM0VHVKR2dyZHpnbDRWWW9MZkRYcktuU2plcEJ3OGhEUFNpRnY1VzZOY1ZOU3pjMTZ2clk4N3BOdi1qU2xab2tELUpWVUJVanhKc1FyUTFDbGVySVoyX2hTOU4tV19HTDE0NGlzVUVZWnl0eGI0X04ybw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "catalent-2026-07-07-025",
+    "date": "2026-07-07",
+    "companies": [
+      "catalent"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Codis acquires Catalent's Nottingham site to become Europe's leading end-to-end spray dry provider - Manufacturing Chemist",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPYm9qUVdTQXZxVW9DeF9KV195dTl1Qmkyd0NLVDhaY1VjUHBya2paa2dyU3Z4X2RmNmhFTmZHT3dVTEtwUVZUdjktS3JGR0piWk5rU1hlTzA4N3ZlaF9jYW41OXlEcXoyZGo1UUJQX2",
+    "sources": [
+      {
+        "name": "catalent",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYm9qUVdTQXZxVW9DeF9KV195dTl1Qmkyd0NLVDhaY1VjUHBya2paa2dyU3Z4X2RmNmhFTmZHT3dVTEtwUVZUdjktS3JGR0piWk5rU1hlTzA4N3ZlaF9jYW41OXlEcXoyZGo1UUJQX2NuSk5UWE15ek5RMFYzVklKbG5NY2RybUJjenlqNldmalB6Qkk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "catalent-2026-07-07-026",
+    "date": "2026-07-07",
+    "companies": [
+      "catalent"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Catalent, Nanoscope expand partnership for optogenetic gene therapy supply - BioSpectrum Asia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxObFBfdk5tb3RMTkZ4MU8zY1RJTFhQU1NuOHhjYVlJVzdfRnRBVTVseVR4TkxwZ1ZpMHI3UENlMWxWOWxCNGNva1hHWWdxSmI3dnFReEdJRnhOR3VtdnkyVHF5OVp4aEM1Z2RGRW9KT3",
+    "sources": [
+      {
+        "name": "catalent",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObFBfdk5tb3RMTkZ4MU8zY1RJTFhQU1NuOHhjYVlJVzdfRnRBVTVseVR4TkxwZ1ZpMHI3UENlMWxWOWxCNGNva1hHWWdxSmI3dnFReEdJRnhOR3VtdnkyVHF5OVp4aEM1Z2RGRW9KT3dyQWFiZkdYQjBnSmhpa1JhdXZ3cGJJWHdEeHU4NHFCN2hjSkhBQ0pJSWVYSHE5T2MyaS1BVG40eURXT1VJdC0xc3N0NFdCT0xGU1BhdkhQYUZOUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "catalent-2026-07-07-027",
+    "date": "2026-07-07",
+    "companies": [
+      "catalent"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CD&R Appoints Former Catalent CEO John Chiminski as Operating Advisor - citybiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSE82RkhLWWdEM0JPWEM4S055WjJiRk9TSnFtNmNVZGtrT3FtUEVmUnVaUGlZSERIc0ZkRDY0UXdUTzN5amFESW5NWVg4RUs1ZEdpVnJzRmUwV3FOaFh2WUZhVmE1MzRfY2lOZG9NcW",
+    "sources": [
+      {
+        "name": "catalent",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSE82RkhLWWdEM0JPWEM4S055WjJiRk9TSnFtNmNVZGtrT3FtUEVmUnVaUGlZSERIc0ZkRDY0UXdUTzN5amFESW5NWVg4RUs1ZEdpVnJzRmUwV3FOaFh2WUZhVmE1MzRfY2lOZG9NcWNTZ08zb2NBWm94OS1QMk1hODlSNDlLOC1hTUhpaUIwTDY4RVhNVjZRcnpQZEprOEhIcUVOTXd0VUJFVzg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "catalent-2026-07-07-028",
+    "date": "2026-07-07",
+    "companies": [
+      "catalent"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Catalent and Nanoscope Therapeutics Expand Partnership to Support Late-Phase Development and Commercial Supply of Lead Optogenetic Gene therapy, MCO-010 - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAJBVV95cUxQN0o0MXlXU3oxd1VNckk0OXVpUU5peUpMMUhFYkNnenNtY3VxYzduOWF5MkVaSWJ5WTZEVE5IbW9EUzVrWF9zU1lSZUFpMFd2RjNkQU81eWdFNkJCWEdPNW16MDFzQmxEM3lodlg4VW",
+    "sources": [
+      {
+        "name": "catalent",
+        "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQN0o0MXlXU3oxd1VNckk0OXVpUU5peUpMMUhFYkNnenNtY3VxYzduOWF5MkVaSWJ5WTZEVE5IbW9EUzVrWF9zU1lSZUFpMFd2RjNkQU81eWdFNkJCWEdPNW16MDFzQmxEM3lodlg4VWljNG53SmVoYUtMT1ZodW41MTJhdWZZZ20zQ085WkN3Z003TnREa2RUZXgtd3ZQNWNaRjdLc284ZmlOMGlscGNBZTQ1c241VmpubEtEb2x3VXdaRUtVck9jUjhONTdWSktvVXNnYWJMdGN6V1FiMXJyYkJnR3BrcHpjR3R3M21vMGtqakMzRlRsVEsyejJHaUxxQnU1MENSN1d2clZOT0Y0dGVUWVpaVFRYd0RGNVEyeWhkWlNHTXZDWWtMbHJra190?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "catalent-2026-07-07-029",
+    "date": "2026-07-07",
+    "companies": [
+      "catalent"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Catalent, Nanoscope Expand MCO-010 Gene Therapy Partnership - Contract Pharma",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPYzUxLUhqbllxRGVyTllXd2hlVS03b215WXF4VHc3WkVaRXRkUTNCWjk2dHdfZm01U2ZTanB6RUZidWR1MmFmcUMtX1RjUm1xNlV4MkJySUlVOENTcmUyZDQ1T0V1dDk2OTR4c2ZYUH",
+    "sources": [
+      {
+        "name": "catalent",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYzUxLUhqbllxRGVyTllXd2hlVS03b215WXF4VHc3WkVaRXRkUTNCWjk2dHdfZm01U2ZTanB6RUZidWR1MmFmcUMtX1RjUm1xNlV4MkJySUlVOENTcmUyZDQ1T0V1dDk2OTR4c2ZYUHUzQUV5R05XSV9RTzJmSF9aRDFOT3lpN282TUsxOWF2dEVveEVvRGp4S09oa1BFVlNGQmFVTU1KRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pfizer-2026-07-07-030",
+    "date": "2026-07-07",
+    "companies": [
+      "pfizer"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Former Pfizer Building Is Crumbling—Just as the Stock Has - Barron's",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE84R1ZTQnlOZ2xjdVZyUE51dGVLSTMtc05NdWxiQVlncEFmbTVnWjZZd19RRTNRUjJMV1FWbmI5RnVldEhoVVJGc0FEZEthSk5TZFlGWXJJQWphRTlQX3dnemZzbXhQeTR3SFdwWTgyV0",
+    "sources": [
+      {
+        "name": "pfizer",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84R1ZTQnlOZ2xjdVZyUE51dGVLSTMtc05NdWxiQVlncEFmbTVnWjZZd19RRTNRUjJMV1FWbmI5RnVldEhoVVJGc0FEZEthSk5TZFlGWXJJQWphRTlQX3dnemZzbXhQeTR3SFdwWTgyV0I?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jnj-2026-07-07-031",
+    "date": "2026-07-07",
+    "companies": [
+      "jnj"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Unusual Put Option Activity in Johnson & Johnson After JNJ Stock's Recent Runup - Barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQMXFRdk5zbG1kZzJXWGVIeWx0MGdld1EyZFhhZW5FRlNGcXFiTWxUajdhek5NWU51RFlNMXl1cks4V3VBWXRmMGMyUkZRN1o0bWNWVmtnN2duV1ZEbXpPd0NvNkpteEwybi1ERnZwbU",
+    "sources": [
+      {
+        "name": "jnj",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMXFRdk5zbG1kZzJXWGVIeWx0MGdld1EyZFhhZW5FRlNGcXFiTWxUajdhek5NWU51RFlNMXl1cks4V3VBWXRmMGMyUkZRN1o0bWNWVmtnN2duV1ZEbXpPd0NvNkpteEwybi1ERnZwbUhscUxDRnpnQnkwYy1EdGxDMEcyYUJNcGItUXBWU0g2YXlaU1NrdU1ReW9WVXlLVFdndFdxMXNwOGIyaVFuWldSZDcxWng2ZloyMjUxVV93?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jnj-2026-07-07-032",
+    "date": "2026-07-07",
+    "companies": [
+      "jnj"
+    ],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "A Look at Johnson & Johnson (JNJ) After 3.0% Gain -- GF Value $1 - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPVnZvZ1M3d0hUVnp1VkVZUlNyWm9OSWxXS2o5a2lydjVUb0o2cEFyNDRuQk1ST3pjNGpiWjdaVW1KSFpodHMzRnFvTHVnX2I5MGQyYXFZQ0ZucHQydHVlaUVJeE5YY2lDQ0pnVTlYc0",
+    "sources": [
+      {
+        "name": "jnj",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVnZvZ1M3d0hUVnp1VkVZUlNyWm9OSWxXS2o5a2lydjVUb0o2cEFyNDRuQk1ST3pjNGpiWjdaVW1KSFpodHMzRnFvTHVnX2I5MGQyYXFZQ0ZucHQydHVlaUVJeE5YY2lDQ0pnVTlYc0FnNE5OWHhkY3AzSEpZVkNTcVJKeUI0R1MyQmVJU2YyY0w3MDRhTkEwSE9EdFhPcHhYX05KSEs1bTdDaTlVc2lZOWln?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jnj-2026-07-07-033",
+    "date": "2026-07-07",
+    "companies": [
+      "jnj"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Johnson & Johnson (JNJ) Has a Diversified Earnings Engine Bigger Than Talc - AlphaStreet",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOVi16ZHR4a2wwLVlfQkVTZXJySFpReUp5TEFxSmNRZk5UTlVEOTZxUFBMVFZ4SEdtdG1sYUpWSUh2SUJjN3A5ZU5RWmg5NGoyTE92NXBzZFZjQ3VsTnZDWW9rNC1ubUxXZU5VaTNfYz",
+    "sources": [
+      {
+        "name": "jnj",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVi16ZHR4a2wwLVlfQkVTZXJySFpReUp5TEFxSmNRZk5UTlVEOTZxUFBMVFZ4SEdtdG1sYUpWSUh2SUJjN3A5ZU5RWmg5NGoyTE92NXBzZFZjQ3VsTnZDWW9rNC1ubUxXZU5VaTNfYzIydEZ0ZEdSY0lFNy1ocGIwVEJzREZhaFN5VHoyUmtnY2xLRGlVSVdKcUVaeVRobVE3WVHSAaIBQVVfeXFMTlYtemR0eGtsMC1ZX0JFU2VyckhaUXlKeUxBcUpjUWZOVE5VRDk2cVBQTFRWeEhHbXRtbGFKVklIdklCYzdwOWVOUVpoOTRqMkxPdjVwc2RWY0N1bE52Q1lvazQtbm1MV2VOVWkzX2MyMnRGdGRHUmNJRTctaHBiMFRCc0RGYWhTeVR6MlJrZ2NsS0RpVUlXSnFFWnlUaG1RN1lR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "astrazeneca-2026-07-07-034",
+    "date": "2026-07-07",
+    "companies": [
+      "astrazeneca"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AstraZeneca secures ex-China license for Sino Biopharmaceutical's experimental COPD drug - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPMlJLZFBDV0VJUVptdEJ4cFJxUGl1VWcwRHdaWndRMHVDSW9aMFAyN01zU1NabEpmVXRielo1Z2VSdkZVdXBGVE9XSlUxcmpNWFdOYkd2RWRfd3ZOX3B6NndYRlNtdlpOamNvS1BfSH",
+    "sources": [
+      {
+        "name": "astrazeneca",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMlJLZFBDV0VJUVptdEJ4cFJxUGl1VWcwRHdaWndRMHVDSW9aMFAyN01zU1NabEpmVXRielo1Z2VSdkZVdXBGVE9XSlUxcmpNWFdOYkd2RWRfd3ZOX3B6NndYRlNtdlpOamNvS1BfSHpTLVJSNjQzNzVRZ0JJNW1kVDFnMUhqbUhVN2p3ZTY3Tl9FWEN5M09vTXFBdS1KUkRtaFMwaWlib1VuTDUzaVNRWFNpY3hsMHlLUlJkWjRlWTloZ3hkQVRLblduSUs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "astrazeneca-2026-07-07-035",
+    "date": "2026-07-07",
+    "companies": [
+      "astrazeneca",
+      "pfizer"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pfizer or AstraZeneca: Which Stock Offers Better Long-Term Potential? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNa1ExMXdlbkdyNGFqa0hlX0FscGlseTUwZTU3N1lMVWFzQWxYYXRuQUl2aEwxOGNQeHBmOEZGdHNaS1ltYTl2QVdJNnZnWXlsZERpQlhUc2dWMFFuZ1BMd0hvSGNQOEozRno1Vm9jZ0",
+    "sources": [
+      {
+        "name": "astrazeneca",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa1ExMXdlbkdyNGFqa0hlX0FscGlseTUwZTU3N1lMVWFzQWxYYXRuQUl2aEwxOGNQeHBmOEZGdHNaS1ltYTl2QVdJNnZnWXlsZERpQlhUc2dWMFFuZ1BMd0hvSGNQOEozRno1Vm9jZ0xNbUpsMWVObk1fLUI5SWJkUjBYQUNBczZBbFZ2YWNYM2VHQnpXVXB2bFVMdTQxUHRu?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "astrazeneca-2026-07-07-036",
+    "date": "2026-07-07",
+    "companies": [
+      "astrazeneca"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sino Biopharm Strikes $2.1 Billion Global Respiratory Drug Deal with AstraZeneca - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNRXJxek5KSHlFVXBmRUlybF93ZWgtVzdTZXQ4dnQwNTNWOUsyRGJ4SUtGUXNoenR1dnk5dV9Lc1lfNTkwM0h6MVhBSTRJeE5XTC1hQWlmOXVXUWtUX0JOSXcxdVlXM0swb2NQUk94WF",
+    "sources": [
+      {
+        "name": "astrazeneca",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRXJxek5KSHlFVXBmRUlybF93ZWgtVzdTZXQ4dnQwNTNWOUsyRGJ4SUtGUXNoenR1dnk5dV9Lc1lfNTkwM0h6MVhBSTRJeE5XTC1hQWlmOXVXUWtUX0JOSXcxdVlXM0swb2NQUk94WFN3a2dkUFhhQWVTSWRlWm5NYTEwNFAySEV5VlpfWDRzV2RRanhWc3lRVTBRelVudEp6aXNPdXFaRnBiZ3ltZENxdDFJUnZtSm1jVy1hUkFfajJpNG5KLWx5bVR6QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "astrazeneca-2026-07-07-037",
+    "date": "2026-07-07",
+    "companies": [
+      "astrazeneca"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Helix Announces Multi-Year Agreement with AstraZeneca to Support Genomic Research for Drug Discovery and Development - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxOcTg1aWpQN2NqcmkxRTFpeHA4cS12NWxvN3owa0dOcmRLOW4xU3pYVi1CZ0ktWjVSekp1WHFuejFYRDhfeWc0WEJPXzh3akt2ZWk3UDFRRlNpRzRGNFc5UlJNUlBaNzFtQlEyMjBtUW",
+    "sources": [
+      {
+        "name": "astrazeneca",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOcTg1aWpQN2NqcmkxRTFpeHA4cS12NWxvN3owa0dOcmRLOW4xU3pYVi1CZ0ktWjVSekp1WHFuejFYRDhfeWc0WEJPXzh3akt2ZWk3UDFRRlNpRzRGNFc5UlJNUlBaNzFtQlEyMjBtUWNJMDlKQ2ZMNENudjBOX2V3Sm9hNXZaY3RlME5DVm1neVhXOF9yZUcyRmFtX2hjWWxUZVRKV2RHVUwtTGdtOGV0bGxFeWYzb1I1aV9Ma29CUTVNYlN3dE9TdXI4dUdxSkM2akJOZWtYR1B5RFJpZUV2UExwYmtNY0lvNUFoQmRmT01GZUM2UUNlc0xYQS1VMDJVY3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "astrazeneca-2026-07-07-038",
+    "date": "2026-07-07",
+    "companies": [
+      "astrazeneca"
+    ],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "Business Watch: Anthropic launches Claude Science; AstraZeneca links with CSPC again - Chemical & Engineering News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQYnRNTGEzZWNTUkRwaElRa2VPYTU3ajNmN2RqMXRXWmxCcTdnS3Zkcm5yUGQtWS1YZWVNbDgxLTM0MVN6TXRkNTVLQmFDR0g0SmpsSXJDeExpck1uZjBOR203S0xuVFhzNGpoUnd2Vk",
+    "sources": [
+      {
+        "name": "astrazeneca",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYnRNTGEzZWNTUkRwaElRa2VPYTU3ajNmN2RqMXRXWmxCcTdnS3Zkcm5yUGQtWS1YZWVNbDgxLTM0MVN6TXRkNTVLQmFDR0g0SmpsSXJDeExpck1uZjBOR203S0xuVFhzNGpoUnd2VkhUNmRUTXB6OXRjbnRYam51SDZHRTUtNXZpdjZCMmo2aEF3Q09LWndOYUduV21SRmlHVWlF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "astrazeneca-2026-07-07-039",
+    "date": "2026-07-07",
+    "companies": [
+      "astrazeneca"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hong Kong-listed Sino Biopharma, AstraZeneca sign respiratory drug deal worth up to $1.9 billion - whbl.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaEUwckJoMG5mSnhSOGYteUdxMGRXVzQySEx2TmgzcEg5Z3RuNjZKM1REMURYUmZCTHBxZ282aWtLYUY4RXZaX2Q5Yk5zRDQ3bk1LR1NQQjA5N3F3SUNsS3ZmUmNOWXZoX3VvSVRLSl",
+    "sources": [
+      {
+        "name": "astrazeneca",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaEUwckJoMG5mSnhSOGYteUdxMGRXVzQySEx2TmgzcEg5Z3RuNjZKM1REMURYUmZCTHBxZ282aWtLYUY4RXZaX2Q5Yk5zRDQ3bk1LR1NQQjA5N3F3SUNsS3ZmUmNOWXZoX3VvSVRLSlFpVHdSdy14YThsM2pyWVFXanZRQzBqblRMQ3RRTWRtSEE4dy10ZUhTWDZBdXM3TG51dHhSTWlIRXQzQy1Xc2N3MTNvd1Jsc1R2UGVsVWIzNjg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "astrazeneca-2026-07-07-040",
+    "date": "2026-07-07",
+    "companies": [
+      "astrazeneca"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AstraZeneca developing PP blister packaging for future drugs - Plastics News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQUUQ0bDhyZ3VDcm14X0lITlBSMnlhYW9vbmh3QUpIN3Q3eTBXZldJLWx0MFltQ0xZaGVoTGs2eHZubldkOUUwRlFlU3NycHVob3pPcDRKWDJGWVpyNXZGejJkM1BtWm5WaVdaY3pfaG",
+    "sources": [
+      {
+        "name": "astrazeneca",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUUQ0bDhyZ3VDcm14X0lITlBSMnlhYW9vbmh3QUpIN3Q3eTBXZldJLWx0MFltQ0xZaGVoTGs2eHZubldkOUUwRlFlU3NycHVob3pPcDRKWDJGWVpyNXZGejJkM1BtWm5WaVdaY3pfaGRFU1p0WHNpalY4S1hISVNjNGVadjdNWlRtZDZFNHJnMjgtQm44QkphWFRkd28?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "astrazeneca-2026-07-07-041",
+    "date": "2026-07-07",
+    "companies": [
+      "astrazeneca",
+      "novartis"
+    ],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "Healthcare Deals This Week: AstraZeneca, Novartis, Vertex - Law360",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNZl9TMXlMbWd4WDBseXZIU18tY2N4TDNwUTl5WFhwR2lPTmU5azdsRm5sUGdxRUY4eUNLX1NUOVoxWlFiNXNtcmZyd3RSRC1mUjBZcTVEVDQ0T2otMU9UZkhXSGZ1UEFnczRkTWdvaz",
+    "sources": [
+      {
+        "name": "astrazeneca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZl9TMXlMbWd4WDBseXZIU18tY2N4TDNwUTl5WFhwR2lPTmU5azdsRm5sUGdxRUY4eUNLX1NUOVoxWlFiNXNtcmZyd3RSRC1mUjBZcTVEVDQ0T2otMU9UZkhXSGZ1UEFnczRkTWdvazlOZDFsOEhHN2FzcnVHeklNd19wNjMzdmN6UC02MEdfTDZ3czlFb3lONENn0gFyQVVfeXFMUDZPV3RRX0dZc2ZJU0tkQ2M1alh3U2dJMDhCdHZvNFNNYk96SWRFQ3p6ZjFDa0kxc0JiREFVSDI5Y21DajRTQkdfay10SThCSi1wVTljd2F6c2hCMEVSZS1KTk5VTzIwRlFjSjQwZzYwRDV3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "astrazeneca-2026-07-07-042",
+    "date": "2026-07-07",
+    "companies": [
+      "astrazeneca"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AstraZeneca’s Baxfendy set for blockbuster sales after hypertension approval - S&P Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMzF3cVotMFdGdnF2b3FoY1JzdWJHbzRxYnY5YVpBNGM1R0p5Zk5LdjBMRHFqaXBFbUpsc3BEVk1HMzA0eUtlWFpkamU3QVFOajg5RHlWX2RtZnZSOFVlSFZtaVZ4Vy1ybTkyRXVjWV",
+    "sources": [
+      {
+        "name": "astrazeneca",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMzF3cVotMFdGdnF2b3FoY1JzdWJHbzRxYnY5YVpBNGM1R0p5Zk5LdjBMRHFqaXBFbUpsc3BEVk1HMzA0eUtlWFpkamU3QVFOajg5RHlWX2RtZnZSOFVlSFZtaVZ4Vy1ybTkyRXVjWVFYdWFfRm4zNUFVSDRzVE9tekw1dTlBT1g1YzZaU0NnX1R0NnB0NzJ2MUJ0SDlMTjgyYVJpTGxvNTFQN05PMmFBR3NpSFJsLUJlM1VBT0NJcUtnLWhmRmY5R29QRUJKWmZaNEU5YzZLQmlkZDhNUGxMTjlzQ0szcXRhSU5z?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "astrazeneca-2026-07-07-043",
+    "date": "2026-07-07",
+    "companies": [
+      "astrazeneca"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sino Biopharmaceutical Enters Exclusive License Agreement With Astrazeneca For TQC3721 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQU3pIcjY4NGM3NEU1b3dnclZaWk1nWkt2bndSaTlfbmxXZFgtVTA4VFBEbEdMUEI2LXJvRnFLTzN0c3h0T0ZGeUhZNWRhNjBtVVJMaGVtb2Zad0JxRHIyeTZVM2NqdkJtWVhOT1ozc1",
+    "sources": [
+      {
+        "name": "astrazeneca",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQU3pIcjY4NGM3NEU1b3dnclZaWk1nWkt2bndSaTlfbmxXZFgtVTA4VFBEbEdMUEI2LXJvRnFLTzN0c3h0T0ZGeUhZNWRhNjBtVVJMaGVtb2Zad0JxRHIyeTZVM2NqdkJtWVhOT1ozc1B1WWFWbDRqTFJpaU1iLVBQdGZ5c0oxM3B3WnFKQjhFRU54VVQycjlNVm9FNlF2WWNJN3pzSGh5enlfNWFIMmJsVkpsbGpJQmNaWFNubmY3X1lXU3lfMDZodVBySDd6X1VlOUNiUDZIZGRMRW5MUmZwaWgtQzVkVXBOMTdzTA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "astrazeneca-2026-07-07-044",
+    "date": "2026-07-07",
+    "companies": [
+      "astrazeneca"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AstraZeneca in China experimental COPD drug deal; upfront payment $200 million - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQkY1OWhnbnN4VVZCVHNCOW1MOEplSVZFRkdpTFBycUJ0R0pSazlkVnlaT1EtNzM5VjlqRndrUXdGVS0xcWplYWFiV1VPVXVmMFcyRU1MMldvUHhTZnc4X3ZfX1JQZHdyQXBDb0w2M1",
+    "sources": [
+      {
+        "name": "astrazeneca",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQkY1OWhnbnN4VVZCVHNCOW1MOEplSVZFRkdpTFBycUJ0R0pSazlkVnlaT1EtNzM5VjlqRndrUXdGVS0xcWplYWFiV1VPVXVmMFcyRU1MMldvUHhTZnc4X3ZfX1JQZHdyQXBDb0w2M19teEJrcjVLRHJqdk5jRWxlTkJwcnZVVWhVZ092RVJwdVZUaElLdUdiSEpHUVY0TFpGVHFfbk1ETm1Fc3BydU5KMUxhVkl0UmdRckh3U1p5MGZFXzhnVzZvd3hfWUJ0VVZhaldITjBiYVd6eW80WlZKbQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "merck-2026-07-07-045",
+    "date": "2026-07-07",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Merck & Co. Inc. stock underperforms Tuesday when compared to competitors despite daily gains - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxNd0NrbUZjT3dQc0RfWjJIYmtZTHNVU0hpWGdGb0lmZXRDdEd0UFVyTENrdXRDV1FsN3lWRWRlR0ZHNk1pdE1YakVwV1VHejFHclpYN0FzRGF4RXhPMnQzTGZCRmhvRG1xbGtNUDJ5M2",
+    "sources": [
+      {
+        "name": "merck",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNd0NrbUZjT3dQc0RfWjJIYmtZTHNVU0hpWGdGb0lmZXRDdEd0UFVyTENrdXRDV1FsN3lWRWRlR0ZHNk1pdE1YakVwV1VHejFHclpYN0FzRGF4RXhPMnQzTGZCRmhvRG1xbGtNUDJ5M2l4YnFJUkg2d2MtRVBkRzd1c0tHVndRV29JUDFyZXRObkUwbmhubDhGaDhrZ2dkRDVoOWxuRTBtemh5N0FxekNYSy1mdVlLYURyZkI1cUFUSWhLblo1YWRpN1hxSWNmdndCQnFOc0ViWlk5UGRaTmdDRUl2Y0Q5T2dmbXdQdGU1RW91WWg3T3lwOUpyTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-07-07-046",
+    "date": "2026-07-07",
+    "companies": [
+      "novo_nordisk"
+    ],
+    "topics": [
+      "drug_approval",
+      "glp1_obesity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Novo Nordisk pens GLP-1 implant tech deal with Vivani Medical - Fierce Biotech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMVlrWVBqZVUwSjhpbi11STdELTU2RXA4X0t0eGNvbzZKc3dfWVo0SjJBc1l4R0p2ZE42dlg0STI2dW5Id1Vkb2ZTcUhzeGUtd3Fjcm1rdGhjck9MMmROTEs3R1J1STNXVzl6ZGNlem",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMVlrWVBqZVUwSjhpbi11STdELTU2RXA4X0t0eGNvbzZKc3dfWVo0SjJBc1l4R0p2ZE42dlg0STI2dW5Id1Vkb2ZTcUhzeGUtd3Fjcm1rdGhjck9MMmROTEs3R1J1STNXVzl6ZGNlemdPTUt2QktGZTRrWEVMODkyUWxUUllIcjhIaTJyZDNLOHoyQ2duMTRLcElHVWhOMjNrbDQ3Wk1NSm5rdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "eli_lilly-2026-07-07-047",
+    "date": "2026-07-07",
+    "companies": [
+      "eli_lilly",
+      "novo_nordisk"
+    ],
+    "topics": [
+      "drug_approval",
+      "glp1_obesity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Eli Lilly and Novo Nordisk Are Fine -- but These 2 Stocks Could Be an Even Better Way to Invest in the GLP-1 Boom - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNaEY0RU9OWDU5WU12Sm4tRG14Nkp2QWRWWld1SHJkcjdsRVhtMUtkTWdCeEIzbGZ1SDBFNld5d240MUduT1QtVkh1Um1sd2lQaVFqaDl0WTlsa0hSQzhzZThhTjhYNVJ6US10Z0gtRU",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaEY0RU9OWDU5WU12Sm4tRG14Nkp2QWRWWld1SHJkcjdsRVhtMUtkTWdCeEIzbGZ1SDBFNld5d240MUduT1QtVkh1Um1sd2lQaVFqaDl0WTlsa0hSQzhzZThhTjhYNVJ6US10Z0gtRU00UjZZbkNSbUJtUXE0WGpabXp2dHJQVF80c1VQOHJCYnpuUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-07-07-048",
+    "date": "2026-07-07",
+    "companies": [
+      "novo_nordisk"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "3 Reasons to Buy Novo Nordisk Stock - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNOTROWmxBXzdUOEVaajRMQnpTeHhKdXhoTUNBQ09IRnNkQlEwbjhmNDFJbF9ldVkzUTluWG9KTlBHMjF5WHBoYU5xSlZmc2l5RjA2ZUR2RVJGaExqR1pBaGR2dUtWM2o2SS1xVUpkSD",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOTROWmxBXzdUOEVaajRMQnpTeHhKdXhoTUNBQ09IRnNkQlEwbjhmNDFJbF9ldVkzUTluWG9KTlBHMjF5WHBoYU5xSlZmc2l5RjA2ZUR2RVJGaExqR1pBaGR2dUtWM2o2SS1xVUpkSDVleGF1eUo1U3ZxN2VtTnpHYlZ3Z1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-07-07-049",
+    "date": "2026-07-07",
+    "companies": [
+      "novo_nordisk"
+    ],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "Novo Nordisk Loses Its Edge, And I'm Downgrading (NYSE:NVO) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQakpCLWlPcHF0MVl4TnNMY3Q5RVZ3azB5V1FaSVB0NlJVWXNhcm9SNnJGcEh4YlhSRWJIRnBhdW1hRkVFbW1penFYNVVWSTd2Z1k0dUh6T3EwUUdrbUZIRDdLanRJVnRNNHRFTjh5QT",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQakpCLWlPcHF0MVl4TnNMY3Q5RVZ3azB5V1FaSVB0NlJVWXNhcm9SNnJGcEh4YlhSRWJIRnBhdW1hRkVFbW1penFYNVVWSTd2Z1k0dUh6T3EwUUdrbUZIRDdLanRJVnRNNHRFTjh5QTU2WjBjMi10WkxRVmR1THVoODRZOGtOdDFiUWlYTUJIMlU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-07-07-050",
+    "date": "2026-07-07",
+    "companies": [
+      "novo_nordisk"
+    ],
+    "topics": [
+      "drug_approval",
+      "glp1_obesity",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Novo Nordisk will evaluate Vivani’s semaglutide implant for weight loss - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPSzJYbG5PSkx2M0VlNDA1SG1oQ3ExX3FTRndTUkhXX1g3YTJuQzN2cGZsVjR3TEJLV0VGNk5yZFRZb255RXpTbVF1cmxRd09ET2JaMXBEdHQ1ZElHSE00LUJDUEVJNENMOGFXbkItaT",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSzJYbG5PSkx2M0VlNDA1SG1oQ3ExX3FTRndTUkhXX1g3YTJuQzN2cGZsVjR3TEJLV0VGNk5yZFRZb255RXpTbVF1cmxRd09ET2JaMXBEdHQ1ZElHSE00LUJDUEVJNENMOGFXbkItaTBDZkRtTlBZMG1CYVFvQ2dHZGo1SFNhY1FVQVZGdTAyN0Q0SGd5SWFqQXB6dU5vVjJZbU9sX0tZejdLdE5lSTZ6M1pibGxxOFlPdy1tcDhn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-07-07-051",
+    "date": "2026-07-07",
+    "companies": [
+      "novo_nordisk"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "3 Reasons to Buy Novo Nordisk Stock - AOL.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9fdldLUzZsMW9oRWp4cENJb0huNTVpTXdUYzZiWXV3TlFPcnRYSmtEazhvTlF6N05va3lPbEpNYUNvalBKak8yUzdydGZYdzhudGc2UnFobDZqLU5LZTdpaTkyTUI2QjFqRjhtenA5VW",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fdldLUzZsMW9oRWp4cENJb0huNTVpTXdUYzZiWXV3TlFPcnRYSmtEazhvTlF6N05va3lPbEpNYUNvalBKak8yUzdydGZYdzhudGc2UnFobDZqLU5LZTdpaTkyTUI2QjFqRjhtenA5VWhfaDNSRmU0eG93?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-07-07-052",
+    "date": "2026-07-07",
+    "companies": [
+      "novo_nordisk"
+    ],
+    "topics": [
+      "drug_approval",
+      "glp1_obesity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Vivani, Novo Nordisk partner to evaluate long-term semaglutide implant - Drug Delivery Business",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNdTRlZG9ScV9EWnR5YVJSU0pBaC1Wb28wbERpUjBqUlpDOHRoUFhxWjdVdmQ0VWRBWHFTVDljOW92eGItQUdFQWpYdGUwT0tSeEJPT2dYUTV3bVdmNHNWUmtDYW40OHlZOGFYSDJKV0",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdTRlZG9ScV9EWnR5YVJSU0pBaC1Wb28wbERpUjBqUlpDOHRoUFhxWjdVdmQ0VWRBWHFTVDljOW92eGItQUdFQWpYdGUwT0tSeEJPT2dYUTV3bVdmNHNWUmtDYW40OHlZOGFYSDJKV09DLXdNZXQ1dHdNVC1HYVRPcjUtVWRSaDNkeV9hRFI4c0g?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cardinal-2026-07-07-053",
+    "date": "2026-07-07",
+    "companies": [
+      "cardinal"
+    ],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "Does Index Removal Amid Solid Results Change The Bull Case For Cardinal Health (CAH)? - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPcFB6bzMwRUROUHZzS3Z4dXZ4ekJ2NGNjMlRTTElPb3h2QjVsNi1lM0s5WEtEOVlZc3EzWURGYm1wOFk2Q05GWUllN3g5Ynk2bUtDWjlXNzRvV0pvWEVKNl9SazR5cmo1VWxJZzN3QV",
+    "sources": [
+      {
+        "name": "cardinal",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcFB6bzMwRUROUHZzS3Z4dXZ4ekJ2NGNjMlRTTElPb3h2QjVsNi1lM0s5WEtEOVlZc3EzWURGYm1wOFk2Q05GWUllN3g5Ynk2bUtDWjlXNzRvV0pvWEVKNl9SazR5cmo1VWxJZzN3QVBjdlRmMk02X2d6TFc5TEJ5OU1XVlY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cardinal-2026-07-07-054",
+    "date": "2026-07-07",
+    "companies": [
+      "cardinal"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Evercore ISI Adjusts Price Target on Cardinal Health to $265 From $240 - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPdFk2SzFqQUtvMm1zU0lIb3FhREUyTWFqaThCZGYtZXVVSFNIYTkwMXp5UFY4Y2NyQXhDcGtRdFVXWmFuU1lROFM4UDJKaGJDX3ZiS044RHpLMnZHUWxiakdxRGZzc09hNHhhYmZ0SF",
+    "sources": [
+      {
+        "name": "cardinal",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdFk2SzFqQUtvMm1zU0lIb3FhREUyTWFqaThCZGYtZXVVSFNIYTkwMXp5UFY4Y2NyQXhDcGtRdFVXWmFuU1lROFM4UDJKaGJDX3ZiS044RHpLMnZHUWxiakdxRGZzc09hNHhhYmZ0SFd5WUNiUjdZUXJLdUtwRjltMi1ZQTIwVmZFd2NRQlZtTE9HWDl0VThhUXRad01ITzRqanc0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-07-055",
+    "date": "2026-07-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Oberland pours up to $400M into MeiraGTx eye gene therapies",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/nnTWCzHBd9_O2uNBVPF6xmxcO0M-nRFDpca5z-2Xchs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDMwNzQzODA0LmpwZw==",
+    "sources": [
+      {
+        "name": "biopharma_dive",
+        "url": "https://www.biopharmadive.com/news/meiragtx-oberland-royalty-financing-eye-gene-therapy/824567/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-07-056",
+    "date": "2026-07-07",
+    "companies": [],
+    "topics": [
+      "glp1_obesity",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Kailera says obesity pill succeeds in late-stage trial in China",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/sHvIDEWnHWODDKUtbWbg7nZxoWKQNqB4C54nc9z4iH4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc4ODI5MzYyLmpwZw==",
+    "sources": [
+      {
+        "name": "biopharma_dive",
+        "url": "https://www.biopharmadive.com/news/kailera-hengrui-obesity-pill-china-study-results/824570/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-07-057",
+    "date": "2026-07-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Vertex to acquire Crinetics in $10B foray into endocrine disease drugs",
+    "summary": "<p>Vertex claimed the two drugs in the deal could eventually bring in more than $5 billion annually. Still, the high price it paid stirred debate among analysts and investors.</p>",
+    "sources": [
+      {
+        "name": "biopharma_dive",
+        "url": "https://www.biopharmadive.com/news/vertex-crinetics-acquire-deal-palsonify-acromegaly/824545/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pfizer-2026-07-07-058",
+    "date": "2026-07-07",
+    "companies": [
+      "pfizer"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Bull Case For Pfizer (PFE) Could Change Following First CDK4/6 Maintenance Approval In HER2-Positive Breast Cancer - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYmE4eTh3cGRtMmtuLThzU1BuVVdCVFV6dktXSHB5YnB3dEtFZTRYNzdKVzMzVjNkaFFCZGlBemxxcHIzTVRvWHlma181a1dZTFhvZWVNN2pKTDBIM09oVVo3RnFIb2dQUHVsZXJTRl",
+    "sources": [
+      {
+        "name": "pfizer_news",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYmE4eTh3cGRtMmtuLThzU1BuVVdCVFV6dktXSHB5YnB3dEtFZTRYNzdKVzMzVjNkaFFCZGlBemxxcHIzTVRvWHlma181a1dZTFhvZWVNN2pKTDBIM09oVVo3RnFIb2dQUHVsZXJTRllmYmhtbm9GU25XNEtPQW81SkJMRVFOeWFManBReGFuZFZfdkZRdTZ2OFVDZnZ5VzBnbUVnMlMyN0FIZjZQVnh5YXpaZ3FQSmJLZFNMdmNoYXRsSWRNZ1JEeGtGelhpSldjRkRJ0gHYAUFVX3lxTE1GYTFrMkJWTkdPS1hkcGI4UDBXY2lHLUtZRDc3b2ZCdUgzc0YxYlJzbVN1WlplRTRvN0ZxUHlqcUpjTUdYQ08xSHBTSGtNYVhQbENZLUdUYjVJMFBNVnowbzlHYmFPMHkxbmlxalFld21MUzZxdFphaXJ5S2w4b3kwZmZBWmI4ZU9mWEpQLVI4Y25UQmt6aGdRWXpCMEdJYXFybHBtWDdDVXJxV0ZJRUVjRWJ1a01qNl9fbEhSRDZDOTJJVlM3YUxObGJ5WjZlNEExaXRScTdIOQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pfizer-2026-07-07-059",
+    "date": "2026-07-07",
+    "companies": [
+      "pfizer"
+    ],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "Opinion: Pfizer's Dividend Is Riskier Than You Might Think - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxONFgzdmpIT3FlblVwX1NUaW5VTlFxNUlfeV93QVlqUVFRUmhpcWtnaEtLbTdnTDlOUmU1bW5RTkR1LUlkaExhdXdTZml3R1ItYkNsaHBDSWJNZmdmTWZVZXNrdllBellqeWhGUWxoU2",
+    "sources": [
+      {
+        "name": "pfizer_news",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONFgzdmpIT3FlblVwX1NUaW5VTlFxNUlfeV93QVlqUVFRUmhpcWtnaEtLbTdnTDlOUmU1bW5RTkR1LUlkaExhdXdTZml3R1ItYkNsaHBDSWJNZmdmTWZVZXNrdllBellqeWhGUWxoU2wtSnp6WEVCQ212eEJmd2paSVNGLVh5YWtocklBYUNxVVc3OTNJRm15anFSU01wRlktS3VoYUZzTGt4dEZGSktmY3JOcG9NS0MzWXBzU2htcnRiY1BQQkszN2wzOFJIaDlBTnAwdV92Vno?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-07-060",
+    "date": "2026-07-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Compass Pathways reports six‑month data confirming durable profile of COMP360",
+    "summary": "<p>Second phase 3 trial shows sustained benefit and supports forthcoming regulatory submission</p>\n<p><img src=\"https://pharmatimes.com/wp-content/uploads/2023/12/remote_trial.jpg\" style=\"display: blo",
+    "sources": [
+      {
+        "name": "pharma_times",
+        "url": "https://pharmatimes.com/news/compass-pathways-reports-six-month-data-confirming-durable-profile-of-comp360/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-07-061",
+    "date": "2026-07-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ferrer and Prilenia begin confirmatory study of pridopidine in Huntington’s disease",
+    "summary": "<p>New phase 3 trial to assess impact on disease progression, function and quality of life</p>\n<p><img src=\"https://pharmatimes.com/wp-content/uploads/2026/01/Data_man.jpg\" style=\"display: block; marg",
+    "sources": [
+      {
+        "name": "pharma_times",
+        "url": "https://pharmatimes.com/news/ferrer-and-prilenia-begin-confirmatory-study-of-pridopidine-in-huntingtons-disease/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-07-062",
+    "date": "2026-07-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Vertex's Crinetics deal points to big ambitions for cystic fibrosis leader",
+    "summary": "Vertex Pharmaceuticals' $10 billion acquisition of an endocrinology startup represents the company’s clearest and boldest step toward the upper echelon of the biopharma industry.\n\n Long a biotech succ",
+    "sources": [
+      {
+        "name": "endpoints_news",
+        "url": "https://endpoints.news/vertexs-crinetics-deal-points-to-big-ambitions-for-cystic-fibrosis-leader/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "eli_lilly-2026-07-07-063",
+    "date": "2026-07-07",
+    "companies": [
+      "eli_lilly"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tampa General kicks off legal fight over Lilly's 340B restrictions",
+    "summary": "Tampa General Hospital sued Eli Lilly for halting its 340B discounts, kicking off a broader fight over whether pharmaceutical companies can condition drug discounts on new claims data requirements.\n\n ",
+    "sources": [
+      {
+        "name": "endpoints_news",
+        "url": "https://endpoints.news/tampa-general-kicks-off-legal-fight-over-lillys-340b-restrictions/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-07-064",
+    "date": "2026-07-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Vera's IgAN approval kicks off competition with Otsuka",
+    "summary": "Vera Therapeutics’ fusion protein atacicept got an accelerated approval on Tuesday for a chronic autoimmune disease that damages the kidneys.\n\n The drug will be marketed as Trutakna for immunoglobulin",
+    "sources": [
+      {
+        "name": "endpoints_news",
+        "url": "https://endpoints.news/veras-igan-approval-kicks-off-competition-with-otsuka/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-07-065",
+    "date": "2026-07-07",
+    "companies": [],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Compass Pathways touts durability data for psilocybin drug in depression ahead of year-end filing",
+    "summary": "Compass Pathways said Tuesday that patients in the second of its two pivotal psilocybin trials maintained their response to treatment for at least six months, keeping the company on track to complete ",
+    "sources": [
+      {
+        "name": "endpoints_news",
+        "url": "https://endpoints.news/compass-touts-durability-data-for-psilocybin-drug-in-depression-ahead-of-year-end-filing/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-07-066",
+    "date": "2026-07-07",
+    "companies": [],
+    "topics": [
+      "glp1_obesity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hengrui, Kailera's GLP-1 pill posts encouraging efficacy but high side effect rates in late-stage China trials",
+    "summary": "The GLP-1 pill being developed by Hengrui Pharma and Kailera Therapeutics posted decent results in two late-stage China-based trials — one in obesity and the other in diabetes.\n\n But the safety profil",
+    "sources": [
+      {
+        "name": "endpoints_news",
+        "url": "https://endpoints.news/hengrui-kaileras-glp-1-pill-posts-encouraging-efficacy-but-high-side-effect-rates-in-late-stage-china-trials/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novartis-2026-07-07-067",
+    "date": "2026-07-07",
+    "companies": [
+      "novartis"
+    ],
+    "topics": [
+      "biotech_funding",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Novartis, Vertex and Ipsen extend pharma M&A spree from 2026's first half",
+    "summary": "Biopharma's M&amp;A engine is revved up and shows no signs of cooling off.\n\n Four companies have announced acquisitions in the first six days of July, forging deals that could pay out as much as $12.6",
+    "sources": [
+      {
+        "name": "endpoints_news",
+        "url": "https://endpoints.news/novartis-vertex-and-ipsen-extend-pharma-ma-spree-from-2026s-first-half/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "teva-2026-07-07-068",
+    "date": "2026-07-07",
+    "companies": [
+      "teva"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "MeiraGTx strikes royalty deal; Fore's 2023 Series D continues",
+    "summary": "Plus, news about Kalohexis, Teva and Agios:\n\n 👑 MeiraGTx makes royalty deal with Oberland Capital: The gene therapy maker will get an initial $135 million via a $10 million equity investment ...",
+    "sources": [
+      {
+        "name": "endpoints_news",
+        "url": "https://endpoints.news/meiragtx-strikes-royalty-deal-fores-2023-series-d-continues/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-07-069",
+    "date": "2026-07-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "STAT+: FDA approves Vera Therapeutics kidney disease treatment",
+    "summary": "The FDA approved a new medicine from the biotech company Vera Therapeutics for patients with a type of chronic autoimmune kidney disease.",
+    "sources": [
+      {
+        "name": "statnews",
+        "url": "https://www.statnews.com/2026/07/07/vera-therapeutics-kidney-disease-treatment-approval/?utm_campaign=rss",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-07-070",
+    "date": "2026-07-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "STAT+: The crumbling employer-based health insurance system",
+    "summary": "Today's D.C. Diagnosis newsletter covers maintaining diversity in drug trials and troubling trends in employer-based health insurance.",
+    "sources": [
+      {
+        "name": "statnews",
+        "url": "https://www.statnews.com/2026/07/07/health-policy-news-today-dc-diagnosis-newsletter-john-wilkerson/?utm_campaign=rss",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-07-071",
+    "date": "2026-07-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "STAT+: Compass says depression drug has long-lasting benefits",
+    "summary": "Vertex makes its largest-ever deal, skyrocketing health insurance costs, and more biotech news from The Readout",
+    "sources": [
+      {
+        "name": "statnews",
+        "url": "https://www.statnews.com/2026/07/07/biotech-news-compass-reports-depression-drug-has-long-lasting-benefits/?utm_campaign=rss",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-07-072",
+    "date": "2026-07-07",
+    "companies": [],
+    "topics": [
+      "glp1_obesity"
+    ],
+    "impact": "neutral",
+    "title": "STAT+: ‘Secret shopper’ study probes GLP-1 telehealth sites",
+    "summary": "In this edition of STAT Health Tech: A 'secret shopper' study of telehealth sites prescribing GLP-1s, news about Epic, Anthropic, and brain implants.",
+    "sources": [
+      {
+        "name": "statnews",
+        "url": "https://www.statnews.com/2026/07/07/secret-shopper-study-glp-1-telehealth-sites-health-tech/?utm_campaign=rss",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-07-073",
+    "date": "2026-07-07",
+    "companies": [],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "STAT+: Pharmalittle: We’re reading about a $10 billion Vertex deal, the pace of FDA drug approvals, and more",
+    "summary": "Vertex Pharmaceuticals will spend $10 billion to acquire Crinetics Pharmaceuticals and its drug for a rare endocrine disorder",
+    "sources": [
+      {
+        "name": "statnews",
+        "url": "https://www.statnews.com/pharmalot/2026/07/07/vertex-buying-crinetics-fda-drug-approvals-kept-pace/?utm_campaign=rss",
         "type": "rss"
       }
     ]
@@ -1659,6 +3451,48 @@
     ]
   },
   {
+    "id": "mckesson-2026-07-06-069",
+    "date": "2026-07-06",
+    "companies": [
+      "mckesson"
+    ],
+    "topics": [
+      "drug_approval",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Will McKesson (MCK) Beat Estimates Again in Its Next Earnings Report? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQaEhVYWUxbjZwRUpWTnRNcVA3b21URTBBcVVZSGxBc2hlSzBZSVhBQ3kyX2hJN2xjZ2wxeG1YMWRWOHNzMDRpeXNwVzhuZ3pfZ1V4a0ZzWlExZG14UDRtYWZNaHZub1dLWi1wa3VkV3",
+    "sources": [
+      {
+        "name": "mckesson",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaEhVYWUxbjZwRUpWTnRNcVA3b21URTBBcVVZSGxBc2hlSzBZSVhBQ3kyX2hJN2xjZ2wxeG1YMWRWOHNzMDRpeXNwVzhuZ3pfZ1V4a0ZzWlExZG14UDRtYWZNaHZub1dLWi1wa3VkV3dLSG92YlFVaXN5YjhIZGhzNV8yMWdxTTVhbjlxWGdfYUhnU2RzM0szakV2dmE0d1k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pfizer-2026-07-06-070",
+    "date": "2026-07-06",
+    "companies": [
+      "pfizer"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pfizer (PFE) Stock Sinks As Market Gains: Here's Why - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNd1Q0MzYyc0JtUmFoanl5dGpTem9jcEdKX3lNLVRyb2x2Zk9nYW1BeW9RLWRJMGYzSmQ1Rm9QZHZ1MWZ1UkpwSXdCSk52dms0UF9SV2UxeC1VelVUaFdockhrWjhQejFHQzBxdWlBan",
+    "sources": [
+      {
+        "name": "pfizer_news",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd1Q0MzYyc0JtUmFoanl5dGpTem9jcEdKX3lNLVRyb2x2Zk9nYW1BeW9RLWRJMGYzSmQ1Rm9QZHZ1MWZ1UkpwSXdCSk52dms0UF9SV2UxeC1VelVUaFdockhrWjhQejFHQzBxdWlBanp0UkFIeXBrczZGMVNHNkhsdHIzNHp3RkVJelI4VG5LWTNnUml6SEMwUy1n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "teva-2026-07-05-001",
     "date": "2026-07-05",
     "companies": [
@@ -2400,6 +4234,27 @@
       {
         "name": "cardinal",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbmVobi1SbFV2bTM1eUVHeDNzVkJOdGtHR24yMlhoRFFDY0NhTWhwOThPRFA4MWh0OW1sTTctbGtsbWJob1NlYjdNNHJVZkxxM2pPZkh1em5pSjl5UTF4cFZNMjZyMnBrR2tCTnk3ZzBwamcwVHRsRDdYNFZ6SUhlZnpTdzlxcEc1U1ltcDQyZzZVcWpRZG5HU2Rwelk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lonza-2026-07-04-023",
+    "date": "2026-07-04",
+    "companies": [
+      "lonza"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Lonza Expands Strategic Biologics Partnership - Technology Networks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQX21LcXRrdktWZklhbzcyZEFSOHZ3MzJFN3VnMnk4Zi1ydDduTUthOEhDVmVQb2dHMDd0X0FfV0FiMFhnazZfbWRXOTZTOXhFZHAwVkYtMU1rdlVxT1d6cUQzWHVzeE1FbGZwTDJPdl",
+    "sources": [
+      {
+        "name": "lonza",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX21LcXRrdktWZklhbzcyZEFSOHZ3MzJFN3VnMnk4Zi1ydDduTUthOEhDVmVQb2dHMDd0X0FfV0FiMFhnazZfbWRXOTZTOXhFZHAwVkYtMU1rdlVxT1d6cUQzWHVzeE1FbGZwTDJPdl9KUEtLMTF4emRjYXZkZk1GN3FSTFhMVG5QV1VYNGpJeWwwLUlxQTRLYjJvWGc4a21IbzVqNHEyQlBRa2QzdkVZ?oc=5",
         "type": "rss"
       }
     ]
@@ -6657,6 +8512,48 @@
       {
         "name": "sanofi",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcXF1QUpNdE1ERVRNMjhOM1BzZ3lFYTAtR3lkcmhFMTVRX3RzNWtLLWFrQ3dITjZ2bnM1dmcxZU9CRWpOLVhhVjRuUWgzeGE3bE1HVk8wbTltTXZlNHFoeXREVkwyeXkzWjQtazdLWnhBbWIxLXNSYTJBd1VFdEtCa0N5cDFPZS1YaTg1cGpYNU0ycjhyYmVQYzYxX2FvdzMwQllmeFd6cUhKdXMxbEVwOG5neFBQcUVn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lonza-2026-07-01-069",
+    "date": "2026-07-01",
+    "companies": [
+      "lonza"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why is Lonza stock climbing today? - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOZm5TS3VsLW0xZ3VYcUxybGx2eC1hUndmRFhQd3dSbWNydmlWT1BaWmtQX3puVlJmeWZ5UW5uQThtSXhBcHBZdHdvUWxTVEwxU3ZTdDgzWFlzYWJEMUUtMkRMd1pISU5xV2d6SEs1OD",
+    "sources": [
+      {
+        "name": "lonza",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZm5TS3VsLW0xZ3VYcUxybGx2eC1hUndmRFhQd3dSbWNydmlWT1BaWmtQX3puVlJmeWZ5UW5uQThtSXhBcHBZdHdvUWxTVEwxU3ZTdDgzWFlzYWJEMUUtMkRMd1pISU5xV2d6SEs1ODB0WXZ3cDdnS1AzZUp5R3F5eU8xb0RSb1JucjgtWUFZekFZWWNTWWRHVmxyVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lonza-2026-07-01-070",
+    "date": "2026-07-01",
+    "companies": [
+      "lonza"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Lonza shares climb after expanding U.S. biopharmaceutical partnership - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd2FiR1pMVVE5dFF2bzlNYU0tdmVROEd5LWxBUkRzTVFTSGtEX3N6MUFzUE9rMTgxUFM0UDRzdHNtMmcyNG5LMzMybkFWSzdzTW5Xb2JwOGF5cGpjeElfbk5YZGxJaXY1VDdCaFhJLU",
+    "sources": [
+      {
+        "name": "lonza",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd2FiR1pMVVE5dFF2bzlNYU0tdmVROEd5LWxBUkRzTVFTSGtEX3N6MUFzUE9rMTgxUFM0UDRzdHNtMmcyNG5LMzMybkFWSzdzTW5Xb2JwOGF5cGpjeElfbk5YZGxJaXY1VDdCaFhJLUNOS0Z3UXNCdFFmYTJ3eElFY0p6VGtySmhOLWQzazRBN21uZWYzMFpJbWlwSW1icEhzb19mUXZqaExSYm9iR09pMUFLLTRxeGk4Q3k3MFIwZnhwQQ?oc=5",
         "type": "rss"
       }
     ]
