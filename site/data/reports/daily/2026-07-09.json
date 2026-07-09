@@ -1,0 +1,287 @@
+{
+  "date": "2026-07-09",
+  "generated_at": "2026-07-09T11:12:00.955778Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-09-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Dr Reddy's Shares Slide Over 6% After Semaglutide Batch Quality Concern - NDTV Profit",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "glp1_obesity",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTUNvWUs3TDV5c0Z5cHN5MUtUWTdOeEg1Sk0tbGRJR1RzSXhNeXZmTG5Uc2tyWXNleksxN3dUeVhVS0NKUGJGelNLWER5c3RPSzNFUFZLOUFqVENyWWtGbTZ6VFNSYUxVbUJkdWVGRnBJeHZ5YWswN1hmdl9xc1hjX0prX01zcVZCU3BvMkI2Q2VybnRleWZ3Y1dnWFE1WVdvVU1nb1JsZG9LbzBLdERBbjFXd29oSHhaZkdQclh1d9IBxwFBVV95cUxQUkNLVHFSXzdBT2M2UnB1NEZ5UzlMZjhlck01VlBDa3RVVWN3VFlheEYzZ0I5c2hWM25sZEZWRnpLS1JYZ0VVYlFObEhzNDJ6Q1ZNclNub0VmUFFtUFFuVXZRRnF0dExrb2pjWFV4elIzRXJSVExROFhpT21FV3IyUnZQUzJiWTFtNGVJbnZPMFBGVWo5ODdsdF9qX09xWFlha1NxSUdETjAwWll5dUhEN1BEeEJPQjlUM2lubjluSTlmWkJTbkhJ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lonza-2026-07-09-020",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lonza Group outlook and business model. Biotech services support long-term growth - Ad-hoc-news.de",
+      "companies": [
+        "lonza"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTjZQVUFZc2xzRUF1bnRGRk1xV2xwOTd5UWdwa3ZhNFNIanRlV3R1bzZ1cnhwN3p0RHEzM2hGSWo3WHJFNzZFZEhvdTFleE5PUk1aOVNwVWIwUEJNb2Z2RHVnZHNMSVMtVjVlVVBKMGpHZzktekJtUWZPYy03b2FyYzBVRmZ2a2dvVml5REIwSmMxWWNKdHVMRmF2NlYyNHlSZXdlcDVyV2xQVmw0N3NVenUyOTZXeXl4STk0N0xPOTI1c0pPcEVxN1ctdjU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "cardinal-2026-07-09-048",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cardinal Health sets Aug. 11 earnings webcast before market open - Stock Titan",
+      "companies": [
+        "cardinal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "patent_cliff",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcDkxbEZBRWVjN2JZZXNtZ1NPZlV3MTd2a2cwOTh3OXpIaVNTYUZKVzhoaEtueTJQY3VIWjZyazc4UWtVNkc4aWVLOE5HU0dqemdoaVdoMzE3bWRXQnFhd29PWDVoSFBJVHZaY0ttZFVyWTJlN3ZtbmFueXo2SmZETVMxeEd6ci1SRTNOVllrV2I4bVh4LXRBalZRa1BTZU83enF4bkt2aEttSG43X3diYVRnQ05iaW1QV1hiUVd3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "teva-2026-07-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Teva submits FDA application for paediatric Tourette syndrome therapy - PMLiVE",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeTdBTEVoS0d0SWFxSlRXN2VJZWlWakxuQmlHMWZST2ZOVjFRWm5icnVqek1kM1FYRjg3aFRwbzZSWndNMy1qOVdSYzIxTmp3NVlYRi1YV0M0MVZqVHlncWFJd1M0cVpGMmlXYkJnQWZvaVZHakZ6aTA3SUFiYjYxVS0yaTJSWU9RaWZMSEtTZ0FqdnBCZ2lSWnIxU0hGMXB3a0dz?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "teva-2026-07-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Greenwood Capital Associates LLC Sells 142,082 Shares of Teva Pharmaceutical Industries Ltd. $TEVA - MarketBeat",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZEFLNU81RFRYa3BsM1p4RDBXeWtPTnZFTFBNNnpkdkpkV1BBT19sSTRFVWtvREo0SkxvVE9sVlRXMXhQRjZ5enFUaDFYVUJkRm9Bc1kxRTVEX0I2blQybEZFeENuZmxIcXczQlBKREhxWUZsX0ZJdGNQV3NEUDNkNlVhZXdvWGdVR2lRUmFIVHFNN2NtcllzcGQ4dW56NHAwVUZsYmZRVjZzRUZvNTM4Q0lmTG1zOUYtOXpXUUh1S29HZy1kcHA3dHVYTVVERHk4MXpaQnFTcEJZRzVGcENFVTc4OUkwNW4wS3VWNg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 44,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.07,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 42,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.3,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "gmp_inspection": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 57,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 46,
+      "negative": 9
+    },
+    "top_companies": [
+      {
+        "id": "astrazeneca",
+        "count": 15
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 7
+      },
+      {
+        "id": "jnj",
+        "count": 3
+      },
+      {
+        "id": "teva",
+        "count": 2
+      },
+      {
+        "id": "sun_pharma",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 44
+      },
+      {
+        "id": "industry_general",
+        "count": 42
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 14
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "patent_cliff",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 454,
+    "dup_title": 212,
+    "too_old": 96,
+    "gate1_blocked": 11,
+    "gate2_blocked": 18,
+    "passed": 117,
+    "pass_rate": "48.3%",
+    "gate2_block_rate": "7.4%",
+    "gate2_samples": [
+      "Teva to Advance Its Anti-IL-15 Antibody, Designed for - GlobeNewswire",
+      "Teva Advances TEV-'408 Into Phase 2b for Vitiligo - Dermatology Times",
+      "Teva (TEVA) Advances TEV 408 Into Phase 2b For Vitiligo After Early Progress - simplywall.st",
+      "A Look at Dr Reddy's Laboratories Ltd (RDY) After 3.5% Decline -- GF Value $15.27 vs Price $14.12 - ",
+      "Codis To Acquire Catalent's Nottingham, UK Facility to Create Europe's Leading End-to-End Spray Dry "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 57 則事件，焦點為AZ、Novo、J&J相關動態：「Dr Reddy's Shares Slide Over 6% After Semaglutide Batch Q...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Dr Reddy's Shares Slide Over 6% After Semaglutide Batch Quality Concern - NDT...（GLP-1 減重、法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Lonza Group outlook and business model. Biotech services support long-term gr...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
