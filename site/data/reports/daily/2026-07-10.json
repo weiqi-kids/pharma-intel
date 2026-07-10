@@ -1,0 +1,267 @@
+{
+  "date": "2026-07-10",
+  "generated_at": "2026-07-10T11:12:34.348497Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-10-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Dr Reddy's Semaglutide Delay Sparks Brokerage Divide; Kotak Calls It 'Another Dose Of Disappointment' — Check Target - NDTV Profit",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "glp1_obesity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNd0VGdGdFNDBwT1E5ZWVVTWxlUEQxQTZ1MVJ2NWxDQlVtWE9sT1VOUXpfOVNfVS1hN1pIVktBU3JkYV83M0dyN19YM0c4dkR6SDVjeWY0U2FDRWN5TTdweEV5aF9PMERHeWVmc0JtVm1sQWRDWHBVZzVwdldUTEZQbllaTFlvdXdJZnc1S1d2ZFh2THMyRGo0TGVoMlVvbjJVMlhiS0VURFdHSnZUU0N3NkFJODkzYUptYmpsaXRSM0xVeGtsd3RyVjNvYWc3MUoxT1VDdHJhZFpTSFp0M0Q0Mk9lOTlaQ0dhS2fSAfIBQVVfeXFMT1JhNWU4UHAwVTZkcnhZTVQ1aVBwcjlOcWZjazNvWGFPdmZqRzVRNkwxQi10Q3c0WVZUSzV3X1hiZVRnd2wzTzJqVFFwTURXZUNTMEMzSXJBSlF4bGtBV2NnczA0T1dUZHMtQ2xxdnZkSGVmMV9VaHUtUFdWUk1yM2plb1VUNXV4MVVGRFZoeElLSmtnci1ZNHRDc1ZxVE14MnkxSGZodHJnZjVCVEl5ZWtxakQyRlpzTFFvUGhGVWtPUUY4WHdRZ1VSbnNmdTR6SmpMWGUzVWdITHZ1TkxEdVhtTUVzZ0NCUDBoUzMwXzR4eWc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "dr_reddy-2026-07-10-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Dr. Reddy's Shares Extend Fall For Second Day As Semaglutide Quality Concerns Prevail - NDTV Profit",
+      "companies": [
+        "dr_reddy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "glp1_obesity",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa3RMM2MycE50c3NrdmJoOVBRSWNXS19seGROc3NGV3Z0YTBwbkpfQTRmWl9qUmFubFZXUTJqWkdRZ25CZ2hqWjdpMkh6ZHd1aHQ1T0ZrQWRCdUJPQ2pJUWlZbksyU2lEd2FwdWE4VkZ6RXBkZUZzb1oyZkFxdWJVR0dXRDBhcDVpTEdDbHIyaVZteUdwZFFNZ2NHdGw1N3hmU3lKQ2pQNk1iQlBNZDd6SmluZllIdnpNazZqZFZOd2M1VndWRHfSAc4BQVVfeXFMTUNPdks3ejVxVzdDd1R1WEVzeWQtT2VYTWlORDQ3MWRiZmRrYmZSaUxEbmJRR1BhMV85ZXFoZW96ZERQN3NVMVJlZk42c1hVNEdOZHJNSklsNE1UY0xURnRBZUY0V1BFTTFyNVZ6WWRuWDdQYWpUT3BlczZOSDBfWExqbkpDU0xJT2wwZ1Y3eXJtTy1fRmlPNS1UajZGdVdxQ0E4cVhZQ3IwTVNSZllnNmxPVzdETDlwRnltQm5DX3JONFpJOXpwbE1OWDRwcGc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "novo_nordisk-2026-07-10-017",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Novo Nordisk’s Wimbledon play: Expanding brand beyond weight loss - medwatch.com",
+      "companies": [
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BOERaR185UW1DSVRYcWRtcUhuRWNUVGZqQTRCS1NFVFRLbXR1MVk0XzVWZnMyVS1fY1lJUGdJSHhnWmZmMjB4RW5MRkNCc05Zb0g0UXJiQ2ViRjRjdU1fOXBBZE90SWkxcFA3NnZ3VQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "pfizer-2026-07-10-019",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "FDA Advisory No.2026-0726 || Public Health Warning Against the Purchase and Use of the Unregistered Drug Product “Pfizer Misoprostol (Cytotec®) 200mcg Tablets” - Food and Drug Administration - fda.gov.ph",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQSWtFQWhUU1FnTElabnFISTRISVlrSlI5cVBfRlNBZng4cWVzcHZ5Zi1UV0pGeDNacFFCeHY2SDVvRUt0a3hETXBjVnlKNTdmT0g2X3JtY0xYVTA1YU9DdF8xMHpOYVJieEVIYTQ5WFcwVXZTc2pQMnRyNUdydkF2RGM4YzFiNGVjWklVMUE2SW84YlFNeERfbmJMLUowdGJXQlRQWkVUb0hEb0ZndzhaNnRhYWlXRlExYUpYWjI3SmFobEdPQ1U2LUVtc1NhVVR1TTRyelhrTWYtcC0zbkJlUGdMdEUyN2tKYldIR3FjeHFHLXhIc3RFaGd6STNKQUtvU2FLWWNR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "teva-2026-07-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Teva and Polpharma Biologics sign global deal for ocrelizumab biosimilar - Pharmaceutical Technology",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "patent_cliff",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS25MaFJ5OVNRSGNIMWFrdDRfZVZSbllQX1JxUFA4NW85NGVZVkdFaTFIemRzV2I3Nms3anFTaW1jbWJRakdLWU9qaGt6by1jMW1XdTBaODBRclotWURJUDIxaHlZNUJJZ0J5V2VvTHpuVUNZVFdsTGRodVkzQkFKZDJzaXZzS3V2SHdRSFhuZThSVGo3eHNYb2lRMG5rTXJ2eWc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.44,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 22,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 15,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "jnj",
+        "count": 5
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 3
+      },
+      {
+        "id": "teva",
+        "count": 2
+      },
+      {
+        "id": "astrazeneca",
+        "count": 2
+      },
+      {
+        "id": "pfizer",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 18
+      },
+      {
+        "id": "drug_approval",
+        "count": 17
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "patent_cliff",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 452,
+    "dup_title": 221,
+    "too_old": 90,
+    "gate1_blocked": 12,
+    "gate2_blocked": 26,
+    "passed": 103,
+    "pass_rate": "44.6%",
+    "gate2_block_rate": "11.3%",
+    "gate2_samples": [
+      "Teva to Advance Its Anti-IL-15 Antibody, Designed for - GlobeNewswire",
+      "Teva Advances TEV-'408 Into Phase 2b for Vitiligo - Dermatology Times",
+      "Dr. Reddy's Laboratories (RDY) Faces Supply Delays Due to Qualit - GuruFocus",
+      "Enterprise value to EBITDA forward of Lonza Group AG – MIL:1LONN - TradingView",
+      "Codis To Acquire Catalent's Nottingham, UK Facility to Create Europe's Leading End-to-End Spray Dry "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 22 則事件，焦點為J&J、Novo、Teva相關動態：「Dr Reddy's Semaglutide Delay Sparks Brokerage Divide; Kot...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Dr Reddy's Semaglutide Delay Sparks Brokerage Divide; Kotak Calls It 'Another...（GLP-1 減重、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Dr. Reddy's Shares Extend Fall For Second Day As Semaglutide Quality Concerns...（GLP-1 減重、法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
