@@ -1,0 +1,245 @@
+{
+  "date": "2026-07-11",
+  "generated_at": "2026-07-11T09:45:12.889113Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "pfizer-2026-07-11-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Is Pfizer on Track to Launch Its Next Lipitor -- This Time in the Weight-Loss Market? - The Motley Fool",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMFJqOG9KdDZuOVY5V0lCc2VBX1psQ1E1R1ZLTlgxLWg0ZGdKSElyVy1hVThEZGpaSlY2TWxCa1l2TmtmdjE3WnJnOUR4MU51S2dOU1RPS0tfX0lTVF9qWVNjSnhmV3kwNzFJclp1c1loa2RaWlBVUkU4TGJDZ1YtVXEzT0hvWFpoSF8xZ2ZSWlNnbG5xZXhJdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "pfizer-2026-07-11-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Pfizer Could Rewrite the GLP-1 Race — but Its 7% Yield Is Flashing a Warning - NAI500",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "patent_cliff",
+        "glp1_obesity"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZWlqTzYwSk1ZR3NRMjZTQ1dkT0ZIRmdYR0U0cXNYaTZ0V0lRbnJ6WUlFbDRqOExLOEh3RTBRb3REaEl0VTJlYjRXWW9uLUx4dmlLTWhaRnpRRzVXbjFVUUdubzVXdjJpb3Z3WVYzRm1kZUR2cDA3MkdBWlJvNVZybm45aDNJaHVnLWFBZTYzZmxaeFZMV05jN1NEcGNoZG44WTZWbGg1VVRndw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-11-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India's Dr Reddy's sees semaglutide supply disruption lasting until at least late October - MSN",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "glp1_obesity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilANBVV95cUxOR2lxQ2o4V0UyREhILVpOeHpYTm5ZNFZRTzJKelN2U3pscDJ6dVA4em5qTW5yc19NQTRUS3FodXd1S292dzN2N2R2bzBxNmpWcHlSUVNxZWlyVFJ5dGMyUUtkWWtMd3liSExXVU5zSjdXcjlxRGM3WDRQQkJjT0JFUlV0WEloLVRnVXdwSTlnUFBwMGE4N1RRYklYd0VNNDFjVk9ZeVdqamQ1T2pZRVp1dm52Rjk4UWZCWlVSYzcyVkpuZ3pxbTZ3QkhpRlpOVFI0cDFFSGowaTZFOEJRbnlDb0RqRUUwZDFfcWRRY0d5MFpGWC1SY0FKSTZuZXlVV243d29JcTM4QmR5MkpQM20wVk5QUkM3MEt1ZkM3T0tlbm93V2luUF80QnNpUEtteEVRajlxZC1YTVJncEYtWlFLS3lqZ2NvVXhJU3drd2xlOTEweHQyTnhiaGtBZEZwNTBPZDZLelFud3ItaU81eG80Z2lNODM2ZFVfZ1dnVTdyN1Z2eXFwcW51UklMLUlFbmo0VDBLXw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "bora-2026-07-11-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Montgomery County Celebrates Inauguration of New Bora Biologics Manufacturing Facility in Rockville - Montgomery County, MD (.gov)",
+      "companies": [
+        "bora"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQVBwd1ZqR0tYTW9DRkVPUGpxeW9JTk9qZThxSHhHeXN4ZDJtS0ZYSWVhQUozWmRoUUlTRjVwQno1dllaR1FBOURfRmJENzdmdlA1ZjBQaHRWOVo5SExIRENFbUtHcG9qM3RHV05RSFR3bjU4RXRrOXJtSUprU3FNSGc1cmtTNDRLZGExd2NJdFVKYkNUZm1WR3AxZ29JZW5YWFRmaVp5Q3otODF1aEhEMmxFbG8zZDNJYzk4a0M5UERkY3o0RVRXd1hNYkhIZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "jnj-2026-07-11-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why is Johnson & Johnson Selling its Orthopedics Unit - Kavout | AI",
+      "companies": [
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMDI3c0lJaUVKR19TSGxJczAwYkItdGp4YlRzRVBiUENmc0Q4bjl2Q3JETkFhTExLWHdKdjVfQTlDc2xERVB5R2tkRmkwdklJZ0FXeWhMUUNrUEFnS0l1UjMzNmpKUS16RFlOc1ZFR1V3SW95bWxXMXgyNkZ6bWQ1WmRTajI4WHZvYTVMUlNEcw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "glp1_obesity": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "drug_approval": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 6,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "pfizer",
+        "count": 2
+      },
+      {
+        "id": "jnj",
+        "count": 2
+      },
+      {
+        "id": "bora",
+        "count": 1
+      },
+      {
+        "id": "roche",
+        "count": 1
+      },
+      {
+        "id": "astrazeneca",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 8
+      },
+      {
+        "id": "industry_general",
+        "count": 5
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 3
+      },
+      {
+        "id": "patent_cliff",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 454,
+    "dup_title": 256,
+    "too_old": 87,
+    "gate1_blocked": 9,
+    "gate2_blocked": 22,
+    "passed": 80,
+    "pass_rate": "40.4%",
+    "gate2_block_rate": "11.1%",
+    "gate2_samples": [
+      "Teva (TEVA) Advances TEV 408 Into Phase 2b For Vitiligo After Early Progress - Sahm",
+      "Teva Advances TEV-'408 Into Phase 2b for Vitiligo - Dermatology Times",
+      "Enterprise value to EBITDA forward of Lonza Group AG – MIL:1LONN - TradingView",
+      "Codis To Acquire Catalent's Nottingham, UK Facility to Create Europe's Leading End-to-End Spray Dry ",
+      "Codis Acquiring Catalent’s Nottingham UK Facility - Pulse 2.0"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為輝瑞、J&J、Bora Pharmaceuticals相關動態：「Is Pfizer on Track to Launch Its Next Lipitor -- This Tim...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Is Pfizer on Track to Launch Its Next Lipitor -- This Time in the Weight-Loss...（藥物核准）",
+        "level": "green"
+      },
+      {
+        "text": "Pfizer Could Rewrite the GLP-1 Race — but Its 7% Yield Is Flashing a Warning ...（藥物核准、專利懸崖、GLP-1 減重）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

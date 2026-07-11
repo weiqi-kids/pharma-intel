@@ -1,0 +1,228 @@
+{
+  "date": "2026-07-11",
+  "date_range": {
+    "start": "2026-07-05",
+    "end": "2026-07-11"
+  },
+  "generated_at": "2026-07-11T09:45:13.031877Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "bora-2026-07-08-075",
+      "date": "2026-07-08",
+      "title": "Bora Pharmaceuticals' June Revenue Surpasses NT$2.3 Billion for the First Time; Dual Engines Drive Record High, Cumulative Revenue Expected to Return to Growth in Second Half - finance.biggo.com",
+      "importance_score": 0.9
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "astrazeneca",
+      "company_b": "pfizer",
+      "co_mention_count": 3,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "novartis",
+      "company_b": "teva",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "drug_approval": {
+      "this_week": 137,
+      "last_week": 118,
+      "week_over_week_change": "+16%",
+      "sentiment_this_week": -0.0
+    },
+    "industry_general": {
+      "this_week": 134,
+      "last_week": 133,
+      "week_over_week_change": "+1%",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 12,
+      "last_week": 7,
+      "week_over_week_change": "+71%",
+      "sentiment_this_week": -0.08
+    },
+    "glp1_obesity": {
+      "this_week": 28,
+      "last_week": 11,
+      "week_over_week_change": "+155%",
+      "sentiment_this_week": -0.25
+    },
+    "biotech_funding": {
+      "this_week": 3,
+      "last_week": 5,
+      "week_over_week_change": "-40%",
+      "sentiment_this_week": 0.17
+    },
+    "patent_cliff": {
+      "this_week": 7,
+      "last_week": 2,
+      "week_over_week_change": "+250%",
+      "sentiment_this_week": -0.0
+    },
+    "gmp_inspection": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "teva": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "lonza": {
+      "event_count": 7,
+      "sentiment_avg": 0.14,
+      "rank": 5
+    },
+    "jnj": {
+      "event_count": 26,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "dr_reddy": {
+      "event_count": 3,
+      "sentiment_avg": -0.33,
+      "rank": 10
+    },
+    "pfizer": {
+      "event_count": 7,
+      "sentiment_avg": 0.14,
+      "rank": 6
+    },
+    "roche": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 8
+    },
+    "astrazeneca": {
+      "event_count": 30,
+      "sentiment_avg": 0.03,
+      "rank": 1
+    },
+    "merck": {
+      "event_count": 10,
+      "sentiment_avg": 0.3,
+      "rank": 4
+    },
+    "novo_nordisk": {
+      "event_count": 19,
+      "sentiment_avg": -0.09,
+      "rank": 3
+    },
+    "novartis": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "sun_pharma": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 9
+    },
+    "catalent": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "bora": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "sanofi": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "cardinal": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "mckesson": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "eli_lilly": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 485,
+        "last": 428,
+        "change_pct": 13.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-05",
+      "event_count": 14,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-07-06",
+      "event_count": 75,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-07-07",
+      "event_count": 85,
+      "sentiment_avg": -0.07
+    },
+    {
+      "date": "2026-07-08",
+      "event_count": 88,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-07-09",
+      "event_count": 146,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-07-10",
+      "event_count": 68,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-07-11",
+      "event_count": 9,
+      "sentiment_avg": 0.06
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-05 ~ 2026-07-11）共 485 則事件，重點為「Bora Pharmaceuticals' June Revenue Surpasses NT...」。Dr. Reddy's情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "Dr. Reddy's",
+        "reason": "本週情緒偏負面（-0.3），共 3 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "Teva",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Lonza",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

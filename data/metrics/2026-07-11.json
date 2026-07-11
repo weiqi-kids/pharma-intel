@@ -1,0 +1,53 @@
+{
+  "date": "2026-07-11",
+  "total_events": 9,
+  "by_company": {
+    "bora": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pfizer": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "jnj": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "roche": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "astrazeneca": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "eli_lilly": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "glp1_obesity": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    },
+    "drug_approval": {
+      "count": 8,
+      "sentiment_avg": 0.06
+    },
+    "industry_general": {
+      "count": 5,
+      "sentiment_avg": 0.1
+    },
+    "patent_cliff": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
