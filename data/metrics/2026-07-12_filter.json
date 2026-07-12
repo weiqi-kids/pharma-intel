@@ -1,0 +1,16 @@
+{
+  "total_raw": 453,
+  "dup_title": 302,
+  "no_date": 0,
+  "too_old": 87,
+  "gate1_fail": 9,
+  "gate2_fail": 27,
+  "passed": 28,
+  "gate2_samples": [
+    "Teva Advances TEV-'408 Into Phase 2b for Vitiligo - Dermatology Times",
+    "Codis To Acquire Catalent's Nottingham, UK Facility to Create Europe's Leading End-to-End Spray Dry ",
+    "Codis Acquiring Catalent’s Nottingham UK Facility - Pulse 2.0",
+    "What to Know About the Compromised Building in Manhattan - The New York Times",
+    "Why AstraZeneca Crashed 6%, Leading Two Rivals, Including Pfizer, To Jump - Investor's Business Dail"
+  ]
+}
