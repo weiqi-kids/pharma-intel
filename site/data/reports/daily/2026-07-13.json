@@ -1,0 +1,243 @@
+{
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T11:20:32.433510Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-13-022",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "STAT+: HHS presses ahead with effort to curb antidepressant use",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.statnews.com/2026/07/13/hhs-ssri-deprescribing-experts-gather-clinical-withdrawal-guidance/?utm_campaign=rss"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-13-015",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Weight-loss implant could one day replace Ozempic injections - NewsNation",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVFJSdVRDVVM4SXAxdUYweTV1MFVIT3FocEItZ3pReUYyYnRXU0Rwci1ab3hKcXhSck0tSU1oOUljaWZtTGhCQlhhOXBFTnNWZy04Zjg0bGdrWGs1d1Z2cldqU3NmQ216ZHFWdGJ1LXFxNG1mZFRJRXIxWW4taTROWjkzX2YwdUJzTDFXSUNpckxqa3ljT2lj0gGcAUFVX3lxTE9BSTNCdmhlbFAwSjVwMklDX2o2azgtd21LQUt1Z1M4QU11SGdBNzdqOF9VSHRIZ0dqUXgtNFpkcEZwVEptVmNCTEZDNjRmbzNwVFVYN2owMGhSamZxMHU3YXkxbllnYndoUXpvUkg3ZTB0UDQ0WnNLaVFLUEhPd3k1Uld1VUtoWXJPaW9vR09PMGdCX096ZmdYMzBQbA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-13-023",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "STAT+: A breakthrough in pancreatic cancer has experts excited — and braced for what’s to come",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.statnews.com/2026/07/13/pancreatic-cancer-daraxonrasib-opportunities-challenges/?utm_campaign=rss"
+    },
+    {
+      "rank": 4,
+      "event_id": "teva-2026-07-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Teva Pharmaceutical Industries Ltd. $TEVA Position Increased by Sequoia Financial Advisors LLC - MarketBeat",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMTNWaVBkSk93Vm5hVkpWanFqX3VIcGhVTllWajJxc2JSYTktTENfNzU1ZDNnV20xNDRxT1dHWFBwRWJCWnp1MUpjemtidUQxR2Z5WmZycWNuUEczVTdhbk9hNXlTNndTMF9oM1h4bThURFFYN0gzcWZOZXExUkpNaTNmdUc1bTNIOGVmcURHeGlydS1BSkdJU1R3QzdJU1djTkJqUFYxUjctYzZQVXhLWVFDVF9TMkU0Y2ZGT0Y2UmRnbVhzclVuNDR2eERLdEdYQmdOd3drVW5LaGVkWDdBNkI2dE9YWTdB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "teva-2026-07-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Candriam S.C.A. Makes New Investment in Teva Pharmaceutical Industries Ltd. $TEVA - MarketBeat",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVEJ4U3YtZEYtVTNTYk9JbG1CZjdFOTJOUTQxTXMyTzZVYlRWVFcyb1RkXzlZTmJUUVg0dkluU01CUU55dDFPY25UOWt2NXdGMGpsMm93MlZvQjMtcVRMS0pqS2pCRlZ4elBsa0Y0SzB4c0FuQXNlWmctMXlfU195NV8ta2g3aFUtTU1JVGVZRmZxeXlRcDduMWZqUUhUVE9mX0tyS29VaE9aTkpkcFVybk5TblhrN0JzelBYRGhnOVJqZFdKZlQwWUwtcW11eTB0bURz?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 19,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "jnj",
+        "count": 5
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 4
+      },
+      {
+        "id": "teva",
+        "count": 2
+      },
+      {
+        "id": "astrazeneca",
+        "count": 2
+      },
+      {
+        "id": "merck",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 18
+      },
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 453,
+    "dup_title": 281,
+    "too_old": 89,
+    "gate1_blocked": 13,
+    "gate2_blocked": 25,
+    "passed": 45,
+    "pass_rate": "26.2%",
+    "gate2_block_rate": "14.5%",
+    "gate2_samples": [
+      "Dr. Reddy's Laboratories | 6-K: Report of foreign private issuer [Rules 13a-16 and 15d-16] - Moomoo",
+      "Codis To Acquire Catalent's Nottingham, UK Facility to Create Europe's Leading End-to-End Spray Dry ",
+      "Codis Acquiring Catalent’s Nottingham UK Facility - Pulse 2.0",
+      "Why AstraZeneca Crashed 6%, Leading Two Rivals, Including Pfizer, To Jump - Investor's Business Dail",
+      "What to Know About the Compromised Building in Manhattan - The New York Times"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為J&J、Novo、Teva相關動態：「STAT+: HHS presses ahead with effort to curb antidepressa...」。主要關注主題為藥物核准、產業通用、GLP-1 減重，市場情緒中性。",
+    "signals": [
+      {
+        "text": "STAT+: HHS presses ahead with effort to curb antidepressant use（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Weight-loss implant could one day replace Ozempic injections - NewsNation（藥物核准、GLP-1 減重）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

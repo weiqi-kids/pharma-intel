@@ -1,0 +1,57 @@
+{
+  "date": "2026-07-13",
+  "total_events": 23,
+  "by_company": {
+    "teva": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "jnj": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "astrazeneca": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "merck": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "novo_nordisk": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "cencora": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pfizer": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "drug_approval": {
+      "count": 18,
+      "sentiment_avg": -0.06
+    },
+    "industry_general": {
+      "count": 16,
+      "sentiment_avg": 0.06
+    },
+    "glp1_obesity": {
+      "count": 2,
+      "sentiment_avg": -0.5
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 453,
+  "dup_title": 281,
+  "no_date": 0,
+  "too_old": 89,
+  "gate1_fail": 13,
+  "gate2_fail": 25,
+  "passed": 45,
+  "gate2_samples": [
+    "Dr. Reddy's Laboratories | 6-K: Report of foreign private issuer [Rules 13a-16 and 15d-16] - Moomoo",
+    "Codis To Acquire Catalent's Nottingham, UK Facility to Create Europe's Leading End-to-End Spray Dry ",
+    "Codis Acquiring Catalent’s Nottingham UK Facility - Pulse 2.0",
+    "Why AstraZeneca Crashed 6%, Leading Two Rivals, Including Pfizer, To Jump - Investor's Business Dail",
+    "What to Know About the Compromised Building in Manhattan - The New York Times"
+  ]
+}
