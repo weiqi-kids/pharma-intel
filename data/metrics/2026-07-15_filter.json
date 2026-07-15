@@ -1,0 +1,16 @@
+{
+  "total_raw": 454,
+  "dup_title": 225,
+  "no_date": 0,
+  "too_old": 101,
+  "gate1_fail": 11,
+  "gate2_fail": 18,
+  "passed": 99,
+  "gate2_samples": [
+    "Dr. Reddy's Laboratories | 6-K: Report of foreign private issuer [Rules 13a-16 and 15d-16] - Moomoo",
+    "Why AstraZeneca Crashed 6%, Leading Two Rivals, Including Pfizer, To Jump - Investor's Business Dail",
+    "Pfizer: The AI Hedge That Pays You To Stay Defensive - Seeking Alpha",
+    "Johnson & Johnson has a chance to show it's more than just a rotation winner - CNBC",
+    "This Healthcare Giant Still Checks Every Box for Long-Term Investors - 24/7 Wall St."
+  ]
+}

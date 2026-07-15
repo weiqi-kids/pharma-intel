@@ -1,0 +1,272 @@
+{
+  "date": "2026-07-15",
+  "generated_at": "2026-07-15T10:10:21.301383Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "eli_lilly-2026-07-15-030",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "In the Weight-Loss Wars, Novo’s Obesity Pill Is Pulling Way Ahead of Lilly’s - WSJ",
+      "companies": [
+        "eli_lilly",
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc204OUFpMUV2UXl6LUVYRnM1M3lmc0VQU2J6Y2xia2laVlAwejVYcjNVMVdidndkMkx6a2dCclhYUTFaYjVHcGZ3V3ZYLURWYkdob3BIUkZPalZvbW1ILWZIVEw0eEhDSHpvZnpoZ1o4SXFqN1VKMGthUU1GYVZFR1lFdDF5WFVJSUI2WmRieGtpMTk4ZTZRQ005MVZmVHNLYmNOaHRxNzU1VHNVdl80Q0dfd2RSS2s?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "dr_reddy-2026-07-15-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Dr. Reddy's Laboratories (RDY) Projected to Release Quarterly Earnings on Wednesday - MarketBeat",
+      "companies": [
+        "dr_reddy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZXFuUllYVU5QWUpLWDRoOUVuUVN2YjdfVktXMThHemk4VlRlWVVnbm9aX21OUGtHcWl4Y19FNm1NWTFHWVZvMGdaTHZQMTVZMDFWVmtmeHYxUFlLUmpjc3hfaThEdm5tcnBjVnRQZGgweEt0NmtQRGdxOVdxaGlXX0l1SnU1aEJIM3RXbEoteVBwZGFoRmtyMlN0WXFsRGJfZ21KZ2N6LWQ1blh3Vks5REh0SGJfY3FBVUk2S0VMQ0VYcVBIbHFid1d5MXJIdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "sun_pharma-2026-07-15-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sun Pharma Hits 52-Week High After South Africa Approves GLP-1 Drug Semaglutide - NDTV Profit",
+      "companies": [
+        "sun_pharma"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "glp1_obesity",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPb3ZiR2NYUlcxMGxLN0QzbGFvMDVXRk1UeWlKNUlOVWJYOC1SREhRemI3eVFaT3JST2tqekhMLWNfWGw3blRmd3FIbTlyT3dSanpKQTFWUGRSdlJyQzE2Tng2NVhlbTljNnBMX3I2LXphTHZJSk82cjZJTFVoZUFEX1RiVDVWU2ltSGwwNnlzWEdPNVl3MGNfNHFEVk11SmZWWDJRZ05EM1d0NmFlcDVqMnFEWWJvZHlLd3FCX1hyaELSAcgBQVVfeXFMTVk4QjZjQ1FPXzJiWmRnTzRnb2x5Q09BYXR4NUF2Q0V5LW5VcE1HSXY2eGppUHE0WGsxdk4zQ3p5eGR3bnR2QmdnOG1PV0NvalJUNHVGMHY2NGhXakV4WkVuTGxZMXlqbGh5LXpfbHY1UlpGVHlyd1h5ZUpMZmNjbFFYMXNUVHYwam5KSFhrUGdtODItWWc3cnZBdGg2M2lHbUMzYWhNN1ZLTU5WODdpWlpQVmpQZ2pZb2pwck9yUDBtWjQ5TFRxVkU?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "sun_pharma-2026-07-15-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sun Pharma To Launch Generic Semaglutide For Type 2 Diabetes In South Africa - NDTV Profit",
+      "companies": [
+        "sun_pharma"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "glp1_obesity",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPREw0eGswVktwT0N5WG1DN3BzbmZiQW56cTc1WGF0X01OX3Z5Z1ZJOTQ3Z1hrV2VOZ1FqcnpkM0VXZ1MzUkhZdEp0eVpIdWxXNVlhVFdDREMxc1A2T3dDZ1Vwb3kweTM3Qkw1Umhzc0JvbkE1Z3pkY2FlTjhkbkJ0bmxtUnFOT1E1b3dTYklkcDVjYU4yQW9ydVdxOFQ0WUxncXpmak9iOXZKekltT3pPQzQyTVN2aWhhZEZaaWpB0gHGAUFVX3lxTE00VDI2RjlGaWdCMnlTdzJpRjc4eV8xanpKYzJvYmg3RmFEbWRRZ096MXBrRFRNV1VNNEp4U3Y3S0g1eTc5NElha0hsbjdLVHdpNFVNM3FJTmp0c2Q4bW03TzJzZmdDUHFjZmJVLWNUNHNGbllockVUYm11d2NLbmhobDZHNUlDcWxoc0pwdDBxVVZTUk9raWRSQnpyblUxMndNUUVURjAySEFoOWNYNWRkWXdKc2FaMUFLdTI1WGZITndqeml5QQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "bora-2026-07-15-017",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Insilico Medicine Scores Double Win: Swings to $33.5M+ Half-Year Profit, Same Day Lands $2.5B Strategic Alliance with Bora Pharmaceuticals - finance.biggo.com",
+      "companies": [
+        "bora"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xS0djRWJUd1JpYUtvcmN3WkdVVWxwWkRJZ25RR2dEbEVzbWZ0Rm9KUGVyNmEtRm1TbWk0WTFROWVLaFUxQ200SDFaVG1DOG8xM2tBb0hHcUYxNm8yZy1zckN1aUg1eXFFRkFoQlhJbUI1TGl2N2c?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 29,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 33,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "eli_lilly",
+      "to": "novo_nordisk",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "glp1_obesity",
+        "drug_approval"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 38,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 35,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "bora",
+        "count": 7
+      },
+      {
+        "id": "sun_pharma",
+        "count": 6
+      },
+      {
+        "id": "jnj",
+        "count": 6
+      },
+      {
+        "id": "astrazeneca",
+        "count": 5
+      },
+      {
+        "id": "teva",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 33
+      },
+      {
+        "id": "drug_approval",
+        "count": 29
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 8
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 454,
+    "dup_title": 225,
+    "too_old": 101,
+    "gate1_blocked": 11,
+    "gate2_blocked": 18,
+    "passed": 99,
+    "pass_rate": "43.2%",
+    "gate2_block_rate": "7.9%",
+    "gate2_samples": [
+      "Dr. Reddy's Laboratories | 6-K: Report of foreign private issuer [Rules 13a-16 and 15d-16] - Moomoo",
+      "Why AstraZeneca Crashed 6%, Leading Two Rivals, Including Pfizer, To Jump - Investor's Business Dail",
+      "Pfizer: The AI Hedge That Pays You To Stay Defensive - Seeking Alpha",
+      "Johnson & Johnson has a chance to show it's more than just a rotation winner - CNBC",
+      "This Healthcare Giant Still Checks Every Box for Long-Term Investors - 24/7 Wall St."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 38 則事件，焦點為Bora Pharmaceuticals、Sun Pharma、J&J相關動態：「In the Weight-Loss Wars, Novo’s Obesity Pill Is Pulling W...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "In the Weight-Loss Wars, Novo’s Obesity Pill Is Pulling Way Ahead of Lilly’s ...（藥物核准、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Dr. Reddy's Laboratories (RDY) Projected to Release Quarterly Earnings on Wed...（藥物核准、法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
