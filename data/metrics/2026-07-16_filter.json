@@ -1,0 +1,16 @@
+{
+  "total_raw": 453,
+  "dup_title": 238,
+  "no_date": 0,
+  "too_old": 81,
+  "gate1_fail": 14,
+  "gate2_fail": 15,
+  "passed": 105,
+  "gate2_samples": [
+    "Pfizer scraps Seagen-developed ADC for solid tumors - BioSpace",
+    "Is the Bearishness Around Pfizer and Gilead Sciences a Contrarian Opportunity? - 24/7 Wall St.",
+    "Johnson & Johnson has a chance to show it's more than just a rotation winner - CNBC",
+    "Why Johnson & Johnson is the 'golden child' of transformative AI use cases - Yahoo Finance",
+    "J&J misses company expectations for cardiovascular in Q2 - MedTech Dive"
+  ]
+}

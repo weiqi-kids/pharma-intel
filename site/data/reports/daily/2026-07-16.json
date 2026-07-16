@@ -1,0 +1,271 @@
+{
+  "date": "2026-07-16",
+  "generated_at": "2026-07-16T10:17:53.275419Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "jnj-2026-07-16-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "J&J tops $25 billion quarter, lifts 2026 outlook - The Pharma Letter",
+      "companies": [
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQTdEUW84TDZnaVhPYlM4eVFiNXBEckRQcEhPb2lRRXlzc3F4X2xNMGZVNURlMGNGY091MnFvVGJwUHdfRjBiUmRENTdMWk0tY0FGV3BzbHRiRnNIM2lFdDVtQ2dtaGZ0LUNXSmlhbDhMemhUS2ZjR0VFd1lhdTl2eml3MnpKS1ZSWkllaVprQnZNUkwwWXBuaDBCSW1YU3h4YkgzdQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "jnj-2026-07-16-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is Johnson & Johnson a Buy After Its Latest Earnings Report? - The Motley Fool",
+      "companies": [
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeW5tcEp4SWdfMjNrSHFfTDl3MFZQN3lXcHVOMl9uWVhLMENqV3A3X3E4dDRlaVl5dTZMQW9rWXR5MjUtaFhRMnZtMXI1dFNhRVItWkJQaHV2aVZIb1NsenlMWmQ1M0pRZGZoWWpzOU1FRDFlWXRVazJzNktwLWhTaVRaS3JReGZjeHRGRWJnVXBReW5aa20zNg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "jnj-2026-07-16-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is Johnson & Johnson a Buy After Its Latest Earnings Report? - Yahoo Finance",
+      "companies": [
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQmRuUENuaHdtRzJXdHNySzNINEZjN1BKMUNzVEd4RUxkSV9iMVFkZ1ZFZm1hUTZfOWIyQ2phcUtJVDA0SnJTaFBKZzFuRnVtYXdMVjYteXZGdC1ZME14ckozR3dtVm9UbW05VHJYOXZ3Tmp6TUFkc0p6ZW1rV3VLbFo1LWR4M0VsbWNfekozcW1PemdON0tCSmw2QVpLN2VOanc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "sanofi-2026-07-16-014",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Sanofi, Lilly back AdvanCell's $315M radiopharmaceutical push - FirstWord PHARMA",
+      "companies": [
+        "sanofi",
+        "eli_lilly"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkRjRhTGZ3MWZ2UGU1TnNFaDV2dDkyR1NCLVZHWTdDVWNkWHR3VWE3aXZWeWw3dDFRcDl0dHJFMmpOLWJYRXpkNnAtUGUtZV8tNkk0?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "novo_nordisk-2026-07-16-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Novo Nordisk receives EU approval for its weight-loss tablet - medwatch.com",
+      "companies": [
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FX2ZJcEd2SFVTMjV6MURpNWs0ek4zZWFOcU5VbEl4Rnp0UTJ0U3dsR2h0bmlBeVlyV09sR1dxV0xfREFMVHQtOEhYT0hkWXRkY2luTFNCbHRrZHJHbWdvOFNsUUxSQ3c5eDlhMDJiZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "glp1_obesity": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.14,
+      "sentiment_7d_avg": null
+    },
+    "drug_approval": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.11,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 14,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "jnj",
+        "count": 5
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 3
+      },
+      {
+        "id": "sun_pharma",
+        "count": 2
+      },
+      {
+        "id": "roche",
+        "count": 1
+      },
+      {
+        "id": "astrazeneca",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "drug_approval",
+        "count": 14
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "patent_cliff",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 453,
+    "dup_title": 238,
+    "too_old": 81,
+    "gate1_blocked": 14,
+    "gate2_blocked": 15,
+    "passed": 105,
+    "pass_rate": "48.8%",
+    "gate2_block_rate": "7.0%",
+    "gate2_samples": [
+      "Pfizer scraps Seagen-developed ADC for solid tumors - BioSpace",
+      "Is the Bearishness Around Pfizer and Gilead Sciences a Contrarian Opportunity? - 24/7 Wall St.",
+      "Johnson & Johnson has a chance to show it's more than just a rotation winner - CNBC",
+      "Why Johnson & Johnson is the 'golden child' of transformative AI use cases - Yahoo Finance",
+      "J&J misses company expectations for cardiovascular in Q2 - MedTech Dive"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為J&J、Novo、Sun Pharma相關動態：「J&J tops $25 billion quarter, lifts 2026 outlook - The Ph...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "J&J tops $25 billion quarter, lifts 2026 outlook - The Pharma Letter（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Is Johnson & Johnson a Buy After Its Latest Earnings Report? - The Motley Fool（藥物核准、法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
