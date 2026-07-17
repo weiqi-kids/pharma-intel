@@ -1,0 +1,16 @@
+{
+  "total_raw": 450,
+  "dup_title": 258,
+  "no_date": 0,
+  "too_old": 75,
+  "gate1_fail": 8,
+  "gate2_fail": 18,
+  "passed": 91,
+  "gate2_samples": [
+    "Teva snaps seven straight sessions of losses (TEVA:NYSE) - Seeking Alpha",
+    "Pfizer scraps Seagen-developed ADC for solid tumors - BioSpace",
+    "Is the Bearishness Around Pfizer and Gilead Sciences a Contrarian Opportunity? - 24/7 Wall St.",
+    "Johnson & Johnson has a chance to show it's more than just a rotation winner - CNBC",
+    "Roche's Gazyva/Gazyvaro Lands Priority Review From US FDA in Nephropathy - Moomoo"
+  ]
+}
