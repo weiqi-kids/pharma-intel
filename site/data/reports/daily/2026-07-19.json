@@ -1,0 +1,231 @@
+{
+  "date": "2026-07-19",
+  "generated_at": "2026-07-19T09:58:22.863099Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "roche-2026-07-19-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Roche stock trades steadily as diagnostics and pharma shape outlook - ad-hoc-news.de",
+      "companies": [
+        "roche"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbVNKeW0waEdSLVlEdVY2dldwcjc2cWZ0bW1XcU9ZWlBPenlJb1NaTWJTX2RlZnU4MEVMZmxlMFZoZlVDem00V3hhc3dQRzJGM1dia2dHbUE2OGNvUjFRVXNoODFpaFNmSlNyYnp6aUcxbmJSRWJCQjkteUtaLXpXU0M2RGZCWkZUeklwU0doUXc4VEgwTDFCRmpGVE5XYy1yX05JMXgtVWs3OWJKU2llRGdDTUpGUlJvd3VzOVBILXVUYzhY?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "teva-2026-07-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Allspring Global Investments Holdings LLC Sells 159,581 Shares of Teva Pharmaceutical Industries Ltd. $TEVA - MarketBeat",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRm9ENkdXVVBSTGc3ME1JV0p1ekdhTmZIQnV0LXUwY2VCNEZrMEVWOXZ4QmdnRl9jRVN0emNEY3RqdU9MRmxyeHJHVUZOYmVSZEpiLU5qLUl0LTgzeUdMc0cyZlVPUXB1MDJBYmJuOXZVNmV4N0lncFFoTnRMdzEyX1ZoSFpJSHo4TE80XzJodjFqbUg3aF9HWmZTS2lFY0J1OG0zZEEwejFPN21OajNBZEV6RnM5U2stc3d4OTZxbnVKWDhhcEFpOC1Ib2F4OVpVTmhjSnZRR25oZm5EY0FINnNIR3czd2FZUXU0VGZmenlnWlFscjJnTA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "dr_reddy-2026-07-19-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Dr. Reddy's Laboratories Ltd $RDY Holdings Lifted by Bessemer Group Inc. - MarketBeat",
+      "companies": [
+        "dr_reddy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaGphaGxraXB5LTJxX0JOZkpVeTBneVFEblB1MWhWWGx3RzBrWFFGbmo5M004d21kUmtYWGdXZXl2V0dHYm9vLVV4Z1JKRlJsVUc1ZlduWDVoa1VHeDZKRkhmZ2dPeWdKYkoybXVxSjZtTHU1SkN3U3hXcVdWWGNQMUZhLW5xRWlhdVJjTERUZWZoMHJEM3UwYUtaTmFRN2dWNVBhWnFITE9ib1BKZW0wek5GQmhONVBEaXFaSkROSFdUZVVhd09Vag?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-19-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Dr Reddy's Foundation targets 100k soil samples ahead of rabi season - Business Standard",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPR1ZNc3FCNlp6SVd1a0h0eThMSmdTRktwc25TV2U0TGVoVkFiTERaYkZIb2pDemd2eWpneFkzZDByTE5MZDJOMU1FWFJSbndpY25wbVdpeWN5M3VVaVNxb1dlWHJ0bjc3S1JQTUlsakJrdmdyb0tyYU1leGNsc0VwR3pjcWdycWJzMDRWcEJkUmswY0MydXFYdlEwUDJwam16d2RsRks3LUM1dlM1N2xOaG5uVkRzSHlwaWFVbllrczdLZHl4SGhqd3BBWEdxTjBneDFR0gHYAUFVX3lxTE43NVdONXo1ZzFJWmx5MW5rZnU2UjJhcTJUUExHOG1hbmtOODRnVHF4U0pqbzV3bjRDeXVWTUxmdWVJOHpYQnVFMXl0ZHJ3TzhSVXlOY3B2aGc5UWRheEVjSkpzeHVqRHdLN1FlTm1FT0U0Y0YyeEVmeGJ3N25vN1NfQkZ0VGFUazdldWFNZWQtZDBLUWRqNXhfenJLSVcwaDlqMDRPdEVycjgxdGdDcEJRTGtJQ2tFWnJsaV9LVjQwQkRzQlJJLUc4UDBzX3VqZzNDMFpac1EwZA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lonza-2026-07-19-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lonza Group stock edges higher as investors weigh 2025 recovery prospects - ad-hoc-news.de",
+      "companies": [
+        "lonza"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYkxfcVFJb2FxT1NjMDhKanJkampOSWpRQWFvV1BJSmNpLVpKUTI5V1pGc25xdlpRV0gxeVFZNU53V1RMb1JMSXdZT0Y5UmZQRDdyOGI4NmZWMGpIRXo2Z1lhTFQzN1lteTd5d3E3SHFHMGVES1FTTjc0WnBoTk9CTXoycngwWnJiUnFwQmZNOG13ZDdEa0NndTFraE0wR2ZfekhRUkJaNFFCazBwSWtPeGdjWmZlaU5OSmtnUFVjNkxnSDNiM1pEekFXcGM?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "jnj",
+        "count": 3
+      },
+      {
+        "id": "lonza",
+        "count": 2
+      },
+      {
+        "id": "teva",
+        "count": 1
+      },
+      {
+        "id": "dr_reddy",
+        "count": 1
+      },
+      {
+        "id": "roche",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 9
+      },
+      {
+        "id": "industry_general",
+        "count": 8
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 450,
+    "dup_title": 321,
+    "too_old": 74,
+    "gate1_blocked": 9,
+    "gate2_blocked": 18,
+    "passed": 28,
+    "pass_rate": "21.7%",
+    "gate2_block_rate": "14.0%",
+    "gate2_samples": [
+      "Teva snaps seven straight sessions of losses (TEVA:NYSE) - Seeking Alpha",
+      "Pfizer scraps Seagen-developed ADC for solid tumors - BioSpace",
+      "MML Foreign Fund's Roche Holding AG(XSWX:ROP) Holding History - GuruFocus",
+      "Roche's Gazyva/Gazyvaro Lands Priority Review From US FDA in Nephropathy - Moomoo",
+      "Roche (RHHBY) Receives FDA Priority Review for Gazyva Kidney The - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為J&J、Lonza、Teva相關動態：「Roche stock trades steadily as diagnostics and pharma sha...」。主要關注主題為藥物核准、產業通用、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Roche stock trades steadily as diagnostics and pharma shape outlook - ad-hoc-...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Allspring Global Investments Holdings LLC Sells 159,581 Shares of Teva Pharma...（藥物核准、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
