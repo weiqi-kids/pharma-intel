@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T09:58:22.167972+00:00",
+  "updated_at": "2026-07-20T10:59:43.254549+00:00",
   "companies": {
     "teva": {
       "name": "Teva Pharmaceutical",
@@ -144,19 +144,19 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 556,
           "pct_held": 0.0,
-          "value": 315696
+          "value": 315252
         },
         {
           "holder": "Gamma Investing LLC",
           "shares": 92,
           "pct_held": 0.0,
-          "value": 52237
+          "value": 52164
         },
         {
           "holder": "Main Street Group, Ltd                          ",
           "shares": 124,
           "pct_held": 0.0,
-          "value": 70407
+          "value": 70308
         }
       ]
     },
@@ -559,73 +559,6 @@
           "shares": 15621813,
           "pct_held": 1.66,
           "value": 18419835697
-        }
-      ]
-    },
-    "abbvie": {
-      "name": "AbbVie",
-      "short_name": "艾伯維",
-      "ticker": "ABBV",
-      "holders": [
-        {
-          "holder": "Blackrock Inc.",
-          "shares": 150698125,
-          "pct_held": 8.53,
-          "value": 38351166659
-        },
-        {
-          "holder": "Vanguard Capital Management LLC",
-          "shares": 114880324,
-          "pct_held": 6.5,
-          "value": 29235894285
-        },
-        {
-          "holder": "State Street Corporation",
-          "shares": 81217516,
-          "pct_held": 4.6,
-          "value": 20669046092
-        },
-        {
-          "holder": "JPMORGAN CHASE & CO",
-          "shares": 56741691,
-          "pct_held": 3.21,
-          "value": 14440193254
-        },
-        {
-          "holder": "Vanguard Portfolio Management LLC",
-          "shares": 49523078,
-          "pct_held": 2.8,
-          "value": 12603128392
-        },
-        {
-          "holder": "Geode Capital Management, LLC",
-          "shares": 46737581,
-          "pct_held": 2.65,
-          "value": 11894247245
-        },
-        {
-          "holder": "Morgan Stanley",
-          "shares": 38016774,
-          "pct_held": 2.15,
-          "value": 9674889024
-        },
-        {
-          "holder": "Capital Research Global Investors",
-          "shares": 31254786,
-          "pct_held": 1.77,
-          "value": 7954030660
-        },
-        {
-          "holder": "Bank of America Corporation",
-          "shares": 23936943,
-          "pct_held": 1.35,
-          "value": 6091712755
-        },
-        {
-          "holder": "FMR, LLC",
-          "shares": 21762703,
-          "pct_held": 1.23,
-          "value": 5538390406
         }
       ]
     },

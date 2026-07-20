@@ -1,0 +1,254 @@
+{
+  "date": "2026-07-20",
+  "generated_at": "2026-07-20T10:59:43.991900Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lonza-2026-07-20-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Lonza stock holds near record levels after strong earnings - ad-hoc-news.de",
+      "companies": [
+        "lonza"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOblBIRmE5aG1hQkNRRWpyaFVyUEhNTzF6em1fTUVrUzZRS1VEeWhhZ1NMWTR0OVFyNEVzYWplYl8zODBoR0dWbFYwZXQyU1NsSG1JUHRldjE2bkhGMWtEaFFXU2tZRDNNRGIzWWtNRnlQSkhYRnJNZDZ5YkYwZl9jV0daVE9WY1FRSFBwbTdFNkF5R1AzdEtodWdIUkdRSks3TUxKRVdfal94cW9KdXBKb1NJQUQ5d2Mt?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-20-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Dr Reddy's post-gRevlimid earnings reset: Nomura retains Buy, Rs 1,740 target - Moneycontrol.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWmNPRnNyZWE5eWFQSVZSTXA2WnNCRkFzUzFJdklsX2FVcDVTXzdsUWp3VnBSU0sybUhnZ0k0c3MzdFFOWkhzTDFvVjl5NHJZZkR6Q21qSXRSeVNRX2xOdTBBU0RJb3B1bERjV0I1ZDFLX2k1TEdKY2paMDZEN05YSGxxOER4bGRsX0NWZHZZTl9WczBmaXZCMU5kTUJvMmhGM0ZYY0d2NVVNNk92T0FNOVRPeVpFcjkyVUQ1NVkyQlBCS0VQYUJ3bkJyUF9Jal9weDY1dWVR0gHbAUFVX3lxTE1vMXh0YWtEbnBjaXFPYkFLNXRPcEs5RkNfWTR6TXNwUFcwOVFMVk93dGdMa1ZfMWdhbGprYVdid01OSjBIZTlyOW5hNTBsb1ZnNFN6dkZzWEstZXg1VTdCUUZ6LXY1ajJpczRTNTRSVXJMcEpRVV9VWkpDREw5VThUVG40YTdFREZSTjJ6T2c2YzRvR19LUVlyeXNDZ2NTakl6QTFqOGVmQnlFQVRJSFlJa04yLXF2djZUU2xTLWNqSHJpb2Y3S1pQVVBianZ4R0RaVGk4aFRBS0hjYw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "jnj-2026-07-20-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is It Too Late to Buy Johnson & Johnson After Its Blowout Earnings Report? - AOL.com",
+      "companies": [
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMXc1cEFCWko1RTFFdUV3aXVGdXk5NGN0YkpFNV9nQ19DdXdxOXA2dTFVakgwZnNWbmRyYkR6bVd2MHNWZEJMYzRBdVJMRWE3dVg1eVViRzcxYzM1Z3lrS0VoZ3lFcU1XQk0zWnZ0WkMwcDB4Q0ItSVFNRkdBYmFDVw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "astrazeneca-2026-07-20-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AstraZeneca highlights rare diseases in $80bn revenue push - Financial Times",
+      "companies": [
+        "astrazeneca"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNclBTRWdFTl9STlkyWDZ6bmVHVnBMdG1OeXJtZUFubnlPaV9JaVNHeVVlTG9zbFIyODBXdE13aEFhdm10Q1RqUkVlOXJjTGg4Ul9pOGlBZTJSUVJUaDBCWXZ2V05pVzhKQ19KSzZMSFhWM2l5UzZtMmVDUEdhU3QyY1VwY24?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "novo_nordisk-2026-07-20-018",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "STAT+: Telemedicine company touted by Novo Nordisk stressed profits over patient safety, ex-workers say",
+      "companies": [
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.statnews.com/2026/07/20/lifemd-weight-loss-drugs-novo-nordisk-telemedicine/?utm_campaign=rss"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.15,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.2,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 15,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "jnj",
+        "count": 4
+      },
+      {
+        "id": "astrazeneca",
+        "count": 3
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 3
+      },
+      {
+        "id": "teva",
+        "count": 1
+      },
+      {
+        "id": "lonza",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 13
+      },
+      {
+        "id": "drug_approval",
+        "count": 12
+      },
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 451,
+    "dup_title": 310,
+    "too_old": 81,
+    "gate1_blocked": 8,
+    "gate2_blocked": 14,
+    "passed": 38,
+    "pass_rate": "27.0%",
+    "gate2_block_rate": "9.9%",
+    "gate2_samples": [
+      "Could Pfizer Ultimately Be the Biggest Winner in the $100 Billion Weight-Loss Market? - The Globe an",
+      "Pfizer scraps Seagen-developed ADC for solid tumors - BioSpace",
+      "MML Foreign Fund's Roche Holding AG(XSWX:ROP) Holding History - GuruFocus",
+      "Roche's Gazyva/Gazyvaro Lands Priority Review From US FDA in Nephropathy - Moomoo",
+      "FDA approves first oral PCSK9 inhibitor for managing cholesterol - Chemical & Engineering News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為J&J、AZ、Novo相關動態：「Lonza stock holds near record levels after strong earning...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Lonza stock holds near record levels after strong earnings - ad-hoc-news.de（藥物核准、法說會、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Dr Reddy's post-gRevlimid earnings reset: Nomura retains Buy, Rs 1,740 target...（法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

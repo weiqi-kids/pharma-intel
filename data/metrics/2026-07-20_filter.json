@@ -1,0 +1,16 @@
+{
+  "total_raw": 451,
+  "dup_title": 310,
+  "no_date": 0,
+  "too_old": 81,
+  "gate1_fail": 8,
+  "gate2_fail": 14,
+  "passed": 38,
+  "gate2_samples": [
+    "Could Pfizer Ultimately Be the Biggest Winner in the $100 Billion Weight-Loss Market? - The Globe an",
+    "Pfizer scraps Seagen-developed ADC for solid tumors - BioSpace",
+    "MML Foreign Fund's Roche Holding AG(XSWX:ROP) Holding History - GuruFocus",
+    "Roche's Gazyva/Gazyvaro Lands Priority Review From US FDA in Nephropathy - Moomoo",
+    "FDA approves first oral PCSK9 inhibitor for managing cholesterol - Chemical & Engineering News"
+  ]
+}
