@@ -1,0 +1,16 @@
+{
+  "total_raw": 453,
+  "dup_title": 272,
+  "no_date": 0,
+  "too_old": 77,
+  "gate1_fail": 9,
+  "gate2_fail": 24,
+  "passed": 71,
+  "gate2_samples": [
+    "Pfizer scraps Seagen-developed ADC for solid tumors - BioSpace",
+    "Pfizer Suspends Popular Menopause Cream in India - Benzinga",
+    "Could Pfizer Ultimately Be the Biggest Winner in the $100 Billion Weight-Loss Market? - The Motley F",
+    "Lobbying Update: $1,440,000 of JOHNSON & JOHNSON SERVICES INC lobbying was just disclosed - Quiver Q",
+    "MML Foreign Fund's Roche Holding AG(XSWX:ROP) Holding History - GuruFocus"
+  ]
+}
