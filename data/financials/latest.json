@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T10:30:57.450588Z",
+  "updated_at": "2026-07-22T10:32:34.948297Z",
   "quarter": "2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -279,17 +279,17 @@
       "name": "大江",
       "ticker": "8436.TWO",
       "currency": "TWD",
-      "ar": 994056000,
-      "ar_prev": 948222000,
-      "ar_qoq": "+5%",
+      "ar": 974286000,
+      "ar_prev": 994056000,
+      "ar_qoq": "-2%",
       "ar_period": "QoQ",
-      "inventory": 736222000,
-      "inv_prev": 757185000,
-      "inv_qoq": "-3%",
+      "inventory": 724357000,
+      "inv_prev": 736222000,
+      "inv_qoq": "-2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "teva",

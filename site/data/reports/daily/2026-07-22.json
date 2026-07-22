@@ -1,0 +1,282 @@
+{
+  "date": "2026-07-22",
+  "generated_at": "2026-07-22T10:32:40.646159Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "novo_nordisk-2026-07-22-024",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Novo Nordisk accuses Eli Lilly of \"deceptive\" weight-loss drug ads - Axios",
+      "companies": [
+        "novo_nordisk",
+        "eli_lilly"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yWlY2LW0xUW9URjdTZjZQU2NXQXBrRVNCQVhvSHlDR1Mza3dvTVBJWHF6ckNLNmkxUi1nMjNJdEV2WG1HVC1ESE01R3diQ21vVEZCMVE5dktfRUg4VDhzTzJsbW5CRVktdkV2X21GV3M?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "novo_nordisk-2026-07-22-027",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Novo Nordisk issues warning letter to Eli Lilly following lawsuit: Stop advertising within 48 hours - medwatch.com",
+      "companies": [
+        "novo_nordisk",
+        "eli_lilly"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51UFNxd1BzVUttdF9yNTZCMFNGVkdoa2w1T1ZpYWJKYVRxbS04aGRTbTVzVmt6RW5fM09XdmFjQXZLQ0Z1cEdaZmlUTU90UDQ3emxmRndCOE54LV9YOFNqclJQanB3bk1qZl8wcVdkTQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "teva-2026-07-22-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Teva Pharmaceutical Industries (TEVA) Projected to Post Earnings on Wednesday - MarketBeat",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb0d0WXZDNjhBZFZEaHVBd3lGMldJQkpEX3FFTThHTHgya1hHNHJGamZTYWJRWkp6QjRNWkptZ0l3aHBBYnpqcldTdm9vYXBWY0FZdlM1ZnVjWGZYS195ZG5jZnNxWjFBaGk0d0tFQ25MajdvdkxPX01ibnp1Q0RFSU42NEp1UUdBTUg3Um1NSTJPRnluMWFxcFVFZHgzWmxxQ2FpeUsyTHJrSndfR1FmUWF1Rk84SERsWGVBQUZzVFZCaTVUNF9EVA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-22-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Threat Or Opportunity? How Trump's Generic Drug Tariff Plan Could Impact Indian Pharma Stocks - NDTV Profit",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZ2RYdzZIUXNEYllLV2tXNm1SN3lsMkVad0VaUzdWanAtdi1oR0toRjZoUWlHbS1RR3JLMkVrZnpsY010VjN2eDFYSVlPcWFuWnFfOWhDT25NMnZUeEJ4NGFUbzl4NDlQTWM4amNYd2NXci04aEhZX2xZSlZmbFNnRUQ3RVBRYWhUQ1RxVS13Y1JBQ183bXhySVhBREZzRDd4eTZ2aVltRDVtMUVFS2tyUk56YWFuWkRaVFR6MzVQbEd2LUF4Zkh2ZEVVT3FPVXI0OXd3V3AzeE1zUHlza1l3R2d5eTI1d2tmWW90NdIB9AFBVV95cUxQOE8tMnIzbGJYRnNXYVp1dnV6anp1Z3A5RVU5WF94S3M4ZUtVajZZTnBEdmNuVWdzbGpUN3RJUXFDM05UMk41Y0M3OXB2dUhTRU1fcmh0dEFfVVMyc2RKdzVRU2V2akxZamZVN2VINGdqNW1kRzZXMm1zUS1lREFydzBtcTNlUmUtaWczSEJ4dHE5STgwWDBjMk54cUdEdXIxak1vNmZkc3czdkFMSHZ6MjNhOVFVS0VjRWNLbEZTYk5CcXV1Z3ZETDV3VFA5Zlp3eE9KcXJHQ09zb0dUYzFkMkk3a3JmSEhpakhDMDhwcU5Od3FZ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "sun_pharma-2026-07-22-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Buy, Sell Or Hold: SBI Funds, Waaree Energies, Sun Pharma, HDFC Bank, Paisalo, M&M Finance — Ask Profit - NDTV Profit",
+      "companies": [
+        "sun_pharma"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObnQwd3BEcEl3cVZwZDJKeUVWTXpBZjg5RnVrdFptODBKdURPOWNnZ2J6S1FjQjdSWjllUW4xWEtMTGNnVWN5S0NLTnRtbEdzRW5pMHlzclAwLUtreWZFMmFyR0F3YXRqSkVOTlRmMEdqRkpKR1JRSmNxOTVPc3dIMTZnUmhjc1A1VzVDQVRLYjh4bXBLN01vLXRBMHQzVThteVZpSXBNdTJEWFVCVWlqN1F3TEtoWEYzSld5ZjNDQkFTUHo3Rm1VWHFMUDhYRnhmM2VGdUdVc1lOV2PSAeMBQVVfeXFMT0s0VENCYmJ5TUtoMF9qbDVEaWhTVFZqbnRkVTNyVFI0WVVRS053MWczZ3dIYTJBTmgweFprbXhyNUhPLXdIdG5MSElndzRwbW1LN2FZUkV0NWRzaEdYVElvNTl6LVpDbjVMc0labHRiNXExSlY3LTJ5LXZlZEROaTNkcDVUb1R1LS1SVDBMbFh3VWJlNnNKYmNJYmc2eEd3ZW5vem9YaXZySi01MVFHdTRiZXppV1gyd0NHSHVHdXZuU0RFOW50NTVWNDRiWVlSSDNxaE9NaEwzT2pHaTJsOTMyZ0E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 25,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 22,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "eli_lilly",
+      "to": "novo_nordisk",
+      "relation": "co_mention",
+      "co_mention_count": 4,
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 33,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 30,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "lonza",
+        "count": 8
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 5
+      },
+      {
+        "id": "jnj",
+        "count": 4
+      },
+      {
+        "id": "eli_lilly",
+        "count": 4
+      },
+      {
+        "id": "teva",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 25
+      },
+      {
+        "id": "industry_general",
+        "count": 22
+      },
+      {
+        "id": "earnings",
+        "count": 12
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 1
+      },
+      {
+        "id": "biotech_funding",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 453,
+    "dup_title": 236,
+    "too_old": 68,
+    "gate1_blocked": 13,
+    "gate2_blocked": 24,
+    "passed": 112,
+    "pass_rate": "51.6%",
+    "gate2_block_rate": "11.1%",
+    "gate2_samples": [
+      "Adani Energy Solutions among 4 large-caps that hit 52-week highs & rallied up to 16% in a month - Th",
+      "Pfizer scraps Seagen-developed ADC for solid tumors - BioSpace",
+      "Johnson & Johnson vs Abbott Laboratories: Two Healthcare Giants on Opposite Trajectories - 24/7 Wall",
+      "Roche Holding (SWX:ROP) Won FDA Priority Review, Is The 5% Discount Still There? - simplywall.st",
+      "MML Foreign Fund's Roche Holding AG(XSWX:ROP) Holding History - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 33 則事件，焦點為Lonza、Novo、J&J相關動態：「Novo Nordisk accuses Eli Lilly of \"deceptive\" weight-loss...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Novo Nordisk accuses Eli Lilly of \"deceptive\" weight-loss drug ads - Axios（藥物核准、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Novo Nordisk issues warning letter to Eli Lilly following lawsuit: Stop adver...（藥物核准）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
