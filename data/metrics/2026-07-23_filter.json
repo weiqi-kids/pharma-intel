@@ -1,0 +1,16 @@
+{
+  "total_raw": 453,
+  "dup_title": 219,
+  "no_date": 0,
+  "too_old": 68,
+  "gate1_fail": 17,
+  "gate2_fail": 30,
+  "passed": 119,
+  "gate2_samples": [
+    "A Look at Dr Reddy's Laboratories Ltd (RDY) After 9.4% Decline -- GF Value $14.70 vs Price $11.38 - ",
+    "Dr. Reddy's Laboratories (NYSE:RDY) Sets New 12-Month Low - Time to Sell? - MarketBeat",
+    "Lonza lifts margin target, repeats latter half of 2026 to be slower - marketscreener.com",
+    "Could Pfizer Ultimately Be the Biggest Winner in the $100 Billion Weight-Loss Market? - The Motley F",
+    "Johnson & Johnson Receives FDA Market Authorization in the U.S. for its OTTAVA™ Robotic Surgical Sys"
+  ]
+}

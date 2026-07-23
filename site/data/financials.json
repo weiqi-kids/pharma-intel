@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-22T10:32:34.948297Z",
-  "quarter": "2025-12-31, 2026-03-31",
+  "updated_at": "2026-07-23T10:30:17.870028Z",
+  "quarter": "2025-12-31, 2026-03-31, 2026-06-30",
   "companies": [
     {
       "id": "abbvie",
@@ -143,17 +143,17 @@
       "name": "龍沙",
       "ticker": "LONN.SW",
       "currency": "CHF",
-      "ar": 1062000000,
-      "ar_prev": 1805000000,
-      "ar_qoq": "-41%",
+      "ar": 1920000000,
+      "ar_prev": 1062000000,
+      "ar_qoq": "+81%",
       "ar_period": "QoQ",
-      "inventory": 1680000000,
-      "inv_prev": 1843000000,
-      "inv_qoq": "-9%",
+      "inventory": 1880000000,
+      "inv_prev": 1680000000,
+      "inv_qoq": "+12%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "mckesson",
