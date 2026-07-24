@@ -1,0 +1,16 @@
+{
+  "total_raw": 451,
+  "dup_title": 238,
+  "no_date": 0,
+  "too_old": 68,
+  "gate1_fail": 10,
+  "gate2_fail": 26,
+  "passed": 109,
+  "gate2_samples": [
+    "Dr. Reddy's Laboratories (NYSE:RDY) Sets New 12-Month Low - Time to Sell? - MarketBeat",
+    "Lonza lifts margin target, repeats latter half of 2026 to be slower - marketscreener.com",
+    "Samsung, Celltrion Join Nectin-4 ADC Race, Challenging Pfizer's Padcev Dominance - finance.biggo.com",
+    "Johnson & Johnson wins FDA nod for Ottava surgical robot - MassDevice",
+    "Johnson & Johnson vs Abbott Laboratories: Two Healthcare Giants on Opposite Trajectories - 24/7 Wall"
+  ]
+}

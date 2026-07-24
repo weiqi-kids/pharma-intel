@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T10:30:17.870028Z",
+  "updated_at": "2026-07-24T10:26:23.906272Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-06-30",
   "companies": [
     {
@@ -92,17 +92,17 @@
       "name": "瑞迪博士",
       "ticker": "RDY",
       "currency": "USD",
-      "ar": 101219000000,
-      "ar_prev": 103206000000,
-      "ar_qoq": "-2%",
+      "ar": 100557000000,
+      "ar_prev": 101219000000,
+      "ar_qoq": "-1%",
       "ar_period": "QoQ",
-      "inventory": 76531000000,
-      "inv_prev": 79009000000,
-      "inv_qoq": "-3%",
+      "inventory": 80473000000,
+      "inv_prev": 76531000000,
+      "inv_qoq": "+5%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "eli_lilly",
@@ -194,17 +194,17 @@
       "name": "諾華",
       "ticker": "NVS",
       "currency": "USD",
-      "ar": 9386000000,
-      "ar_prev": 8937000000,
-      "ar_qoq": "+5%",
+      "ar": 9636000000,
+      "ar_prev": 9386000000,
+      "ar_qoq": "+3%",
       "ar_period": "QoQ",
-      "inventory": 6286000000,
-      "inv_prev": 6269000000,
-      "inv_qoq": "+0%",
+      "inventory": 6220000000,
+      "inv_prev": 6286000000,
+      "inv_qoq": "-1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "novo_nordisk",

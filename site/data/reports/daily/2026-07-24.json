@@ -1,0 +1,271 @@
+{
+  "date": "2026-07-24",
+  "generated_at": "2026-07-24T10:26:27.718916Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sun_pharma-2026-07-24-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Sun Pharma Moves Closer To Record $12 Billion Organon Deal After Shareholders Approval - NDTV Profit",
+      "companies": [
+        "sun_pharma"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeGdDbnljWUN6eUhoZExQNTJfUEVDZks4dHdMOWZtMUNCNHVCS1UwZjZLLWRBQ05DMVc0NVMybkYxX09RQzl1b0FlbFNsZjJ2SGdtVkJvTkJZMHlPZEdpUDZfdjhjMXludzJsOGd0TkFaQkpJLTYwdTAtbVB4UVZyNk5xbktzU1NMREhsUThIekZCS3hPOC1xNXd2WmxFSXkwQnlVdng2VlM3TXptRTVzUkRfYy10cWxSLVV2R2x5c1BEMUdFakYw0gHPAUFVX3lxTFBuTjJoZGdjN1NxaXBSQmY3dHZkVGZJSG1kUW1lRnliN3FUZG5DQ3VMTlNPdlZ3akI5RzZwWWpCZWNLUzBvTnVLMkV2NWRvY3ZDNTVNU2MyZWwzOWhmT2QtTVhMYUdObVVOb3N4MWFNblg0cHg4SlhNck1Pa09FUTlRUFE3NXBQRUpVYUVCUnpMSTQ3TUt4VlJFb01xbjBvaE1ubzhfRjVBbTloQk5qa1NTM053LXUyX09FTGN5NWJLd3F0b25Eam1NLUM2R2lpaw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "eli_lilly-2026-07-24-020",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Novo Nordisk seeks preliminary injunction against Lilly weight-loss ads - Euronext Markets: Real-time Stock Market Data | live",
+      "companies": [
+        "eli_lilly",
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORkk2blpqUk9BemlLLXlqc0dtNXc4UDdIbDN1OHFYSFd6ZmdkTUdsUWQzUS14RWRKcV9nOEQxU3VZUHZqc3pOMmgzMGJKUElMaUhpYTZmYjVlWmtMUWIwUjZCTGMzUE9WS2F2SE5QMmhmTVNuUGtrM3dPMWI1ZklnM0dNVVBHbEYxcTFZNjRTdTV2TldhRUpPa0tYOWdKX0UwNWhhXy1QSkJVRlZlUUZxQ3loWVg3UQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lonza-2026-07-24-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lonza stock stabilizes as margin recovery and biotech demand shape outlook - Ad-hoc-news.de",
+      "companies": [
+        "lonza"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPV1JoV2w0amJIekVEdWlybWFxSmxFeVJCQlQtTlhNNmF3TmdvZXNWZ1JyMTFaSlltbEZubVBBQXJFcDNkUXMyRF9SMDgwRlpVQ3pSRXRsbS10UWFIZ2JNMzVoaTRONUh1MnRLVHBqZTM1bl9BbmZGLTVzUUEzdHBWNjBjNzZrTjZTdERDNGY0SWNFMTR5emtpV3E0SXJXQ0xHN0I2T29BTVhQUy1hTVc4NzlwRU9hcEFkbGZ5UFg5SE1jWlNLTXh4VkdsZG84Zw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "astrazeneca-2026-07-24-018",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AstraZeneca PLC expected to post earnings of $2.54 a share - Earnings Preview - TradingView",
+      "companies": [
+        "astrazeneca"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZW5OeTJWVk5QazFSYk5wSHl4U2tVbmtEUFB5MnRURDN4YUR6SWFqTG9DNzV3XzBwNDAxd1FmcHJjYlJJakpLODhmU0xFeHJIR1ItQTNSNmlDYWhudEloa1cwMWc0elBUOWgtZlZJQXY2NWNZN0NsLU0yYlhNckRNRFdnSFR2NHV4NVUyUTBKeEVCa01ZSEtOSkdIMlVqZk12UzJTcGdhUjhxcEd6S0ppdkdFVm14Xzd6QkF5aGptWG82bjFHMGNHaF9EQ3Q2VnBvZ3RHSmhRSDFxcWk5?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "eli_lilly-2026-07-24-019",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Novo Nordisk seeks court order to halt Eli Lilly drug ads - Investing.com",
+      "companies": [
+        "eli_lilly",
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc09TT3ZaQURBQ3BaU0oxU0dpQVpiMlkxd3FsX0dRMll2ckdITFNCbWhxVE1ydmJRZWFhOXZwZmx2R0V5OXBjR0U4OEZGOU9ETDB1NUIwbXNzZ3N4aGRoMHJ1R2V6UEpBOUt4ZThtNklDcG1hemlqRlNQc2hhakJyTTd0UHMxSmY3eXU4YnJvRUlLell5UzBxWTV4Qi1xa1VnTWl1cE9aVGRYY3JQa1JjUktpYXMtMmdfM0Mw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "eli_lilly",
+      "to": "novo_nordisk",
+      "relation": "co_mention",
+      "co_mention_count": 4,
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 27,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 24,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "sun_pharma",
+        "count": 5
+      },
+      {
+        "id": "jnj",
+        "count": 5
+      },
+      {
+        "id": "astrazeneca",
+        "count": 4
+      },
+      {
+        "id": "eli_lilly",
+        "count": 4
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 24
+      },
+      {
+        "id": "drug_approval",
+        "count": 19
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "biotech_funding",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 451,
+    "dup_title": 238,
+    "too_old": 68,
+    "gate1_blocked": 10,
+    "gate2_blocked": 26,
+    "passed": 109,
+    "pass_rate": "51.2%",
+    "gate2_block_rate": "12.2%",
+    "gate2_samples": [
+      "Dr. Reddy's Laboratories (NYSE:RDY) Sets New 12-Month Low - Time to Sell? - MarketBeat",
+      "Lonza lifts margin target, repeats latter half of 2026 to be slower - marketscreener.com",
+      "Samsung, Celltrion Join Nectin-4 ADC Race, Challenging Pfizer's Padcev Dominance - finance.biggo.com",
+      "Johnson & Johnson wins FDA nod for Ottava surgical robot - MassDevice",
+      "Johnson & Johnson vs Abbott Laboratories: Two Healthcare Giants on Opposite Trajectories - 24/7 Wall"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 27 則事件，焦點為Sun Pharma、J&J、AZ相關動態：「Sun Pharma Moves Closer To Record $12 Billion Organon Dea...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Sun Pharma Moves Closer To Record $12 Billion Organon Deal After Shareholders...（法說會、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Novo Nordisk seeks preliminary injunction against Lilly weight-loss ads - Eur...（藥物核准、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

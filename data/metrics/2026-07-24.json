@@ -1,0 +1,76 @@
+{
+  "date": "2026-07-24",
+  "total_events": 27,
+  "by_company": {
+    "teva": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "sun_pharma": {
+      "count": 5,
+      "sentiment_avg": -0.2
+    },
+    "lonza": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "jnj": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "astrazeneca": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "eli_lilly": {
+      "count": 4,
+      "sentiment_avg": -0.25
+    },
+    "novo_nordisk": {
+      "count": 4,
+      "sentiment_avg": -0.25
+    },
+    "sanofi": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "mckesson": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "drug_approval": {
+      "count": 19,
+      "sentiment_avg": -0.05
+    },
+    "industry_general": {
+      "count": 24,
+      "sentiment_avg": -0.04
+    },
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": -0.33
+    },
+    "biotech_funding": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "eli_lilly",
+      "to": "novo_nordisk",
+      "relation": "co_mention",
+      "co_mention_count": 4,
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ]
+    }
+  ]
+}
