@@ -1,0 +1,272 @@
+{
+  "date": "2026-07-25",
+  "generated_at": "2026-07-25T09:56:01.363547Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lonza-2026-07-25-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lonza Group stock steadies as investors weigh weaker 2024 guidance and new biologics focus - AD HOC NEWS",
+      "companies": [
+        "lonza"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM081Q2lQV3RsVVR5ZUdZS0hkOEdMd21tcmpEZHBuVzE1SjlFdXNySDY0b1pXeU9ZakVyX3U0RVdnQVhWcGxFRUk3aXdWWktNMjNDSENkVjZRaXItX0l0WERZemF2NkZadzMxeW82Y0pqcVFneEZja1VxWlhNVk1BbEsyVXZBcENpMWFYRW1YWVYxVjZJNHFEM0Y2RWFRWWtyQ0hFdHRRbzlXTXVNZkZkU0lsWFNMMVF4ekFES21qRUNkVzJBSy02V0tLelhHdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "merck-2026-07-25-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Merck & Co. stock holds after recent earnings and pipeline data - AD HOC NEWS",
+      "companies": [
+        "merck"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOTM5ajBsbnAxMzNYZFVDQ1VvOE92aHhhRUVETDNWSU4tY0VHaXhCQTl6ZzRqLUp0Nk1VN2JaSldYRlRsYmllUERYVmcyVGduWVJaOENFRGp6SWRMLUJTQVc2UTAza2pHOEpkVndZYW1hUmZXRTV3WVRJalNDOVFqMDVMZUpfZzNTWEV5OVJBTFFpMzE4X1JqaThIVkZMOHFzMUhCM1lyZnFSM1lxb19VeE9xSlN0czdmM3M1QkNYUkE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "sanofi-2026-07-25-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sanofi stock trades steady as investors weigh diabetes franchise and recent earnings trends - AD HOC NEWS",
+      "companies": [
+        "sanofi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVklRY05fM1IyckpGcTZ1MHl6X0xaSXktS0JTRDB0UDZNOGlmblhVenRQYTIxTWZHYUd0ZDl2TlZHY0ZFdGZGYnBuYjdwRXc3ZE5xRGV5dEhqN1lxRC1kRzdkQktoTWdyYVItVkdxR2xxSXJIQlNwd09RZlZ4QWNiOFQ3STJhZFdjREh1MVk3TndUYk1mTDhLOXI0QklwQ1lNUk91eUwzUUs4WHJwLUVzM3hhNnhTSnJ6bktYTGxZMk1TRkRrdHc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "eli_lilly-2026-07-25-004",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "This Week's Top 5: J&J, Eli Lilly's Bet and BMS's AI Factory - Healthcare Digital",
+      "companies": [
+        "eli_lilly",
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTnJMMzVRbWRCQVJyaG1DRW51QndzVDZHOU9JUzRSZHZNZjZqLVF4alZnVnVjQ0Z6czZYXy11SU9zSVlOQXQ0YUlERHdHZ285UTdqOG5OeHJSaGltZURZUF92MXNsbFN3em9aeWppZE54RkhSN2c5ai1ua2lvLW1hZVZRNnMtelZ6SUxFNzYyaEhUcHc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "eli_lilly-2026-07-25-007",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "The Oral GLP-1 Tracker: Obesity prescriptions jump for both Novo and Lilly - Fierce Pharma",
+      "companies": [
+        "eli_lilly",
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVUl1anVGbWRDTnRCUVVGWkU3V1NLZkI4TVpVamVheHZEWV9DSksyZC11NHpRcGl4b2g3TG9LUjNqcUNGamJYVUxHMWVWNnJZUzJKWFpaMHdqZ01Fb0M3LTJCcHZHR2sxOElyNk0wNFgtOW45endMcjRFcmZNd2ItSUwwSVdsUEN1Tkt6SnNuNGVWeVNjMTM0WW5mYmpoTWxzaVNhdTNLT1RNQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.07,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "eli_lilly",
+      "to": "novo_nordisk",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "glp1_obesity",
+        "drug_approval",
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 10,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "eli_lilly",
+        "count": 3
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 3
+      },
+      {
+        "id": "dr_reddy",
+        "count": 2
+      },
+      {
+        "id": "sanofi",
+        "count": 2
+      },
+      {
+        "id": "lonza",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 9
+      },
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 455,
+    "dup_title": 265,
+    "too_old": 69,
+    "gate1_blocked": 11,
+    "gate2_blocked": 34,
+    "passed": 76,
+    "pass_rate": "40.0%",
+    "gate2_block_rate": "17.9%",
+    "gate2_samples": [
+      "Dr. Reddy's Laboratories (NYSE:RDY) Sets New 12-Month Low - Time to Sell? - MarketBeat",
+      "Lonza lifts margin target, repeats latter half of 2026 to be slower - marketscreener.com",
+      "Could Pfizer Ultimately Be the Biggest Winner in the $100 Billion Weight-Loss Market? - The Motley F",
+      "J&J gets FDA authorization for Ottava robot, teeing up competition with Intuitive - MedTech Dive",
+      "J&J enters US robotic surgery market after device gets marketing authorization - Reuters"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為Lilly、Novo、Dr. Reddy's相關動態：「Lonza Group stock steadies as investors weigh weaker 2024...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Lonza Group stock steadies as investors weigh weaker 2024 guidance and new bi...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Merck & Co. stock holds after recent earnings and pipeline data - AD HOC NEWS（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

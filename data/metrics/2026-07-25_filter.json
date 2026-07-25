@@ -1,0 +1,16 @@
+{
+  "total_raw": 455,
+  "dup_title": 265,
+  "no_date": 0,
+  "too_old": 69,
+  "gate1_fail": 11,
+  "gate2_fail": 34,
+  "passed": 76,
+  "gate2_samples": [
+    "Dr. Reddy's Laboratories (NYSE:RDY) Sets New 12-Month Low - Time to Sell? - MarketBeat",
+    "Lonza lifts margin target, repeats latter half of 2026 to be slower - marketscreener.com",
+    "Could Pfizer Ultimately Be the Biggest Winner in the $100 Billion Weight-Loss Market? - The Motley F",
+    "J&J gets FDA authorization for Ottava robot, teeing up competition with Intuitive - MedTech Dive",
+    "J&J enters US robotic surgery market after device gets marketing authorization - Reuters"
+  ]
+}
