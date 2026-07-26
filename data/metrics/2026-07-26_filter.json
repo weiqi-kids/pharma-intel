@@ -1,0 +1,14 @@
+{
+  "total_raw": 80,
+  "dup_title": 59,
+  "no_date": 0,
+  "too_old": 7,
+  "gate1_fail": 10,
+  "gate2_fail": 3,
+  "passed": 1,
+  "gate2_samples": [
+    "Novo escalates legal fight with Lilly; J&J reinforces ‘dominance’ in multiple myeloma",
+    "FDA panel endorses broader use of certain peptides",
+    "Updated: FDA adcomm backs popular wellness peptides, despite staff concerns"
+  ]
+}
