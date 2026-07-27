@@ -1,0 +1,275 @@
+{
+  "date": "2026-07-27",
+  "generated_at": "2026-07-27T11:32:28.945262Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "astrazeneca-2026-07-27-029",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "AstraZeneca outperforms earnings consensus, confirms financial targets - medwatch.com",
+      "companies": [
+        "astrazeneca"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xMkhFTnlUOUptbWtKYUFFVm1EeWtieDl1N2pMSDkwUnpYOGJHWGJrb19iSFA1M2Z6WnExRnFUU3BlRVRxd2Uzb2RCN09tRkFZenZWQWlyWi0xM2VHVTU0NVJBeXZ3YllqOTd3MUUtTQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lonza-2026-07-27-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lonza Group stock holds as 2025 sales and profit metrics frame the trade - Ad-hoc-news.de",
+      "companies": [
+        "lonza"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQb1ZLa0wxSVY2eWVPdU44VUVYRUF5dC1Rakt5Zm9DODRhZF9UZWRsMEJ3RHUwRy1XcmFtYmxlem1aMGdxanc2Q1VjNDhNRGRCZFQySmhEWW8xeUVYRTNXU2R4RzF1NXphOWtWaTNzQ0Z0ZXY4OEw0RkZXY1JGU3NndHBzSHRUVC1HeFFTOW4xOWgzYjVzMEJEeG5OTFpnbkc5QXQtOG1FN2JCVTFqaExqYUxiYnVmVFIwQVAzZXc3aGZKdmRnS2RNNGpQdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "astrazeneca-2026-07-27-013",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AstraZeneca quarterly net profit rises 2% on strong cancer drug sales - Yahoo Finance UK",
+      "companies": [
+        "astrazeneca"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVENodFMwMUdkMEdLMkk1UXpUN3pJeGZuaWRRWmJtYXNqcmNrMVdPT0U0WDl6WWRLMS1KWUpLWFlEUUR1SHNUbjdWRTNzbFd3Qm9wdS1ZaWZCT1V6enZMWExBdEFraDRPRHl5R1A1OWZsZEVKTHFjUy1TZjIwYUQwMXJONENkZmR0MUg1QThrRXo?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "astrazeneca-2026-07-27-015",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Oil price slides as US and Iran pause fire; cancer treatments help AstraZeneca beat profit forecasts – business live - The Guardian",
+      "companies": [
+        "astrazeneca"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ09mQkd5Z1p1X011STZEd0pxaDYtdEc5TkJDTjlHRnBDVmpnTlQ1NmJJZVJYaUNwbHo1Tnd4UnR4VkNQY09PQjN6YWdTX0VTLVNzQnBqajZfVU1LaUtNOW0tNG1HV2FCZU9YNzd6ek80bWp4Z1FPZEk3SmdyeFk1UVRVZ2dPTnVUZV94R2g5WmdUZ0tOaVVxRW4xRjdaUXhMMm1zQmpPSnhwSHd5S203RVpVTGRPaEVLUGZITnFR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "astrazeneca-2026-07-27-016",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AstraZeneca profit beat, bullish tone ease investor angst over drug pipeline - Reuters",
+      "companies": [
+        "astrazeneca"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYnNMUmJtT0pYWDNuXzNxZjJvVUc1MkZZM1haazV0VURoSzZUMmZIakdjbHhzc28wUy00Wm14V21RSUV2UTZFeVlyMm1QZWxUYkMyZ01FQTFxTkFsWHV0X2xDUnNQeVNxTW5VcndyTEMxd20xb0xFb0Q1a2Rfc1AwcnBjaC1MNWNVRkRKMDROOEUwV1B2WHR3VklWVzBSMDVId1N3TWtyT2MtZDRWdm5HMkZxVEZSNWhJRkN3UFZiRWVsMzV2bDFQUjJJR1ZiNVVXNkdwZQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 37,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 37,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 44,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 35,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "astrazeneca",
+        "count": 21
+      },
+      {
+        "id": "sun_pharma",
+        "count": 3
+      },
+      {
+        "id": "jnj",
+        "count": 2
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 2
+      },
+      {
+        "id": "pfizer",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 37
+      },
+      {
+        "id": "industry_general",
+        "count": 37
+      },
+      {
+        "id": "earnings",
+        "count": 12
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 2
+      },
+      {
+        "id": "patent_cliff",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 454,
+    "dup_title": 254,
+    "too_old": 77,
+    "gate1_blocked": 12,
+    "gate2_blocked": 33,
+    "passed": 78,
+    "pass_rate": "39.0%",
+    "gate2_block_rate": "16.5%",
+    "gate2_samples": [
+      "Teva's Turnaround Is Working. Here's the 1 Thing That Could Send It Soaring Another 50%. - The Motle",
+      "Dr. Reddy's Laboratories (NYSE:RDY) Sets New 12-Month Low - Time to Sell? - MarketBeat",
+      "Lonza Group Ltd (LONN) Gets a Buy from Bernstein - The Globe and Mail",
+      "Johnson & Johnson Receives FDA Market Authorization in the U.S. for its OTTAVA™ Robotic Surgical Sys",
+      "J&J enters US robotic surgery market after device gets marketing authorization - Reuters"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 44 則事件，焦點為AZ、Sun Pharma、J&J相關動態：「AstraZeneca outperforms earnings consensus, confirms fina...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "AstraZeneca outperforms earnings consensus, confirms financial targets - medw...（藥物核准、法說會、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Lonza Group stock holds as 2025 sales and profit metrics frame the trade - Ad...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

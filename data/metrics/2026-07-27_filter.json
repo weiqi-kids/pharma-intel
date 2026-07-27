@@ -1,0 +1,16 @@
+{
+  "total_raw": 454,
+  "dup_title": 254,
+  "no_date": 0,
+  "too_old": 77,
+  "gate1_fail": 12,
+  "gate2_fail": 33,
+  "passed": 78,
+  "gate2_samples": [
+    "Teva's Turnaround Is Working. Here's the 1 Thing That Could Send It Soaring Another 50%. - The Motle",
+    "Dr. Reddy's Laboratories (NYSE:RDY) Sets New 12-Month Low - Time to Sell? - MarketBeat",
+    "Lonza Group Ltd (LONN) Gets a Buy from Bernstein - The Globe and Mail",
+    "Johnson & Johnson Receives FDA Market Authorization in the U.S. for its OTTAVA™ Robotic Surgical Sys",
+    "J&J enters US robotic surgery market after device gets marketing authorization - Reuters"
+  ]
+}
