@@ -1,0 +1,16 @@
+{
+  "total_raw": 456,
+  "dup_title": 261,
+  "no_date": 0,
+  "too_old": 85,
+  "gate1_fail": 13,
+  "gate2_fail": 29,
+  "passed": 68,
+  "gate2_samples": [
+    "Teva's Turnaround Is Working. Here's the 1 Thing That Could Send It Soaring Another 50%. - The Motle",
+    "Dr. Reddy's Laboratories (NYSE:RDY) Sets New 12-Month Low - Time to Sell? - MarketBeat",
+    "Lonza Group Ltd (LONN) Gets a Buy from Bernstein - The Globe and Mail",
+    "Johnson & Johnson's talc settlement ends one fight. The casualty market's bigger problem remains - I",
+    "Johnson & Johnson reaches proposed $5.5B talcum powder settlement - upi.com"
+  ]
+}
