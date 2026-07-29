@@ -1,0 +1,198 @@
+{
+  "date": "2026-07-29",
+  "date_range": {
+    "start": "2026-07-23",
+    "end": "2026-07-29"
+  },
+  "generated_at": "2026-07-29T10:46:21.557041Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "novo_nordisk-2026-07-28-062",
+      "date": "2026-07-28",
+      "title": "FDA offers updated guidance for generics of weight loss blockbusters",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "drug_approval": {
+      "this_week": 123,
+      "last_week": 88,
+      "week_over_week_change": "+40%",
+      "sentiment_this_week": 0.01
+    },
+    "industry_general": {
+      "this_week": 130,
+      "last_week": 90,
+      "week_over_week_change": "+44%",
+      "sentiment_this_week": 0.03
+    },
+    "patent_cliff": {
+      "this_week": 5,
+      "last_week": 1,
+      "week_over_week_change": "+400%",
+      "sentiment_this_week": 0.1
+    },
+    "earnings": {
+      "this_week": 31,
+      "last_week": 27,
+      "week_over_week_change": "+15%",
+      "sentiment_this_week": 0.02
+    },
+    "glp1_obesity": {
+      "this_week": 6,
+      "last_week": 9,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    },
+    "biotech_funding": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "teva": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "lonza": {
+      "event_count": 6,
+      "sentiment_avg": -0.08,
+      "rank": 8
+    },
+    "jnj": {
+      "event_count": 24,
+      "sentiment_avg": 0.02,
+      "rank": 2
+    },
+    "roche": {
+      "event_count": 6,
+      "sentiment_avg": 0.08,
+      "rank": 9
+    },
+    "astrazeneca": {
+      "event_count": 34,
+      "sentiment_avg": 0.09,
+      "rank": 1
+    },
+    "merck": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "cardinal": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "pfizer": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "sun_pharma": {
+      "event_count": 8,
+      "sentiment_avg": -0.12,
+      "rank": 6
+    },
+    "eli_lilly": {
+      "event_count": 8,
+      "sentiment_avg": -0.12,
+      "rank": 7
+    },
+    "novo_nordisk": {
+      "event_count": 13,
+      "sentiment_avg": -0.08,
+      "rank": 3
+    },
+    "sanofi": {
+      "event_count": 4,
+      "sentiment_avg": -0.12,
+      "rank": 11
+    },
+    "mckesson": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "dr_reddy": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "catalent": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 422,
+        "last": 496,
+        "change_pct": -14.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-23",
+      "event_count": 120,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-07-24",
+      "event_count": 81,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-07-25",
+      "event_count": 22,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-07-26",
+      "event_count": 14,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-07-27",
+      "event_count": 89,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-07-28",
+      "event_count": 75,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-07-29",
+      "event_count": 21,
+      "sentiment_avg": 0.02
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-23 ~ 2026-07-29）共 422 則事件，重點為「FDA offers updated guidance for generics of wei...」。產業通用、藥物核准、法說會為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "Teva",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Lonza",
+        "reason": "本週出現 6 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "J&J",
+        "reason": "本週出現 24 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

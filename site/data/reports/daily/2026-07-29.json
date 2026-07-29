@@ -1,0 +1,236 @@
+{
+  "date": "2026-07-29",
+  "generated_at": "2026-07-29T10:46:21.407184Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-29-017",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Leqembi records best quarter since launch as Biogen raises guidance",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://endpoints.news/leqembi-records-best-quarter-since-launch-as-biogen-raises-guidance/"
+    },
+    {
+      "rank": 2,
+      "event_id": "novo_nordisk-2026-07-29-015",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Novo Nordisk (NYSE:NVO) Stock Looks Undervalued On Cash Flow And Earnings - simplywall.st",
+      "companies": [
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaXdkTlBSN3pBa2hrb2VDbWFKa3JlenhBVmxXVkFXQVFYeElkNzNtaElNWEx5T014ZGR6NWJmTVNCNjJYS2VRS0hQb05DZHB4dTV0S2l5R1NiZHRQMk5BOTBtS0l3VnY4aXhwSmJQaEk4VHZUZ0lUYUotOGJldTZET2M0VWJpZFl2Tll1aXI5bXpCRjk0ZGN5bDVzMzRJU0RDaFRPWGtoNHpGbEhGVkNkdnBhci1NbDRnYkVPSXVTTDlEM040VXFyTVppUXJCQlRuS3pvRnYwN0RodG_SAeABQVVfeXFMTzNKeGg5RVB4SjFJcGhrOHI1WHFHVElmZVFTS3ZkUHFkX3FqUFFJdkltY0lncnhWV1ZORHN6RFBnWGVCMldoYVFCM0VIdzhIT2dWeTRPSjR4alBNU1phdlVMaXFwaDNaWVdVOXNXM0duWm02ZGdoUDZPcWRaUjcwdDROY24xamg0VHU2MWFjTG1ocWtUX1lwUi1FT3BMVkxPRWFlMUhuSHVnUkNOeGxPVUZHLXd4c1ppYmxTVDltX3ZNbWMtMmUzSHY0Um9CQ2NfM1NaQ2h2dmNDa0lIWmtRRS0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "pfizer-2026-07-29-016",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Pfizer (PFE) Stock Looks Fairly Valued With Strong Pipeline But Weaker Earnings - simplywall.st",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX0JPWXYybUxkc3ctVnJnZmcyVnVQcVRkNjlsVG1lNmlGYzByM0p4a3BJdVRvX0FXOUxHYmN0YkdkU3pzcUwzeGlSRFZ1NjVUQjVVUU5jLTNKa1hCVW1MWVBWLVg4VG5hUEhFa0hTWFJ5ZGVoeWVBVFZoQU9iUFdSYUhZaXhRTEtqX3NDYTlKSXpfQkxDeE5pQVlSYm1WVU1HdFllaUtMa1h0RWxGTllBazZ2UFZtVnJhR2hMZ2xWODlwMmNLM3pOVjBMNTU4R1VmaWo00gHYAUFVX3lxTFBGTWd0emdpVjdOSjZvbWFEeUlYT3gyQk1lM042eWo3NlhlWGxRV21oNlZuazE2Z09NQzl1Sm9xazAyam1HYkJUWFI3ZnRKU2hVY2d4MzRmYVNsQ1otRjRWSlRDZjlNOW9qUWNXbE5ieWszc0E3c3N6M0w2RlZrRnJjXzZFWTk3TWdTb2haV09ub0dacGNWQVBBOWhxVk9MMHJWZnYxMnBUNGlqZTF1OGNsSFZKTnBMbW5Sdllsc0stR045VjJWRTJ5VldQbXdDcHB6ajdBWDhVWA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "teva-2026-07-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Teva Pharmaceutical Industries Ltd. $TEVA Shares Purchased by ADAR1 Capital Management LLC - MarketBeat",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOR2tUR3FPQ1lteG51U0N6Q2otSEtHakt1dmRXWm4xeFVfMXFmMmZZeUozalhndDE5R1ptNnNZZ0FheUkwTnBtTDQ5a24tTmptRjQ2VlQzWG9uWTBSQkE4Q2JvVzBYcXc4UVlNZGtCeWlmWlpPVWxqVHFDRzNBVENIMXlzVFRxZ3kxUldfbXZ1bGVsbmhWVEk0X0FWSmtSWkczZW56cmd6X3BRNUhjSmRlZzE2MnNBdnlabGtteHpPOHZJc1NWbVUxbk5PQV9HNjdIYk5mcHdxVEpXb3BuYmdGcU5xZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "teva-2026-07-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "PNC Financial Services Group Inc. Has $2.88 Million Stock Holdings in Teva Pharmaceutical Industries Ltd. $TEVA - MarketBeat",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOTC14RGgtcEkyTVJjNUlsSkpISFRrcHBfS2pTbHBSVkhKRV9YRGdBYk4zYlhDaDZMbFl1UHlTOXo4ZW02NFR5emJGVHQ5ZkVBSE5pY05sYW4zNjh5MU1YTlRQME1SUnV5MlFrNHdQVlB2ZkU2b0RfSFFfbDhtWlhNVnhqMXROTVVXTU1FT3NLSWUxc0lpVjhRcDZicnZfRFlDYk9EV29xLVFDaVFmU3hWVEp1MVF6cV9QS1FiQkR5dHJEVzdaX0xnc3FXTUVnT0FpWFNkTTI3YVFJSnJOX3kwOWNnYkhEYzdqNjY1dzZuUWtPTUktNXpYZ0VJRQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 21,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 19,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "merck",
+        "count": 6
+      },
+      {
+        "id": "jnj",
+        "count": 3
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 3
+      },
+      {
+        "id": "teva",
+        "count": 2
+      },
+      {
+        "id": "pfizer",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 19
+      },
+      {
+        "id": "drug_approval",
+        "count": 12
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 455,
+    "dup_title": 252,
+    "too_old": 82,
+    "gate1_blocked": 12,
+    "gate2_blocked": 26,
+    "passed": 83,
+    "pass_rate": "40.9%",
+    "gate2_block_rate": "12.8%",
+    "gate2_samples": [
+      "RDY Investor Alert: Levi & Korsinsky Notifies Investors of Investigation Into Dr. Reddy’s Laboratori",
+      "Lonza Group Ltd (LONN) Gets a Buy from Bernstein - The Globe and Mail",
+      "Johnson & Johnson Introduces MONARCH™ Platform to the Middle East - Johnson & Johnson",
+      "Johnson & Johnson proposes $5.5 billion talc settlement to end marathon legal fight - AP News",
+      "President Trump Loves Johnson & Johnson (JNJ), But Insiders Are Selling - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 21 則事件，焦點為Merck、J&J、Novo相關動態：「Leqembi records best quarter since launch as Biogen raise...」。主要關注主題為產業通用、藥物核准、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Leqembi records best quarter since launch as Biogen raises guidance（法說會、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Novo Nordisk (NYSE:NVO) Stock Looks Undervalued On Cash Flow And Earnings - s...（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

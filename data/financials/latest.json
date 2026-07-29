@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T10:42:15.434813Z",
+  "updated_at": "2026-07-29T10:46:17.357632Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-06-30",
   "companies": [
     {
@@ -24,17 +24,17 @@
       "name": "阿斯特捷利康",
       "ticker": "AZN",
       "currency": "USD",
-      "ar": 14106000000,
-      "ar_prev": 15177000000,
-      "ar_qoq": "-7%",
+      "ar": 14330000000,
+      "ar_prev": 14106000000,
+      "ar_qoq": "+2%",
       "ar_period": "QoQ",
-      "inventory": 6570000000,
-      "inv_prev": 6557000000,
-      "inv_qoq": "+0%",
+      "inventory": 6932000000,
+      "inv_prev": 6570000000,
+      "inv_qoq": "+6%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "bora",

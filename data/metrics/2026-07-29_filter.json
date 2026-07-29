@@ -1,0 +1,16 @@
+{
+  "total_raw": 455,
+  "dup_title": 252,
+  "no_date": 0,
+  "too_old": 82,
+  "gate1_fail": 12,
+  "gate2_fail": 26,
+  "passed": 83,
+  "gate2_samples": [
+    "RDY Investor Alert: Levi & Korsinsky Notifies Investors of Investigation Into Dr. Reddy’s Laboratori",
+    "Lonza Group Ltd (LONN) Gets a Buy from Bernstein - The Globe and Mail",
+    "Johnson & Johnson Introduces MONARCH™ Platform to the Middle East - Johnson & Johnson",
+    "Johnson & Johnson proposes $5.5 billion talc settlement to end marathon legal fight - AP News",
+    "President Trump Loves Johnson & Johnson (JNJ), But Insiders Are Selling - Yahoo Finance"
+  ]
+}
