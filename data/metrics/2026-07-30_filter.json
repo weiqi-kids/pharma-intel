@@ -1,0 +1,16 @@
+{
+  "total_raw": 455,
+  "dup_title": 206,
+  "no_date": 0,
+  "too_old": 99,
+  "gate1_fail": 11,
+  "gate2_fail": 17,
+  "passed": 122,
+  "gate2_samples": [
+    "‘It is okay not to be okay’: NFL legend Terrell Davis partners with Teva to raise health awareness -",
+    "RDY Investor Alert: Levi & Korsinsky Notifies Investors of Investigation Into Dr. Reddy’s Laboratori",
+    "Levi & Korsinsky Notifies Investors of Pending - GlobeNewswire",
+    "Johnson & Johnson proposes $5.5 billion talc settlement to end marathon legal fight - AP News",
+    "Enron, Johnson & Johnson, and OpenAI Reveal the Same Disturbing Pattern - inc.com"
+  ]
+}
