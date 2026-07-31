@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-30T10:31:38.739002Z",
-  "quarter": "2025-12-31, 2026-03-31, 2026-06-30",
+  "updated_at": "2026-07-31T10:46:29.834941Z",
+  "quarter": "2026-03-31, 2026-06-30",
   "companies": [
     {
       "id": "abbvie",
@@ -41,17 +41,17 @@
       "name": "保瑞",
       "ticker": "6472.TW",
       "currency": "TWD",
-      "ar": 8789569000,
-      "ar_prev": 8079309000,
-      "ar_qoq": "+9%",
+      "ar": 9193318000,
+      "ar_prev": 8789569000,
+      "ar_qoq": "+5%",
       "ar_period": "QoQ",
-      "inventory": 3410446000,
-      "inv_prev": 3219678000,
-      "inv_qoq": "+6%",
+      "inventory": 3710242000,
+      "inv_prev": 3410446000,
+      "inv_qoq": "+9%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "cardinal",
@@ -249,13 +249,13 @@
       "ar_prev": 7810000000,
       "ar_qoq": "+8%",
       "ar_period": "QoQ",
-      "inventory": 23503000000,
-      "inv_prev": 10214000000,
-      "inv_qoq": "+130%",
+      "inventory": 24123000000,
+      "inv_prev": 23503000000,
+      "inv_qoq": "+3%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-03-31"
+      "alert": false,
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "sun_pharma",
@@ -296,17 +296,17 @@
       "name": "梯瓦",
       "ticker": "TEVA",
       "currency": "USD",
-      "ar": 3393000000,
-      "ar_prev": 3709000000,
-      "ar_qoq": "-9%",
+      "ar": 3493000000,
+      "ar_prev": 3393000000,
+      "ar_qoq": "+3%",
       "ar_period": "QoQ",
-      "inventory": 3176000000,
-      "inv_prev": 3179000000,
-      "inv_qoq": "-0%",
+      "inventory": 3221000000,
+      "inv_prev": 3176000000,
+      "inv_qoq": "+1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     }
   ]
 }

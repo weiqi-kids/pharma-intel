@@ -1,0 +1,16 @@
+{
+  "total_raw": 456,
+  "dup_title": 205,
+  "no_date": 0,
+  "too_old": 110,
+  "gate1_fail": 11,
+  "gate2_fail": 18,
+  "passed": 112,
+  "gate2_samples": [
+    "Teva’s $40 billion comeback brings Wall Street’s biggest prize into view - calcalistech.com",
+    "Levi & Korsinsky Notifies Investors of Pending - GlobeNewswire",
+    "RDY Investor Alert: Levi & Korsinsky Notifies Investors of Investigation Into Dr. Reddy’s Laboratori",
+    "Enron, Johnson & Johnson, and OpenAI Reveal the Same Disturbing Pattern - inc.com",
+    "Johnson & Johnson Introduces MONARCH™ Platform to the Middle East - Johnson & Johnson"
+  ]
+}
