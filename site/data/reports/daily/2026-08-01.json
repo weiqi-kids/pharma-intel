@@ -1,0 +1,246 @@
+{
+  "date": "2026-08-01",
+  "generated_at": "2026-08-01T10:05:50.992344Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-01-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Alnylam's slump deepens; Q2 earnings roundup; and more",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://endpoints.news/alnylams-slump-deepens-q2-earnings-roundup-and-more/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-01-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Dr Reddy’s gets US FDA approval for rituximab biosimilar; Fresenius Kabi to commercialise product - CNBC TV18",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "patent_cliff",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVVhyblJrdGp3eExXMG5TbmR5WUoyWEN4SnIxRzBEZERkZ1NwQ0lIWVhoeHdCY2dDTDhCbzU2amY1MjdfbGRaUGU4cjBfWWlfWVBET1N2T1lyT1NGZ3dfbGZqbkVrM3lvOXU4cGlEOUhUUmZmZ0NsZFlHLXgybjFtb1NrUzQ2TEZTU1ljU3VPTlBQa05nV2JyMkc0WWN1UG1ueWVnaGZFVDBISXB1ajRVWWNhUndRMkZ2NjFrS2pfaVJIRWdhd3JwZGhEOUJTQnM20gHWAUFVX3lxTFB6Wi0tYjQxdHJKZTNzT3hNTGhjY2IxcTdPSmphcUp1cmxqMGN0VU00cC1ydHBDdUh6V2MzUlVGV01UdGc1WVZsdzJ0bWJwT1ZEZ04yU0ktUzFsbGZHcGhOMVdrYmFRa0tWa1lCT3BZTS1RbEliY19YdUVuS0VTNUhxNkt3bjJwaWktaG56ZW1rSkgwbnh6djIxR2lyQUZuUXRkaFcyUW14WE9DWjRVQ29CUGVvMVB0RVNPc2pHVl91ZXlxbU50UGN4R2F3Zk4xYkJyVm5vOGc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "dr_reddy-2026-08-01-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Dr. Reddy's Laboratories wins U.S. FDA approval for rituximab biosimilar - scanx.trade",
+      "companies": [
+        "dr_reddy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "patent_cliff",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNDJUU25iemtINlRyOTdSVkFzY1hCZExSMEdBR2thcktXdzBKRGhsSmZIbEhxMTFZR0xjWlkwdWxZalJSWnlSSXRSZGRRb1FpTGQzalcyalZpV1pYQ1hDRHR3SUNMX0pRc29haVNDY2g5NUZNYldlSFF4T0ZpdGFSRkdlUGNKLXhvUldtYW1DRlJITm1wSllCb19GaFhaS3ZhQ2RXLTQyS0RmcXhOX0NOLVFWbjJib0xNM2pDSVluY29RQi14alE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "sun_pharma-2026-08-01-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sun Pharma’s Leqselvi tops 1000 prescribers in US; seasonal shifts hits Levulan - ET Pharma",
+      "companies": [
+        "sun_pharma"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMXZPZncwNFU3VGMtOTIxNmVhRFM3eVFwbERhYmFETGVQWGxwUFlnQ1hveWxSQWllYUVmSWp4WlRUX0V2V0NHY2lGbmtONUlqMEc5cnJlSTdkcGdIVkNkVm1MNHpfSGdVdXNadUVZN0xEeWhZQ0JzRTBLVV9VclIwZ25SOUlqY3FXZGE2VTBGZ1dkOFhhN2N3NWhvQTM5OVdhR0dLUklMMzE4U292Y3FSWnhOTm1IdUw1b09qQXJ4R2ljM1NaNXJGNTFRLXRPbGt2eHZxYXJtemtCdU55aUZ4NkZ6bTdSUmvSAewBQVVfeXFMUGhpQVY2czJGVkhFbGIyODFYQm9GTUEzd1M3M1BnYmRTWVFoU0pCYWUyOUlqY2xBd1RtdW5GOUJma1I1MlF4M0JsWTREM1hhc1F4c2ZReFYyQ21KUldvdi1rU1QwcWx5N0lLSGVBWmxoMWJHZzNqUGlRV3lJOHdoZ2VpRkNlQlJ4TnEycE16aFZ5TFlvOWdpTzZVM2NqMGVLWGROUW43b3BYaEJubUZCNFE0R0tjZHRGczRXTXdEd3R6V2hHZExUWmVzQThlZEZfNWUyRU9WeDdPeFRNck50ZFN1bU1HR1UtR0FBTHU?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "sun_pharma-2026-08-01-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sun Pharmaceutical concludes board meeting on July 31 - scanx.trade",
+      "companies": [
+        "sun_pharma"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWVZkRGZ6c1UzdE1ydFl2ZVFfR1BDa3VVUlV4eHpzYlBMYktqU1gtZzVacHQ0OUs1V21GRFNLaHppV0Z4OTF4LWVJcllieDdlcFZrNnRuVERVMWxEQ0swRml1azlDSV9YNTR6N2V4QWR3SmcwbVNiVXBqRmpQQUtMOHg1NGI0d1VmOTJNeFlwVnFiWkVVODZfTGJUdFB1Y0tZbHZ6Wl91WHJZTURXQ1dj?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "sun_pharma",
+        "count": 2
+      },
+      {
+        "id": "dr_reddy",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      },
+      {
+        "id": "drug_approval",
+        "count": 4
+      },
+      {
+        "id": "patent_cliff",
+        "count": 2
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 452,
+    "dup_title": 245,
+    "too_old": 89,
+    "gate1_blocked": 10,
+    "gate2_blocked": 16,
+    "passed": 92,
+    "pass_rate": "44.4%",
+    "gate2_block_rate": "7.7%",
+    "gate2_samples": [
+      "Dr. Reddy's Laboratories (RDY) Securities Investigation Notice - Levi & Korsinsky - PR Newswire",
+      "RDY Investor Alert: Levi & Korsinsky Notifies Investors of Investigation Into Dr. Reddy’s Laboratori",
+      "Levi & Korsinsky Notifies Investors of Pending - GlobeNewswire",
+      "Enron, Johnson & Johnson, and OpenAI Reveal the Same Disturbing Pattern - inc.com",
+      "Johnson & Johnson Introduces MONARCH™ Platform to the Middle East - Johnson & Johnson"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為Sun Pharma、Dr. Reddy's相關動態：「Alnylam's slump deepens; Q2 earnings roundup; and more」。主要關注主題為產業通用、藥物核准、專利懸崖，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Alnylam's slump deepens; Q2 earnings roundup; and more（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Dr Reddy’s gets US FDA approval for rituximab biosimilar; Fresenius Kabi to c...（藥物核准、專利懸崖、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

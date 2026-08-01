@@ -1,0 +1,16 @@
+{
+  "total_raw": 452,
+  "dup_title": 245,
+  "no_date": 0,
+  "too_old": 89,
+  "gate1_fail": 10,
+  "gate2_fail": 16,
+  "passed": 92,
+  "gate2_samples": [
+    "Dr. Reddy's Laboratories (RDY) Securities Investigation Notice - Levi & Korsinsky - PR Newswire",
+    "RDY Investor Alert: Levi & Korsinsky Notifies Investors of Investigation Into Dr. Reddy’s Laboratori",
+    "Levi & Korsinsky Notifies Investors of Pending - GlobeNewswire",
+    "Enron, Johnson & Johnson, and OpenAI Reveal the Same Disturbing Pattern - inc.com",
+    "Johnson & Johnson Introduces MONARCH™ Platform to the Middle East - Johnson & Johnson"
+  ]
+}

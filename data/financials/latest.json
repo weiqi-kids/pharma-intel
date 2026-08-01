@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T10:46:29.834941Z",
+  "updated_at": "2026-08-01T10:05:47.053542Z",
   "quarter": "2026-03-31, 2026-06-30",
   "companies": [
     {
@@ -245,16 +245,16 @@
       "name": "賽諾菲",
       "ticker": "SNY",
       "currency": "USD",
-      "ar": 8410000000,
-      "ar_prev": 7810000000,
-      "ar_qoq": "+8%",
+      "ar": 8714000000,
+      "ar_prev": 8410000000,
+      "ar_qoq": "+4%",
       "ar_period": "QoQ",
-      "inventory": 24123000000,
+      "inventory": 11127000000,
       "inv_prev": 23503000000,
-      "inv_qoq": "+3%",
+      "inv_qoq": "-53%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": false,
+      "alert": true,
       "quarter_date": "2026-06-30"
     },
     {
