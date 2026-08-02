@@ -1,0 +1,16 @@
+{
+  "total_raw": 452,
+  "dup_title": 307,
+  "no_date": 0,
+  "too_old": 86,
+  "gate1_fail": 10,
+  "gate2_fail": 18,
+  "passed": 31,
+  "gate2_samples": [
+    "Dr. Reddy's Laboratories (RDY) Securities Investigation Notice - Levi & Korsinsky - PR Newswire",
+    "Levi & Korsinsky Notifies Investors of Pending - GlobeNewswire",
+    "RDY Investor Alert: Levi & Korsinsky Notifies Investors of Investigation Into Dr. Reddy’s Laboratori",
+    "J&J secures right to take the helm in up to $925M Sail CAR T pact - BioSpace",
+    "Johnson & Johnson Introduces MONARCH™ Platform to the Middle East - Johnson & Johnson"
+  ]
+}
