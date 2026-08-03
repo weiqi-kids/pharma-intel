@@ -1,0 +1,16 @@
+{
+  "total_raw": 451,
+  "dup_title": 258,
+  "no_date": 0,
+  "too_old": 92,
+  "gate1_fail": 11,
+  "gate2_fail": 13,
+  "passed": 77,
+  "gate2_samples": [
+    "Dr. Reddy's Laboratories (RDY) Securities Investigation Notice - Levi & Korsinsky - PR Newswire",
+    "Levi & Korsinsky Notifies Investors of Pending - GlobeNewswire",
+    "RDY Investor Alert: Levi & Korsinsky Notifies Investors of Investigation Into Dr. Reddy’s Laboratori",
+    "Enron, Johnson & Johnson, and OpenAI Reveal the Same Disturbing Pattern - inc.com",
+    "Roche's Combination of Innovation and Diversification Warrant a Wide Moat - Morningstar"
+  ]
+}
