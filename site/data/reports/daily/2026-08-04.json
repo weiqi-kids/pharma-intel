@@ -1,0 +1,259 @@
+{
+  "date": "2026-08-04",
+  "generated_at": "2026-08-04T10:46:54.223999Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "astrazeneca-2026-08-04-006",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "A merged AstraZeneca and BMS could lead Lilly on revenue until about 2030 - drugdiscoverytrends.com",
+      "companies": [
+        "astrazeneca",
+        "eli_lilly"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSEpsWWNlTnIwbndyV1dHNUgxNWl4RHlRZVBDWlYzREtwUVA2X1llZzdkUEw4M2V3ZGZEcnV6SVpNOVJ2Si12Rk5RdG5rVjByT3VwVWU4bk85WGNmejN0bFFicXB2em5nMm9iejg1VGNoT1J1QS16SkJvcDNxXzdMMXQ3UWNDME83UlMwc0dsZFBSMlhHQ0pLNk53VXdBSm1oOHBRWUVYYW9xY21Jbjgw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "merck-2026-08-04-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Merck’s $11B anti-TL1A bet delivers 1 win, 1 loss in midphase inflammatory disease trials - Fierce Biotech",
+      "companies": [
+        "merck"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORWRnNzJfeW1laXdfOE56MHc5VldLT3VsRGdLRFlLZmJYWDg3d1pkWG1hcWxkUnZ1QzdSZzJzcWJjN0ozZnQ2VWVvV21qb1d5MGdhSXVSX3VhU3QxRlRfNFV3VjJhWkdvREhzdnZjRXNFdm1ITkFSSUNnSFJHN2pPbHAwQmVGNHJMa2N1c0lKd2Z5SW9iWUs2XzFacllaQ2t0anRwWnFHTXNWVVRXLW1MNmRXVQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-04-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Dr. Reddy’s Announces the First-to-Market Launch of Sugammadex Injection 200 mg/2 mL (100 mg/mL) and 500 mg/5 mL (100 mg/mL) Single-Dose Vials, a Generic Equivalent of Bridion®, in the United States - Business Wire",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "patent_cliff"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPekVtRm91dF9jbkk4UVVrRUhnNFI4Q0JSZnpRMm9ieEo0NHhWOTlsVGF4ZFV3UDZrTjJ2b0hZc3J4UTBZQURwN0UxenlHQ0k4S2JhaVFNc0dyYWUxVWU1aEhQQzYtNEZrc3dpaVBJZ0FtcEljZTBicHRqR1VNUG8xZlpHWUNtWVBNMFBETmROWlBsLVZvM0ozYTl6QmZXU1RpZ2x6c2wwY1RTdjktLVR3SFd0dkhGRklPODBTSGIyV19selBhYWpJeWxmemdINGJfNUhwdi1RVkVxeDZqOVRidXloRGM4Z25IeUp4NUY0WXNNTGxJM2d4eVAtNFEyOUoybTNoMGNNWnlvV3BUYUE5SjlnaFRWSHVQTnpnbHRySzQ3Tm9NU05qYXlOZ093ZjVRX0NqRy0tRkhlOENJSmRtc3k3dktVTzZqQVl0MjJTcTNId1RvQjlyRjhSaE53dG9G?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "dr_reddy-2026-08-04-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Dr. Reddy's Launches First Generic Version of Sugammadex Injection in the US Market - scanx.trade",
+      "companies": [
+        "dr_reddy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORDdFSnREVmFKUEh3NEhpX1lHd1l5NUlPTnFKdjhuR09uUnVfZ0Y5a0Z5Rk5WazRpVXZmLU53TU1KcldGQjJweXM0M3BTVzd0WWdjSFdRQ3J0dWVLQ0FRcXFlVGNkbEtDMlE2c0xLTHpXM3JtcXRRUUF3QTE1YlQyLUQwRFNvbjR5aV9MN1hUeEk2Uzd3R0JWbUw3MU5yZ0dfNldNbjFac25NN1Y3d2dFZmJld3Y?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-04-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Dr Reddy's Laboratories Shares Fall 2.08% Among Top Losers on Nifty 50 - Moneycontrol.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNF9xY3hYSFVJVDNNRVJSVUQwR0VTaFF3NXVKREh4d01reFRyUFgwcEpxRC1zNlF3ZHA2aUNnSXFPOFVfOXhrVVJubEpwQ1RmTWR5bl84eU5XTHpVZjdQWWlDVTFwaU1WX0NWQk1SeEtody1zYVZwU3U0QmE1Rk9PNG8yRDFVdi1uUDBCcmVEeVpBR3hWS2NtVlpXLTNmQktZWjJpUG0yOHRrUE1WblBzMVpxV1BaNm5FckhTYU5NOXNPMkU0SzFvd1FwYkxrbmhYclZORmE3OHJWQ2VMcXlWWtIB5gFBVV95cUxPZlRzeUk0OEdiM2xnd3ZOblRWUU9WRFA1MU5sMjQ3Rmt6VUpzYlE0czhZM0swYkVobjJnYXVPb1VvZXJRQVIzZDZKX1o1bkE4RXdjNzZIWm5nQ1VKbFcyaGUzVjctUzFadDlFT1gzQ1NXMFhJZDc0eVJzN0lQSjI4ZlE4WmFIYlhNN29VQ2hXWWhhSzlvVG9fa1FzR2Fxd0w5Y3lTcXZkVWFKOVBOWlhab3lHbW1GMlJWRzRFdWFLSWRrbVI1QVoyU3pWazVrakotTGVOZTI1Q25mMWdYcW5OVE1qMUU0Zw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "patent_cliff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "drug_approval": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 17,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "astrazeneca",
+        "count": 6
+      },
+      {
+        "id": "merck",
+        "count": 3
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 2
+      },
+      {
+        "id": "dr_reddy",
+        "count": 1
+      },
+      {
+        "id": "eli_lilly",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "drug_approval",
+        "count": 12
+      },
+      {
+        "id": "patent_cliff",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "biotech_funding",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 454,
+    "dup_title": 256,
+    "too_old": 88,
+    "gate1_blocked": 13,
+    "gate2_blocked": 9,
+    "passed": 88,
+    "pass_rate": "44.4%",
+    "gate2_block_rate": "4.5%",
+    "gate2_samples": [
+      "Dr. Reddy's Laboratories (RDY) Securities Investigation Notice - Levi & Korsinsky - PR Newswire",
+      "Levi & Korsinsky Notifies Investors of Pending - globenewswire.com",
+      "Jim Cramer Analyzes Johnson & Johnson (JNJ) After Surgical Robotics Milestone - Yahoo Finance",
+      "Enron, Johnson & Johnson, and OpenAI Reveal the Same Disturbing Pattern - inc.com",
+      "Johnson & Johnson Introduces MONARCH™ Platform to the Middle East - Johnson & Johnson"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為AZ、Merck、Novo相關動態：「A merged AstraZeneca and BMS could lead Lilly on revenue ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "A merged AstraZeneca and BMS could lead Lilly on revenue until about 2030 - d...（藥物核准、法說會、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Merck’s $11B anti-TL1A bet delivers 1 win, 1 loss in midphase inflammatory di...（藥物核准、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
