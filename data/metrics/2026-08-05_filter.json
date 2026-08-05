@@ -1,0 +1,16 @@
+{
+  "total_raw": 445,
+  "dup_title": 230,
+  "no_date": 0,
+  "too_old": 80,
+  "gate1_fail": 14,
+  "gate2_fail": 11,
+  "passed": 110,
+  "gate2_samples": [
+    "Dr. Reddy's Laboratories (RDY) Securities Investigation Notice - Levi & Korsinsky - PR Newswire",
+    "Jim Cramer Analyzes Johnson & Johnson (JNJ) After Surgical Robotics Milestone - Yahoo Finance",
+    "Enron, Johnson & Johnson, and OpenAI Reveal the Same Disturbing Pattern - inc.com",
+    "Roche (SWX:ROP) Wins FDA Clearance And EU Backing For Two Key Products - simplywall.st",
+    "Merck posts better-than-expected second-quarter results on Keytruda strength - Reuters"
+  ]
+}

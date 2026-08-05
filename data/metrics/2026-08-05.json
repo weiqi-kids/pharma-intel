@@ -1,0 +1,53 @@
+{
+  "date": "2026-08-05",
+  "total_events": 16,
+  "by_company": {
+    "sun_pharma": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "pfizer": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "jnj": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "astrazeneca": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "novo_nordisk": {
+      "count": 7,
+      "sentiment_avg": 0.07
+    },
+    "eli_lilly": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "drug_approval": {
+      "count": 13,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 12,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "glp1_obesity": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

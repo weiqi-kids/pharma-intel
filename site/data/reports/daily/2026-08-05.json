@@ -1,0 +1,252 @@
+{
+  "date": "2026-08-05",
+  "generated_at": "2026-08-05T10:43:47.125334Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "pfizer-2026-08-05-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Pfizer Lifts 2026 Revenue Floor as Non-Covid Drug Sales Surge 18% - finance.biggo.com",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YQ05sM0xRRWNLVVRPWVNPc1RLU2lRenljZ3VCODNiVGxTaUNaT0ZzVnlNNmNmckFyYmUzSGhhUy1sdVVuVnF0cHdOLVg2X2JhS2pKYmVlUm1HY0ozR2pweGtvekt3eXl4ZXVMcGV1cFk3aXZaX0E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "pfizer-2026-08-05-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Pfizer Q2 2026 Earnings: Non-COVID Growth Raises Revenue Outlook - TradingKey",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGRXhBT3gxNURDNWYzaUY1MjBhbmQwdTREeFZrcGdPREFHOVd2dlh0aF9KZFl1dFFTR0loME5yRkQxTFAyYmN1bzNQMVM4MkVRU0FDNy1nMzFYT1k2V1JRNHBWeC1NZjVVMUx5Sm5n?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "eli_lilly-2026-08-05-010",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Major pipeline write-downs: Novo Nordisk abandons development of potential rival to Eli Lilly's slimming pill - medwatch.com",
+      "companies": [
+        "eli_lilly",
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE93bG1aTGlGdXdpSHhFaElXR0NxMEVILVltSHNaMDR2S1FLUlpYUmlRV2xBMDhqTTkzaUl4WVdrbF93OE1CVGhiT3lZanc3dW0tQW42MzZXY05rTTRxTEpqeEo1X245RkJpenpNeXNBTQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "sun_pharma-2026-08-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CRISIL Keeps AAA Rating on Sun Pharmaceutical's Bank Facilities - marketscreener.com",
+      "companies": [
+        "sun_pharma"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMWV1OW5yWG9wajJkNEc0UmxZYkgwakwwZEpqLVRDcE1SWVJqYmpTeXhncDdraWNFVURwTFQ0azhuQ09yVlNic2JYcTlSYUFaaVNoVWFuQ1JhUTFUNHgtdFZ4MGRUMnVXUFFPT0JiSXdiNl85WHJBMFVCTjBSUDZUVGIyZDAtcEs3eVVpSXFoX2hBSzFYbTRwNzdQelNqRXBLYUpXX3B4Z0lxNzVQdThlWDhRdjJicUE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "sun_pharma-2026-08-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Results: Sun Pharmaceutical Industries Limited Exceeded Expectations And The Consensus Has Updated Its Estimates - simplywall.st",
+      "companies": [
+        "sun_pharma"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOVjlNRlk1dm4xTVhUb0l4aDBscXQxUUVaeFNTeHZhZC04MW1UV1dhYkNpS3U0YnBxNXY0cWdVUlJLSEJmWmNfWFk4b2NoNVdFc1JVdmkzN2RSTDFLR25CVzVFYjhKQmlkUG9iYlRZQWNGQmtQY3lCQTh1a3RVSHFEdW1pQXhUY21FS0stWldEZWZXckV2NGF5QnpVM1kxZTl2WFFVS3dKOUhHX2JtRFdjTWpGd2tCeGN6bnpsRzlwVW5aRFJFUTBaUjhsQjVTT0wya1pYMnhTVFIwVm9KaWF3SXBRTGtDODlocHBnOVRlVXlEdXZkY1RJcXNNQ09ZMWNtVmfSAYcCQVVfeXFMTWJFRFhRVTVRQUlkc1RUcGROZGFRYU5rVnh1dHFBQUVxYm1KRFI2VjFXVjNUNUU1YmtwWFVCbWxQX1V6eUhoMlVWcnNZUmJEdUdHVWhXYWRMWjJwREZrcnNxX1RWTG1kNUJGUHRKcFRsSWQ4UmY2TUJFVUNjN0VaRWlmcDJWOUNHU19udGV6bi1LYXhWM19tTjhpRW82WjFacDJUZU40VkJCc1JTNXI4ckNEbThpbWxWYlJyTk1XOE1ESUFKanhwdUVDUTg0SmhDeWpLcDZOVDg0WkZJalJVQ1RFdW5ZVk1Hem5nNWpibFZSWkhNbGNWSXZUUGdHWnpGeTZMU0h3Tk0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 14,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "novo_nordisk",
+        "count": 7
+      },
+      {
+        "id": "sun_pharma",
+        "count": 2
+      },
+      {
+        "id": "pfizer",
+        "count": 2
+      },
+      {
+        "id": "astrazeneca",
+        "count": 2
+      },
+      {
+        "id": "jnj",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 13
+      },
+      {
+        "id": "industry_general",
+        "count": 12
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 445,
+    "dup_title": 230,
+    "too_old": 80,
+    "gate1_blocked": 14,
+    "gate2_blocked": 11,
+    "passed": 110,
+    "pass_rate": "51.2%",
+    "gate2_block_rate": "5.1%",
+    "gate2_samples": [
+      "Dr. Reddy's Laboratories (RDY) Securities Investigation Notice - Levi & Korsinsky - PR Newswire",
+      "Jim Cramer Analyzes Johnson & Johnson (JNJ) After Surgical Robotics Milestone - Yahoo Finance",
+      "Enron, Johnson & Johnson, and OpenAI Reveal the Same Disturbing Pattern - inc.com",
+      "Roche (SWX:ROP) Wins FDA Clearance And EU Backing For Two Key Products - simplywall.st",
+      "Merck posts better-than-expected second-quarter results on Keytruda strength - Reuters"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為Novo、Sun Pharma、輝瑞相關動態：「Pfizer Lifts 2026 Revenue Floor as Non-Covid Drug Sales S...」。主要關注主題為藥物核准、產業通用、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Pfizer Lifts 2026 Revenue Floor as Non-Covid Drug Sales Surge 18% - finance.b...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Pfizer Q2 2026 Earnings: Non-COVID Growth Raises Revenue Outlook - TradingKey（藥物核准、法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
