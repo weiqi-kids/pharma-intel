@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T10:43:42.095321Z",
+  "updated_at": "2026-08-06T10:46:38.637347Z",
   "quarter": "2026-03-31, 2026-06-30",
   "companies": [
     {
@@ -211,34 +211,34 @@
       "name": "諾和諾德",
       "ticker": "NVO",
       "currency": "USD",
-      "ar": 82565000000,
-      "ar_prev": 70856000000,
-      "ar_qoq": "+17%",
+      "ar": 88949000000,
+      "ar_prev": 82565000000,
+      "ar_qoq": "+8%",
       "ar_period": "QoQ",
       "inventory": 51352000000,
-      "inv_prev": 49623000000,
-      "inv_qoq": "+3%",
+      "inv_prev": 51352000000,
+      "inv_qoq": "+0%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "pfizer",
       "name": "輝瑞",
       "ticker": "PFE",
       "currency": "USD",
-      "ar": 12585000000,
-      "ar_prev": 11874000000,
-      "ar_qoq": "+6%",
+      "ar": 12490000000,
+      "ar_prev": 12585000000,
+      "ar_qoq": "-1%",
       "ar_period": "QoQ",
-      "inventory": 10667000000,
-      "inv_prev": 10654000000,
-      "inv_qoq": "+0%",
+      "inventory": 9945000000,
+      "inv_prev": 10667000000,
+      "inv_qoq": "-7%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "sanofi",

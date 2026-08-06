@@ -1,0 +1,16 @@
+{
+  "total_raw": 454,
+  "dup_title": 229,
+  "no_date": 0,
+  "too_old": 95,
+  "gate1_fail": 12,
+  "gate2_fail": 10,
+  "passed": 108,
+  "gate2_samples": [
+    "Dr. Reddy's Laboratories (RDY) Securities Investigation Notice - Levi & Korsinsky - PR Newswire",
+    "Johnson & Johnson (JNJ) Could Be 10% Overvalued Following Leadership Change - Yahoo Finance",
+    "Johnson & Johnson to Participate in the 2026 Wells Fargo Healthcare Conference - BioSpace",
+    "Jim Cramer Analyzes Johnson & Johnson (JNJ) After Surgical Robotics Milestone - Yahoo Finance",
+    "Roche Holding (SWX:ROP) Wins FDA Clearance, Is It Fully Priced? - simplywall.st"
+  ]
+}
