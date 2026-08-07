@@ -1,0 +1,16 @@
+{
+  "total_raw": 455,
+  "dup_title": 261,
+  "no_date": 0,
+  "too_old": 83,
+  "gate1_fail": 11,
+  "gate2_fail": 18,
+  "passed": 82,
+  "gate2_samples": [
+    "Teva seeks to keep Israel ties from jury, cites Gaza war - Reuters",
+    "Dr. Reddy's Laboratories (RDY) Securities Investigation Notice - Levi & Korsinsky - PR Newswire",
+    "Johnson & Johnson (JNJ) Could Be 10% Overvalued Following Leadership Change - Yahoo Finance",
+    "Jim Cramer Analyzes Johnson & Johnson (JNJ) After Surgical Robotics Milestone - Yahoo Finance",
+    "LVIP State Street International Index Fund's Roche Holding AG(XSWX:ROP) Holding History - GuruFocus"
+  ]
+}

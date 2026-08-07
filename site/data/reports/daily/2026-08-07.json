@@ -1,0 +1,250 @@
+{
+  "date": "2026-08-07",
+  "generated_at": "2026-08-07T09:07:23.096259Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "jnj-2026-08-07-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Johnson & Johnson postQ: Innovative Medicine lifts outlook; MedTech weak - S&P Global",
+      "companies": [
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTEYzRTktRkRidmZWOXMxeHZ2TXFxdlQyN2lRdWoyY3UwdFJ3SzVELVhSN214eUdMWDB0Z1lsa2paU0pUUm05TTBKdzUwMGdoWnNZV2NXUEY0anRWc3dBdnV2REdkNTh1c3hycWFXQUZoajVfNzZEZVlrVjVwTTl1OHFJUFd4RllKRnlpOGI3RnJxeV9sLUhUVjFaQ3cyd1hWcTdDWDNWWlROYnRMNFo1elh4Uk42ZUlDajRya2RJNnFOLTFha3ZWcUNBb2RDdkJzaTYtRWxGY3hJaGszZ1E4VDcyZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "astrazeneca-2026-08-07-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "BlossomHill, Latigo cap four-IPO week with combined $496M haul",
+      "companies": [
+        "astrazeneca"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "biotech_funding",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://endpoints.news/blossomhill-latigo-cap-four-ipo-week-with-combined-496m-haul/"
+    },
+    {
+      "rank": 3,
+      "event_id": "teva-2026-08-07-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arrowstreet Capital Limited Partnership Reduces Stock Holdings in Teva Pharmaceutical Industries Ltd. $TEVA - marketbeat.com",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTU00d0RIbFRrUkh0eTVoWEczS0N2UDFYTGNVUVNoYlJPVWdVeFFlam5fcWgwRDVmaGtfeUQ4OU5tNEloM3JFVHhMQU4weUlhZ3JwaHVNMlJrTXU4OXdhUWxDbFNOZ0gzLW0zZjZjYnRaN0N6elJkYWIwTXY3dENWbkhWc25ET3B2SGRBR2d0R3JqMURNWmNLbUFuZGhsbV9KNW1qT3ByTWhrY0JEZGhGWTc5Yy1VREpLbXFFUnBUdEpNQzhCUnFQbERXa1lqWmpkOUpRTEg5NmFPODhxanowSWZQZVoxd2Vsa05BblVjQnJycEtGWVA0UFV3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "teva-2026-08-07-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bank of America Corp DE Has $119.24 Million Stock Holdings in Teva Pharmaceutical Industries Ltd. $TEVA - marketbeat.com",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOb1NnVXNjRzZwLWswSnpLenNVLUQ5YVh4S3R3ZU9oZjh1NHRkeHcyU2dMYjUyajV6TlRIejY1RG9aaFdpZEFFSjZhcDVvSGw5TkFrX1F0Z1ZmdnFydEtPN3k0dHJ4WFVlQ0stckFFaU9IMjRvV1A2UDB1akdtNUNvemtQemlQdjBsTWMyN2VSNG1aMUMzbHRaREFQT3BJRHVtZ0lNcTA4dnBXZXVhYXJ0NWYteXJRQUNncld2VmV2OFc0dk4zYnJ2dV9uN1ZOSXFuT0pDVERldTk2VV92M3ZNaUkzN3N3LUh2em1lT1FsaDV0Zw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "pfizer-2026-08-07-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Pfizer: what the pharmaceutical giant makes and does - qz.com",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1wUUFfcUJIdDlUcDVvam9KZS1hMFpRc3VEaUN6OVhBeDlKenpka2JtX3FHd0F2RUxsUlFHT2FWYjc3d00?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.07,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 5,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "teva",
+        "count": 2
+      },
+      {
+        "id": "pfizer",
+        "count": 1
+      },
+      {
+        "id": "jnj",
+        "count": 1
+      },
+      {
+        "id": "merck",
+        "count": 1
+      },
+      {
+        "id": "astrazeneca",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "drug_approval",
+        "count": 5
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "biotech_funding",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 455,
+    "dup_title": 261,
+    "too_old": 83,
+    "gate1_blocked": 11,
+    "gate2_blocked": 18,
+    "passed": 82,
+    "pass_rate": "42.3%",
+    "gate2_block_rate": "9.3%",
+    "gate2_samples": [
+      "Teva seeks to keep Israel ties from jury, cites Gaza war - Reuters",
+      "Dr. Reddy's Laboratories (RDY) Securities Investigation Notice - Levi & Korsinsky - PR Newswire",
+      "Johnson & Johnson (JNJ) Could Be 10% Overvalued Following Leadership Change - Yahoo Finance",
+      "Jim Cramer Analyzes Johnson & Johnson (JNJ) After Surgical Robotics Milestone - Yahoo Finance",
+      "LVIP State Street International Index Fund's Roche Holding AG(XSWX:ROP) Holding History - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為Teva、輝瑞、J&J相關動態：「Johnson & Johnson postQ: Innovative Medicine lifts outloo...」。主要關注主題為產業通用、藥物核准、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Johnson & Johnson postQ: Innovative Medicine lifts outlook; MedTech weak - S&...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "BlossomHill, Latigo cap four-IPO week with combined $496M haul（生技募資、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
