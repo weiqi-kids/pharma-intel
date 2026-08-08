@@ -1,0 +1,41 @@
+{
+  "date": "2026-08-08",
+  "total_events": 4,
+  "by_company": {
+    "novartis": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "catalent": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "jnj": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "merck": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "drug_approval": {
+      "count": 3,
+      "sentiment_avg": -0.17
+    },
+    "industry_general": {
+      "count": 3,
+      "sentiment_avg": -0.17
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

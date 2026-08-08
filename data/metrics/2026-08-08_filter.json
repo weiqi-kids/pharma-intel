@@ -1,0 +1,16 @@
+{
+  "total_raw": 454,
+  "dup_title": 265,
+  "no_date": 0,
+  "too_old": 84,
+  "gate1_fail": 9,
+  "gate2_fail": 11,
+  "passed": 85,
+  "gate2_samples": [
+    "Teva seeks to keep Israel ties from jury, cites Gaza war - Reuters",
+    "Johnson & Johnson (JNJ) Could Be 10% Overvalued Following Leadership Change - Yahoo Finance",
+    "Johnson & Johnson AI Business Case and Impact - veeva.com",
+    "Is Johnson & Johnson (JNJ) Fully Valued On Darzalex Royalty Strength? - simplywall.st",
+    "Roche Holding (SWX:ROP) Wins FDA Clearance, Is It Fully Priced? - simplywall.st"
+  ]
+}

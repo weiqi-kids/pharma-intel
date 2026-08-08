@@ -1,0 +1,205 @@
+{
+  "date": "2026-08-08",
+  "generated_at": "2026-08-08T08:51:17.993644Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "novartis-2026-08-08-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Dr Reddy's Terminates Novartis India Agreement After Ownership Change - NDTV Profit",
+      "companies": [
+        "novartis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVy1KYmpyblFkaEg4N3h2ZFJKUjdGVklIbkxyQkY3Mm1kWFZKYmZMcnp3bTNDNVpnaUljRldrS28xR09zYXFWQWpIbGFEU0ZWR2E4V2ZtdXp6bGxDYzBqcG9JZ2pzaDJTQ0FMcnUzcWQ2QUg2Q0VQckF5UnNISTRMekh4WTdmQzloRXVTTjhJUWhObmwtbFhIa1VQeWZwcHByYmVyMlJ3SUNjV3ZEMC1leXQ5VdIBuwFBVV95cUxOV2ZnaGMzN1AxZTMxRGM3cGJXal9vdDZEdDdZRnFQdmFRc3U2MmVlT2s1Yl94S25aS1o5R1NkdzZGeng4OWszNFlGSFdTX1BtTWVOLTR6TW5ybFBzNTVCUnNsaXZkV29mMmJON0g3RlhvWjRyRkdlbi1MOFdna05Tdk1LdEYyc1MycjJEWWdWMWNxX2xEakF6ZFNZYW4yQy1KbVZ2cUwwc1lLVXhPNnNtVU9ETmtMaDg2dlkw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "catalent-2026-08-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Scholar Rock drops Catalent facility from marketing application for muscle weakness drug - 1470 & 100.3 WMBD",
+      "companies": [
+        "catalent"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMjJTMFNMbUpCVmpQS3pDREpMbDY4RUxHX3Z4SnFnVFU2Y2ZkZnBHVU9YNzB2OUtGejlUNkxfeGtsSUpkS1FxUm1IY2pzdGJsZHdiWTM4QTV4bVlhMTc3dW5tbWFYOE9LWU8zcUxMWmpGNDBWTWphTE5oaFdvX3Zuc3ZINXY4QXlhQ3E3WHJhOFlaQVp6X0RRX2pFMlFZQVh6b3NQMmw4ZmdxSFJXRnZFZ2tsNnpKTnQzUEt6OU5ibw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "jnj-2026-08-08-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Abner Herrman & Brock LLC Buys 75,536 Shares of Johnson & Johnson $JNJ - MarketBeat",
+      "companies": [
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQXlmMU5fSTV0eC1zM1FyNzU4QzVydnF3RFJoVFRHQ0syQzVzYlNUcl9HQ3ZacHgxcGdUSUJnd2tnejZjLVdxeTZvOUhFd0xEY190OFBWSGhTR2RWZk1KS1JVLWVGckhUVDBnY2ZvcWNWR0x0Zk95dWNzdkhMcm1iRDNncGRPREhnejRGOFhFOXVvNzFfaUdNZFN5YkFVdWdzQ3RfRUQxdS14Y0pia19ZejBVdXdDcURyQzNKMVhsQXZ4Z2M?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "merck-2026-08-08-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "3rd Circ. Says Pharma Co. Suit Against Merck Belongs In India - Law360",
+      "companies": [
+        "merck"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPODQzS3lzV0ZCT19lWkpzMWt2YXZEUW9pRm1jUi0tM1hxTUs1Z252MmM3WUlWLUNHRnJFd1Z1ZUs5VVNIclBucmg5SUtKb3pmOEtnWTFjcDZUSmFOU0N4TnhVYVJhQ2NvRE1EeHkxR2FZRF9DTlBGM3VaV1lIYkpmcnBOYXdaTTEzSnZpNFVsUG8yWi1lRWtsR2dYNS1DcHIxLWliRHlTY3RkSFA1bXVN0gFWQVVfeXFMT0Q5UDhmRDZMdXlqSmpEbThySlZNQ0JZYWp4eHpJbG9BSHZKZXhNWFFlczhQMGtzS00tN0FZaXA4eE1uSXd5d3Bkb1FiSlNnSHFkcHY2eVE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "drug_approval": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "novartis",
+        "count": 1
+      },
+      {
+        "id": "catalent",
+        "count": 1
+      },
+      {
+        "id": "jnj",
+        "count": 1
+      },
+      {
+        "id": "merck",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 3
+      },
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 454,
+    "dup_title": 265,
+    "too_old": 84,
+    "gate1_blocked": 9,
+    "gate2_blocked": 11,
+    "passed": 85,
+    "pass_rate": "45.0%",
+    "gate2_block_rate": "5.8%",
+    "gate2_samples": [
+      "Teva seeks to keep Israel ties from jury, cites Gaza war - Reuters",
+      "Johnson & Johnson (JNJ) Could Be 10% Overvalued Following Leadership Change - Yahoo Finance",
+      "Johnson & Johnson AI Business Case and Impact - veeva.com",
+      "Is Johnson & Johnson (JNJ) Fully Valued On Darzalex Royalty Strength? - simplywall.st",
+      "Roche Holding (SWX:ROP) Wins FDA Clearance, Is It Fully Priced? - simplywall.st"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Novartis、Catalent、J&J相關動態：「Dr Reddy's Terminates Novartis India Agreement After Owne...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Dr Reddy's Terminates Novartis India Agreement After Ownership Change - NDTV ...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Scholar Rock drops Catalent facility from marketing application for muscle we...（藥物核准、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
