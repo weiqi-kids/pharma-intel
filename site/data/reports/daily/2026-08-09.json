@@ -1,0 +1,179 @@
+{
+  "date": "2026-08-09",
+  "generated_at": "2026-08-09T08:52:17.888271Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "jnj-2026-08-09-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Johnson & Johnson (JNJ) Stock Looks Cheap On Cash Flow Yet Pricey On Earnings - simplywall.st",
+      "companies": [
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVWJmRVVLTjRXcFotdUVubm1wVFFPZjZLTVlQbEwwa2tORFZKUmpTeHE2TmVObWs4MkkxRmpiMWpfRWFJQ1pfcU9CZVR1Y2JqeW9QSHMyUkNUVm5WWWNvZWxlZnlFOF9md0REUUtYTzJBRVF0RlJWeXhkTHdGWWxtUFVUcG1zLWFERXlod1o4ZXIzWVY3U3pHeEM2UENPZ0xFV2ZKMERhZ21lQlF3RXJkUjdVVUVhRkJJbjZ1dFc2enJCZVVqQ19KNHpJTnVzS3BNTUlyTFJyX3JOaGNVRFRj0gHkAUFVX3lxTE9heno3MTg3UWpDWVF3UkM1VTEzaDcyVlJBNk5uaVE0cFM0MHdSV1RLUl9fS3Ztbk1DZ0hDT3U3Sy03OUZlcnlfTDU3ajVGajdaU0NyeHRmYVNNbW5XUGtlNTBGVHpUeWhVN2FCMjg3NU1TSm1WenlJUU1VSElZUm1DN29oTnpwZjJVcVF3aU5PR2lGYm5Ub1MydVptLVhQNEdPaEpPbGtQcW5vZXhwZWthSFFGckdBcFpVbHFXMjlsc2tPOFZNaTEweXo3SjFCQkt0cUVqRTZQWC1vVWczUTJRVEVUUw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "teva-2026-08-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Empowered Funds LLC Increases Holdings in Teva Pharmaceutical Industries Ltd. $TEVA - marketbeat.com",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObzk3Ti1EUXpkbFhkeS1lYnNwb0llTnQwY3B4bS1DNmtVTVdKMFR2RU81T0tkSG1Nd293NzgtV1RidmdpTmpXRWUyRkNFWVQ5V09BNENybzVqWUZDLWd4NTk2OU5zc2Q3RmxVcEZzQXRPU2xwQ0NIZ3lFdHhCbFNSWDA2QW8wWkc1RWpTc3J6QXpHZk5tX2hGSV9PdHp4QnVoUl9XMTVlRGVVNTQzZTB6REUwaHVMNjhfZ1FFUWQ1S28tUUdsXzFKUW9aLXJ0RXZyTnM2R0haa3VmUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "merck-2026-08-09-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cardano Risk Management B.V. Reduces Stock Position in Merck & Co., Inc. $MRK - marketbeat.com",
+      "companies": [
+        "merck"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTkRaZlFUSTI2ekpNYU1Fb0lEV01zYVJreTk0UnllZU50d2FDakJCM0JOUElkNG9YUUdYNGdwTVlqdWJYd3NqMC00OGttampOMEZSek1Vd2hBaGJPNk4zOEVQTV9PR2FvUy1EbHZJYWh2U3pvUGVyQWQ5dnNITXhubm1QQk53LXdCNm1PaUxjeGtMQnBYaHZjOVJja3hjRVNsSGRVNUphemljR2ctR2xORjJlQmhnSDVNbmFVX2JZRDhTU0QyV3ZSQTBB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "teva",
+        "count": 1
+      },
+      {
+        "id": "jnj",
+        "count": 1
+      },
+      {
+        "id": "merck",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "drug_approval",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 455,
+    "dup_title": 296,
+    "too_old": 87,
+    "gate1_blocked": 9,
+    "gate2_blocked": 12,
+    "passed": 51,
+    "pass_rate": "32.1%",
+    "gate2_block_rate": "7.5%",
+    "gate2_samples": [
+      "Teva seeks to keep Israel ties from jury, cites Gaza war - Reuters",
+      "Pfizer grapples with ‘a world of hurt’ after Covid triumph - Financial Times",
+      "Jim Cramer Analyzes Johnson & Johnson (JNJ) After Surgical Robotics Milestone - Yahoo Finance",
+      "Johnson & Johnson (JNJ) Could Be 10% Overvalued Following Leadership Change - Yahoo Finance",
+      "Johnson & Johnson AI Business Case and Impact - Veeva"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Teva、J&J、Merck相關動態：「Johnson & Johnson (JNJ) Stock Looks Cheap On Cash Flow Ye...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Johnson & Johnson (JNJ) Stock Looks Cheap On Cash Flow Yet Pricey On Earnings...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Empowered Funds LLC Increases Holdings in Teva Pharmaceutical Industries Ltd....（藥物核准、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

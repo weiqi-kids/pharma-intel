@@ -1,0 +1,16 @@
+{
+  "total_raw": 455,
+  "dup_title": 296,
+  "no_date": 0,
+  "too_old": 87,
+  "gate1_fail": 9,
+  "gate2_fail": 12,
+  "passed": 51,
+  "gate2_samples": [
+    "Teva seeks to keep Israel ties from jury, cites Gaza war - Reuters",
+    "Pfizer grapples with ‘a world of hurt’ after Covid triumph - Financial Times",
+    "Jim Cramer Analyzes Johnson & Johnson (JNJ) After Surgical Robotics Milestone - Yahoo Finance",
+    "Johnson & Johnson (JNJ) Could Be 10% Overvalued Following Leadership Change - Yahoo Finance",
+    "Johnson & Johnson AI Business Case and Impact - Veeva"
+  ]
+}
