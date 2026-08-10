@@ -1,0 +1,266 @@
+{
+  "date": "2026-08-10",
+  "generated_at": "2026-08-10T09:40:52.050960Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "bora-2026-08-10-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bora Pharmaceuticals July Revenue Hits NT$1.9 Billion, Up Nearly 6% YoY; Strong Order Backlog Supports Q3 Growth - finance.biggo.com",
+      "companies": [
+        "bora"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0c3BRU3VIcWhZNDJzNzNnRDJSZ2dBVXhuRC1OZ1Vod1pZV2RSUklhM2R6LURWX2NjMWFYTEdZNmVoV2xyeE9nM2ZuWWJMd0tLdS1KQV9ia2pMQlA0Q2NOMktXWm84NzFzQ1RUU2V3VHQ1cVFYWlE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "cardinal-2026-08-10-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Earnings To Watch: Cardinal Health (CAH) Reports Q2 Results Tomorrow - TradingView",
+      "companies": [
+        "cardinal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaVRTRnVPRHVackZjTjFoOTZ0VTlMZjBYc0FCRUdOOHFmUDFrdE0yVWRQeWFiR3IwU3dzRzF3WE1URi1QNWV2TUtYT2laZUxrMzNGTUVXaHNRX2NKd3h4MW1jczc1VV9QV1F2Qnp0RVB5dUg3Nlh2ZXlBVjBmRWJrMDNlanBrWlZQYk5iMVVBLXhzTGgwX2pDWHBzdFpWc2N5OXhSWVZYZE9FSEVISkZFXzBRTVc3UHViclVsTzNsTzZDRXBm?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "pfizer-2026-08-10-004",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Samsung Bioepis battles Janssen, Pfizer, Novartis in global biosimilar suits - CHOSUNBIZ - Chosunbiz",
+      "companies": [
+        "pfizer",
+        "novartis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "patent_cliff"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWUJoUzVJYzVvVHQwWVdqYWJTWUx1WldteEZoRWxfRzY4N0hKUUd6bzY1Sk9rU0ItaUluQnlSMEljTUp6U3Z1eWwxMnJQMzZYV1piVjgxMTBpYU8wZ2laMklhWWhOYnZmd0kxSV92WHAwR3BYRXczTVlyMnZSTU04Q9IBlAFBVV95cUxPcF92UGtFN1dKaDBSak96MU5TZ0otYld5N21uOFZaRlhPbkRFTFBRZjlkS21jM2h2X0tBOU5JVUd5Qzl5ampiRHNUM1ZCYWc5U1pKQVZNMi00RjBsOTJDSjQwRTVFQ0E2VXAxNkZDSlBnOWJuaFQzaktMMUZMZXVFalNVbHY3SFpxS2tEc1MyWE9WS2tn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "novartis-2026-08-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Dr Reddy’s to discontinue marketing of Novartis in-licensed brands from October - ET Pharma",
+      "companies": [
+        "novartis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNOGNLUzRqMi1uUjdGWnJ2aGZOVG8yTXVjM0lXRzZka3JjclRKUVlwR3FUODVpQ3FXNHNHejN0SXVLRnpJWmZrVC1Dam5yMVFGNmhVQ1ctWWxiZkppNEtvLTBnMGRrYkxtTzBPRnlac1F4UzFLei1SV3VOZ1ZzUUVGdjBzNzVEVWFVZkhfVDlPSVVTRC1pUTF3cHg5eDIxTU5KR25mUkkzRGdBM1lWRGpUVkREZ3BjUzR3Q2taUW5nZ0RFaUR2RERYdlM5N3BScFNyV3dna2YtWUIxT1lPdFZ2QVBONDFCbjdZ0gHuAUFVX3lxTFBKYkpCMXZoaXRYMkl2c2pWZW9xNjY4bjFKM1ZCSXpzX1pocVlxbGc1U3RTMll4THIwREJWVmJ1Rjlsd2I4VHo5ZXpCYTAwdnlrWEdZNGV1Mi1MVlFVeGluYmsxUmRPWGFLVVZQTjZhc2o0aFE3WC1RWWw4aTRlaHFxWVVVeXk0S20zTmhLLWhqcGQyczhnWWNqRmk2bW1FMHZkWUVhejBfSjJ5QnVjekoyMkRYY2RFM3hJelU2Sm0yMnJ4MkZuaHpkUDZXbm0xd0UzbnpIRmtsckVSRnhzenVBcVUyOHg2OEtPNmtmOGc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "pfizer-2026-08-10-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Pfizer explores localisation, supply-chain and healthcare partnerships across Middle East, Africa - TradingView",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNVmd1ZGlmdDNSdjNncld6MEt3dWM2N2lBVDJoelA1QnZrcnMwdGtMenpHZUxzWVhmU2Y1Q3AzTXp4b3k0ZGFaeTdPOGc2NXkzX2JRNjBCYWkwR3lidlZZNHJGUktzZ3RVZS1zbEYtbmhTbUptV2RNb0VGVmlHQTdkVWxPNWVDQzVHT3VRcWttSlVkZ0kzODBtYjFtMFFmQkVPazNtWU9UWDhOTTg3T1ZsOElJLXNJTzdkb1lnT0N3QkdId3dUZ0pfTmt1TFl5ZThLU3dNSV9YVHZVZWlnczlBRFA2NDVDMFUyVmE0V3l6SmZyV3Zfcm9CVWxRLTZ1SmRq?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "drug_approval": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "pfizer",
+        "count": 3
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 3
+      },
+      {
+        "id": "novartis",
+        "count": 2
+      },
+      {
+        "id": "bora",
+        "count": 1
+      },
+      {
+        "id": "cardinal",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 9
+      },
+      {
+        "id": "industry_general",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "patent_cliff",
+        "count": 1
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 456,
+    "dup_title": 306,
+    "too_old": 89,
+    "gate1_blocked": 10,
+    "gate2_blocked": 12,
+    "passed": 39,
+    "pass_rate": "26.0%",
+    "gate2_block_rate": "8.0%",
+    "gate2_samples": [
+      "Teva seeks to keep Israel ties from jury, cites Gaza war - Reuters",
+      "Pfizer grapples with ‘a world of hurt’ after Covid triumph - Financial Times",
+      "Jim Cramer Analyzes Johnson & Johnson (JNJ) After Surgical Robotics Milestone - Yahoo Finance",
+      "Is Johnson & Johnson (JNJ) Fully Valued On Darzalex Royalty Strength? - simplywall.st",
+      "Roche Holding (SWX:ROP) Wins FDA Clearance, Is It Fully Priced? - simplywall.st"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為輝瑞、Novo、Novartis相關動態：「Bora Pharmaceuticals July Revenue Hits NT$1.9 Billion, Up...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Bora Pharmaceuticals July Revenue Hits NT$1.9 Billion, Up Nearly 6% YoY; Stro...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Earnings To Watch: Cardinal Health (CAH) Reports Q2 Results Tomorrow - Tradin...（藥物核准、法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

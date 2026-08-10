@@ -1,0 +1,53 @@
+{
+  "date": "2026-08-10",
+  "total_events": 11,
+  "by_company": {
+    "novartis": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "bora": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "pfizer": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "novo_nordisk": {
+      "count": 3,
+      "sentiment_avg": -0.08
+    },
+    "cardinal": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 6,
+      "sentiment_avg": -0.17
+    },
+    "drug_approval": {
+      "count": 9,
+      "sentiment_avg": -0.08
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "patent_cliff": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "glp1_obesity": {
+      "count": 1,
+      "sentiment_avg": -0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

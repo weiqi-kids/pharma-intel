@@ -1,0 +1,16 @@
+{
+  "total_raw": 456,
+  "dup_title": 306,
+  "no_date": 0,
+  "too_old": 89,
+  "gate1_fail": 10,
+  "gate2_fail": 12,
+  "passed": 39,
+  "gate2_samples": [
+    "Teva seeks to keep Israel ties from jury, cites Gaza war - Reuters",
+    "Pfizer grapples with ‘a world of hurt’ after Covid triumph - Financial Times",
+    "Jim Cramer Analyzes Johnson & Johnson (JNJ) After Surgical Robotics Milestone - Yahoo Finance",
+    "Is Johnson & Johnson (JNJ) Fully Valued On Darzalex Royalty Strength? - simplywall.st",
+    "Roche Holding (SWX:ROP) Wins FDA Clearance, Is It Fully Priced? - simplywall.st"
+  ]
+}

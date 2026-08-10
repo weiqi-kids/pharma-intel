@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T08:52:13.879237Z",
+  "updated_at": "2026-08-10T09:40:47.859155Z",
   "quarter": "2026-03-31, 2026-06-30",
   "companies": [
     {
@@ -75,17 +75,17 @@
       "name": "Cencora",
       "ticker": "COR",
       "currency": "USD",
-      "ar": 24893220000,
-      "ar_prev": 25979920000,
-      "ar_qoq": "-4%",
+      "ar": 25448105000,
+      "ar_prev": 24893220000,
+      "ar_qoq": "+2%",
       "ar_period": "QoQ",
-      "inventory": 20010006000,
-      "inv_prev": 24078494000,
-      "inv_qoq": "-17%",
+      "inventory": 21030344000,
+      "inv_prev": 20010006000,
+      "inv_qoq": "+5%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "dr_reddy",
@@ -109,17 +109,17 @@
       "name": "禮來",
       "ticker": "LLY",
       "currency": "USD",
-      "ar": 18429000000,
-      "ar_prev": 17760000000,
-      "ar_qoq": "+4%",
+      "ar": 20083000000,
+      "ar_prev": 18429000000,
+      "ar_qoq": "+9%",
       "ar_period": "QoQ",
-      "inventory": 14529000000,
-      "inv_prev": 13744000000,
-      "inv_qoq": "+6%",
+      "inventory": 16793000000,
+      "inv_prev": 14529000000,
+      "inv_qoq": "+16%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "jnj",
