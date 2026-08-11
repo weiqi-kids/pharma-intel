@@ -1,0 +1,16 @@
+{
+  "total_raw": 455,
+  "dup_title": 238,
+  "no_date": 0,
+  "too_old": 98,
+  "gate1_fail": 7,
+  "gate2_fail": 11,
+  "passed": 101,
+  "gate2_samples": [
+    "Teva seeks to keep Israel ties from jury, cites Gaza war - Reuters",
+    "Pfizer grapples with ‘a world of hurt’ after Covid triumph - Financial Times",
+    "ACCESS GPO signs multiyear cardiac electrophysiology agreement with Johnson & Johnson for ambulatory",
+    "Johnson & Johnson (JNJ) Could Be 10% Overvalued Following Leadership Change - Yahoo Finance",
+    "Roche Holding (SWX:ROP) Wins FDA Clearance, Is It Fully Priced? - simplywall.st"
+  ]
+}

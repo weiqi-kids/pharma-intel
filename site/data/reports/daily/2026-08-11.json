@@ -1,0 +1,265 @@
+{
+  "date": "2026-08-11",
+  "generated_at": "2026-08-11T09:06:13.246562Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "pfizer-2026-08-11-015",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "After Q2 Earnings, Is Pfizer or Merck the Smarter Dividend Play? - AOL.com",
+      "companies": [
+        "pfizer",
+        "merck"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdEJSdXBRcGtEcFJNSjVqcE45LVJCN19OOW1VV3dxYzIxSjduUGlJWVcySlV5UXktVVRqOUNsemtUenBjRXF1N3Rmc1dJVmRjYjNaV0k5RkNlWmlGdnZ0NTlnTzIzNWIydER2Tzk3TS1ZLWtQaXVIQ0Nia3BMeUFjb3B3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "pfizer-2026-08-11-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "5 Insightful Analyst Questions From Pfizer’s Q2 Earnings Call - The Globe and Mail",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTExzaHJ1YlByNjF1LW44SEMxNWpTX0VrMTZCckxVZnRsSFR1SWk1RGRZMzBYOG9PamZOU1Zkc2FVVFR5anlGX1Y1ZzZCSU0yeVIxb2FpY3hHUWxiaHFMVzBOQU02aFZXeEtGYzF6cE9wMjRsUkxhaDRIVVVsNlg0STdVTlhObXFQS0dCeDBnekMyMVlFSm1IWHpoc0NWS0ZNQ1FOQXk0Z2lhX2k5NkdyTkNOTjh3S0lyM2tKbHZud0d0bEZ2empxdlFkVElubk9uMzdTVnlDZ2N2RW92?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-11-019",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "IRBs have a problem. Can North Star’s nonprofit model save it?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.statnews.com/2026/08/11/north-star-review-founders-advocate-nonprofit-approach-institutional-oversight/?utm_campaign=rss"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-11-018",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Opinion: Burdensome Medicare GLP-1 program may keep patients from accessing $50 per month weight loss drugs",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.statnews.com/2026/08/11/medicare-weight-loss-drugs-glp-1s-bridge-program-primary-care/?utm_campaign=rss"
+    },
+    {
+      "rank": 5,
+      "event_id": "teva-2026-08-11-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Teva Pharmaceutical Industries Ltd. (NYSE:TEVA) Given Average Rating of \"Moderate Buy\" by Brokerages - MarketBeat",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWmxmMHZjeThqSHpRQnFEZ2RCMHpCZGl1eVB0eXF3WVkwa2RVX0IyZVhtY3JZVER3U0UwR3VMM3RQSnJtNWdfU1pmRHBwRzlMeEVLQmV5cFZxOVBnMU9uenIxaWNGbG9ValVsZ253NEMwZmJIZzdMeEhib21ZQ0w5YTZXQkVaczdGNV9saTZzcV9Mb0w0QnFiT3pjUG5iNjJHOHJ0MXdhTmtCNk1lZWpkb21VN1NnQWZkbGI2U0ZfaFNWaW1fLVdjbUpkRmxNQnVvNTVjSFhWcnFyNjB6eldTeTVB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 16,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "merck",
+        "count": 3
+      },
+      {
+        "id": "cardinal",
+        "count": 3
+      },
+      {
+        "id": "jnj",
+        "count": 2
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 2
+      },
+      {
+        "id": "pfizer",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 14
+      },
+      {
+        "id": "industry_general",
+        "count": 12
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "patent_cliff",
+        "count": 1
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 455,
+    "dup_title": 238,
+    "too_old": 98,
+    "gate1_blocked": 7,
+    "gate2_blocked": 11,
+    "passed": 101,
+    "pass_rate": "46.5%",
+    "gate2_block_rate": "5.1%",
+    "gate2_samples": [
+      "Teva seeks to keep Israel ties from jury, cites Gaza war - Reuters",
+      "Pfizer grapples with ‘a world of hurt’ after Covid triumph - Financial Times",
+      "ACCESS GPO signs multiyear cardiac electrophysiology agreement with Johnson & Johnson for ambulatory",
+      "Johnson & Johnson (JNJ) Could Be 10% Overvalued Following Leadership Change - Yahoo Finance",
+      "Roche Holding (SWX:ROP) Wins FDA Clearance, Is It Fully Priced? - simplywall.st"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為Merck、Cardinal、J&J相關動態：「After Q2 Earnings, Is Pfizer or Merck the Smarter Dividen...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "After Q2 Earnings, Is Pfizer or Merck the Smarter Dividend Play? - AOL.com（藥物核准、法說會）",
+        "level": "red"
+      },
+      {
+        "text": "5 Insightful Analyst Questions From Pfizer’s Q2 Earnings Call - The Globe and...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
