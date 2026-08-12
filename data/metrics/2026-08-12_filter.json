@@ -1,0 +1,16 @@
+{
+  "total_raw": 457,
+  "dup_title": 249,
+  "no_date": 0,
+  "too_old": 84,
+  "gate1_fail": 9,
+  "gate2_fail": 15,
+  "passed": 100,
+  "gate2_samples": [
+    "Teva seeks to keep Israel ties from jury, cites Gaza war - Reuters",
+    "Pfizer (PFE) Agrees To $44 Million Class Action Settlement - simplywall.st",
+    "Pfizer grapples with ‘a world of hurt’ after Covid triumph - Financial Times",
+    "Johnson & Johnson Nearing 52-Week High: Buy, Sell or Hold? - Yahoo Finance",
+    "Johnson & Johnson, ACCESS partner to support advanced cardiac electrophysiology technologies in ambu"
+  ]
+}
