@@ -1,0 +1,16 @@
+{
+  "total_raw": 456,
+  "dup_title": 267,
+  "no_date": 0,
+  "too_old": 86,
+  "gate1_fail": 9,
+  "gate2_fail": 17,
+  "passed": 77,
+  "gate2_samples": [
+    "Teva seeks to keep Israel ties from jury, cites Gaza war - Reuters",
+    "Lonza Group AG (ADRs) (US54338V1017.SG) recent insider transactions - Yahoo Finance UK",
+    "Pfizer’s green chemistry team turns 25 - Chemistry World",
+    "Pfizer grapples with ‘a world of hurt’ after Covid triumph - Financial Times",
+    "Pfizer (PFE) Agrees To $44 Million Class Action Settlement - simplywall.st"
+  ]
+}

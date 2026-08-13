@@ -1,0 +1,258 @@
+{
+  "date": "2026-08-13",
+  "generated_at": "2026-08-13T09:19:32.996077Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "merck-2026-08-13-002",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "China Surpasses US in Drug Trials as Washington Responds - Pfizer (NYSE:PFE), Merck & Co (NYSE:MRK) - Benzinga",
+      "companies": [
+        "merck",
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVkhOdTFITXlSN1hJemhFY1E5dHRiMEl2QmtKOEVtOFVtZ0xBZTBmWEVxVG5zNlozak1ma01wNlhmMnkwUTJwWWs4c3F6LVR2Z3Z2RWtwUVFFbDVwZzZtM0RwdzlqWmVxRjdSN0hiV2F4bjNhNEdmZWNfZFhSU3VGUk51bnFfZWxsbUJ2SA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lonza-2026-08-13-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lonza Group stock holds near mid-range as investors digest 2024 earnings reset - AD HOC NEWS",
+      "companies": [
+        "lonza"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYkQzbGhTelJmMWd0YUszbHRSYkhhaDVWRkVFU0VFcl92UlU2X2xpR2N5TjdjTkp2d2w4QV9NWjJjWnRxNUhXdnhvT0ItNHNOLXducVVoZGxPbElNSklYSVJMcFFZVW5MZWxVcHhGN3l6ZmI4c0cwNFVLeHJScVd5eWFkT0tMczB4R1VhNHpuaFVreS1ueFdrdWZhRlNCeThDSGcxWFZYSHhzN2tveTdnUDRMRXFaUmpkSUhEOHdaTXlqUmc4dG1lcWhsRmhONE5C?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "novo_nordisk-2026-08-13-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Novo Nordisk and AWS Partner to Accelerate AI-Driven Drug Discovery - EME Outlook Magazine",
+      "companies": [
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ3RRTHJXcC1WQV9GMUt5eGtmU3dPbUl0RHg5Y0p3c25HcTdvdXE0YnlKRnY1YllqcWhkaFRZb2kzRTFBTVFwdzVjNzhKbTVFQVI4ZlcyUHJ2a0pJM2VScmd4Vkx5Y05DSFVWV2xqc1VfVlNmNXo4Qzg1b01xUXRTVmFsWmJHbFl6c3YzVVBkVThfbHVib1ViZ0QwWGVXRElndDZpY1hVUDNaemJf?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "pfizer-2026-08-13-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "5 Insightful Analyst Questions From Pfizer’s Q2 Earnings Call - Yahoo Finance",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdGt0d2VkaG50SjVMLVlGUXBWdEZnRm85MWhLZ2FiVVV3clhhM25jdklSUUppVWhlYzNoMVd6dUVXUUVOLTlKVEpldzNYXzJOV3hkR0Y3b1UtS2FvQ0xJY2xERUFBYkdfT01zQ0Q0a2FqYnNpNThVUEpRNENlLVY0VEVwLU5EelVOYmxWTVZIOWUyam00TndLTnJwNmxOM3M?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "novo_nordisk-2026-08-13-005",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Novo Nordisk CEO Concedes Eli Lilly’s Market-Share Gains as Stock Slumps - Yahoo Finance",
+      "companies": [
+        "novo_nordisk",
+        "eli_lilly"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb2JkVXYxUkMwQkZlbTJLckhFNWFYSVd1TDBna00xbXpkMkFyeGFtWXJuZGx4bmtnd3FlUkhyazh4RUlMSzl5eXF0aldtRFZQc2NtU1NJMDNsaTF3aXZuNFJIQldrUWpieGxSZWVmVW1xeHJkSkJJdy1ySmRiNmZsNm92Wnc1Tmczc3RpMUJUQVBNbGww?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "eli_lilly",
+      "to": "novo_nordisk",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "drug_approval"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 12,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "novo_nordisk",
+        "count": 5
+      },
+      {
+        "id": "pfizer",
+        "count": 2
+      },
+      {
+        "id": "eli_lilly",
+        "count": 2
+      },
+      {
+        "id": "lonza",
+        "count": 1
+      },
+      {
+        "id": "merck",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 12
+      },
+      {
+        "id": "drug_approval",
+        "count": 10
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 456,
+    "dup_title": 267,
+    "too_old": 86,
+    "gate1_blocked": 9,
+    "gate2_blocked": 17,
+    "passed": 77,
+    "pass_rate": "40.7%",
+    "gate2_block_rate": "9.0%",
+    "gate2_samples": [
+      "Teva seeks to keep Israel ties from jury, cites Gaza war - Reuters",
+      "Lonza Group AG (ADRs) (US54338V1017.SG) recent insider transactions - Yahoo Finance UK",
+      "Pfizer’s green chemistry team turns 25 - Chemistry World",
+      "Pfizer grapples with ‘a world of hurt’ after Covid triumph - Financial Times",
+      "Pfizer (PFE) Agrees To $44 Million Class Action Settlement - simplywall.st"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為Novo、輝瑞、Lilly相關動態：「China Surpasses US in Drug Trials as Washington Responds ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "China Surpasses US in Drug Trials as Washington Responds - Pfizer (NYSE:PFE),...（藥物核准、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Lonza Group stock holds near mid-range as investors digest 2024 earnings rese...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

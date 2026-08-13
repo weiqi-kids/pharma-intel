@@ -1,5 +1,274 @@
 [
   {
+    "id": "lonza-2026-08-13-001",
+    "date": "2026-08-13",
+    "companies": [
+      "lonza"
+    ],
+    "topics": [
+      "drug_approval",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lonza Group stock holds near mid-range as investors digest 2024 earnings reset - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYkQzbGhTelJmMWd0YUszbHRSYkhhaDVWRkVFU0VFcl92UlU2X2xpR2N5TjdjTkp2d2w4QV9NWjJjWnRxNUhXdnhvT0ItNHNOLXducVVoZGxPbElNSklYSVJMcFFZVW5MZWxVcHhGN3",
+    "sources": [
+      {
+        "name": "lonza",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYkQzbGhTelJmMWd0YUszbHRSYkhhaDVWRkVFU0VFcl92UlU2X2xpR2N5TjdjTkp2d2w4QV9NWjJjWnRxNUhXdnhvT0ItNHNOLXducVVoZGxPbElNSklYSVJMcFFZVW5MZWxVcHhGN3l6ZmI4c0cwNFVLeHJScVd5eWFkT0tMczB4R1VhNHpuaFVreS1ueFdrdWZhRlNCeThDSGcxWFZYSHhzN2tveTdnUDRMRXFaUmpkSUhEOHdaTXlqUmc4dG1lcWhsRmhONE5C?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "merck-2026-08-13-002",
+    "date": "2026-08-13",
+    "companies": [
+      "merck",
+      "pfizer"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "China Surpasses US in Drug Trials as Washington Responds - Pfizer (NYSE:PFE), Merck & Co (NYSE:MRK) - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPVkhOdTFITXlSN1hJemhFY1E5dHRiMEl2QmtKOEVtOFVtZ0xBZTBmWEVxVG5zNlozak1ma01wNlhmMnkwUTJwWWs4c3F6LVR2Z3Z2RWtwUVFFbDVwZzZtM0RwdzlqWmVxRjdSN0hiV2",
+    "sources": [
+      {
+        "name": "pfizer",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVkhOdTFITXlSN1hJemhFY1E5dHRiMEl2QmtKOEVtOFVtZ0xBZTBmWEVxVG5zNlozak1ma01wNlhmMnkwUTJwWWs4c3F6LVR2Z3Z2RWtwUVFFbDVwZzZtM0RwdzlqWmVxRjdSN0hiV2F4bjNhNEdmZWNfZFhSU3VGUk51bnFfZWxsbUJ2SA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jnj-2026-08-13-003",
+    "date": "2026-08-13",
+    "companies": [
+      "jnj"
+    ],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "J&J MedTech launches DUALTO combining 4 surgical energy modes in Korea - koreabiomed.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1sa2dMdWdZQ1h2dFlDV09MOXhSVXNtTkRkd1FtVVVyN0J2VDF3VjBhRzdMMFJENHdOME1CeXkzRk5EZkV1b1NUWUxlZXl2SG5vMktJbk12QmZNdHdvQ0pMM2hDazhiRG9hSnpvd0p30g",
+    "sources": [
+      {
+        "name": "jnj",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sa2dMdWdZQ1h2dFlDV09MOXhSVXNtTkRkd1FtVVVyN0J2VDF3VjBhRzdMMFJENHdOME1CeXkzRk5EZkV1b1NUWUxlZXl2SG5vMktJbk12QmZNdHdvQ0pMM2hDazhiRG9hSnpvd0p30gFyQVVfeXFMTVR1cTBndkc4TVlrdkt4cWstZzBnOGl2VzRkNDg1MnozVjhIcTlFVEhEZFJyQ2lwUllzMmhRbVdwb3VLSFVOdjdkWGNndjN1ZHNKNmtza2l3eTV6MG52QldGQndRMEZLMU85Y0Q3VC13MXNn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "roche-2026-08-13-004",
+    "date": "2026-08-13",
+    "companies": [
+      "roche"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Roche Holding stock edges higher after solid half year 2026 results - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNNnRtam84XzhuSC10cDNZaG5wLUpTTlpkdGZ0OEZVS212dEh2Z09RY1RvNlBDcFE3aXJVdVJlSHVlanpCTUN2cW9YbU9rZkZQc3RlbmJMNU9CNEcxZDlPek9SNDZzWUp4R1FrNkFycH",
+    "sources": [
+      {
+        "name": "roche",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNnRtam84XzhuSC10cDNZaG5wLUpTTlpkdGZ0OEZVS212dEh2Z09RY1RvNlBDcFE3aXJVdVJlSHVlanpCTUN2cW9YbU9rZkZQc3RlbmJMNU9CNEcxZDlPek9SNDZzWUp4R1FrNkFycHFiOERLbk16UEZtMUg1eFI5cEdoQ2pqZXZIWFBCT2ZJT1NQbkM3YzBlZFl1Rkc4NXNjczRfWEtCd1dZZU1CRXIzWGtJc21IRjEzb0kwMElZbkhnY09OLVFuYzBR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-08-13-005",
+    "date": "2026-08-13",
+    "companies": [
+      "novo_nordisk",
+      "eli_lilly"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Novo Nordisk CEO Concedes Eli Lilly’s Market-Share Gains as Stock Slumps - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNb2JkVXYxUkMwQkZlbTJLckhFNWFYSVd1TDBna00xbXpkMkFyeGFtWXJuZGx4bmtnd3FlUkhyazh4RUlMSzl5eXF0aldtRFZQc2NtU1NJMDNsaTF3aXZuNFJIQldrUWpieGxSZWVmVW",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb2JkVXYxUkMwQkZlbTJLckhFNWFYSVd1TDBna00xbXpkMkFyeGFtWXJuZGx4bmtnd3FlUkhyazh4RUlMSzl5eXF0aldtRFZQc2NtU1NJMDNsaTF3aXZuNFJIQldrUWpieGxSZWVmVW1xeHJkSkJJdy1ySmRiNmZsNm92Wnc1Tmczc3RpMUJUQVBNbGww?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-08-13-006",
+    "date": "2026-08-13",
+    "companies": [
+      "novo_nordisk"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Novo Nordisk Partners with Amazon to Boost Drug Discovery - CHEManager",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOTm9DYV9UUE5vbkl4M3BkVkg3Q0liQkZIZXVkUDBwV1o4eUV4RGx0cGtrV0IwdXVTWXdBbDB1LVNpY2lkS3pmSDY5WTItQ0hmZzZ5OFdVTEhJRV95UFlnS21PMkRLVGJDUXZySnZBdH",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTm9DYV9UUE5vbkl4M3BkVkg3Q0liQkZIZXVkUDBwV1o4eUV4RGx0cGtrV0IwdXVTWXdBbDB1LVNpY2lkS3pmSDY5WTItQ0hmZzZ5OFdVTEhJRV95UFlnS21PMkRLVGJDUXZySnZBdHpzckM5VExfN3hQOFNFM1lSNGdYamY4QVpHQkZlNmo5bjU0Qy1XWE1jM2F5NA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-08-13-007",
+    "date": "2026-08-13",
+    "companies": [
+      "novo_nordisk"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Altrafin AG Sells 34,450 Shares of Novo Nordisk A/S $NVO - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ0YzUEdtSlgxS1dhcks5OHdaVUt4bWJmNnkxdU1lcVctaDc5MmVMU0JwaGUwVE4tMjdVT0ZiVS12ak5XX3d0V2NfeVpGQk5pOHVmY3RWREs3d2ljc3J3RGxhZm1vU3gyLVVSaFZMc0",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ0YzUEdtSlgxS1dhcks5OHdaVUt4bWJmNnkxdU1lcVctaDc5MmVMU0JwaGUwVE4tMjdVT0ZiVS12ak5XX3d0V2NfeVpGQk5pOHVmY3RWREs3d2ljc3J3RGxhZm1vU3gyLVVSaFZMc0pFSGZxSlVHSV9LMjBCdU1zNU9Iek9Bc2RNMUhYYUw4ZTM2dU9RbkdvazVYaGhvc2V2UlViSGlLaEZwTGRtYzAtdkp0NTk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-08-13-008",
+    "date": "2026-08-13",
+    "companies": [
+      "novo_nordisk"
+    ],
+    "topics": [
+      "drug_approval",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Novo Nordisk and AWS Partner to Accelerate AI-Driven Drug Discovery - EME Outlook Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ3RRTHJXcC1WQV9GMUt5eGtmU3dPbUl0RHg5Y0p3c25HcTdvdXE0YnlKRnY1YllqcWhkaFRZb2kzRTFBTVFwdzVjNzhKbTVFQVI4ZlcyUHJ2a0pJM2VScmd4Vkx5Y05DSFVWV2xqc1",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ3RRTHJXcC1WQV9GMUt5eGtmU3dPbUl0RHg5Y0p3c25HcTdvdXE0YnlKRnY1YllqcWhkaFRZb2kzRTFBTVFwdzVjNzhKbTVFQVI4ZlcyUHJ2a0pJM2VScmd4Vkx5Y05DSFVWV2xqc1VfVlNmNXo4Qzg1b01xUXRTVmFsWmJHbFl6c3YzVVBkVThfbHVib1ViZ0QwWGVXRElndDZpY1hVUDNaemJf?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-08-13-009",
+    "date": "2026-08-13",
+    "companies": [
+      "novo_nordisk",
+      "eli_lilly"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Novo Nordisk CEO Concedes Eli Lilly’s Market-Share Gains as Stock Slumps - BeInCrypto",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE51OW5ORDJDZFFUMTh4THczaURiSmtla29UUWV5b25TUFdHdmhQWjViV1hENnM5Q0NkUWg3Q2p2R0hsMnRDNzcydUFickpBSG9iVkdXdmJYQjZHQzFwQmRmNE1zeXlhZlZZNXh3RDdYej",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51OW5ORDJDZFFUMTh4THczaURiSmtla29UUWV5b25TUFdHdmhQWjViV1hENnM5Q0NkUWg3Q2p2R0hsMnRDNzcydUFickpBSG9iVkdXdmJYQjZHQzFwQmRmNE1zeXlhZlZZNXh3RDdYejA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pfizer-2026-08-13-010",
+    "date": "2026-08-13",
+    "companies": [
+      "pfizer"
+    ],
+    "topics": [
+      "drug_approval",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "5 Insightful Analyst Questions From Pfizer’s Q2 Earnings Call - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPdGt0d2VkaG50SjVMLVlGUXBWdEZnRm85MWhLZ2FiVVV3clhhM25jdklSUUppVWhlYzNoMVd6dUVXUUVOLTlKVEpldzNYXzJOV3hkR0Y3b1UtS2FvQ0xJY2xERUFBYkdfT01zQ0Q0a2",
+    "sources": [
+      {
+        "name": "pfizer_news",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdGt0d2VkaG50SjVMLVlGUXBWdEZnRm85MWhLZ2FiVVV3clhhM25jdklSUUppVWhlYzNoMVd6dUVXUUVOLTlKVEpldzNYXzJOV3hkR0Y3b1UtS2FvQ0xJY2xERUFBYkdfT01zQ0Q0a2FqYnNpNThVUEpRNENlLVY0VEVwLU5EelVOYmxWTVZIOWUyam00TndLTnJwNmxOM3M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-13-011",
+    "date": "2026-08-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "STAT+: What patients actually think about ‘minimally invasive’ brain implants",
+    "summary": "A new study polled people with treatment-resistant depression about what matters to them when it comes to brain implants for mental health.",
+    "sources": [
+      {
+        "name": "statnews",
+        "url": "https://www.statnews.com/2026/08/13/patient-perspectives-on-brain-implants-for-depression/?utm_campaign=rss",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-13-012",
+    "date": "2026-08-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Opinion: I’ve seen what life is like without vaccines. Americans need to understand what they save us from",
+    "summary": "“The ability to prevent a deadly infectious disease is an extraordinary privilege,” writes infectious disease physician Krutika Kuppalli.",
+    "sources": [
+      {
+        "name": "statnews",
+        "url": "https://www.statnews.com/2026/08/13/trump-vaccine-executive-order-mmr-separate-shots-policy/?utm_campaign=rss",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-13-013",
+    "date": "2026-08-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "STAT+: As young people increasingly get cancer, new fertility options are changing their futures",
+    "summary": "New technologies, cancer doctors, and reproductive specialists are working to give more patients a chance to have children post-treatment.",
+    "sources": [
+      {
+        "name": "statnews",
+        "url": "https://www.statnews.com/2026/08/13/young-people-cancer-new-fertility-tech/?utm_campaign=rss",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "teva-2026-08-12-001",
     "date": "2026-08-12",
     "companies": [
@@ -258,6 +527,946 @@
       {
         "name": "statnews",
         "url": "https://www.statnews.com/2026/08/12/neurocrine-biosciences-vykat-prader-willi/?utm_campaign=rss",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "teva-2026-08-12-014",
+    "date": "2026-08-12",
+    "companies": [
+      "teva"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Teva Pharmaceutical Industries (NYSE:TEVA) Price Target Raised to $42.00 - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOdDNOR3JSc2N3RmgxQ2ZBMUJMTERFUnJ6Y2pJM1NDb1pFbVhMVmZiSzRlWFFkUXd4SS1ubVVrQVFaZXJ5c3M5eW1RYzA3VGxub1dnM1liVlpsYU53c1dfQXdmc1BqSF91MHJsUmlKSl",
+    "sources": [
+      {
+        "name": "teva",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdDNOR3JSc2N3RmgxQ2ZBMUJMTERFUnJ6Y2pJM1NDb1pFbVhMVmZiSzRlWFFkUXd4SS1ubVVrQVFaZXJ5c3M5eW1RYzA3VGxub1dnM1liVlpsYU53c1dfQXdmc1BqSF91MHJsUmlKSl9FWEdzdGNGREhUeUFCQzFneng5cmlMZTVzWmhHZV94Y3NJRDNQWXB0dzc1MEs4ODFpYkVDSEdjZ2dKbXNTbjRiNVVOajAxRm0zZ1pwc2RB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lonza-2026-08-12-015",
+    "date": "2026-08-12",
+    "companies": [
+      "lonza"
+    ],
+    "topics": [
+      "drug_approval",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lonza Group stock trades steady as investors weigh 2025 earnings reset - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPWXhmSDQzeXZkS0FUbTFoYW1WMDhIdkpYeFItNzZqQ2E2dC0xZU5EbG0wUktILUVHSjhDNzdtZTVMLTZRM0UxMGI0R3QwOWdfNXJVWFRiZ20wczc0WHM1d1Q3UTFWdWh6RzRFSllBX0",
+    "sources": [
+      {
+        "name": "lonza",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWXhmSDQzeXZkS0FUbTFoYW1WMDhIdkpYeFItNzZqQ2E2dC0xZU5EbG0wUktILUVHSjhDNzdtZTVMLTZRM0UxMGI0R3QwOWdfNXJVWFRiZ20wczc0WHM1d1Q3UTFWdWh6RzRFSllBX0tYVWtHLWZhVlVfZWc0cE9LUklUcE1HVlExaWlfOE1tNFdYWlpXeVQtUkMzTE5LVmFHWktORlFEWkEtZUxPZG54UEhaR2xZd1FIWThyR0ZoZG1qS1p0RjhJcmxjS2NLdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abbvie-2026-08-12-016",
+    "date": "2026-08-12",
+    "companies": [
+      "abbvie",
+      "jnj"
+    ],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "Johnson & Johnson vs AbbVie: Safe Dividend vs Higher Yield - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOSDRTWkVOSWhtdHJwa1dvbGFiYXZIcUtZQ3JWTnlKWUlMb0JJbC0xUW1IMUg5SUpRZWVLYWVwMmhZSWFzSC04MkFIbTIwWEI5WnJSVnJOUllNaWdQdHF3SFRnWFhyblczMS1UaEJWN2",
+    "sources": [
+      {
+        "name": "jnj",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSDRTWkVOSWhtdHJwa1dvbGFiYXZIcUtZQ3JWTnlKWUlMb0JJbC0xUW1IMUg5SUpRZWVLYWVwMmhZSWFzSC04MkFIbTIwWEI5WnJSVnJOUllNaWdQdHF3SFRnWFhyblczMS1UaEJWN2FCc1BoQnVLc1VpYTU4WGJ6bTVZRVVid0Zwak1NeHVSYkp0UEZ0V2VVZkRPZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abbvie-2026-08-12-017",
+    "date": "2026-08-12",
+    "companies": [
+      "abbvie",
+      "jnj"
+    ],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "Johnson & Johnson vs AbbVie: Safe Dividend vs Higher Yield - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNalhtLW5rd3JTbzRMTjJKek5GcjRhendXRjB0OTBqQTVzWkJ1OFlvQUF1SnFvOGdVZlRCSzZSUXdnbHJWeDkyLVYxYU5DSTZxSXVCa3BMNlJqZUdLUi10VnZqMWhlcGZZOVNfOU90VV",
+    "sources": [
+      {
+        "name": "jnj",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNalhtLW5rd3JTbzRMTjJKek5GcjRhendXRjB0OTBqQTVzWkJ1OFlvQUF1SnFvOGdVZlRCSzZSUXdnbHJWeDkyLVYxYU5DSTZxSXVCa3BMNlJqZUdLUi10VnZqMWhlcGZZOVNfOU90VVVOVGlhZzlYbHhCemZNTmMxX18zVE1YblItS19JSU9XQUNzNFJIT0NrS1BLbjM0Yml0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abbvie-2026-08-12-018",
+    "date": "2026-08-12",
+    "companies": [
+      "abbvie",
+      "jnj"
+    ],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "Johnson & Johnson vs AbbVie: Safe Dividend vs Higher Yield - aol.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBtOEFxdlhHUkJlX3ctM1QxemNnTE9QbF9RazJ0SnhTTFJhd1lNSXJHNURfOGxObVRIWUh0WFpkMzdCeUxYVlNoLXczNV8yam1qMWd0Z2dWUzlHMVI0X0tUaXNxTUdpakNPLWIyUHFVUk",
+    "sources": [
+      {
+        "name": "jnj",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtOEFxdlhHUkJlX3ctM1QxemNnTE9QbF9RazJ0SnhTTFJhd1lNSXJHNURfOGxObVRIWUh0WFpkMzdCeUxYVlNoLXczNV8yam1qMWd0Z2dWUzlHMVI0X0tUaXNxTUdpakNPLWIyUHFVUkpJTDc2T2NkVDZJRmlCODA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "astrazeneca-2026-08-12-019",
+    "date": "2026-08-12",
+    "companies": [
+      "astrazeneca"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CSPC Pharmaceutical Receives $30 MLN Upfront Payment From Astrazeneca Under Collaboration Agreement - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdk84RVFSRi1QWjRJanAxNGUxU05zbVFhSXBnMzdwM1VNMmVVQ3BiSmtUUkp1UWRUQ1BnYVp6WWs2UTRFY3JyTmJjbFc1Q3ZkVEVZM3VCd2VSNENrLVlYa05QRGtPeXpycXoxUE9PZ0",
+    "sources": [
+      {
+        "name": "astrazeneca",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdk84RVFSRi1QWjRJanAxNGUxU05zbVFhSXBnMzdwM1VNMmVVQ3BiSmtUUkp1UWRUQ1BnYVp6WWs2UTRFY3JyTmJjbFc1Q3ZkVEVZM3VCd2VSNENrLVlYa05QRGtPeXpycXoxUE9PZ0Zzc25qdVh0Q2xnLWMyLVJOS2hCc2RXeGd6b2ZWYjNpTTNuek9yWlVSTjlxeWptOUp2T1YwRVpHY2phRU14cndUZFR2Mi1FQTlNOTBzWXlzcVQ1eUJ4YkRyVlE2WnM0VUVKUzNjQXp2alZDUS1lNUtzaElFMS1ZcnBPRVpFTGN0OVBhM2tjUk14UDh1bUM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "merck-2026-08-12-020",
+    "date": "2026-08-12",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Insider Selling: Merck & Co., Inc. (NYSE:MRK) EVP Sells 12,837 Shares of Stock - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQNlhyWURtaUlYaW9rSnZCc0JDaTgyQkV0aEVXeDc2d2xKdWZBdS1PVkw4ZDJPYWo4OUk0c1BpTzVYSUY3TDZXUTFkU2YzcmtZbnZnNVdzc0Y3Q0xhUTFnSXVUTm5PcHJIOWNaNmR5cW",
+    "sources": [
+      {
+        "name": "merck",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNlhyWURtaUlYaW9rSnZCc0JDaTgyQkV0aEVXeDc2d2xKdWZBdS1PVkw4ZDJPYWo4OUk0c1BpTzVYSUY3TDZXUTFkU2YzcmtZbnZnNVdzc0Y3Q0xhUTFnSXVUTm5PcHJIOWNaNmR5cWFDdDRSbExmclhfMWlpbjBlMnhJV0RpUTNrQ3RjdEFobEt5c045bTZNVnBTdlYzUFRVOWFFMlIzY3VzTmo3QU5vbXloYXNFd19DWnJXaUV0QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "merck-2026-08-12-021",
+    "date": "2026-08-12",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Merck & Co(MRK.US) Officer Sells US$5.94 Million in Common Stock - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQbHIyM21ZNXlvUHY4SU1pZk5CaVpCOWJGYzFTa3NNWnhUdFFBejViYV9RTjFTUzE3M1R4NzFabTdKRHFSNU94ZHlhYktma3RJU3pMcWNaRFNoeTF5YV9aWlhFTC1XWDZNNGsxV3VDRE",
+    "sources": [
+      {
+        "name": "merck",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbHIyM21ZNXlvUHY4SU1pZk5CaVpCOWJGYzFTa3NNWnhUdFFBejViYV9RTjFTUzE3M1R4NzFabTdKRHFSNU94ZHlhYktma3RJU3pMcWNaRFNoeTF5YV9aWlhFTC1XWDZNNGsxV3VDREJrLVZnd0FqdkotbDFvaWFoUGJmRXdRLXB1Q1QxSFhRRl9SaEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "merck-2026-08-12-022",
+    "date": "2026-08-12",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Merck & Co. Inc. stock outperforms competitors on strong trading day - marketwatch.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPX215QkZzTkxWZFhXem9XVm0xc0U0U2c1RFllaDgteE9kOVlyZ2VIei01ZFU2YmdxQWtHSUtHa0liV2Q0S01DeDNES3BOWjFmWEM4UlJqTzBzS05sR3hlTFNSMUU5UEExUGRXRGM4WX",
+    "sources": [
+      {
+        "name": "merck",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPX215QkZzTkxWZFhXem9XVm0xc0U0U2c1RFllaDgteE9kOVlyZ2VIei01ZFU2YmdxQWtHSUtHa0liV2Q0S01DeDNES3BOWjFmWEM4UlJqTzBzS05sR3hlTFNSMUU5UEExUGRXRGM4WXFOSU8tamhlaThFSGdEczcyRUFVNjJjS19PZUpzTlIyMFB3VFNHaGRYMW5qY3ljbEtydnM4WkRjYmxnMlBIZFhzNDJ4TUd5RnBOZE1ud1NBSGN5LWU0aElfRGtYNVhvZ0VLRlNJNUVfNzZrZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "merck-2026-08-12-023",
+    "date": "2026-08-12",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "positive",
+    "title": "Merck expands animal health business in Peru with TARGAN buy - latinlawyer.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQX1I4Um1ZQXBmZWF5cUFyWlBwWUVIYXZoMUtWQk1DOEZwdmV4QjJlaWxYR0tTSDQ5a25ialdSNjYxbTVqM3JvTEZCZjBpc2NIQ2VsZ3JPdWZHR0had1R6bGgzanRGYk9hQjJpdzRJdU",
+    "sources": [
+      {
+        "name": "merck",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX1I4Um1ZQXBmZWF5cUFyWlBwWUVIYXZoMUtWQk1DOEZwdmV4QjJlaWxYR0tTSDQ5a25ialdSNjYxbTVqM3JvTEZCZjBpc2NIQ2VsZ3JPdWZHR0had1R6bGgzanRGYk9hQjJpdzRJdU9nMWxNeWFmSG1NVWZIRmVGSXNjZVkzM1VYN3BpcVZZemo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "merck-2026-08-12-024",
+    "date": "2026-08-12",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Merck & Co., Inc. (NYSE:MRK) EVP Richard Deluca Sells 11,699 Shares of Stock - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOYmFCeXdJVWVtbmRka1V3MklhYVYteWRzY0NwVjNSZEV5cFc3dmJSSUZCWk1Ud29aTGViNklzM0Z3WHZEdlFKNVM4dGlmcktOSHpSM1dsWUlfbWgyS1ZLYWpnNThXNE1nU1M2OGsyTV",
+    "sources": [
+      {
+        "name": "merck",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYmFCeXdJVWVtbmRka1V3MklhYVYteWRzY0NwVjNSZEV5cFc3dmJSSUZCWk1Ud29aTGViNklzM0Z3WHZEdlFKNVM4dGlmcktOSHpSM1dsWUlfbWgyS1ZLYWpnNThXNE1nU1M2OGsyTVFUUmcwSEJZR1JLZDEzT3VwT0NDdW1ISURlTTFzbXF1VUhpLVFHVjJFclYxZUNpR1Q1WHZSUkJLbGlobnUtcjBTZUVuVVFNRlA5eTBqYmN3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "merck-2026-08-12-025",
+    "date": "2026-08-12",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Merck & Co., Inc. (NYSE:MRK) EVP Richard Deluca Sells 20,784 Shares of Stock - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNcW5iM0tpNVVWY2xURGtUU1REVVRpZzh1a2dFUGFZNm1PbGlTckpmQ0hUTU5sdG9ZcmkwbHlZR01sNVg0WXZuQkl0Y3psNEdWQ0xQV2JNdjBJLVp4Und3WEdvTmprNGhWb3ZSUmZPdl",
+    "sources": [
+      {
+        "name": "merck",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcW5iM0tpNVVWY2xURGtUU1REVVRpZzh1a2dFUGFZNm1PbGlTckpmQ0hUTU5sdG9ZcmkwbHlZR01sNVg0WXZuQkl0Y3psNEdWQ0xQV2JNdjBJLVp4Und3WEdvTmprNGhWb3ZSUmZPdldHSlhvMmZqNHdXZWh5NnZ6LUNraXpxRmNqYnhkTkdKVS05dXN2MExEeDFhVk1xSkduM1JoUHpibllJblN6RVlSajNKWXB2RnVHMk5EbWhn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "merck-2026-08-12-026",
+    "date": "2026-08-12",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Merck & Co., Inc. (NYSE:MRK) Upgraded at Daiwa Securities Group - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQVXc1ZUpaZFF6Z01xZWw5NEdBOTl5TWFzdGsyNC1kMXZoN2E1WTZhdkVoMzZkak1sQ1dmNTNfQm9GZEJwTno2R0RzUlhTQVltb2FCSUdqVEY4aFpIaUpzVGt3YTJ3WGVTNVVENGZMaG",
+    "sources": [
+      {
+        "name": "merck",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVXc1ZUpaZFF6Z01xZWw5NEdBOTl5TWFzdGsyNC1kMXZoN2E1WTZhdkVoMzZkak1sQ1dmNTNfQm9GZEJwTno2R0RzUlhTQVltb2FCSUdqVEY4aFpIaUpzVGt3YTJ3WGVTNVVENGZMaGdNTDEzMkZ2MHpjZkpZX0dFRzF1djRRdEdvcHFVc0JrWndKZ2hvMFhpWWlQMFNsUERGLVJSLXFDczMtcFZ1OGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "eli_lilly-2026-08-12-027",
+    "date": "2026-08-12",
+    "companies": [
+      "eli_lilly"
+    ],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "Lilly calls on online platforms, payment companies and regulators to shut down the illegal retatrutide black market",
+    "summary": "Files six new lawsuits as company escalates fight to protect patients INDIANAPOLIS, Aug. 12, 2026 /PRNewswire/ -- Eli Lilly and Company (NYSE: LLY) today escalated its continued fight to protect patie",
+    "sources": [
+      {
+        "name": "eli_lilly",
+        "url": "https://investor.lilly.com/news-releases/news-release-details/lilly-calls-online-platforms-payment-companies-and-regulators",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-08-12-028",
+    "date": "2026-08-12",
+    "companies": [
+      "novo_nordisk"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Novo Nordisk CEO sees ‘long runway’ for weight-loss drugs as obesity grips America - foxbusiness.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQno5RGlnSUV6emhna290d1FPQU9ic0xibUZ5czVtcWZxbENIbnRwOC1aYzdTeFlsc01sVnAwN1A4UVZPVTRYRVViV1d2VkdPT05GNHhfbWxWNk9IOHZCQkhqSGRJem1Vbk51eEdjMF",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQno5RGlnSUV6emhna290d1FPQU9ic0xibUZ5czVtcWZxbENIbnRwOC1aYzdTeFlsc01sVnAwN1A4UVZPVTRYRVViV1d2VkdPT05GNHhfbWxWNk9IOHZCQkhqSGRJem1Vbk51eEdjMFhfbzdRWDMxb0MtalRjbURPalQxcHloaWZiMGJUZXRmM2NaRVhmTDd1UTd6bVNBeEJrN1dDbFdzSU5mV0nSAbABQVVfeXFMTTNVRUNoSnlLT0dpVndHbFBEYlZ6VG1uOGxSSEFweW9kRnQ3cDJBZFNXenhqLU1vLWhmX2xYSTY3eTFSSmY1RWZmOU1sMlg1OVVNcXpSaGtSSjAwRHdnNU0yck1pSnhBdGdudkwwQ3V4R08xd0pOYjBKSXd6RFpXcGZhWUwtZkxmVkdNQlNRdWNWdUpiZkpRQktDQmgyV0xFOHgxdldSOEk3RERBeDVWclc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-08-12-029",
+    "date": "2026-08-12",
+    "companies": [
+      "novo_nordisk",
+      "eli_lilly"
+    ],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "Novo Nordisk CEO defends lawsuit against Eli Lilly: 'Competition has to be fair' - CNBC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOQUk1YTNrS200TmdDUl9lWlhCbTJkblJzcnpMVkthUmhhZjI2RVlxUGtUVmVpV051ODdXY3Vyb0NYQmdkSzdsNTFXS19xRkFLMlNJMDAxRm1VaVlyT3dDcGwxN0VMN1RqejdCbFVzWD",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQUk1YTNrS200TmdDUl9lWlhCbTJkblJzcnpMVkthUmhhZjI2RVlxUGtUVmVpV051ODdXY3Vyb0NYQmdkSzdsNTFXS19xRkFLMlNJMDAxRm1VaVlyT3dDcGwxN0VMN1RqejdCbFVzWDBUVFlRd2t2VncxR3FtNkhBVXhXdjgyeHAweUpGUkNMTETSAZYBQVVfeXFMUHpVVldySm0xMmdMUU1BWjFJaENwQ05oRWRoQ2I0VDJxbTRfWktnZkRDUkhtZTlscUVCZkUwU2JuanViRDBhSlk5RW5CcDlrdkFJbkhVd3Q2TDRWYXdpYi15aDJuUEdVbkdIcjNDZzI5NnFVODBTSmJpTWxFOUZFRkxKQzQxMHA3RUI4UlFHNnA4SG4tUENn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-08-12-030",
+    "date": "2026-08-12",
+    "companies": [
+      "novo_nordisk"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Novo Nordisk's ziltivekimab falls short to reduce cardiovascular events in phase 3 trial - Managed Healthcare Executive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUDZtRVRfUlVSRmR5LVhncVRnZFgwNzNCRG9JZVhxa3lvUHl3VGZvcC1Zbk5lcW92NzFUN2M5cUJLeGZ1dnM3bUoyc0R3NHByblFUdFE0WWJvVHVqT2pVaWVQRG5OcWloSWRYV3BUZm",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUDZtRVRfUlVSRmR5LVhncVRnZFgwNzNCRG9JZVhxa3lvUHl3VGZvcC1Zbk5lcW92NzFUN2M5cUJLeGZ1dnM3bUoyc0R3NHByblFUdFE0WWJvVHVqT2pVaWVQRG5OcWloSWRYV3BUZmNVZ1NUU0tYbzJxaDlCTkFBZjlob1pRU1ZqeC0xLXU5WnhOQkZzdjNMTzJlT3BERS1BUTBsYTNXb0MwUlBtSDFNeTRQR0tEZ2VRRnFsSUJLX0JIUEI5dHBQTUVkeWY1SWtuVWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-08-12-031",
+    "date": "2026-08-12",
+    "companies": [
+      "novo_nordisk"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Novo Nordisk’s ziltivekimab misses Phase 3 primary endpoint - drugdiscoverytrends.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNb19SM3AyN0VxQ19HWjhzcnFIcEZTaXF4cmNOdjlBWkRXanZ4QWRtSzNxREl2ejNIYnUyd1RoUTVCTEE5REZlSkFHTjlnWl9LRmtkaTNnbWtIXzltYlI3eGFQdFQtNVZ1bjZCTWdPUD",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb19SM3AyN0VxQ19HWjhzcnFIcEZTaXF4cmNOdjlBWkRXanZ4QWRtSzNxREl2ejNIYnUyd1RoUTVCTEE5REZlSkFHTjlnWl9LRmtkaTNnbWtIXzltYlI3eGFQdFQtNVZ1bjZCTWdPUDI4b3ZqSUpVeU5QU3Z1bnVtMFUxTm9XYUlxeE9XSWYzZ2RiQ294VjhQb1Vfaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-08-12-032",
+    "date": "2026-08-12",
+    "companies": [
+      "novo_nordisk"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Novo Nordisk (NVO) Stock Still Looks Cheap On Earnings But Faces Growth Doubts - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcVAtZ0JOck5Od3FSbWR2OUl6OFNmWjJCYzA5cVBwS1k5STd6eGFmYzRBcVZsNW1LbVBBNjA0YTNzdFhWTVpYWlpWVVZnaGVTVnl4aDFRVTl6WUZVVWs4UWdSZ1MxOV9NdjRNQ2JyMF",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcVAtZ0JOck5Od3FSbWR2OUl6OFNmWjJCYzA5cVBwS1k5STd6eGFmYzRBcVZsNW1LbVBBNjA0YTNzdFhWTVpYWlpWVVZnaGVTVnl4aDFRVTl6WUZVVWs4UWdSZ1MxOV9NdjRNQ2JyMFNqcWlySFhtTkxDd2VCOU1Eclp4djdTRGVjSWFEMnF6aW0yRjBIaTRESFRfSmFzNkEzWFpYRXdsWEdmQUlpYUtlOWp1MGVtWFE5RWp3SnRDb3VSZzlxUEZiNzQtc2VJNXdhRFdYMkVJVFhnNkXSAeABQVVfeXFMTUpOVGM4VWljNEJnVFZGcW0ySEJucHd0RmpYLXFhcEpoQjZqNzhDc0VqSERNVndtckRsOGw2aDkwODNhNzlTbVp2NFBwaExtdHNKb2lVY2VMeERKT0toRmk0Zm9fQWxPRHFuN2dxaTdDYnpBUXc5M3hLTDdRcmt2UURZbTlidUJ0TzdocXNkZ05IWGVYTVJVMVVfU1gwVWpLMXVfdzdyZGlIT1c4ZzhaR01UZkRxQzJhMTVCYTJ0ellyTE5HSkR2R0NTWXROZGx3UG9aSnJYb3YxNEJJUExQQ2s?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "eli_lilly-2026-08-12-033",
+    "date": "2026-08-12",
+    "companies": [
+      "eli_lilly",
+      "sanofi"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Biopharma saw a Q2 sales boom led by Lilly, Sanofi, Regeneron and Astellas - Fierce Pharma",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNcGNOcDRyc0VtaFdZT2duUDVrZWhhbFBzR04xdUpTdWxqcmc4SlB0STBVTlNaSUtDejhjVm13Vjh2LURtOE5td0JPTW5zMkliTFRTUGxlT1lTQlEzRGs5WjVhbU9hU0RKRjdrUl9qcX",
+    "sources": [
+      {
+        "name": "sanofi",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcGNOcDRyc0VtaFdZT2duUDVrZWhhbFBzR04xdUpTdWxqcmc4SlB0STBVTlNaSUtDejhjVm13Vjh2LURtOE5td0JPTW5zMkliTFRTUGxlT1lTQlEzRGs5WjVhbU9hU0RKRjdrUl9qcXRod1h6SndFODhITDV0clNTQm03akZrMXdfMWZGZnVienFLZGpWMWhVcGYtYTJEQXhtSENSaVdR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mckesson-2026-08-12-034",
+    "date": "2026-08-12",
+    "companies": [
+      "mckesson"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Wedge Capital Management L L P NC Has $29.42 Million Position in McKesson Corporation $MCK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQUkxSlZsZXVZVU5XeWVlZVdBUUxqSk53NVQtMVNpMldUczVfUzR3NGlCQ08yUmZSanpUQkZmcEhtZUpOYmprU3JXYi1pY3RxQXhwVEtUTjQybWV4N1hIVEtwWncxX3RYX2ZtTEhrMF",
+    "sources": [
+      {
+        "name": "mckesson",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQUkxSlZsZXVZVU5XeWVlZVdBUUxqSk53NVQtMVNpMldUczVfUzR3NGlCQ08yUmZSanpUQkZmcEhtZUpOYmprU3JXYi1pY3RxQXhwVEtUTjQybWV4N1hIVEtwWncxX3RYX2ZtTEhrMFhWQlpDdFQtNE1Wa2puWlVuRVVCcnR5R1ZfSTVNSi14LXltRzFPQUVyTlNManR0TVFoM05TUXlmcEVCUzBlc1VIakFNbHdyMW9yX3Q2RnBmd1ZMWFNXUFQ0VlRLRzU4VzdHUTVFWkpqUW5DOGlsQVN6LVlR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cardinal-2026-08-12-035",
+    "date": "2026-08-12",
+    "companies": [
+      "cardinal"
+    ],
+    "topics": [
+      "drug_approval",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cardinal Health (CAH) Stock Looks About Right On Earnings But Stretched On Broader Checks - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQQTJsamJfRExEQ0hrbWdCS1hTeUZkTENBUjBnemhLc3RLNmZFMW0xU2tLb0pVeWpreEpXejF4bk9fU3NtMDZLLTdnelBlVXBHQ1kxbXpvci02NVpvX3d1cUxRbFFKa2lLSnFzdy1iSX",
+    "sources": [
+      {
+        "name": "cardinal",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQTJsamJfRExEQ0hrbWdCS1hTeUZkTENBUjBnemhLc3RLNmZFMW0xU2tLb0pVeWpreEpXejF4bk9fU3NtMDZLLTdnelBlVXBHQ1kxbXpvci02NVpvX3d1cUxRbFFKa2lLSnFzdy1iSXAtajd2ZTZWZkZNWmtyaTB5bW5mcG5KTF9heU1SczZ2M0xERUwtQktfVkk2NkM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cardinal-2026-08-12-036",
+    "date": "2026-08-12",
+    "companies": [
+      "cardinal"
+    ],
+    "topics": [
+      "drug_approval",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Cardinal Health Earnings: Can Perfection Get Priced In Twice? - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOb0pRMmI3NF81QUtwb2s5NzQ4OC1YcWxoMzFXWmh0eUVKM3AyVU1kT0hvMEtScEIyRXlLTDV3MXRRTmkyQ3dmbTFMVFdQTmRGbU1LUDBlWnpWdHJPeTJWTGpfaTA1eDVCMTIxV1FwaH",
+    "sources": [
+      {
+        "name": "cardinal",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb0pRMmI3NF81QUtwb2s5NzQ4OC1YcWxoMzFXWmh0eUVKM3AyVU1kT0hvMEtScEIyRXlLTDV3MXRRTmkyQ3dmbTFMVFdQTmRGbU1LUDBlWnpWdHJPeTJWTGpfaTA1eDVCMTIxV1FwaHBUaVlMZy1DRDlaeDBHX1NyR3l2MkJXb2w1U2c2TFpXSTJYVG9ZTUpiRHpGWHE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cardinal-2026-08-12-037",
+    "date": "2026-08-12",
+    "companies": [
+      "cardinal"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Cardinal Health Analysts Increase Their Forecasts Following Q4 Results - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNc092Yi1MbjBKeF9DRUV5aGtOazhOTVg2RjNmOFo4TkwxWW5JX2lfelREdFp6QThZbVI0eUlpNWs5aEJVcU1XU3gxdTM0OU41NVprVVQzazFveGpGMUw2bXBaUjRzV3dYUUVpTFV3UW",
+    "sources": [
+      {
+        "name": "cardinal",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNc092Yi1MbjBKeF9DRUV5aGtOazhOTVg2RjNmOFo4TkwxWW5JX2lfelREdFp6QThZbVI0eUlpNWs5aEJVcU1XU3gxdTM0OU41NVprVVQzazFveGpGMUw2bXBaUjRzV3dYUUVpTFV3UWRSUk8yWEVlMDc5VlhnVkR4Wk1DYkh4dGtYWjdqOEhkV19Ibk5pRV9xMndNNG5nLUNDWkd6dnJ3X3E3OWJYb3U0cU5uNkpVa3ZDLXloOTBGRjZSRlR2MFExcWt5TmRrWW96ZmdfVlBaZ3hzY0NlRGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cardinal-2026-08-12-038",
+    "date": "2026-08-12",
+    "companies": [
+      "cardinal"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cardinal Health, Lumentum Holdings, Public Storage - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1EaV9wSGEwNDh0Zi10R3h3LXVRQVpkYldVdlZkX0ZqY1dfNHBxR05fTWxOZkNCYmVSclJlSERXZG40blRFZ3hUUlNMdzBOZEQxOE9CQXp3WGpDV1V5bHpvOHJ1cWlSTlZCQlh1MHpxVU",
+    "sources": [
+      {
+        "name": "cardinal",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1EaV9wSGEwNDh0Zi10R3h3LXVRQVpkYldVdlZkX0ZqY1dfNHBxR05fTWxOZkNCYmVSclJlSERXZG40blRFZ3hUUlNMdzBOZEQxOE9CQXp3WGpDV1V5bHpvOHJ1cWlSTlZCQlh1MHpxVUdHaGtNYXdsWg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cardinal-2026-08-12-039",
+    "date": "2026-08-12",
+    "companies": [
+      "cardinal"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cardinal Health (NYSE:CAH) Given New $280.00 Price Target at Citigroup - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQVkyc0cxTVE2YlQ3Q2puS1EtdEVIU2hWV3huem90Y19NTjk2aGtRM2VpRllXOWIxWmFJMkpyUXdXZEhVa1VsVnNhaGhUS2VvTE5sUkllX2k4SmJ6OXVkVHhjMXh0NVBUWHhDbnhoaG",
+    "sources": [
+      {
+        "name": "cardinal",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQVkyc0cxTVE2YlQ3Q2puS1EtdEVIU2hWV3huem90Y19NTjk2aGtRM2VpRllXOWIxWmFJMkpyUXdXZEhVa1VsVnNhaGhUS2VvTE5sUkllX2k4SmJ6OXVkVHhjMXh0NVBUWHhDbnhoaGY5TmtBRTBhT2JxRnkwSHBRejlJSmpCdlN2YTUyN1ZpSThDRnQ5WHdpWE94WVBhMzBxN0p5MXNTdUVPVE5FbkxpUTlxVG8yOEg5aTkw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "eli_lilly-2026-08-12-040",
+    "date": "2026-08-12",
+    "companies": [
+      "eli_lilly"
+    ],
+    "topics": [
+      "drug_approval",
+      "glp1_obesity",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Lilly files six lawsuits in bid to shut down ‘black market’ for retatrutide",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/X7DgF8XHrG_MI3bhvzEYolMGhzhwM6NirOEKG8Pfs7c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc5NTI1NjM3LmpwZw==",
+    "sources": [
+      {
+        "name": "biopharma_dive",
+        "url": "https://www.biopharmadive.com/news/lilly-lawsuit-retatrutide-black-market-obesity-drug/827659/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-041",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Silence cashes in on ‘differentiated’ data; UK reaffirms support for childhood vaccines",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDg",
+    "sources": [
+      {
+        "name": "biopharma_dive",
+        "url": "https://www.biopharmadive.com/news/silence-divesiran-vaccines-itm-crl-abcellera-biomarin/827400/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sanofi-2026-08-12-042",
+    "date": "2026-08-12",
+    "companies": [
+      "sanofi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Boulevard starts up with $65M to pursue targeted autoimmune drugs",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/Hnh1jrlLIHR3bfdeqaxMAELwGbp4qjrJ6ilikxCSU3c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYxMTAxOTY4LmpwZw==",
+    "sources": [
+      {
+        "name": "biopharma_dive",
+        "url": "https://www.biopharmadive.com/news/boulevard-immune-drugs-igan-georg-schett/827583/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-043",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "NHS backs new treatment option for cystinosis",
+    "summary": "<p>Delayed‑release mercaptamine approved for routine use</p>\n<p><img src=\"https://pharmatimes.com/wp-content/uploads/2023/08/NHS-5.jpg\" style=\"display: block; margin: 1em auto\"></p>\n",
+    "sources": [
+      {
+        "name": "pharma_times",
+        "url": "https://pharmatimes.com/news/nhs-backs-new-treatment-option-for-cystinosis/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-044",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Four questions on new safety warnings for Neurocrine’s Vykat XR",
+    "summary": "A group of experts on Prader-Willi syndrome has sounded the alarm on side effects and deaths that may be connected to Neurocrine Biosciences’ medicine Vykat XR.\n\n The treatment has been linked to seve",
+    "sources": [
+      {
+        "name": "endpoints_news",
+        "url": "https://endpoints.news/four-questions-on-new-safety-warnings-for-neurocrines-vykat-xr/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-045",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Vaccine makers throw cold water on separating MMR vaccine",
+    "summary": "Theoretically speaking, it’s possible for vaccine makers to split up the measles, mumps and rubella vaccines, as recently ordered by President Donald Trump.\n\n Practically speaking, it’s far-fetched.\n\n",
+    "sources": [
+      {
+        "name": "endpoints_news",
+        "url": "https://endpoints.news/vaccine-makers-throw-cold-water-on-separating-mmr-vaccine/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-046",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "GDUFA IV commitments: New onshoring incentives and meeting types for generic drugs",
+    "summary": "From 2028 to 2032, generic drug applicants will continue to see many of the same FDA review timelines as they did over the last five years, but new initiatives related to onshore manufacturing and new",
+    "sources": [
+      {
+        "name": "endpoints_news",
+        "url": "https://endpoints.news/gdufa-iv-commitments-new-onshoring-incentives-and-meeting-types-for-generic-drugs/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "eli_lilly-2026-08-12-047",
+    "date": "2026-08-12",
+    "companies": [
+      "eli_lilly"
+    ],
+    "topics": [
+      "drug_approval",
+      "glp1_obesity",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Eli Lilly files first lawsuits over retatrutide 'black market'",
+    "summary": "Eli Lilly has sued six US companies for selling what it claims is the pharma giant’s investigational diabetes and weight loss drug retatrutide, which is still undergoing clinical trials.\n\n The litigat",
+    "sources": [
+      {
+        "name": "endpoints_news",
+        "url": "https://endpoints.news/eli-lilly-files-first-lawsuits-over-retatrutide-black-market/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-048",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Post-Hoc: Rewatch the Boston edition of our China Biotech Debate",
+    "summary": "Last week, we hosted the most engaging event I’ve been a part of here at Endpoints News.\n\n If you were there, you got to see a showdown of ideas between some of the most important ...",
+    "sources": [
+      {
+        "name": "endpoints_news",
+        "url": "https://endpoints.news/post-hoc-rewatch-the-boston-edition-of-our-china-biotech-debate/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-049",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AbCellera, Silence and InduPro all raise significant funding",
+    "summary": "AbCellera's $200M offering: The Vancouver biotech is selling shares after hitting the bar in a Phase 2 hot flashes trial on Monday. The Canadian drug developer has also ...",
+    "sources": [
+      {
+        "name": "endpoints_news",
+        "url": "https://endpoints.news/abcellera-silence-and-indupro-all-raise-significant-funding/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-050",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Definium's LSD drug clears bar in first of two Phase 3 anxiety disorder trials",
+    "summary": "Definium Therapeutics said Wednesday its oral LSD candidate has passed a late-stage study in generalized anxiety disorder (GAD), not even two months after reporting trial success for the same asset in",
+    "sources": [
+      {
+        "name": "endpoints_news",
+        "url": "https://endpoints.news/definiums-lsd-drug-clears-bar-in-first-of-two-phase-3-trials-in-anxiety-disorder/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-051",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Boulevard Bio dreams big in immunology with $65M, sights on Vera's IgAN drug",
+    "summary": "Though it's no longer unusual for a startup to emerge with an investigational drug from China, an immunology biotech is adding that asset to two disease-controlling drugs it already discovered in-hous",
+    "sources": [
+      {
+        "name": "endpoints_news",
+        "url": "https://endpoints.news/boulevard-bio-dreams-big-in-immunology-with-65m-sights-on-veras-igan-drug/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-052",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Talks on launch of clinical trial of Ebola vaccine in DRC advance, WHO says",
+    "summary": "Talks are underway between the Democratic Republic of the Congo and the WHO to expedite the start of a multi-armed Phase 3 clinical trial of Ebola vaccines.",
+    "sources": [
+      {
+        "name": "statnews",
+        "url": "https://www.statnews.com/2026/08/12/ebola-who-drc-ebola-vaccine-trial/?utm_campaign=rss",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-053",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Vaping and cannabis hit record highs among young adults in 2025: Survey",
+    "summary": "Young adults’ use of vapes and cannabis hit all-time highs last year, according to a new survey.",
+    "sources": [
+      {
+        "name": "statnews",
+        "url": "https://www.statnews.com/2026/08/12/vaping-cannabis-use-rates-young-adults/?utm_campaign=rss",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-054",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trump administration’s new ‘treatment first’ addiction toolkit emphasizes faith, abstinence",
+    "summary": "The White House nods to use of addiction medications but moves away from other harm reduction strategies.",
+    "sources": [
+      {
+        "name": "statnews",
+        "url": "https://www.statnews.com/2026/08/12/addiction-homelessness-hhs-toolkit-harm-reduction/?utm_campaign=rss",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-055",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "WHO says Trump’s latest vaccine policy order is misguided",
+    "summary": "The White House's order attempting to overhaul the vaccine schedule could subject children to more needles and more disease risk, world health leaders say.",
+    "sources": [
+      {
+        "name": "statnews",
+        "url": "https://www.statnews.com/2026/08/12/trump-vaccine-executive-order-critiqued-by-tedros-who/?utm_campaign=rss",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-056",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "STAT+: Cancer patients face longer wait times to begin treatment, according to new study",
+    "summary": "“Across every cancer we studied, patients are waiting longer today than they were a decade ago.”",
+    "sources": [
+      {
+        "name": "statnews",
+        "url": "https://www.statnews.com/2026/08/12/cancer-patients-face-longer-wait-times-for-treatment/?utm_campaign=rss",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-057",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Opinion: The Lindsay Clancy case shows the limits of postpartum psychiatry",
+    "summary": "“Our understanding and treatment of postpartum psychiatric illnesses remain profoundly inadequate,” experts write.",
+    "sources": [
+      {
+        "name": "statnews",
+        "url": "https://www.statnews.com/2026/08/12/lindsay-clancy-postpartum-psychosis-diagnosis-treatment-limits/?utm_campaign=rss",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "eli_lilly-2026-08-12-058",
+    "date": "2026-08-12",
+    "companies": [
+      "eli_lilly"
+    ],
+    "topics": [
+      "drug_approval",
+      "glp1_obesity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "STAT+: Pharmalittle: We’re reading about Lilly ‘black market’ lawsuits, pushback over Trump vaccine plan, and more",
+    "summary": "Eli Lilly filed six lawsuits against U.S. companies it accuses of illegally selling black-market versions of its experimental obesity drug retatrutide",
+    "sources": [
+      {
+        "name": "statnews",
+        "url": "https://www.statnews.com/pharmalot/2026/08/12/lilly-black-market-lawsuits-trump-vaccine-plan-pushback/?utm_campaign=rss",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-059",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "STAT+: Definium Therapeutics says its LSD therapy eased anxiety in late-stage trial",
+    "summary": "Definium Therapeutics said that its LSD therapy significantly helped patients with generalized anxiety disorder in the first of two large trials.",
+    "sources": [
+      {
+        "name": "statnews",
+        "url": "https://www.statnews.com/2026/08/12/definium-lsd-treatment-anxiety-study/?utm_campaign=rss",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-060",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "STAT+: Biotech company co-founded by top autoimmune researcher lays out plans with antibody therapies",
+    "summary": "German researcher Georg Schett has made a name for himself as a pioneer in autoimmune disease treatment. Now he's co-founding his own company.",
+    "sources": [
+      {
+        "name": "statnews",
+        "url": "https://www.statnews.com/2026/08/12/boulevard-bio-georg-schett-antibody-therapies/?utm_campaign=rss",
         "type": "rss"
       }
     ]
@@ -2180,6 +3389,153 @@
     ]
   },
   {
+    "id": "dr_reddy-2026-08-11-096",
+    "date": "2026-08-11",
+    "companies": [
+      "dr_reddy"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Dr. Reddy's Laboratories rises Tuesday, outperforms market - marketwatch.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNOF9Qd2l0dTVCRnJLNHRBcmU4ZlFDUEcyRU9zbEhkbzBmcC05SXZwcmlEWTd1VlBLREtRWmN3ZzlRR3VIV2hZT0Y2RWNTWGstMGJScU1kbGxoRG1pRThWX3Q5ZjVyQV9lV3E0dWpacT",
+    "sources": [
+      {
+        "name": "dr_reddy",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOF9Qd2l0dTVCRnJLNHRBcmU4ZlFDUEcyRU9zbEhkbzBmcC05SXZwcmlEWTd1VlBLREtRWmN3ZzlRR3VIV2hZT0Y2RWNTWGstMGJScU1kbGxoRG1pRThWX3Q5ZjVyQV9lV3E0dWpacTlQUFVIWWNjT1F2d3otZEVWYmkwaEFWVUc1Uk51cFlvejhVUkZCMmxzcDFjNTRVZVlkVmxZRWVCR3ZEbG1LalVTaUh3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sun_pharma-2026-08-11-097",
+    "date": "2026-08-11",
+    "companies": [
+      "sun_pharma"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sun Pharmaceutical Industries slips Tuesday, underperforms competitors - marketwatch.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaVh1MGJUT0VLdHZpUTNJcVViT0VZVUVRV0MzemlLQ2NoTDd2SWo5OGtHdk5zQW13WVBjMl9qa0UxckJtUlFUbUxYOG1tVFRpeE5HQmhTUTN0SVBaZ2I4TXlMSVRZQ2djTG9WaFM4NH",
+    "sources": [
+      {
+        "name": "sun_pharma",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaVh1MGJUT0VLdHZpUTNJcVViT0VZVUVRV0MzemlLQ2NoTDd2SWo5OGtHdk5zQW13WVBjMl9qa0UxckJtUlFUbUxYOG1tVFRpeE5HQmhTUTN0SVBaZ2I4TXlMSVRZQ2djTG9WaFM4NHJRTXRIeTVnVGlYOWNYQTlrYm9KVVNqb0FUOHZnMnFWNUZOQllSaFJBX2R0N2RHOTJWWHZ5dUJPN013dEQzQk1JU3ZfNXptZ3NIZGZQd1U5OE5YbFU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pfizer-2026-08-11-098",
+    "date": "2026-08-11",
+    "companies": [
+      "pfizer"
+    ],
+    "topics": [
+      "drug_approval",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pfizer Just Raised Its 2026 Guidance -- but the Boost Leans Heavily on a Drug Running Out the Patent Clock - fool.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQUFdOY19YcXZ5RGt6RmdjTHBtcnFoajJKYk9qSVBrNEoxREJLV0ViMmN1REJPRW9jVnZyMGhUdHZyOHliWEZZVjFvZXd5SHp6djNqdkRFaTlrRnUyU2tCci0ydHJXOG1VUHJRVXRmUm",
+    "sources": [
+      {
+        "name": "pfizer",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUFdOY19YcXZ5RGt6RmdjTHBtcnFoajJKYk9qSVBrNEoxREJLV0ViMmN1REJPRW9jVnZyMGhUdHZyOHliWEZZVjFvZXd5SHp6djNqdkRFaTlrRnUyU2tCci0ydHJXOG1VUHJRVXRmUmdZV0xkVXlzcFdmcUVIYW5QR2VNUWN3MmlnOGJtZWo5TTA5aVRXMV9LNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "astrazeneca-2026-08-11-099",
+    "date": "2026-08-11",
+    "companies": [
+      "astrazeneca"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Do Options Traders Know Something About AstraZeneca Stock We Don't? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQNGtUdlRaSDkwblBLVFNpZGIyaUhGekNCcGxyYUhJZDRHenFvLWFuRlBVZ1VWY09ISmJ6dno4MzJlZ1hrYkRMVVhkeE81OHF2THNXU0tiRnVFVnJSWnA0U3J2bDE1ODF6dGJjbmV2d2",
+    "sources": [
+      {
+        "name": "astrazeneca",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNGtUdlRaSDkwblBLVFNpZGIyaUhGekNCcGxyYUhJZDRHenFvLWFuRlBVZ1VWY09ISmJ6dno4MzJlZ1hrYkRMVVhkeE81OHF2THNXU0tiRnVFVnJSWnA0U3J2bDE1ODF6dGJjbmV2d2Ric1VrSi01NW1TSzVtY0liS3E0TFRvSUVmY3RRejVFVk04aHBYNGxDS3VmbTRJVTlQZ0daLU9xQ3dzVXFz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mckesson-2026-08-11-100",
+    "date": "2026-08-11",
+    "companies": [
+      "mckesson"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "McKesson (NYSE:MCK) Director Sells $268,591.33 in Stock - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNTTVsQUZ1VWNEVFl2Sm1LeGoycm9XaV9wY1BYRWFJVXVSU21iMFgwZjYzRmlQN3lfdExwZlE0Q0Nka1o2czAzQ2lzZDM3a0J3VU9LOFVXUWZ5bmhnVGp0cjR5LVZncjJJWG9GNEk5M1",
+    "sources": [
+      {
+        "name": "mckesson",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTTVsQUZ1VWNEVFl2Sm1LeGoycm9XaV9wY1BYRWFJVXVSU21iMFgwZjYzRmlQN3lfdExwZlE0Q0Nka1o2czAzQ2lzZDM3a0J3VU9LOFVXUWZ5bmhnVGp0cjR5LVZncjJJWG9GNEk5M1c2Qk44ekFlSHg5VXJNWTlENmRvNnNvckcxRzAwODhscW1qWFVxdGd0QzF5d3ZwQ3dYeHBYcHpB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cardinal-2026-08-11-101",
+    "date": "2026-08-11",
+    "companies": [
+      "cardinal"
+    ],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "Cardinal Health calls FY2026 ‘a standout year’ - HME News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOY205eUJIbmYzbVdJbG90dUZYcXFFWC1Lb3JvU3VsdHJGWWZFWXo1QWdFVTAxN1UyTXl0Vm9LQ0U5Tkd1NmFwU1hMZXM0NlJDLU9mRGJOTGI5UTdoR25WT2lHRVhzdENxd21yajRqeE",
+    "sources": [
+      {
+        "name": "cardinal",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY205eUJIbmYzbVdJbG90dUZYcXFFWC1Lb3JvU3VsdHJGWWZFWXo1QWdFVTAxN1UyTXl0Vm9LQ0U5Tkd1NmFwU1hMZXM0NlJDLU9mRGJOTGI5UTdoR25WT2lHRVhzdENxd21yajRqeEtKOEFCR1lJZXo3VTZyQ3p0QnVn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novartis-2026-08-11-102",
+    "date": "2026-08-11",
+    "companies": [
+      "novartis",
+      "abbvie"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AbbVie, Novartis and Bristol Myers file 340B lawsuits in Illinois",
+    "summary": "The pharma industry is bringing its 340B fight to Illinois.\n\n AbbVie, Novartis and Bristol Myers Squibb each filed separate lawsuits over the last week against an Illinois state law that seeks to regu",
+    "sources": [
+      {
+        "name": "endpoints_news",
+        "url": "https://endpoints.news/abbvie-novartis-and-bristol-myers-squibb-file-340b-lawsuits-in-illinois/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "novartis-2026-08-10-001",
     "date": "2026-08-10",
     "companies": [
@@ -3834,6 +5190,129 @@
       {
         "name": "mckesson",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOLUw2U2tyNmFidjRFclhOWUlLemhlc0c4WEJWVXhJdDBTY0wwdVNSSV9pZTR4bEV4dTZVYnIyQk1aNS1hX2Q4RUw3VE5NUEJIRXpLbzh4RGlFN2ozUEJodVpZS005ZkVPTHMxdk9HcHNvcE44YWJHbWE1R1BaampIN3ZmazJhV0FXWV80U2JjbHBtM2RxU1o4YzJQR2lZVU5ucjc3NlNsYkYzS0pnNlpEX1lyUTRNN0Z0bFl6ekNhYk5fWlFQdWowbkdWekx2RGkyS1VGUVpMU3dldw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novartis-2026-08-10-083",
+    "date": "2026-08-10",
+    "companies": [
+      "novartis"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Dr. Reddy’s, Novartis India terminate agreement - thehindu.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ21HOEx1dE9JVGxHSUI4T180M29yd3BENEJmTTQ4WlZwRks2SUh3cFVzRU5TN0ZBa2Q3U09sZU04VFVOb19sSVNlTlFQM3lBOHZVelhaYnliT2Z3SzlzNnRlakh1YUZVX3IwT1dkS2",
+    "sources": [
+      {
+        "name": "dr_reddy",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ21HOEx1dE9JVGxHSUI4T180M29yd3BENEJmTTQ4WlZwRks2SUh3cFVzRU5TN0ZBa2Q3U09sZU04VFVOb19sSVNlTlFQM3lBOHZVelhaYnliT2Z3SzlzNnRlakh1YUZVX3IwT1dkS29tRlR0eU8tLTFHMk5fdkwtTUU4elVLcGZPRWd4NGNqV095bmphdXFoRnZodHc2dmdDVTY0NG9lYldFT3fSAbIBQVVfeXFMTi1PaHRsZFcxMU1EbXFPajBzaDlCSkd4UnIyaVZfVXFQdk1mcnR6SWNRWWpPS2hnNVJYT2p2ZEZzN3ZiSUNYblZiaGJGNGlYWF8tOC1xQ0lVd3d4dzU5bmNYTS03enVPSzd1eXdCN3NIeTJia3pqZi1uX0VFVHVCQ0k4OE82VXI1UVZSRzVJZVczWDVrVVp1VnJpemdUSk9CaXJBa2tfN0RLWlNQd0s4UzZ3UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dr_reddy-2026-08-10-084",
+    "date": "2026-08-10",
+    "companies": [
+      "dr_reddy"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dr. Reddy's Laboratories falls Monday, underperforms market - marketwatch.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNejgxYUczQWE5S29keTB0T3hwQkVoRzVmZXdZYnBVaHMxU01pM3pOYU1NMS11ZVFIcDdTSEFRM1ljblJRaF9RY3VycGp4Q0ZhZnlHVlFLZU1HMC1fQTBPNy1KZGlpNnExbmFNS0picn",
+    "sources": [
+      {
+        "name": "dr_reddy",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNejgxYUczQWE5S29keTB0T3hwQkVoRzVmZXdZYnBVaHMxU01pM3pOYU1NMS11ZVFIcDdTSEFRM1ljblJRaF9RY3VycGp4Q0ZhZnlHVlFLZU1HMC1fQTBPNy1KZGlpNnExbmFNS0picnJZaWdDdElyUXI5emstUXpFd1lBUm5HSWxSRHdCdmVvTFJ1ZUN6MUg4TXNBOEF5QWtWcU1famltbnhMNGhDLUxmQU1rMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sun_pharma-2026-08-10-085",
+    "date": "2026-08-10",
+    "companies": [
+      "sun_pharma"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sun Pharmaceutical Industries rises Monday, underperforms competitors - marketwatch.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRnR0ZHlGX0JjUEVrQ19pU0FmSkpFZU5vTDRQcDRBeXpIZU5pTm42M1NXcXo2MFhzUWptNmhFVHNmbGpqNnU1Y09oUGJ3VUJFaW00Q2JFeFB2VkE5MG5IeXpkTmxyRThId2Fmd29SdF",
+    "sources": [
+      {
+        "name": "sun_pharma",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRnR0ZHlGX0JjUEVrQ19pU0FmSkpFZU5vTDRQcDRBeXpIZU5pTm42M1NXcXo2MFhzUWptNmhFVHNmbGpqNnU1Y09oUGJ3VUJFaW00Q2JFeFB2VkE5MG5IeXpkTmxyRThId2Fmd29SdFVQa2dmdEU1aHF6MzhDYTRocmlGeERiUUs4S1g0dnFRSm5ycU9OcndYRGNmc1EwMnZCQ0R3NWxFZkFTTjJlanFZTS1COFNMWjF1d0ZrYVNOV1ZXdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "catalent-2026-08-10-086",
+    "date": "2026-08-10",
+    "companies": [
+      "catalent"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Scholar Rock shifts apitegromab BLA to second fill-finish site after Catalent FDA inspection - allsci.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNbUZGVUJCY2o0bDh1VUp0T01BRThMd0Z5TzlkRVpRSC1uVUo1WDRfMXJkakJ2OTFUN1RNUDVEekpnUHdKbF9KYzhLRDR3c0QyOFdvVlNpekt5cVBPM3FCaHNBLVpTWWV1enBmbVdTQ0",
+    "sources": [
+      {
+        "name": "catalent",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbUZGVUJCY2o0bDh1VUp0T01BRThMd0Z5TzlkRVpRSC1uVUo1WDRfMXJkakJ2OTFUN1RNUDVEekpnUHdKbF9KYzhLRDR3c0QyOFdvVlNpekt5cVBPM3FCaHNBLVpTWWV1enBmbVdTQ0JiWFdwVFdxcXhqbHAzVHBjSFNudGo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "merck-2026-08-10-087",
+    "date": "2026-08-10",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Merck & Co. Insider Sold Shares Worth $788,773, According to a Recent SEC Filing - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQaEFBSWlKYUFSMzRNV2ZyZk01MnI5Nl93V25ld09sX3ZXZ3pncmc3cEZHd3QzSnBzbnpSeTFyVDB2OHJWTXRlOHd5Z256T1BBWndKYVRpejFTT1h2RXZBTjItZVhMaldENU42LU9iU0",
+    "sources": [
+      {
+        "name": "merck",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaEFBSWlKYUFSMzRNV2ZyZk01MnI5Nl93V25ld09sX3ZXZ3pncmc3cEZHd3QzSnBzbnpSeTFyVDB2OHJWTXRlOHd5Z256T1BBWndKYVRpejFTT1h2RXZBTjItZVhMaldENU42LU9iU0ZTSGV2MmxRc3ZxMnpVTThUZkZudWtmcjhIVGVHTDFGek1mVE1Pa0k0R2ZnTVA2aUhxSzJ1OU93eFFKVjFzRktLVmhWM2MtQlJUV21IeC1uTWJXOGZ5aHVr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pfizer-2026-08-10-088",
+    "date": "2026-08-10",
+    "companies": [
+      "pfizer"
+    ],
+    "topics": [
+      "drug_approval",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Pfizer's Earnings Have Declined 58% This Year. Is a Dividend Cut Around the Corner? - fool.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOLVRYdXNNSU9MOTcxcERyelp6Yy1SU1RuZ3R2RDkxRGM3ZFRRcks2eHphSEphYzE3Q2J3UlIySlhaNTZnNXM2NWhZTU91aGplQThvYmJfT0hZQW1KWko5bVM5S1M3Zkc3d1Aybi0xZz",
+    "sources": [
+      {
+        "name": "pfizer_news",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLVRYdXNNSU9MOTcxcERyelp6Yy1SU1RuZ3R2RDkxRGM3ZFRRcks2eHphSEphYzE3Q2J3UlIySlhaNTZnNXM2NWhZTU91aGplQThvYmJfT0hZQW1KWko5bVM5S1M3Zkc3d1Aybi0xZzVfbkdNSXMwbXJLbnRvYnM4UDlVTENnNUFpMTg4UVRHNzc1NVBlZ05tUQ?oc=5",
         "type": "rss"
       }
     ]
@@ -6256,6 +7735,48 @@
     ]
   },
   {
+    "id": "dr_reddy-2026-08-07-082",
+    "date": "2026-08-07",
+    "companies": [
+      "dr_reddy"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Dr. Reddy's Laboratories slides Friday, still outperforms market - marketwatch.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPamp5MUYzaVVJeTFDN2ZDSHZpSWJVenNfSXY1THQtTTQ1aTVkOUNfbWVQUTNKN3JUcVFmeWVWb2tYTnNuX3B2RVJad05aMkVrZzVTNl83QjVkeFRhVzBiLUVXVGZ6TnFlS2FyZGFhX3",
+    "sources": [
+      {
+        "name": "dr_reddy",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPamp5MUYzaVVJeTFDN2ZDSHZpSWJVenNfSXY1THQtTTQ1aTVkOUNfbWVQUTNKN3JUcVFmeWVWb2tYTnNuX3B2RVJad05aMkVrZzVTNl83QjVkeFRhVzBiLUVXVGZ6TnFlS2FyZGFhX3NDNXVYemJaUXlnQ1RXSU8wWUdkNnl1clVQQmVwTEtKd1N6N1cydlM3VGpvQzMwd3lTNWJERGpzUVd4RS1KaEZMTVIzekVPV25QTmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "roche-2026-08-07-083",
+    "date": "2026-08-07",
+    "companies": [
+      "roche"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Morgan Stanley Upgrades ROCHE HOLDING AG(RHHBY.US) to Buy Rating, Raises Target Price to $507.41 - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxORUxDSDJTMEZwaXY3dUpjXzdEUTdZdzlQcW5GNk9UWW9Remt2V1VVdE95Q3dCbzhfQXVBTWp0ZEd6YlJUOC05ZjBfZEl6clBXaWhqT3M0N2VvTnFQYXRVYnVraGNfcWl4elN1WGU2MF",
+    "sources": [
+      {
+        "name": "roche",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORUxDSDJTMEZwaXY3dUpjXzdEUTdZdzlQcW5GNk9UWW9Remt2V1VVdE95Q3dCbzhfQXVBTWp0ZEd6YlJUOC05ZjBfZEl6clBXaWhqT3M0N2VvTnFQYXRVYnVraGNfcWl4elN1WGU2MFhaUmdPTXBfZS13VkxoeUxaTENkM015dDVneWJ1dFp6QTF3ZDJhdzRpd2NJMy1tSGhDaFdab21IOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-08-06-001",
     "date": "2026-08-06",
     "companies": [],
@@ -8349,6 +9870,48 @@
       {
         "name": "mckesson",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMEJWSmhXWm1fTTZTWWRpWExvcm1aTDdDSlpqdnpqRTg3eThJbDNvdlg3aEs5djVCelpmYk82WTdoeFQ4YzFvQm9NbWFpNnl3d0Z6U3RaNlBjQllXZ1hPRWNtakNjS1VEQk9URUh2TlZ4dVdIUGZwU1FrZFhXOHN3WDRvazlzaXBFaFJ2em5FYk5hcENQblRoYUw4RHJDbWFEaWVOTEpVMVh4Rjk5a3dxUHp6WkZLV3Jlb2JIRnNXZU1DNWRKZDNBa1hIRlpTT2NTYlhjTlZ4Y0FLR0li?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dr_reddy-2026-08-06-106",
+    "date": "2026-08-06",
+    "companies": [
+      "dr_reddy"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Dr. Reddy's Laboratories rises Thursday, outperforms competitors - marketwatch.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNY1o3R3VQUks0UG93OEQ4ekhqeW9kMTczSmFOX2ZUM0NXdk5mZm1sQVZFZW9tS0M2dVdxNGJrTjJCUF8yXzRWLUQ4S29ILVhWYzJMTmRSOFJJa2Q0NEsxbF9tRi1VSXplSXdLdjdBcE",
+    "sources": [
+      {
+        "name": "dr_reddy",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY1o3R3VQUks0UG93OEQ4ekhqeW9kMTczSmFOX2ZUM0NXdk5mZm1sQVZFZW9tS0M2dVdxNGJrTjJCUF8yXzRWLUQ4S29ILVhWYzJMTmRSOFJJa2Q0NEsxbF9tRi1VSXplSXdLdjdBcE51dXFPeVQzZFIxc1dMMnBBY2VTSXFIdE1WU0ZRSHJySUJaTDdVZFFxYWY3N0M4QXJOSGhjbXdNU2IteEMwcDVwWTl4OFdmSlJzSHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sun_pharma-2026-08-06-107",
+    "date": "2026-08-06",
+    "companies": [
+      "sun_pharma"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sun Pharmaceutical Industries slides Thursday, underperforms market - marketwatch.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOVF9IY3VqM1BfVkpET0VyRW9Oa3V6M2JwczNUMm9PdVVmQlZmLUdVbTBxQWVuMzI5azNSbGdTa1drTVpRSVI0OGNVVVk2MTZEckRWODhGb2F0Q0FtNTFxTjRLdnlmOEdBRmlEX1F5ME",
+    "sources": [
+      {
+        "name": "sun_pharma",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVF9IY3VqM1BfVkpET0VyRW9Oa3V6M2JwczNUMm9PdVVmQlZmLUdVbTBxQWVuMzI5azNSbGdTa1drTVpRSVI0OGNVVVk2MTZEckRWODhGb2F0Q0FtNTFxTjRLdnlmOEdBRmlEX1F5ME1LUlZZVS1KWlN5NUREcEctYk5TdFRXSVo1aXpySTk5RDZ0QXBGaGxPQUhSV2RnY3NMbzVVOWlQZDdYZ0d4OTFXYU43MUt6di02LUZTeWxOOA?oc=5",
         "type": "rss"
       }
     ]
