@@ -1,0 +1,16 @@
+{
+  "total_raw": 458,
+  "dup_title": 216,
+  "no_date": 0,
+  "too_old": 110,
+  "gate1_fail": 11,
+  "gate2_fail": 21,
+  "passed": 100,
+  "gate2_samples": [
+    "Teva Advances TEV-'408 Into Phase 2b for Vitiligo - Dermatology Times",
+    "Teva snaps six-session rally, closes flat in the red (TEVA:NYSE) - Seeking Alpha",
+    "Lonza Group AG (ADRs) (US54338V1017.SG) recent insider transactions - Yahoo Finance UK",
+    "Pfizer grapples with ‘a world of hurt’ after Covid triumph - Financial Times",
+    "Pfizer’s green chemistry team turns 25 - chemistryworld.com"
+  ]
+}

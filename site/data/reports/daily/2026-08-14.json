@@ -1,0 +1,230 @@
+{
+  "date": "2026-08-14",
+  "generated_at": "2026-08-14T09:14:14.362425Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "bora-2026-08-14-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "[保瑞 Q2 2026 Earnings Call] Bora Q2 revenue jumps 47% QoQ to NT$5.89bn as CDMO backlog hits record US$317mn - finance.biggo.com",
+      "companies": [
+        "bora"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9tOUNWZlF5eWZncVN6a21ZU3E5aGsyNVYxZkR4aXRDaTlmOU1LaFVkbmFHb2dwaktKQ01qV01iU05RN0hsNjlmelBmVGw2MUdYblhpS3g2aFhIbEQ3SV83aDJn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lonza-2026-08-14-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lonza Group stock holds near CHF 450 after 2024 earnings reset - AD HOC NEWS",
+      "companies": [
+        "lonza"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTXU2R3ZTcTVKSzY4M1hLcUplMkpILTlWN3ZXMFo3NDlMRDhxamJXY3FzMk5mN0Jna0lLSDh3MEdVTFNrOFVGYzgzdWV5SzI5SnVKdWd6T1QtY0RUcUdmNjJmQllyVzJRN3RKSTVhaGwteWROMVdhN3RidXdVYWRLR1lSeC1vWWxLc19oTXk3czNGb0NOM1JpZEYyQzAxcF9KZF92cS16aHMzMEc2dlRWVHFjTGFBVVhKVGJxclJDYzEzekU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Gland Pharma appoints Dr Reddy’s senior executive Deepak Sapra as CEO - The Economic Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQZ1hjNXNjZkxINHc4Y1ExNmtod09UVm0tekJNUDNHVURrd3BoYUMtSjBjZDRaZmNGcWpMUVZQaEUzQno3My02X1d5WmFrTjRxRV9XSkdTaVhENjh5dXFBVlFzZUp3N3dtNnFHTHdVRjJLd0VsTlNSNDVrdUdQckE5MWRhZWoxZEpCLWhCM1VWMy0xdHVWVFd0TkllQTA0bjAtTWJ2aGhMTUM1b1pFd1ZWd1J3cVNSdFBIYVpJbno5NmJ1ZGk1MnJiNDlVVjB0VjFhc0lkeDJBOE8tRGxQU0JHM2U1WjlCZzBuWU8tYko1RTdmTmlId0pJWWdHUmw3clFjWHgtemxn0gH_AUFVX3lxTE5UTHpsX2pHdkdhSWNMNmZTMmVwcWpHQnNFV3VvNzhlUDY0NUd5Q1V0aDJjOV9lbUpPcXB5WGpOZ3JNckllWWxxc2RYVjBWSEtWYXhvd1k5REZjZVZEWkNlTG9jQ3dJWTFLR25JVkZ6ZVM1VGc2bVcxelV0VklORjVQS3dFSlBudDhVZUtaM0oyNVNEOVRqVUIzTnVnSWtGUkJPOUF1YXllRkhUUlozZndUeE5WTm9jcm84LUNCMjRtSTMzVGNOeFlOcmZycXFCQkxKRFk0UnhTUnV3UnY4T1dmMXB3NWpyb0tSODd3YXV2YUthMlAxSlFsVmxiNTlWOA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "RDY SHAREHOLDER ALERT: Dr. Reddy’s Laboratories Investors Encouraged to Contact Kirby McInerney LLP About Potential Securities Laws Violations - WBOC TV",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQbTdySTNXYmYtVTMwWG5QdVNGWkZIYjloU2h2SkhPZUMwekI3V0tDVXl2Wk5qZXBvU3ZRWkM3UkpRcUFvanV0RWlJaElUckdTUVg0cmQyUHQ5YzQ1T19uY3hRTVdoTlFBVHNacDhRNXViOTdUQTJmdzlHMk9HNlZ6YTdxTVJaMkZXUnM1Ykw4a3hoaTYydkRieDZLWVlzeWVxekRJbnQwczNBa3UzTnlmYmdlVlloWWlMNS00aUduUlpVdEJwU2NxY010LUtKWjJNazB1eFQtbXNOeHJUMmtNdGhkVFhYb0ZYZlRLMlhoMFRyLW1OUGltNV91SklRNmFXT25tWHJzN2JmdGlEQUwzcnNPQkVwTGRWZXBkWHNaUEVLNUpQX2licDZzbUxBUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-14-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Dr Reddy’s API chief Deepak Sapra quits after 23 years - pharma.economictimes.indiatimes.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdHZtenpsOFgyQ01RMWlOTXQwOEppYkFTTnB4YTI1enFLeVRrRHZSV0RMMml3M0Y3N0VydF91SmdacmxxZjVxQzdqbFJlLW5qWXd2eHRFdWFnN3VUcm9XU1FOTjNuSjdwTHYzRlotMS1uTlJqMjlFT1oyZWc2VGJpY2ZtRGljWk1fNnpreW9ZVVFoZjY3M283YTZwNlJvZWZRdE9rdWMxNXAxWG9aY2F2d2hDeFJxZjUzNXRfRmYzeHRQQk8tZGlTTWtTWE7SAcwBQVVfeXFMTnR2bXp6bDhYMkNNUTFpTk10MDhKaWJBU05weGEyNXpxS3lUa0R2UldETDJpdzNGNzdFcnRfdUpnWnJscWY1cUM3amxSZS1uall3dnh0RXVhZzd1VHJvV1NRTk4zbko3cEx2M0ZaLTEtbk5SajI5RU9aMmVnNlRiaWNmbURpY1pNXzZ6a3lvWVVRaGY2NzNvN2E2cDZSb2VmUXRPa3VjMTVwMVhvWmNhdndoQ3hScWY1MzV0X0ZmM3h0UEJPLWRpU01rU1hO?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "drug_approval": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 13,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "pfizer",
+        "count": 2
+      },
+      {
+        "id": "astrazeneca",
+        "count": 2
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 2
+      },
+      {
+        "id": "bora",
+        "count": 1
+      },
+      {
+        "id": "lonza",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 12
+      },
+      {
+        "id": "drug_approval",
+        "count": 11
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 458,
+    "dup_title": 216,
+    "too_old": 110,
+    "gate1_blocked": 11,
+    "gate2_blocked": 21,
+    "passed": 100,
+    "pass_rate": "41.3%",
+    "gate2_block_rate": "8.7%",
+    "gate2_samples": [
+      "Teva Advances TEV-'408 Into Phase 2b for Vitiligo - Dermatology Times",
+      "Teva snaps six-session rally, closes flat in the red (TEVA:NYSE) - Seeking Alpha",
+      "Lonza Group AG (ADRs) (US54338V1017.SG) recent insider transactions - Yahoo Finance UK",
+      "Pfizer grapples with ‘a world of hurt’ after Covid triumph - Financial Times",
+      "Pfizer’s green chemistry team turns 25 - chemistryworld.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為輝瑞、AZ、Novo相關動態：「[保瑞 Q2 2026 Earnings Call] Bora Q2 revenue jumps 47% QoQ ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "[保瑞 Q2 2026 Earnings Call] Bora Q2 revenue jumps 47% QoQ to NT$5.89bn as CDMO...（藥物核准、法說會、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Lonza Group stock holds near CHF 450 after 2024 earnings reset - AD HOC NEWS（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
