@@ -1,0 +1,247 @@
+{
+  "date": "2026-08-15",
+  "generated_at": "2026-08-15T08:36:41.920694Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "pfizer-2026-08-15-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Pfizer (PFE) Stock Looks Reasonable On Returns But Stretched On Earnings - Yahoo Finance",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb3BDOE9oNEZmeWwxQnpBV1gyVDJqVVJidTZBOEhOYmo4c3JTUDAxNXdxY1hCNUlYSVNCeHNlX2dsSXVMYUpZTWVfRWk1OC1QRkFhTU1NcmJ4R2p2TjZPU1hzUFdaN3lLX3VraU9pZ182R3dUMlpGMzJaM1JDTld6VVB2VFJyeHFaVWZFQVFObXFFQnhfRjRzVE9MX2lWZ2c?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "novo_nordisk-2026-08-15-007",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "This Week’s Top 5: Eli Lilly's GLP-1, Novo Nordisk and P&G - healthcare-digital.com",
+      "companies": [
+        "novo_nordisk",
+        "eli_lilly"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTmxuRGtoREJTT2RLaWlkUkxuZGNmNlR6RWxfMkplMHJfZGNWdFhqNGVLNjJmWlF6YW1yd3ZDa1pOaElzbDRlSy1nM2VTU3QxMDF6cTE1UWptWU54OXNuNi1CaGhUd1pNS3JvVkd0eVlOUWRNUldkS2hiM29WVFFNSUVvV1ZLbmt4cHdLY1VmdXhTdVNIemxtenNB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Need one or two Indian pharma firms to be among global top 5: PM Modi - The Economic Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMkwwSFVEaVFqY3dJSC1WZ2xnQTBKWFpGRjBDM0x5YUFzbzlUel8xbVQ4Y0psdTVzU01ZV3BaRlZIZGM5LW9fdlhqb0hXUzNPNWY3bTh3UTdRYUl2SW8zejFBa19fTmh0MmduaVBYVDJXYVg5RmJraFQ3WjZ5aXFfWEtZSWQ0MjBJWWp0WE12cjVMS0pQU0pMWjRrdDVFNUN0QWRxeDM1NEhseW9lbHZiWkwyNlBMR09GUzBFN0h5c21kS0V4bkVEQkVUSUhyRldpQzM40gHTAUFVX3lxTE8yTDBIVURpUWpjd0lILVZnbGdBMEpYWkZGMEMzTHlhQXNvOVR6XzFtVDhjSmx1NXNTTVlXcFpGVkhkYzktb192WGpvSFdTM081ZjdtOHdRN1FhSXZJbzN6MUFrX19OaHQyZ25pUFhUMldhWDlGYmtoVDdaNnlpcV9YS1lJZDQyMElZanRYTXZyNUxLSlBTSkxaNGt0NUU1Q3RBZHF4MzU0SGx5b2VsdmJaTDI2UExHT0ZTMEU3SHlzbWRLRXhuRURCRVRJSHJGV2lDMzg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "jnj-2026-08-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Envestnet Portfolio Solutions Inc. Sells 6,962 Shares of Johnson & Johnson $JNJ - MarketBeat",
+      "companies": [
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcG04R09WUmFPYUtYNVZnOFJ1aV9tYWdsMndXWm9FdE01SGQ4SWxxdm5wLURnX0tYRWwxc21WWDRtQjFMNVhNU3BJT0Q0c0tIVnZ5Zm5jQzNlXzNobGZNMnFwV2xKeERhTDRNMnlMWE1EMXZWUnpUbmo0cHZnZFNKbWFUYzc1UlBBOHdrMnk3UFA1RmctZmE5OE94NU9tU0VRNjN3X0FPQVMzVjhzMERaT0F6enhJbVFYLTNsdlp4dTU2VmVpZUQwLUtwbXJkSF9P?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "astrazeneca-2026-08-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AstraZeneca Joins States Aiming To Block Ill. 340B Drug Law - Law360",
+      "companies": [
+        "astrazeneca"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeGduYnFjbm85bEQ0NHNXNnF6VHROZFNsOUM1d1A4ZmpPNmNvU0ZkYjM5TXpDSUZpb0YwV1pmRDh6eXpKMnNwRTBVMlRtcHBsbUIwN00xalpIaTN1WHItQy1qb0pfRVNUZ0ZndTFHZlFzaFdBMWI0My0wYm5naG9EVW14dDM4cmV3c2pkeGZ5d25YSjVzck1XMVRjMUJWSHRPV0g4ZW9aYkdoVGRyUjhOaHVaNWtSaFc5ZTJRX0JTM1RMT3ZBMVJ3RkhLN1hBQ2QzT3hj0gFyQVVfeXFMTzZ4cS1nV2hmVE1oNERvZUtWTWR1czc2X3g4b2ZHX2hXU2VYb0ZPMndNekl5VnlyV3VYb2gtbFROR1ZLeU9tVUppaHZNM1VKbEpkTjk2eUVFZHJtOVc5TDQ0dTIxaExsbDRCWVdJVmtLM2x3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "drug_approval": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 11,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "novo_nordisk",
+        "count": 4
+      },
+      {
+        "id": "merck",
+        "count": 2
+      },
+      {
+        "id": "jnj",
+        "count": 1
+      },
+      {
+        "id": "astrazeneca",
+        "count": 1
+      },
+      {
+        "id": "eli_lilly",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 9
+      },
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 457,
+    "dup_title": 260,
+    "too_old": 101,
+    "gate1_blocked": 11,
+    "gate2_blocked": 18,
+    "passed": 67,
+    "pass_rate": "34.0%",
+    "gate2_block_rate": "9.1%",
+    "gate2_samples": [
+      "Teva Advances TEV-'408 Into Phase 2b for Vitiligo - Dermatology Times",
+      "Teva snaps six-session rally, closes flat in the red (TEVA:NYSE) - Seeking Alpha",
+      "Lonza Group AG (ADRs) (US54338V1017.SG) recent insider transactions - Yahoo Finance UK",
+      "Former Everett Pfizer facility finds new buyer - HeraldNet.com",
+      "Pfizer grapples with ‘a world of hurt’ after Covid triumph - Financial Times"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為Novo、Merck、J&J相關動態：「Pfizer (PFE) Stock Looks Reasonable On Returns But Stretc...」。主要關注主題為藥物核准、產業通用、GLP-1 減重，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Pfizer (PFE) Stock Looks Reasonable On Returns But Stretched On Earnings - Ya...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "This Week’s Top 5: Eli Lilly's GLP-1, Novo Nordisk and P&G - healthcare-digit...（藥物核准、GLP-1 減重）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
