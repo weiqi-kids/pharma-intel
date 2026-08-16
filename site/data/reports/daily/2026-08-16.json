@@ -1,0 +1,178 @@
+{
+  "date": "2026-08-16",
+  "generated_at": "2026-08-16T08:37:16.572898Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "jnj-2026-08-16-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Johnson & Johnson (NYSE:JNJ) stock in view today as guidance moves higher - Kalkine Media",
+      "companies": [
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaG9oaGFMS29KdDBMSjhRR19RRHJ5bDVpOE5zR25rRzEtR2dNSlVLNVlrNnpaR0RCa3p6eW1GbDVHV0RmOFBSUTh1TFZad2diLUN6ZDBDUFJHczJoRnI1Ukw0ZmhQQVU2amJvRTItVlhWRnhNV0FWZURURE55V01LakZwdjJZMWZDMmFMSXpZZ2RTZjlhalJCZXg5T2k5dzhDbjdFZmFGanUtTEVsTmVpU3F3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "pfizer-2026-08-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Pfizer (PFE) Stock Looks Fully Valued At Today’s Price - simplywall.st",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbDltWFllSGUtQ25RZVNXNXZrUG12ZThyUFJkNnBlT3VaakRJeWgxbUZrMlMyUWhpdFZxMjN0M19uWnhXZE5CM3l2bnJtMHpJM09Qd29JTWpKUGk4Z1pWSUFSMFlnenE3MFFLOHczQkJHdUtrYzNLNy1BUTFIT1J3RF9YYkgyQkdMd3JMMl9hVHVWQmFnQTByRGR3Zkxndm96UlFudkxJZTFEdEZQYXdsQkcxbWdWOWg0OUZfT2Y2T2xHRWd4NzRv0gHMAUFVX3lxTE9YY2hzZjgzaEwtbUdtRlpocG1XXzZFODY0cnZGeDhiYklCbEE0blFta2hvaGc5RVFkMXZPWkp4cGFmRjNrcFhmVjRFaTBtdEVWZE1WSktrLW0tOFpKUWZkYzVCSXh5VXdJWlRTQ1lmMUhkaXZGX0hORW9HSXpJaXktTTRndW10TkhxTXplU0VJb1gwSWFhckJSMWNad3pidW4xNjBKQzJrQktaTHItWDRzMkdGc3UxXzNTckE3Y3ZlakhBUWJCU0dTY0s2OA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "cardinal-2026-08-16-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bridgewater Advisors Inc. Makes New Investment in Cardinal Health, Inc. $CAH - MarketBeat",
+      "companies": [
+        "cardinal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUjdyUEhlTmxrNjIyel9KTkdyQnZQdkFITGQ0YjZSUzBVRWd4eHRwSjROeC0wZFlDVFRiblRGLW9sdTQzSWhNZnQ5RWU3cHR0aF90MXdmTUFKR0gyRzdHenhnX2MtOHJGWFdjaVdQQllPTXpkaVZqc2MyWWxhZERkWjgzaEJDQ0h2eDcxLW1EUzBSVkdfSERkV2FlQ0czYktpeTU3ZzI3aVlBLWx1c1o3dWw3bWQ0WkVQUTZWNFFwcTNid0FsbXphOUYwR1g1QQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "drug_approval": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "pfizer",
+        "count": 1
+      },
+      {
+        "id": "jnj",
+        "count": 1
+      },
+      {
+        "id": "cardinal",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "drug_approval",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 456,
+    "dup_title": 311,
+    "too_old": 96,
+    "gate1_blocked": 11,
+    "gate2_blocked": 11,
+    "passed": 27,
+    "pass_rate": "18.6%",
+    "gate2_block_rate": "7.6%",
+    "gate2_samples": [
+      "Teva Advances TEV-'408 Into Phase 2b for Vitiligo - Dermatology Times",
+      "Lonza Group AG (ADRs) (US54338V1017.SG) recent insider transactions - Yahoo Finance UK",
+      "Guardian International Growth VIP Fund's Lonza Group Ltd(XSWX:LONN) Holding History - GuruFocus",
+      "Former Everett Pfizer facility finds new buyer - HeraldNet.com",
+      "Johnson & Johnson: Quality, But It Doesn't Deserve A Mid-20s Multiple Right Now - Seeking Alpha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為輝瑞、J&J、Cardinal相關動態：「Johnson & Johnson (NYSE:JNJ) stock in view today as guida...」。主要關注主題為產業通用、藥物核准、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Johnson & Johnson (NYSE:JNJ) stock in view today as guidance moves higher - K...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Pfizer (PFE) Stock Looks Fully Valued At Today’s Price - simplywall.st（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

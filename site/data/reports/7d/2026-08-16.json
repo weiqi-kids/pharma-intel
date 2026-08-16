@@ -1,0 +1,196 @@
+{
+  "date": "2026-08-16",
+  "date_range": {
+    "start": "2026-08-10",
+    "end": "2026-08-16"
+  },
+  "generated_at": "2026-08-16T08:37:16.722160Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "pfizer-2026-08-11-015",
+      "date": "2026-08-11",
+      "title": "After Q2 Earnings, Is Pfizer or Merck the Smarter Dividend Play? - AOL.com",
+      "importance_score": 0.95
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "catalent",
+      "company_b": "novo_nordisk",
+      "co_mention_count": 4,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "abbvie",
+      "company_b": "jnj",
+      "co_mention_count": 4,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 60,
+      "last_week": 74,
+      "week_over_week_change": "-19%",
+      "sentiment_this_week": 0.01
+    },
+    "drug_approval": {
+      "this_week": 64,
+      "last_week": 67,
+      "week_over_week_change": "-4%",
+      "sentiment_this_week": 0.03
+    },
+    "earnings": {
+      "this_week": 14,
+      "last_week": 10,
+      "week_over_week_change": "+40%",
+      "sentiment_this_week": 0.07
+    },
+    "patent_cliff": {
+      "this_week": 2,
+      "last_week": 5,
+      "week_over_week_change": "-60%",
+      "sentiment_this_week": 0.0
+    },
+    "glp1_obesity": {
+      "this_week": 4,
+      "last_week": 3,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": -0.31
+    }
+  },
+  "company_7d_summary": {
+    "novartis": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "bora": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 10
+    },
+    "pfizer": {
+      "event_count": 11,
+      "sentiment_avg": 0.09,
+      "rank": 2
+    },
+    "novo_nordisk": {
+      "event_count": 18,
+      "sentiment_avg": -0.01,
+      "rank": 1
+    },
+    "cardinal": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "teva": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "jnj": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "astrazeneca": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "merck": {
+      "event_count": 7,
+      "sentiment_avg": 0.21,
+      "rank": 5
+    },
+    "mckesson": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "lonza": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "roche": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "eli_lilly": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 454,
+        "last": 587,
+        "change_pct": -22.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-10",
+      "event_count": 95,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-08-11",
+      "event_count": 115,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-08-12",
+      "event_count": 68,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-08-13",
+      "event_count": 91,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-08-14",
+      "event_count": 61,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-08-15",
+      "event_count": 21,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-08-16",
+      "event_count": 3,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-10 ~ 2026-08-16）共 454 則事件，重點為「After Q2 Earnings, Is Pfizer or Merck the Smart...」。Merck、Bora Pharmaceuticals表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "輝瑞",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Novo",
+        "reason": "本週出現 18 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "Cardinal",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
