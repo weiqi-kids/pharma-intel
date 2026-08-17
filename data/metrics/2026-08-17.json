@@ -1,0 +1,53 @@
+{
+  "date": "2026-08-17",
+  "total_events": 24,
+  "by_company": {
+    "teva": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "sun_pharma": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "lonza": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "jnj": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "roche": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "astrazeneca": {
+      "count": 13,
+      "sentiment_avg": 0.04
+    },
+    "merck": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cardinal": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "drug_approval": {
+      "count": 23,
+      "sentiment_avg": 0.04
+    },
+    "industry_general": {
+      "count": 23,
+      "sentiment_avg": 0.04
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
