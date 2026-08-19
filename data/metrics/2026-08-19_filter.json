@@ -1,0 +1,16 @@
+{
+  "total_raw": 455,
+  "dup_title": 254,
+  "no_date": 0,
+  "too_old": 89,
+  "gate1_fail": 8,
+  "gate2_fail": 12,
+  "passed": 92,
+  "gate2_samples": [
+    "Teva Advances TEV-'408 Into Phase 2b for Vitiligo - Dermatology Times",
+    "Former Everett Pfizer facility finds new buyer - HeraldNet.com",
+    "Scoop: Johnson & Johnson to Lead Delix Therapeutics’ $85M Series C - Psychedelic Alpha",
+    "J&J hands lymphoma bispecific CAR T back to AbelZeta - BioSpace",
+    "Johnson & Johnson wins FDA clearance for new robotic bronchoscopy software - MassDevice"
+  ]
+}

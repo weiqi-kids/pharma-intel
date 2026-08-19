@@ -1,0 +1,239 @@
+{
+  "date": "2026-08-19",
+  "generated_at": "2026-08-19T08:45:23.794717Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cardinal-2026-08-19-011",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "RBC Capital initiates Cardinal Health stock at Outperform on growth outlook - Investing.com",
+      "companies": [
+        "cardinal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaUg5cXBiUDIta3Q4VzkzN0hVM28xQ1lFdTRWOENkODMyamNXUUtZdzdpWWdvRzE1aURmY19CLXVMWjNrM3JISE0xTmVTaGdraVU3dE5IZWxEMjdzaVZCV0hrMFd4RURVSHJLOFpYWXl2VHkyRnB4LUxrbmZFZF9uMmZ2azhldHFLLVhEN1hCSGtCSkNIQUJNZzV6X1pLLUw2MFpBNmRfdzVDZnZTZFAtQ2V6eVc3TGFvMjUwbUJ5TFNITk13cmZUV3NGNjRKVk1P?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lonza-2026-08-19-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lonza Group stock holds at recent highs as viral vector demand underpins outlook - ad-hoc-news.de",
+      "companies": [
+        "lonza"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaXJwOXZPVFJGZDRmc1EwXzZmSks1UFdoUmtEakNsLU5kWW83UjlhYU5mZmd6dk1WTlN2eFQzbWZ5V0ljTXFoUHZadmtqTDQ0Tm9KMDBIVW9tQzJwZlRDZDdXUmItblIySjBzdjZFaWFnVUpoYXR6VE96TUg5NG90ZU5XN0ZYWHJMNFNSZzhwWmNHRmlLbTZMb1ZnOWE1X1ZDU1QyU3hwdndPOXdESUR6R2FJX1prY3NSbDMzRTJUeFhNSVpSYmxaVEdNT19YWmxn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-19-019",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Physician group sues Trump administration over dietary guidelines process",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.statnews.com/2026/08/19/physician-group-sues-trump-administration-over-dietary-guidelines-food-pyramid-hhs-usda/?utm_campaign=rss"
+    },
+    {
+      "rank": 4,
+      "event_id": "novo_nordisk-2026-08-19-010",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Novo takes first round of oral obesity duel. Can it stay ahead of Lilly? - BioSpace",
+      "companies": [
+        "novo_nordisk",
+        "eli_lilly"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkdwSkZWRTN1dzN0WjU4SHBnbnl3RF9GQm9uQlNfV2R0aDdxTFhfVXVMZm40dkJwN09yTTZDZHNZNGFlMFdnU3JaZU5sOGZMLUMxWUVoR3l3bXQtcXppN2FXWXo2VThXWVBMUFV3ZktfVGtlN1BnT3lUX2JmVzNPb0NyazBjYU91UHVzWWd2OGVmQjJNbkNic1ZDRTFJM1pCdTg0YjJZYw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-19-018",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "She grew up unvaccinated. Now she’s a leading voice for science — and empathy",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://www.statnews.com/2026/08/19/science-communication-liz-marnik-vaccine-advocate/?utm_campaign=rss"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 15,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "jnj",
+        "count": 3
+      },
+      {
+        "id": "cardinal",
+        "count": 3
+      },
+      {
+        "id": "astrazeneca",
+        "count": 2
+      },
+      {
+        "id": "merck",
+        "count": 2
+      },
+      {
+        "id": "lonza",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "drug_approval",
+        "count": 14
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 455,
+    "dup_title": 254,
+    "too_old": 89,
+    "gate1_blocked": 8,
+    "gate2_blocked": 12,
+    "passed": 92,
+    "pass_rate": "45.8%",
+    "gate2_block_rate": "6.0%",
+    "gate2_samples": [
+      "Teva Advances TEV-'408 Into Phase 2b for Vitiligo - Dermatology Times",
+      "Former Everett Pfizer facility finds new buyer - HeraldNet.com",
+      "Scoop: Johnson & Johnson to Lead Delix Therapeutics’ $85M Series C - Psychedelic Alpha",
+      "J&J hands lymphoma bispecific CAR T back to AbelZeta - BioSpace",
+      "Johnson & Johnson wins FDA clearance for new robotic bronchoscopy software - MassDevice"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為J&J、Cardinal、AZ相關動態：「RBC Capital initiates Cardinal Health stock at Outperform...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "RBC Capital initiates Cardinal Health stock at Outperform on growth outlook -...（藥物核准、法說會、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Lonza Group stock holds at recent highs as viral vector demand underpins outl...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
