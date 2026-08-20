@@ -1,0 +1,65 @@
+{
+  "date": "2026-08-20",
+  "total_events": 18,
+  "by_company": {
+    "teva": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "lonza": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "catalent": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "jnj": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "roche": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "astrazeneca": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "merck": {
+      "count": 3,
+      "sentiment_avg": -0.33
+    },
+    "novo_nordisk": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "cardinal": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "drug_approval": {
+      "count": 15,
+      "sentiment_avg": -0.03
+    },
+    "industry_general": {
+      "count": 14,
+      "sentiment_avg": -0.04
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "glp1_obesity": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

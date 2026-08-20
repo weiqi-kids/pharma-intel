@@ -1,0 +1,16 @@
+{
+  "total_raw": 456,
+  "dup_title": 249,
+  "no_date": 0,
+  "too_old": 87,
+  "gate1_fail": 11,
+  "gate2_fail": 12,
+  "passed": 97,
+  "gate2_samples": [
+    "Teva Advances TEV-'408 Into Phase 2b for Vitiligo - Dermatology Times",
+    "Why Is Pfizer (NYSE:PFE) Settling Thousands of Legal Claims? - kalkinemedia.com",
+    "Johnson & Johnson Invests $300,000 to Expand Nursing Education at Rutgers–Camden - Rutgers Universit",
+    "Scoop: Johnson & Johnson to Lead Delix Therapeutics’ $85M Series C - Psychedelic Alpha",
+    "Merck & Co., Inc. (NYSE:MRK) Sets New 12-Month High - Here's What Happened - MarketBeat"
+  ]
+}

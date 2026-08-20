@@ -1,0 +1,250 @@
+{
+  "date": "2026-08-20",
+  "generated_at": "2026-08-20T08:47:07.273550Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "roche-2026-08-20-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Roche Holding stock steadies as 2026 half-year sales grow and breast cancer deal lifts outlook - Ad-hoc-news.de",
+      "companies": [
+        "roche"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQzdFbDVHa1g2OWNScHptR29EMV82ZUZCNVBzQ21Qa08wX0kzZ1pkY3VCc1pTZ1hzYk8xMG1JTVozUDRmcHFhTkt3b1VhdWxKOURmcERpUXpyQWt4aWtsa002R2hRV3pWcmgyMjRxdUlILVFicUFCb2Y4UzF1V3pSWGRHNHc5bnUxTHVXblhHb2RnbVhJMFdKNnZ1SGJMYl9uTTdWalR5bnJfU1E3QzRaYXVUNHYzazYwOEhNQ3I4RDBlbnZGdXhxRERCdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "merck-2026-08-20-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Spotlight On: mRNA breaks from vaccine stable as Moderna, Merck & Co. deliver breakthrough melanoma results - FirstWord Pharma",
+      "companies": [
+        "merck"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBENXRYT2w2NUlId2l6STQ0VmYySER1dEl1VjlmLUswSXVXcnJfNk9pRDdld0VDVEZxa21VUVVUQkVCVEVLMnlUVEZ3dVBlLW5md2NZ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "teva-2026-08-20-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Teva Pharmaceutical (TEVA) Insider Sell: EVP, Business Developme - GuruFocus",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR0kzVjA0aXdMRHA3bUIyMXo2WkJFOGhOVUktWDNlWUJ5ZnlId01nRDk2RVo2dTV3YldoRmFXMzFvekFZTk5kM1dvY0dRZGFTXzFSS2c2bHdsSzJxS0RFZDBNYVZhWkpiQW14YUd4M2pXNmRTRDlHQXREWkI4djVpMTZEOTBya3hxODdYWS0yaXgwdXpkZldJeFBDbUpMNk1mTHVhMFUyNG5xa054R0dRbG5uNjByMTFoRzdGY25YdjFnaVZaVUxpend6aV9MQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lonza-2026-08-20-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lonza Group stock holds steady as investors digest latest half-year update - Ad-hoc-news.de",
+      "companies": [
+        "lonza"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSndzdmt1RjVjMmU3bGlPNnk2UmY4UXY0QzFKcW1KWlk1aTllMEZONXJCQUxrVVNWTHJyM2w4ZUhEUm1UcUlmckFKV0tmMG53RHNPTG8wSkE2ak11ckhOMUhnYWJqYUVYaDhPczhjaTliSDRHeW50Q1RtemZmeUNSakdwU0ZCMjJpTmNwOElZVkV6Nm9KZTlxa2JvcUJiV1Y3UTBrNDFjc0hCdmFjSmxIRmhEUW1ic1ZWcUNWTWFvS2VibFh5MkpHaWY4MEhadkwtcnVB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "catalent-2026-08-20-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "TSHA-102 Rett Data, Expanded Catalent Deal And New Financing Might Change The Case For Investing In Taysha Gene Therapies (TSHA) - simplywall.st",
+      "companies": [
+        "catalent"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOFZSUjA0a0FvRGlxXzlxSHpKdmdiR0Z5Vm01d1YyLXB2bGlJYXNNQnV4VHh3STY2VDlqSld6MWw3RWpodWhDdUFzd3l0cVktcFVySkFxNTk0OTNFczNQRW1wdXdveGVmR211UXZhTE5GcDdqbnM5SmdMOXUxZnJkQjBMRVpFUldzYjVXMk82NnFHQ1BNTGRPek5CdGJYc2ZMYl80RXFpYm44OWFrcndrbmg0a3dXblA4TmU4dDVpcnJxbjhkLWFQNnZLY3NRLVA4Yi1fdlUwQ25vajdfV3FSVWZkVGljTGFMZmRBLWpJRdIB7wFBVV95cUxQOFZSUjA0a0FvRGlxXzlxSHpKdmdiR0Z5Vm01d1YyLXB2bGlJYXNNQnV4VHh3STY2VDlqSld6MWw3RWpodWhDdUFzd3l0cVktcFVySkFxNTk0OTNFczNQRW1wdXdveGVmR211UXZhTE5GcDdqbnM5SmdMOXUxZnJkQjBMRVpFUldzYjVXMk82NnFHQ1BNTGRPek5CdGJYc2ZMYl80RXFpYm44OWFrcndrbmg0a3dXblA4TmU4dDVpcnJxbjhkLWFQNnZLY3NRLVA4Yi1fdlUwQ25vajdfV3FSVWZkVGljTGFMZmRBLWpJRQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 15,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "cardinal",
+        "count": 4
+      },
+      {
+        "id": "jnj",
+        "count": 3
+      },
+      {
+        "id": "merck",
+        "count": 3
+      },
+      {
+        "id": "teva",
+        "count": 1
+      },
+      {
+        "id": "lonza",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 15
+      },
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 456,
+    "dup_title": 249,
+    "too_old": 87,
+    "gate1_blocked": 11,
+    "gate2_blocked": 12,
+    "passed": 97,
+    "pass_rate": "46.9%",
+    "gate2_block_rate": "5.8%",
+    "gate2_samples": [
+      "Teva Advances TEV-'408 Into Phase 2b for Vitiligo - Dermatology Times",
+      "Why Is Pfizer (NYSE:PFE) Settling Thousands of Legal Claims? - kalkinemedia.com",
+      "Johnson & Johnson Invests $300,000 to Expand Nursing Education at Rutgers–Camden - Rutgers Universit",
+      "Scoop: Johnson & Johnson to Lead Delix Therapeutics’ $85M Series C - Psychedelic Alpha",
+      "Merck & Co., Inc. (NYSE:MRK) Sets New 12-Month High - Here's What Happened - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為Cardinal、J&J、Merck相關動態：「Roche Holding stock steadies as 2026 half-year sales grow...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Roche Holding stock steadies as 2026 half-year sales grow and breast cancer d...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Spotlight On: mRNA breaks from vaccine stable as Moderna, Merck & Co. deliver...（藥物核准、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
