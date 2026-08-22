@@ -1,0 +1,234 @@
+{
+  "date": "2026-08-22",
+  "generated_at": "2026-08-22T08:37:37.955814Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "eli_lilly-2026-08-22-005",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "The Oral GLP-1 Tracker: Novo's Wegovy pill back on track as Lilly's momentum slows - Fierce Pharma",
+      "companies": [
+        "eli_lilly",
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVUl1anVGbWRDTnRCUVVGWkU3V1NLZkI4TVpVamVheHZEWV9DSksyZC11NHpRcGl4b2g3TG9LUjNqcUNGamJYVUxHMWVWNnJZUzJKWFpaMHdqZ01Fb0M3LTJCcHZHR2sxOElyNk0wNFgtOW45endMcjRFcmZNd2ItSUwwSVdsUEN1Tkt6SnNuNGVWeVNjMTM0WW5mYmpoTWxzaVNhdTNLT1RNQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lonza-2026-08-22-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lonza Group stock holds steady as market value reaches CHF 39.47 billion - Ad-hoc-news.de",
+      "companies": [
+        "lonza"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNGVWRkRXWUJ1TF91ck10SmxJTVdYQW1YRWY4aVNFa005TDZrVXBZcmJzODN6dUVzcEstRWJvTERHenR5VHpqWUJiSVF2YlV5dDc1cmNtWHNhUTdCRm92ejBTSVhxTFdzUm1Da09ld0xNODd2c1BuaFpfWWxyT1lFaTZpbnNGbmtIZkU2Q3BhREo3QVhUUjJJeEpQZWpaMGpFTVBjWjhvci1FV2s5dHJGSm5YTlJXRHNBc1VWZ2tRQ3ZxWDRoalFkWG5IaE9IUGJn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "jnj-2026-08-22-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Scientists beat Johnson & Johnson in fight over talc cancer research - Gulf News",
+      "companies": [
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNU51LVhYYWxGRUVUR0xTZ3hZMnBUTE5sdzF0V0RZcWs1OV9JSkI1eWlrWjd5WWFtLUlzdUJvZmFGMTUyU0dzWG92MzJ3TUNIWUU0X0xUSzNrSTlxQlh6YkJ1NVJjWmhndjU1N0hxWjQwcXlyYXhIZHc4T3RCV0RNVmVOcGtMUVVMRUwtTFM2dHZYb0NlczREY3NlYXAyY2RySmFRVk4weEI5R1FNbkI4LWlOcEXSAccBQVVfeXFMUGZzY2NMTW1Ud0lraTR6SUx4VTFOd2hyOXNZRFV0N2xQS0d6M1lSbzVRRlZPeDM0cEVpU2FDX1BfY0gzWllKd0ZtRUFWRWx0ajN2eEM2NFlPc19TeEN1Z1hMM0Vsclo4blMtc1ZmeFNBQ3F4RTRTeFJNeVFTS0w1aEN4S0ZQdEJWXzMtQ1pQUWlmb0tIaTMwOXdZdzFXejRfRFFETkQzaEx2Nkk5Z3F1dGhmU01DNktmWUVXOWZpcHFYeDg4WjlKWQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "merck-2026-08-22-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Advisors Management Group Inc. ADV Sells 48,510 Shares of Merck & Co., Inc. $MRK - MarketBeat",
+      "companies": [
+        "merck"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbURrZXdQRThPVW9mWEJHNGpoTF8ycmMtZ0ZFd3NJTVlKZWEtRFgyVVdUTmhzYTdKUlBUVnItSkNmay04U0VndUYtWWRDM2hoNU1jNnAwRUlSQzFqVHJyT3JocVRBMW8wQjNXTjZwRl9sQ0I4LWc4OFJBMlo1NFJybVZUNHdDQWxjLTZTV2RmSzJDZG4zclkzbmNoczdBZUZMRmx1MjFHcmNhWVVLaEhMdXpCRm5heXJ6OEtfWWZKdHdFamZlUzRZcWpsOTdWUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "merck-2026-08-22-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Merck & Co., Inc. (NYSE:MRK) Upgraded at Wall Street Zen - MarketBeat",
+      "companies": [
+        "merck"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOczlSWE5nSXdpQlowRVJKQjRRdHFnc1QyTENiN2NJaFBMRmdRTzZUbjd5UkFIMi1hdC05Y0FLWFNzbFo5ZUIxamFNd0NVWUEwaFN3LXpvYy1sWTFvU0JwYi1WTllyZmtDTUFpRVB4VEFQWGQ4ZWpFZkVpUUQyUkgxbndfeTRYYVVVYkNXeTkyZk9vVDg4dUh1dDJiWUFtdV9PaEo5aw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.1,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "merck",
+        "count": 2
+      },
+      {
+        "id": "lonza",
+        "count": 1
+      },
+      {
+        "id": "jnj",
+        "count": 1
+      },
+      {
+        "id": "eli_lilly",
+        "count": 1
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      },
+      {
+        "id": "drug_approval",
+        "count": 4
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 455,
+    "dup_title": 289,
+    "too_old": 88,
+    "gate1_blocked": 10,
+    "gate2_blocked": 12,
+    "passed": 56,
+    "pass_rate": "33.7%",
+    "gate2_block_rate": "7.2%",
+    "gate2_samples": [
+      "Three scientists beat J&J's defamation suit over talc research - Reuters",
+      "Johnson & Johnson Invests $300,000 to Expand Nursing Education at Rutgers–Camden - Rutgers Universit",
+      "How the J&J Institute Provides Surgery Training for HCPs - Johnson & Johnson",
+      "Scoop: Johnson & Johnson to Lead Delix Therapeutics’ $85M Series C - Psychedelic Alpha",
+      "Eli Lilly, Novo Nordisk and Merck: Buy, Sell or Hold? - 24/7 Wall St."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為Merck、Lonza、J&J相關動態：「The Oral GLP-1 Tracker: Novo's Wegovy pill back on track ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "The Oral GLP-1 Tracker: Novo's Wegovy pill back on track as Lilly's momentum ...（藥物核准、GLP-1 減重、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Lonza Group stock holds steady as market value reaches CHF 39.47 billion - Ad...（藥物核准、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

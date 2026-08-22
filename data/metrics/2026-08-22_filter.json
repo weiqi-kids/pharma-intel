@@ -1,0 +1,16 @@
+{
+  "total_raw": 455,
+  "dup_title": 289,
+  "no_date": 0,
+  "too_old": 88,
+  "gate1_fail": 10,
+  "gate2_fail": 12,
+  "passed": 56,
+  "gate2_samples": [
+    "Three scientists beat J&J's defamation suit over talc research - Reuters",
+    "Johnson & Johnson Invests $300,000 to Expand Nursing Education at Rutgers–Camden - Rutgers Universit",
+    "How the J&J Institute Provides Surgery Training for HCPs - Johnson & Johnson",
+    "Scoop: Johnson & Johnson to Lead Delix Therapeutics’ $85M Series C - Psychedelic Alpha",
+    "Eli Lilly, Novo Nordisk and Merck: Buy, Sell or Hold? - 24/7 Wall St."
+  ]
+}

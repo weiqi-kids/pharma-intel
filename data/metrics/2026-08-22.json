@@ -1,0 +1,45 @@
+{
+  "date": "2026-08-22",
+  "total_events": 5,
+  "by_company": {
+    "lonza": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "jnj": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "merck": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "eli_lilly": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "novo_nordisk": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "by_topic": {
+    "drug_approval": {
+      "count": 4,
+      "sentiment_avg": -0.12
+    },
+    "industry_general": {
+      "count": 5,
+      "sentiment_avg": -0.1
+    },
+    "glp1_obesity": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
