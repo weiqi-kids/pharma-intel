@@ -1,0 +1,158 @@
+{
+  "date": "2026-08-23",
+  "generated_at": "2026-08-23T08:37:53.625992Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "jnj-2026-08-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Johnson & Johnson: Buy IMAAVY Label Expansion First And Continued CAPLYTA Sales Push - Seeking Alpha",
+      "companies": [
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZjFnTHN1cmRKT1ZLeDVGaU5iTk14VlM5ejRqTGxnNmJueTJzVjExcDBQck9td0FfOWcwUWUzbWpDQUFhSUw0dkZzV3V6ejYyamlkSmVxRG1SRGVFQzl3X0Zxc1BjX0g0MzN1emthLUw0ZlhMeTdZY29NNXBVbDlHQUxPN1VVLXdfZ0x5TmhyS2JteDJuMUR6STEtS1JweXA4ZXBMbzljRzJ5UVhOdTdBdDlCRDNFUkJOMmt5S3pKendpV2Nu?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "merck-2026-08-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Merck & Co., Inc. $MRK Shares Sold by Fifth Third Bancorp - MarketBeat",
+      "companies": [
+        "merck"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbm1vTGFnVWFWVXJWRkNpTVVYRlMxYnUyNjhmOHJwMGdIRloxRnhPc3NWQlY1N1ZNUkxhWlVERGtfUndLbm9vdlBJNV9sR2pHX1gtQmRNRXlSMmtDZWN1Q0gwTlBYSDJ4c3loZllVNTRaTFphbVVKQzA0WmRRX196Q1RpODlRUTBMdlhxejBMeXk0MlJBUkpuV01ReDlmM0oyblQzQjItem1TLXdGR3I4dTh3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "merck-2026-08-23-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Merck & Co., Inc. $MRK Shares Bought by Donaldson Capital Management LLC - MarketBeat",
+      "companies": [
+        "merck"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWlM2WVVvaWJkQVpyRlFYUHNFcWt6WmZYdTFWR25tT2Y2MHF3M1d6cHk1d2R5TElnLXdraGV2Y1F5Smk3NWRsYWpha0o1MEREWjJrQTZQcDhEWVFhbGFFUjhBVjQ0aUVsdUxpUXEtZzdPbkhWUUMxUVpSdHUwWFBHbVBVQXBEbEJEdWd4Y19qUmsyZ2huT1JZSjUybjcxN2gtc3VVR056Y1dZR0ppY203MDZCblcwSmtFWktrODBRZV9hRlBZVVE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "merck",
+        "count": 2
+      },
+      {
+        "id": "jnj",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 3
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 457,
+    "dup_title": 325,
+    "too_old": 87,
+    "gate1_blocked": 10,
+    "gate2_blocked": 13,
+    "passed": 22,
+    "pass_rate": "16.7%",
+    "gate2_block_rate": "9.8%",
+    "gate2_samples": [
+      "Teva Advances TEV-'408 Into Phase 2b for Vitiligo - Dermatology Times",
+      "Three scientists beat J&J's defamation suit over talc research - Reuters",
+      "Johnson & Johnson Invests $300,000 to Expand Nursing Education at Rutgers–Camden - Rutgers Universit",
+      "Scoop: Johnson & Johnson to Lead Delix Therapeutics’ $85M Series C - Psychedelic Alpha",
+      "How the J&J Institute Provides Surgery Training for HCPs - Johnson & Johnson"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Merck、J&J相關動態：「Johnson & Johnson: Buy IMAAVY Label Expansion First And C...」。主要關注主題為藥物核准、產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Johnson & Johnson: Buy IMAAVY Label Expansion First And Continued CAPLYTA Sal...（藥物核准）",
+        "level": "green"
+      },
+      {
+        "text": "Merck & Co., Inc. $MRK Shares Sold by Fifth Third Bancorp - MarketBeat（藥物核准、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

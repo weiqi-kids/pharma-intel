@@ -1,5 +1,67 @@
 [
   {
+    "id": "jnj-2026-08-23-001",
+    "date": "2026-08-23",
+    "companies": [
+      "jnj"
+    ],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "Johnson & Johnson: Buy IMAAVY Label Expansion First And Continued CAPLYTA Sales Push - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOZjFnTHN1cmRKT1ZLeDVGaU5iTk14VlM5ejRqTGxnNmJueTJzVjExcDBQck9td0FfOWcwUWUzbWpDQUFhSUw0dkZzV3V6ejYyamlkSmVxRG1SRGVFQzl3X0Zxc1BjX0g0MzN1emthLU",
+    "sources": [
+      {
+        "name": "jnj",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZjFnTHN1cmRKT1ZLeDVGaU5iTk14VlM5ejRqTGxnNmJueTJzVjExcDBQck9td0FfOWcwUWUzbWpDQUFhSUw0dkZzV3V6ejYyamlkSmVxRG1SRGVFQzl3X0Zxc1BjX0g0MzN1emthLUw0ZlhMeTdZY29NNXBVbDlHQUxPN1VVLXdfZ0x5TmhyS2JteDJuMUR6STEtS1JweXA4ZXBMbzljRzJ5UVhOdTdBdDlCRDNFUkJOMmt5S3pKendpV2Nu?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "merck-2026-08-23-002",
+    "date": "2026-08-23",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Merck & Co., Inc. $MRK Shares Sold by Fifth Third Bancorp - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNbm1vTGFnVWFWVXJWRkNpTVVYRlMxYnUyNjhmOHJwMGdIRloxRnhPc3NWQlY1N1ZNUkxhWlVERGtfUndLbm9vdlBJNV9sR2pHX1gtQmRNRXlSMmtDZWN1Q0gwTlBYSDJ4c3loZllVNT",
+    "sources": [
+      {
+        "name": "merck",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbm1vTGFnVWFWVXJWRkNpTVVYRlMxYnUyNjhmOHJwMGdIRloxRnhPc3NWQlY1N1ZNUkxhWlVERGtfUndLbm9vdlBJNV9sR2pHX1gtQmRNRXlSMmtDZWN1Q0gwTlBYSDJ4c3loZllVNTRaTFphbVVKQzA0WmRRX196Q1RpODlRUTBMdlhxejBMeXk0MlJBUkpuV01ReDlmM0oyblQzQjItem1TLXdGR3I4dTh3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "merck-2026-08-23-003",
+    "date": "2026-08-23",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Merck & Co., Inc. $MRK Shares Bought by Donaldson Capital Management LLC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOWlM2WVVvaWJkQVpyRlFYUHNFcWt6WmZYdTFWR25tT2Y2MHF3M1d6cHk1d2R5TElnLXdraGV2Y1F5Smk3NWRsYWpha0o1MEREWjJrQTZQcDhEWVFhbGFFUjhBVjQ0aUVsdUxpUXEtZz",
+    "sources": [
+      {
+        "name": "merck",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWlM2WVVvaWJkQVpyRlFYUHNFcWt6WmZYdTFWR25tT2Y2MHF3M1d6cHk1d2R5TElnLXdraGV2Y1F5Smk3NWRsYWpha0o1MEREWjJrQTZQcDhEWVFhbGFFUjhBVjQ0aUVsdUxpUXEtZzdPbkhWUUMxUVpSdHUwWFBHbVBVQXBEbEJEdWd4Y19qUmsyZ2huT1JZSjUybjcxN2gtc3VVR056Y1dZR0ppY203MDZCblcwSmtFWktrODBRZV9hRlBZVVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lonza-2026-08-22-001",
     "date": "2026-08-22",
     "companies": [
@@ -101,6 +163,214 @@
       {
         "name": "novo_nordisk",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVUl1anVGbWRDTnRCUVVGWkU3V1NLZkI4TVpVamVheHZEWV9DSksyZC11NHpRcGl4b2g3TG9LUjNqcUNGamJYVUxHMWVWNnJZUzJKWFpaMHdqZ01Fb0M3LTJCcHZHR2sxOElyNk0wNFgtOW45endMcjRFcmZNd2ItSUwwSVdsUEN1Tkt6SnNuNGVWeVNjMTM0WW5mYmpoTWxzaVNhdTNLT1RNQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "teva-2026-08-22-006",
+    "date": "2026-08-22",
+    "companies": [
+      "teva"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ecopipam Priority Review Could Be A Game Changer For Teva Pharmaceutical Industries (TEVA) - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSFVRYnJHTV9KVkRDbVdqUVg0dk9UNDV1TjROb1pnaFFxdEdQN1dlWXY3ZE9HRm4xalc4bnBhY0tPNkFOWVVUaVEwZllGRG9XdlhUQ1F5RWhlVGh6Yk9vN1ZOV0ZxVEdRcWtiTENnaX",
+    "sources": [
+      {
+        "name": "teva",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSFVRYnJHTV9KVkRDbVdqUVg0dk9UNDV1TjROb1pnaFFxdEdQN1dlWXY3ZE9HRm4xalc4bnBhY0tPNkFOWVVUaVEwZllGRG9XdlhUQ1F5RWhlVGh6Yk9vN1ZOV0ZxVEdRcWtiTENnaXY3MTJ4Yk5VS1h0a0ZQMjhxSW1aT0VTemtfbm5pQjViQVBCaE0ya2dEMmZfZF9IZ3BnQkNqRVdVZmhMTHh1Q29NRnhJNmIyaFFVLVJQTHg2alJlS25CUmJuRGdYV0RNT05QS0tOdnNPZzNDdElhYldyR1JLVXBUOWdIaS1uaFpicWVqYmRX0gH6AUFVX3lxTE5DelVBdndJZVhqMjVWN0xCQjY0VDhiZHVJUEtmd2FHYmJuWW41OHRsRFAwTDhiSTJrM09acXpOTjl5OThIaWJQbml4LXdUejM1ZGlQMXhlWk5JRldOLWVvdFMxUWdnRjJBOVdZRFhYNW8zYkxDMGJodjJlVm1xblhQN3AyaVRPb0V6a0lfU2JoS0t2dXR0MDV4LUM1YUlZUmw5Mk9oaDVVcUFEQ2tIbTR4OERGSDBFcThKd0Q2WWgzNnNDWHlNMVNhQ3IxcDd0RWtqSmVEa2NDOWhCVVlKQlZSOU1rVjg5alQwN2ZGSFFzRTNqdW45Nmp3WUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "catalent-2026-08-22-007",
+    "date": "2026-08-22",
+    "companies": [
+      "catalent"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Scholar Rock (SRRK) Streamlines Apitegromab Filings After Catalent Shift Is Regulatory Strategy De-Risking The Story? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPNWhNT3JFOHludEd4WHdGb2FJbWNjLUtiQnlHRzJ5N01YYkZ0QW5sODVvTmw1d1VENWxoU2xidUVDc1RzVXVaRHFQVWJMYWZrcHVlaHV2Q2VFSkhoR0xPdUpubFRsZklnNXRQY0JLM3",
+    "sources": [
+      {
+        "name": "catalent",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNWhNT3JFOHludEd4WHdGb2FJbWNjLUtiQnlHRzJ5N01YYkZ0QW5sODVvTmw1d1VENWxoU2xidUVDc1RzVXVaRHFQVWJMYWZrcHVlaHV2Q2VFSkhoR0xPdUpubFRsZklnNXRQY0JLM3hIajE2WlNuMDl4ZGkwSHNCREdJWFU4Y2YtWkpEWW0zRFJ1WjJsaVZIVl9SSll5Q01yX0xWNg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "catalent-2026-08-22-008",
+    "date": "2026-08-22",
+    "companies": [
+      "catalent"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Scholar Rock removes Catalent facility from SMA drug application By Investing.com - Investing.com Nigeria",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNlpzVmUyTHZsSTlGMjRsVnJHLWRBV04zWE9PZ213ZFVxTW9qOE94UzNFNk1RUnlCSDdJQlFnSXpYdWdlVWpHdE9UakxrNE12MEVMWE5sRjI3QXNrMGdkeUtGblppd1paUjBKWlZMXz",
+    "sources": [
+      {
+        "name": "catalent",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNlpzVmUyTHZsSTlGMjRsVnJHLWRBV04zWE9PZ213ZFVxTW9qOE94UzNFNk1RUnlCSDdJQlFnSXpYdWdlVWpHdE9UakxrNE12MEVMWE5sRjI3QXNrMGdkeUtGblppd1paUjBKWlZMXzRnY1ktRDVxTURXMEREX0NsVjR3ejBZZlVRNnowNkZDWFY1bU9TSXFCd0l4T25aY2FKYllsVzJrZDNmUmpsNktwOWxoRTBzVHVrdURDcHdPNExTa28?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pfizer-2026-08-22-009",
+    "date": "2026-08-22",
+    "companies": [
+      "pfizer"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Prediction: This Is Where Pfizer Stock Will Be in 2030 - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNY09ueTN1Q2NOT3VjYzZrd19uVnVzNU44a1JoSTBrZGFrRWlsaU1DOFJ0SU5HeldCN0hiaDhad1htZmRaTF9ZSGl4ekQ4STI3RHd2WmxWUWs3OUV4SHlPSERfbjVSeGthVWVvZERfa3",
+    "sources": [
+      {
+        "name": "pfizer",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY09ueTN1Q2NOT3VjYzZrd19uVnVzNU44a1JoSTBrZGFrRWlsaU1DOFJ0SU5HeldCN0hiaDhad1htZmRaTF9ZSGl4ekQ4STI3RHd2WmxWUWs3OUV4SHlPSERfbjVSeGthVWVvZERfa3NVSUFXU1lCeW9ERFRmSkxuY3U5ZEdOa3JDS29ySUthOUVTbDNJaE5Sa21KOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pfizer-2026-08-22-010",
+    "date": "2026-08-22",
+    "companies": [
+      "pfizer"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Prediction: This Is Where Pfizer Stock Will Be in 2030 - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxObWNDdWpfNkEwcE1tMFEwWWttdTNNMm83TlppODVTZE9DTGNtbkM4cVZvSEYwc2xwa1FDd2hYN2M0Q2QycVcta3hCOGxOdU80NlY3Y1ljVDY5bWNVU0NuakhTSFRvSjZ2bUlLSVp0T2",
+    "sources": [
+      {
+        "name": "pfizer",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObWNDdWpfNkEwcE1tMFEwWWttdTNNMm83TlppODVTZE9DTGNtbkM4cVZvSEYwc2xwa1FDd2hYN2M0Q2QycVcta3hCOGxOdU80NlY3Y1ljVDY5bWNVU0NuakhTSFRvSjZ2bUlLSVp0T21kX3FWVk40eVVFM3pZVklGX2dfb0RwVDlDMDZBR0ROOVVmNU90U3NMcA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "merck-2026-08-22-011",
+    "date": "2026-08-22",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Merck & Company Soars on Breakthrough Cancer Vaccine Hopes - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNQWVnLVpUOWhkWUNLM2hGVk9Ha05ndDFralNmYklpRW1DUE9Gb1h4WjI5eGVQYmpsUTJEZndUN1VOMnM1RkFCTmZRdVZSLWkyenFXYjNHdmRhNHhFd2dpS3F4SmFfNmgyWmNnNFpNYl",
+    "sources": [
+      {
+        "name": "merck",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQWVnLVpUOWhkWUNLM2hGVk9Ha05ndDFralNmYklpRW1DUE9Gb1h4WjI5eGVQYmpsUTJEZndUN1VOMnM1RkFCTmZRdVZSLWkyenFXYjNHdmRhNHhFd2dpS3F4SmFfNmgyWmNnNFpNYlhRVEQ3blpycDRMVTVYZzktbHI4TGRrZmd2a0JnUE9nbzN4bUlhWTk1ZDk0bjAxVzlpd016SQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "merck-2026-08-22-012",
+    "date": "2026-08-22",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Principal Financial Group Inc. Buys 41,537 Shares of Merck & Co., Inc. $MRK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPX05wNUxMV3VCZkNUYzY4SndETEM0YWpFQ0NDc1Rabk9jdXVMMzIzNEo0SHJzNWc0cDJuWkFEelRXWHA3b3JJMmd1dlBNckZWMEEtXzVCRy02LWtUMEo5V2tpaUNuLWRoaERod0JpVn",
+    "sources": [
+      {
+        "name": "merck",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX05wNUxMV3VCZkNUYzY4SndETEM0YWpFQ0NDc1Rabk9jdXVMMzIzNEo0SHJzNWc0cDJuWkFEelRXWHA3b3JJMmd1dlBNckZWMEEtXzVCRy02LWtUMEo5V2tpaUNuLWRoaERod0JpVnNQOEZuUHh5TEhhY0pmNjkyVWtaOTNpZ0dDTVl5WUdLU3FFVHg5MFowRTlTV3NFRzB3MU1PY2ZBejlrTnpNLTNya2FXVE8xWldxT1ZOYzlvRThrRkh1SFVV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-08-22-013",
+    "date": "2026-08-22",
+    "companies": [
+      "novo_nordisk",
+      "eli_lilly"
+    ],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "Eli Lilly: Shaking Off Competition From The Dethroned Novo Nordisk (NYSE:LLY) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQanBfYWRoWU44LUtnOVNZLWpRRk5QaVIxa1JtTy10YnY5di1SRGpoclc3SVpjT2pPLXJkQnNjZ0hEZ2F1VWo2NE1QSFJvMG50ekFKLUNTSkNfZ3kta2hGV01MQ3pvRWM5NTZiQkVvcE",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQanBfYWRoWU44LUtnOVNZLWpRRk5QaVIxa1JtTy10YnY5di1SRGpoclc3SVpjT2pPLXJkQnNjZ0hEZ2F1VWo2NE1QSFJvMG50ekFKLUNTSkNfZ3kta2hGV01MQ3pvRWM5NTZiQkVvcEJhY1Ntd3VCTzR3OHNyc3Y0Qmo4U2FKY1lXQ2xtQmNsNTkyZDdWR05tMEhIMk9uNnExcHVpbg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pfizer-2026-08-22-014",
+    "date": "2026-08-22",
+    "companies": [
+      "pfizer"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Prediction: This Is Where Pfizer Stock Will Be in 2030 - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZ0hkMFk4R0pia2F0R3dVazIxS1dDUWtFV1BYck5PcWM3R0ppSnJXbE5xVzJFX3M2eWktSkk1RFpHOEhLaDFtNVZLbnNKSlIyZFlWcjZ4S2FRX1BxaUs4M2NPNTVXZXQyTkh6aEhsTm",
+    "sources": [
+      {
+        "name": "pfizer_news",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZ0hkMFk4R0pia2F0R3dVazIxS1dDUWtFV1BYck5PcWM3R0ppSnJXbE5xVzJFX3M2eWktSkk1RFpHOEhLaDFtNVZLbnNKSlIyZFlWcjZ4S2FRX1BxaUs4M2NPNTVXZXQyTkh6aEhsTmFvNHlvalM4eTk2aWprYldQOGpZWHJBNk1RZmI4QXVCNU5pYUZycF9MZmdrbEtGSU5iOXFZUFNUT09BcVFFbHpNak5fd0gwZVUzT3hmbmtIaldSNEpsTGx4d0Q3WmozUnNZNEFubE53?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "merck-2026-08-22-015",
+    "date": "2026-08-22",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Third death in China’s expedited trials; Merck and Moderna’s cancer vaccine win; and more",
+    "summary": "Welcome back to Endpoints Weekly! Merck and Moderna dominated the headlines this week with topline results for their personalized cancer vaccine. Check out our team’s detailed analysis on the results,",
+    "sources": [
+      {
+        "name": "endpoints_news",
+        "url": "https://endpoints.news/third-death-in-chinas-expedited-trials-merck-and-modernas-cancer-vaccine-win-and-more/",
         "type": "rss"
       }
     ]
@@ -1059,6 +1329,107 @@
       {
         "name": "statnews",
         "url": "https://www.statnews.com/2026/08/21/health-news-scientists-deploy-merck-ebola-vaccine-in-drc/?utm_campaign=rss",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-048",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dr Reddy's Laboratories - Tata Steel, Adani Ports among top 10 stocks downgraded by Motilal Oswal after Q1 results - The Economic Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxQaTQxQ2p3YnhUZVhQbEZPVTdvWjdaWUhyd2hNVjdmTkNCeEZ4MW5ydXNuV01GTkNjTUhaUnVBdW5tOU9JQmxaNGFTRURueHQybGNvQzhBVkN1VENiN0VVQWZOcUYtNkplRUVtZXZfN1",
+    "sources": [
+      {
+        "name": "dr_reddy",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQaTQxQ2p3YnhUZVhQbEZPVTdvWjdaWUhyd2hNVjdmTkNCeEZ4MW5ydXNuV01GTkNjTUhaUnVBdW5tOU9JQmxaNGFTRURueHQybGNvQzhBVkN1VENiN0VVQWZOcUYtNkplRUVtZXZfN1VHdFBhQWNORE9PMjZodW9rcXZqTDBWeEU5U3hKRERybURQY0xJVGNETmpXcW93cm4tbGdhTEVMWjkxNnVMWThEcVlheVp4X2JNRTd6WDlVZGU5YmhpZ3JybmN1VWM0MzlsNl9tNHZ2Wl8zRmdCZTlyWEJOSmpaUXprX0VqdDJ3VEdvSTI3NDR2LW52cFYtRTAxLTRXNDI5X0ZSMjhqUzBZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dr_reddy-2026-08-21-049",
+    "date": "2026-08-21",
+    "companies": [
+      "dr_reddy"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dr. Reddy's Laboratories falls Friday, underperforms competitors - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOaXhOTXVVVjNKU2F5WEh0eV9wbW9GNXhrOFNYaXdYZ1U4ME5jaExhR3Y0UkYzUG1PQ1h3RWtrNUluUlV3dzVmSFFNd1pMem1QdG9sb1hBU2p0MHhSbkJ2TWJvWHBjWTJHLWJYam1abW",
+    "sources": [
+      {
+        "name": "dr_reddy",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaXhOTXVVVjNKU2F5WEh0eV9wbW9GNXhrOFNYaXdYZ1U4ME5jaExhR3Y0UkYzUG1PQ1h3RWtrNUluUlV3dzVmSFFNd1pMem1QdG9sb1hBU2p0MHhSbkJ2TWJvWHBjWTJHLWJYam1abWI3R2h4YU1hNzl1NFBGNVZ1YVBmTHRibWRRcEFCSEd5dU5ZRW9Fdng3cDVZMWVReEp0VGZaanZHLXFNa19SZUxWWWQzRG5XYVVma3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-050",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A Cancer Vaccine Is Closer Than Ever - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOZEFQX2h2dGRHdXJrSk5BdjJuTDdJam5OczZUSFpURUZfSXE5cmFsRUUwdG0tZ2l2SWF5MGlaS2t3M3NfZFJIUklvRF81a0FGRjdQTTB4SEZUWGlCNDZjR2UwdEM4M3EycG1LeHFEUj",
+    "sources": [
+      {
+        "name": "merck",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZEFQX2h2dGRHdXJrSk5BdjJuTDdJam5OczZUSFpURUZfSXE5cmFsRUUwdG0tZ2l2SWF5MGlaS2t3M3NfZFJIUklvRF81a0FGRjdQTTB4SEZUWGlCNDZjR2UwdEM4M3EycG1LeHFEUjBrVWtvN0R1bHFCRDlQNWNKaWQ4c0gyVFhIeEVqLTdISmo2TDhCM0oxMkNLdDdPQkpPTElCcktxTVdQcE1oOVozWTlQUDFHNGZYZ0xkeW4wSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-08-21-051",
+    "date": "2026-08-21",
+    "companies": [
+      "novo_nordisk"
+    ],
+    "topics": [
+      "drug_approval",
+      "patent_cliff",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SRRK Stock Gains After Company Drops Troubled Novo Nordisk-Owned Plant From FDA Filing - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNREJVLXpPdmtaQ0FEZzlOeHQ3XzNkQnpGYkp0YUhjRm9CZnBRUGJhU1hFRGI0THktbUl1N1pCSTFmOU5TT1Rkc0J6YXNhcnhPVzdHeHQzNGlPYjRfOFZpM1hXRHM4Q1B5WmV1VXBTVk",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNREJVLXpPdmtaQ0FEZzlOeHQ3XzNkQnpGYkp0YUhjRm9CZnBRUGJhU1hFRGI0THktbUl1N1pCSTFmOU5TT1Rkc0J6YXNhcnhPVzdHeHQzNGlPYjRfOFZpM1hXRHM4Q1B5WmV1VXBTVkhDa2dDT2JtS2dUOVlZaVlfN0hBMDlhNUIwVWtvdWlyZWdXY3luRkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-052",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "drug_approval",
+      "glp1_obesity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How cost and perception could reshape the GLP-1 market - BioPharma Dive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQdTVCYXBzbzBKMjRIMzdSYlNKQm1HcXB2NkJCQWJnQ043aDE2VTgzWDh0dGpncEpzRjJYbmk2ekpGaks2eFlVX2VtMHFBcUYtZzVRSWN5U3RlNGVCTUFzcUwyNC11cXdrMFdEdGQtT0",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdTVCYXBzbzBKMjRIMzdSYlNKQm1HcXB2NkJCQWJnQ043aDE2VTgzWDh0dGpncEpzRjJYbmk2ekpGaks2eFlVX2VtMHFBcUYtZzVRSWN5U3RlNGVCTUFzcUwyNC11cXdrMFdEdGQtT0FzMTRwWWRrWFJXVjgwMjZVbUV6UGQzUmpWS0daQQ?oc=5",
         "type": "rss"
       }
     ]
@@ -2793,6 +3164,67 @@
       {
         "name": "novo_nordisk",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOHNYVDY0OXBPOFFoSWxOQXFlN1BFWVh6VEl5X3FiNzZGb295YXRiT2h2amV6eGJWbVJRVVFBZ3ZBbU9SaG9TaEkwdEpadDlUOVlPMWJlRGFIMnRfZ0NnQmZVNmUwVHlKMW04dmZyMWxZNlZmcU40a3V3bGp4VEVaaGNIQkI2WXJYUm5RUVFR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sun_pharma-2026-08-20-086",
+    "date": "2026-08-20",
+    "companies": [
+      "sun_pharma"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Julliet Waita Appointed Head of HR – Kenya & Anglophone Countries at Sun Pharma - hrtoday.in",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNZXlTejVHQkJnS04xYTE5aG1YbnVPSXdIQWdGUjF4V3k5ZlFfWFJjY1ZwN1AwUVh3M3BEcU9UZnMtUFlqSVlkb3RzOEhHYUlQLWFGQ2pmWFBhMjRKQlVhSWszZElOSkpXYVVZMmlYYW",
+    "sources": [
+      {
+        "name": "sun_pharma",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZXlTejVHQkJnS04xYTE5aG1YbnVPSXdIQWdGUjF4V3k5ZlFfWFJjY1ZwN1AwUVh3M3BEcU9UZnMtUFlqSVlkb3RzOEhHYUlQLWFGQ2pmWFBhMjRKQlVhSWszZElOSkpXYVVZMmlYYWhmaXpVRmhqQmhISnFGNVh3Vy02ZG1LRmlJb3o2V1FDSk9ITnJfNVlzUkNvUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jnj-2026-08-20-087",
+    "date": "2026-08-20",
+    "companies": [
+      "jnj"
+    ],
+    "topics": [
+      "drug_approval",
+      "biotech_funding"
+    ],
+    "impact": "neutral",
+    "title": "Why Bristol Myers, Johnson & Johnson and More Are Watching Seaport After IPO - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNVUk0V2ZiLVhiUmhnQ0xnYkdIQ1ZGMkVnLTQtNE1sWW0wUDFURGptS2dPS1dLZ0RrTjRzYXoxaWwyVXJ6TmF2ZTJkQkFobExPdld4eDIxUllLcUhtTF9odGROYlU2anBjWFNuMUdxYn",
+    "sources": [
+      {
+        "name": "jnj",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVUk0V2ZiLVhiUmhnQ0xnYkdIQ1ZGMkVnLTQtNE1sWW0wUDFURGptS2dPS1dLZ0RrTjRzYXoxaWwyVXJ6TmF2ZTJkQkFobExPdld4eDIxUllLcUhtTF9odGROYlU2anBjWFNuMUdxYnB1OF82N29uRklRemVMTFNHcFNUWFVYMjRZSDR1dDRQLTBROHg0bUs2TVJB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-088",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "135-year-old healthcare giant surges on cancer vaccine breakthrough - thestreet.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOeHYwLVU1cHRiOFBGYUxFU3dGNHVOZlNLdHZCTWYwWDNqXzZ1YXpnQk9BczExM1N6T2ZHcUt0WnZNRWtIYTBSX0JaMEN5dEg4Y3pHa0FRSGg3d1hydUtCVExaODV3dzFqRVVidjc0Sj",
+    "sources": [
+      {
+        "name": "merck",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeHYwLVU1cHRiOFBGYUxFU3dGNHVOZlNLdHZCTWYwWDNqXzZ1YXpnQk9BczExM1N6T2ZHcUt0WnZNRWtIYTBSX0JaMEN5dEg4Y3pHa0FRSGg3d1hydUtCVExaODV3dzFqRVVidjc0SjNGTGZtd2hkMFRqQ0ZlVmF4UEV0LWdTaEI3b3RKQmxib2UteGJlVzBGOHJ4Zw?oc=5",
         "type": "rss"
       }
     ]
@@ -4758,6 +5190,27 @@
       {
         "name": "merck",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Lb2dHanlMdF93YTJKSnJ4NTdkZU5KMThxWFRpV0VBR3RBcno5OWZhS1lxNjl1Zk44QVNpSUptNVl2UnZCVmU1ZnY0ODRhRXpDdjZN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "astrazeneca-2026-08-19-097",
+    "date": "2026-08-19",
+    "companies": [
+      "astrazeneca"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Can AstraZeneca (LSE:AZN) Still Be A Bargain After Mixed Trial News? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQb0lraDA1b2xmNkQtZlhnS2dQbmZYc1B3S240ZFI2ZHNfd3JqM1VDN1VMQ1NlTVdBLWNKalNpR29QcmFTVTdBS1NWRHhIVFo4Ti1odlg0OGZpY256cl8xZlFfdzVndF9OMUxjYnhjZj",
+    "sources": [
+      {
+        "name": "astrazeneca",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb0lraDA1b2xmNkQtZlhnS2dQbmZYc1B3S240ZFI2ZHNfd3JqM1VDN1VMQ1NlTVdBLWNKalNpR29QcmFTVTdBS1NWRHhIVFo4Ti1odlg0OGZpY256cl8xZlFfdzVndF9OMUxjYnhjZjV0Z2dmMF9TWDJ3d05FZ1hEWjR1NV9jbXVRWWJCc0tEeVNZX1pvbFhyUlZVWWRVQWM?oc=5",
         "type": "rss"
       }
     ]
