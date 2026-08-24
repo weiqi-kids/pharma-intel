@@ -1,0 +1,285 @@
+{
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T08:56:06.166098Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "pfizer-2026-08-24-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Pfizer (PFE.US) Sees Signs of Recovery! New Drug Revenue Surges 18%, but Patent Cliff Remains the Biggest Challenge - 富途牛牛",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "patent_cliff",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRV84SjB3bWpzTHYxSEhxbVprRzFTRGpqTlRsekRiNW1KOUdiMS05d2lYb3k5b3Y0ZlJrT2IwRXBhSmVBNHFqUHpJVlBaZjhJUUpOMzhfOTIyY0tiamlwNk5KalVfclVlX3l2d2lEQVhQdFZXSE9xeUJMblk1Tno0Nm91VUplNnNEREFXU2pFVHRLX1o5RlNvUHpXQ2dVUFFZYWc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-24-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "STAT+: FDA digital health leader promises generative AI regulatory guidance is coming",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.statnews.com/2026/08/24/fda-rick-abramson-generative-ai-guidances-are-coming/?utm_campaign=rss"
+    },
+    {
+      "rank": 3,
+      "event_id": "pfizer-2026-08-24-003",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Pfizer vs. Johnson & Johnson: Which Pharma Giant Is Better Prepared for Its Patent Cliff? - Yahoo Finance",
+      "companies": [
+        "pfizer",
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "patent_cliff",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeVdvLURGaHYwT1RGSENOUjhvallpbnBEUmd2OERkSkdVY2ZzM2c2VzA2SUNyWlA2N1BuZXZRVmQ2OVd5c0VVQ0c1YWFXY3RBcENQRUNXblZqLXRPZU5Nc0lBTFRUajlMM2szZ3JmOXY3WjZjQkZUanBieGZOa1QydXdtSV85MUhCRXhxS21zTXNoa3ZSVGtFcw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Dr. Reddy’s Laboratories Faces India's New Semaglutide Manufacturing and Testing Standards - Sahi",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMGwxY0hwM05GYzdST3ZTU2hpRTdXUXZkNGdKS08wYmF6Zmg5Q1RMa19JcHZYVUFMM0dUbHI3U3hxN3o5M3J5WmRYV0t6OVRoRHMySlVuSlAwVjY4RXhiTGxtTEp6NmhJbFBNYU1IVHJmaHlPeUg3WUdSaVplMzgwbEZDbjR3NHRUeFB5b241ZTRJMkRTRDF3X2ZDZjgyWjBLNGhoT1pxUkw0bXFBYjUwcnNHenNJelRXc0U2Qmo0Sml1UVVVWUE4?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "sun_pharma-2026-08-24-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sun Pharma recalls over 1900 bottles of epilepsy drug in US - pharma.economictimes.indiatimes.com",
+      "companies": [
+        "sun_pharma"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "gmp_inspection",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPREp2Q2VVR2Jod1Z3LS16Q09vZGpJMmt3NTZuNHhrNU1OUS12dndrZ011OUJRR2k2dk1QXzJUQUd2bVg3clA5VzdldmNheUo5aGpqU05vZWZ0RXJfRVJ1WE9rY3AwU0xuWUdsWE5vU0RwRWdZenpQMnBXZjZ5Zno1a2xKVXU1WkJMWWZUWlRrd1JVQ00zSUJUS2hIelFMUkpfeHFpUVJVYk4tTUpLNHpzUGtZZXNlX25kSjlucVlfQTdmUnU0X0FRQzREUHJYWEnSAdQBQVVfeXFMT2FRNkZoQVREdUFhUUJ0djQxamxrT2c0Y3Nib3B3Rkc1Zzk0dUNrU21kVzl5bXc4WEFkcnJhZHBsbTluV0FDbzJKUko4Zko0cDlKd3I1UGN6aTRkazk4ZzJVSFhjcjRIRjhLWGVEVGtETWJKYVFoM2s2Sk10Z1RGTVlpaVd3NEtzSmNsbmFBVW5raTgtb3ZRSGZSbnRoRkN6NGJGZzgwXy1sRUpRd2FiOXpDeEhSRzN4U0NLUktlRGJNY0d4TWZ6NGtVZWxBcUZ3NUE3eFU?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "gmp_inspection": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 12,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "pfizer",
+        "count": 2
+      },
+      {
+        "id": "merck",
+        "count": 2
+      },
+      {
+        "id": "sun_pharma",
+        "count": 1
+      },
+      {
+        "id": "jnj",
+        "count": 1
+      },
+      {
+        "id": "cardinal",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "drug_approval",
+        "count": 5
+      },
+      {
+        "id": "patent_cliff",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 457,
+    "dup_title": 315,
+    "too_old": 78,
+    "gate1_blocked": 7,
+    "gate2_blocked": 16,
+    "passed": 41,
+    "pass_rate": "28.9%",
+    "gate2_block_rate": "11.3%",
+    "gate2_samples": [
+      "Teva Advances TEV-'408 Into Phase 2b for Vitiligo - Dermatology Times",
+      "Scoop: Johnson & Johnson to Lead Delix Therapeutics’ $85M Series C - Psychedelic Alpha",
+      "How the J&J Institute Provides Surgery Training for HCPs - Johnson & Johnson",
+      "Johnson & Johnson Invests $300,000 to Expand Nursing Education at Rutgers–Camden - Rutgers Universit",
+      "Is Johnson & Johnson’s $5.5 Billion Talc Settlement a Buy Signal, or Is the Legal Risk Far From Over"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為輝瑞、Merck、Sun Pharma相關動態：「Pfizer (PFE.US) Sees Signs of Recovery! New Drug Revenue ...」。主要關注主題為產業通用、藥物核准、專利懸崖，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Pfizer (PFE.US) Sees Signs of Recovery! New Drug Revenue Surges 18%, but Pate...（藥物核准、專利懸崖、法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "STAT+: FDA digital health leader promises generative AI regulatory guidance i...（法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

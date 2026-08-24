@@ -1,0 +1,16 @@
+{
+  "total_raw": 457,
+  "dup_title": 315,
+  "no_date": 0,
+  "too_old": 78,
+  "gate1_fail": 7,
+  "gate2_fail": 16,
+  "passed": 41,
+  "gate2_samples": [
+    "Teva Advances TEV-'408 Into Phase 2b for Vitiligo - Dermatology Times",
+    "Scoop: Johnson & Johnson to Lead Delix Therapeutics’ $85M Series C - Psychedelic Alpha",
+    "How the J&J Institute Provides Surgery Training for HCPs - Johnson & Johnson",
+    "Johnson & Johnson Invests $300,000 to Expand Nursing Education at Rutgers–Camden - Rutgers Universit",
+    "Is Johnson & Johnson’s $5.5 Billion Talc Settlement a Buy Signal, or Is the Legal Risk Far From Over"
+  ]
+}
