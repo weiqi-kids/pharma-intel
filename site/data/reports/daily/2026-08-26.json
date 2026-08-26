@@ -1,0 +1,243 @@
+{
+  "date": "2026-08-26",
+  "generated_at": "2026-08-26T08:53:07.871373Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-26-017",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "STAT+: When it comes to women’s health, money talks",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.statnews.com/2026/08/26/womens-health-reverse-pitch-profit-driven-approach-endometriosis-osteoporosis/?utm_campaign=rss"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Dr Reddy’s gets nod for cheaper HIV drug - Hyderabad Mail",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTUtUYlpROUlOT25HYml5d3VFR0UwM28xbHh3c0VUN0NkUHVxdUxFUlc0Z1hZZDlJSEJuWHpManlhdkEya3hVOHRabExrS3dxNWJzOHF0cllXMEdnR2YxUVJnVEh2ZWpiZmtNTzZwSmN2QTRKblplejIxbFdqdFl2YUV3VGM1cHc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lonza-2026-08-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lonza Group stock steady as investors await next update - Ad-hoc-news.de",
+      "companies": [
+        "lonza"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "patent_cliff",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSG1Eb2swSFJoZU5RS0Q5MkpveGxVOXUzOTdpT081ejVDOFZYcFJHVEY1a2pVRGN4M2xtdkZLZS1tdDA3MjNIMHozM0tJenl4UjhIYlV5QldLOEozdDhaRmNGY2V4YmEzM3c3cTgxMjFLa1pEdEVhN0ZPemltdGZ1eEJtUl9ibEN2UkhDbVZFYVo2R1RNZlVsckFMaGRDVlBJOG1mSUVJcVRWQTVZaE1Ja1YxTF95MUgySXc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "catalent-2026-08-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Catalent Completes Successful Debt Refinancing - ABF Journal",
+      "companies": [
+        "catalent"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10TzVBaXJRUmJOMXNVQl9zeko5LUFyMHhmQ1BwakZ6dFRhUVZublh6S1RUd2FVY25yckFkaUdVNk9DdVBDQ1MxZjVzY1ZEcVRSSE44bHRDazVNeWpUQlU3VlRQcXh3Y1R3S21KOXQxY3M2c05BTTNJa2dRRDRYU1U?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "pfizer-2026-08-26-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How Is Pfizer (NYSE:PFE) Shaping Its S&P 500 Pipeline After Q2? - Kalkine Media",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN2lsTFRTM0Zlam5fQURpUVFMODZvUGpOdkdqZ1lKZW8zbEJ3dXpjMGZudno5Z2ctWXNMcWhCUURhTHJfb0ZNcmROV0ZZMnJzeDFzdS02UlhVd19DZk1SMUl0T2xwQjZ3NWhIVU9nNFdfVGtTN25Md0lvNmxVQm9DdDA1SXBmMy0yNXZSOE53dWk5MW8za1ZZeTlob2NMOUh1NEs4VFRmNA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 18,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "merck",
+        "count": 6
+      },
+      {
+        "id": "jnj",
+        "count": 2
+      },
+      {
+        "id": "lonza",
+        "count": 1
+      },
+      {
+        "id": "catalent",
+        "count": 1
+      },
+      {
+        "id": "pfizer",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 17
+      },
+      {
+        "id": "drug_approval",
+        "count": 15
+      },
+      {
+        "id": "patent_cliff",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 457,
+    "dup_title": 275,
+    "too_old": 80,
+    "gate1_blocked": 8,
+    "gate2_blocked": 17,
+    "passed": 77,
+    "pass_rate": "42.3%",
+    "gate2_block_rate": "9.3%",
+    "gate2_samples": [
+      "Teva Advances TEV-'408 Into Phase 2b for Vitiligo - Dermatology Times",
+      "Lonza Names Celonic's Samanta Cimitan as Chief Commercial Officer - marketscreener.com",
+      "Lonza Appoints Samanta Cimitan as Chief Commercial Officer - boerse.de",
+      "Catalent Completes Successful Debt Refinancing to Support Continued Growth and Innovation - BioSpace",
+      "Catalent Completes $4.1 Billion Debt Refinancing, Cutting Annual Interest by $100 Million - citybiz"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為Merck、J&J、Lonza相關動態：「STAT+: When it comes to women’s health, money talks」。主要關注主題為產業通用、藥物核准、專利懸崖，市場情緒中性。",
+    "signals": [
+      {
+        "text": "STAT+: When it comes to women’s health, money talks（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Dr Reddy’s gets nod for cheaper HIV drug - Hyderabad Mail（藥物核准、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
