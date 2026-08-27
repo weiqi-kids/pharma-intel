@@ -1,0 +1,16 @@
+{
+  "total_raw": 456,
+  "dup_title": 234,
+  "no_date": 0,
+  "too_old": 75,
+  "gate1_fail": 10,
+  "gate2_fail": 22,
+  "passed": 115,
+  "gate2_samples": [
+    "Teva Advances TEV-'408 Into Phase 2b for Vitiligo - Dermatology Times",
+    "Lonza Appoints Samanta Cimitan as Chief Commercial Officer - Yahoo Finance",
+    "Lonza names Samanta Cimitan as Chief Commercial Officer - Indian Chemical News",
+    "Lonza Names Celonic's Samanta Cimitan as Chief Commercial Officer - marketscreener.com",
+    "Catalent Completes Successful Debt Refinancing to Support Continued Growth and Innovation - BioSpace"
+  ]
+}
