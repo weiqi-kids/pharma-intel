@@ -1,0 +1,300 @@
+{
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T20:09:00.009292Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mckesson-2026-08-28-037",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Rx Rundown: McKesson, Revolution Medicines, Novo Nordisk and more - Medical Marketing and Media",
+      "companies": [
+        "mckesson",
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [
+          "mckesson"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQzFSUWhLTDJieENMbW1DRTlkanJRYmE1MmRMSWxJSWctclAtYmx4YUpzOUNSSkI2QXJfcWVaRUNBd21PX2xWa2xwNnFiVk8wdVY0Z2JsTnVJTFYxNWxsZE5IcUVrZ1VTMkxzWE9RbXg2VGhwcVA2NHF5Yi1oZ0FRcnRQbGIxSDlPYlJacjhxeWU5LURjRjhLc0hIYw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "eli_lilly-2026-08-28-036",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Novo Nordisk, Eli Lilly and FDA win appeal over compounded weight-loss drugs - medwatch.com",
+      "companies": [
+        "eli_lilly",
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wYlRENVlwZHF0QVlqZHB0N1BBcGw1TmdJSDI3YnpyYVVDMjZlUW02VjBQU3QxYkJia3JJM3JVZllGTTY1RVB0ZlEyYk1Kd0J3OTNEVTNmcS1JM0ctOTRTVzdGdjZZM0sxam9pWlE0Zw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lonza-2026-08-28-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lonza Group stock trades softer as investors digest profitability trends - Ad-hoc-news.de",
+      "companies": [
+        "lonza"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWkZnbnRWMjFyb3BQR20xZzhBc1B5cV9iSlozMTlmSWxEWHFSX3o1am9mekU5LWx0T0k2aFBMeFFqSTVfdUtlQldncTdoV0Zzc2lsb2pHaFVQYzJ0Q0E3c05vMmtLYlBtSS1QcWlXaU9SenptTFo4enlsY0NwMTdCcWpuQk05aTZSdlZsMmJmVDBOaHZ5QjZSZVFoZHJTbjY1RTVRX2ZkdVJMZ2I2djdEQlE3S20xakNaVkYxaUwwejRnT3Q5MzByQTB5RERvdzZi?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "mckesson-2026-08-28-040",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "McKesson stock holds below $900 as fresh institutional buying follows strong guidance - Ad-hoc-news.de",
+      "companies": [
+        "mckesson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdFdrNm9uMTJTbkU5VkFkaTB0T3pRY0JXOXlac2d5MGdzX2xBcW5fZklNdFFiOTB3dkhsUl9TWTdrUjVRcElUUmdqWld5djR3ME5VR3BENWNpSU5XMDFyaDRNRk1xSjh3OHV0blhieklIc0VWblM0Z0lYX0J6VVpnZVpBMjA0N3FJa0lSMU5SYl92TWhHc0lzdlYxaGNkQnc0RkVyaUIwNmZCZXdaVFBpcE5WemV3bnV6bHN2T1I3aXpmWjNkc3RteTBUTQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "pfizer-2026-08-28-054",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Does Pfizer (PFE) Updated COVID 19 Vaccine Approval Change Its Near Term Outlook? - simplywall.st",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "patent_cliff",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdkZDOUU1d3pTbTNOQV9zR1pNY1A0ZzBtSExBT1NOaWt6LW1DYW9LY21TejU3cEpnaXlYeWFDR1RFNWtSa1p1YVRJODJXVHBpVXY5akEwcEVLOE9zMm9DSVlOR2tqaFNPOVREOVJVblozaFZxdEhaT1d2OVhxdTlZek5YTzdLQ3pUMndwYkJ6d25FRm5WZFN0QU13bXptN3g3RVdQenFoeWlrYnRQYUk4bW1HQU92NmtyYjU4LXZOblMzUVlSeW9SRDl0bUxmSS1rTmkw0gHYAUFVX3lxTE9FNjE5VHB6LWxqOUZWUEpjd2NaZ3FzQkU4QXZiMUZCLXhZRElXdGM4TFh5YUx4Q1J4NmM5UWt6WVN2R1pJQlpTNE0yTTZOV2VQc0Q0SGpzaWFpS0FiR2o3UjY0Z0RQb2oyOFBvMFRpdS16OHpCM0R0WnFiU3VHM2JWOVJCanVna0JfV0pjcXdUeloxRDd5VjFWRnJkUURVdDNwU3hwUnpUQ3AwRk0zN2JJMFZTek5ZeU15YV83M3FfdWNsQUgzUm9lQTc3U2FUTHVlNmlYbWg3NQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 49,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 63,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "eli_lilly",
+      "to": "novo_nordisk",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "industry_general",
+        "drug_approval",
+        "glp1_obesity"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 68,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 59,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "astrazeneca",
+        "count": 11
+      },
+      {
+        "id": "pfizer",
+        "count": 10
+      },
+      {
+        "id": "teva",
+        "count": 7
+      },
+      {
+        "id": "eli_lilly",
+        "count": 7
+      },
+      {
+        "id": "roche",
+        "count": 5
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 63
+      },
+      {
+        "id": "drug_approval",
+        "count": 49
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "patent_cliff",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 457,
+    "dup_title": 250,
+    "too_old": 76,
+    "gate1_blocked": 7,
+    "gate2_blocked": 24,
+    "passed": 100,
+    "pass_rate": "48.3%",
+    "gate2_block_rate": "11.6%",
+    "gate2_samples": [
+      "Teva Advances TEV-'408 Into Phase 2b for Vitiligo - Dermatology Times",
+      "Lonza Appoints Samanta Cimitan as Chief Commercial Officer - Yahoo Finance",
+      "Lonza names Samanta Cimitan as Chief Commercial Officer - Indian Chemical News",
+      "Lonza Names Celonic's Samanta Cimitan as Chief Commercial Officer - marketscreener.com",
+      "Catalent Completes Successful Debt Refinancing to Support Continued Growth and Innovation - BioSpace"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 68 則事件，焦點為AZ、輝瑞、Teva相關動態：「Rx Rundown: McKesson, Revolution Medicines, Novo Nordisk ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Rx Rundown: McKesson, Revolution Medicines, Novo Nordisk and more - Medical M...（藥物核准、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Novo Nordisk, Eli Lilly and FDA win appeal over compounded weight-loss drugs ...（藥物核准、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
