@@ -1,0 +1,219 @@
+{
+  "date": "2026-08-29",
+  "generated_at": "2026-08-29T13:46:51.871899Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "novo_nordisk-2026-08-29-015",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "#ESC26: Novartis pushes ahead with its IL-6 inhibitor despite Novo's failure",
+      "companies": [
+        "novo_nordisk",
+        "novartis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://endpoints.news/esc26-novartis-pushes-ahead-with-its-il-6-inhibitor-despite-novos-failure/"
+    },
+    {
+      "rank": 2,
+      "event_id": "dr_reddy-2026-08-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Dr. Reddy's Laboratories (NYSE:RDY) Upgraded to Hold at Wall Street Zen - MarketBeat",
+      "companies": [
+        "dr_reddy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT3J4NXE4SXd5bGF1Z3Bsb0EyeEU2NGNaaGQwX2Y4ZVF1aUg4WlN2X21fSlZIWWxTbkVfNUYtekFlb0VkYjBJZkRZMURzSTVabmg5cGRrbzhhUzctTEtiOVZDN0JSU1ZPcERublJkUVp5X1pYTEJkRDhXN2hsekVoMzhxTWRwT2lvTkRVdU1URGRYUUxMaWVZaU9YMm9yQWtYYTNnR1hGWkljRmlpekN3SVQyREhVcm8tN21PZHNmTFVwbGNtWWlhQg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lonza-2026-08-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lonza Group stock holds just below its 52-week high as leadership and margins remain in focus - Ad-hoc-news.de",
+      "companies": [
+        "lonza"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMlV2ZXRfU0RQLWxpb1F6RjRndDZqWHVwT1BhelhKUGxwcG1DeE11ajFlSi0wWHBZVHEwNkliMkZrN0xvbkU1emNGaVp0LUNteTZTNXRTbnM3SFptbFgzNVN2eW9IT1pRR2NHM0xQcXM0ZHJDUVYzUVlKNnJ3VmNOc2xpaDdmNmFweEFyZWY4WFM3YncwWVFYNzhhTkZ3UkZ1VG9UY2ZOU2E3YjJnYUpBSkFreUVxc1UzQVdLQzFRRWpZdmVFMDJTa0c3Zmw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "jnj-2026-08-29-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Johnson & Johnson (JNJ) Taps Sail Biomedicines in Bid for CAR-T Edge Over Bristol Myers Squibb - Yahoo Finance",
+      "companies": [
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ1d4MXgwNFl6Sm1rQV9rVV9ZcWNsQXQ1bHFGWWJwQUJrcS1yTnRHZ01idGxMcDJTdVJYaFdpazdFQXl1bUpRWnhFV05TMnBBckluS3NQeU5IOGxxSGhRZ1dQMzg4X0pMSmlZdzh3VjRmbDE2SHRQVFZyRzRieXJGdFR3R0xfcjRmMkxyNUt4LVoxYU5H?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "jnj-2026-08-29-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Johnson & Johnson (JNJ) Stock Looks Reasonable On Its 82% Three Year Run - Yahoo Finance UK",
+      "companies": [
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeHFEajhzbU1wZTRVRXNYN2VyNFBsZGduOWhxMzhxVlo2Y0hVYldabTZIdmVXZmRfcHJqUnhFa2NVblhmZWdVOHZqOXBaZ1FUOUNXc0RZS0x4eG9JRXZTYnhjQzRnWTVXR1R1UHpaazk1T1Rtc3ZaT0pDUGlFOXRRUDN6UlV2eUU?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 14,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "merck",
+        "count": 7
+      },
+      {
+        "id": "jnj",
+        "count": 2
+      },
+      {
+        "id": "novartis",
+        "count": 2
+      },
+      {
+        "id": "dr_reddy",
+        "count": 1
+      },
+      {
+        "id": "lonza",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "drug_approval",
+        "count": 13
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 457,
+    "dup_title": 311,
+    "too_old": 75,
+    "gate1_blocked": 6,
+    "gate2_blocked": 27,
+    "passed": 38,
+    "pass_rate": "26.0%",
+    "gate2_block_rate": "18.5%",
+    "gate2_samples": [
+      "Teva Advances TEV-'408 Into Phase 2b for Vitiligo - Dermatology Times",
+      "Lonza Appoints Samanta Cimitan as Chief Commercial Officer - Yahoo Finance",
+      "Lonza Names Celonic's Samanta Cimitan as Chief Commercial Officer - marketscreener.com",
+      "Catalent Completes Successful Debt Refinancing to Support Continued Growth and Innovation - BioSpace",
+      "Catalent Completes $4.1 Billion Debt Refinancing, Cutting Annual Interest by $100 Million - citybiz"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為Merck、J&J、Novartis相關動態：「#ESC26: Novartis pushes ahead with its IL-6 inhibitor des...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "#ESC26: Novartis pushes ahead with its IL-6 inhibitor despite Novo's failure（產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Dr. Reddy's Laboratories (NYSE:RDY) Upgraded to Hold at Wall Street Zen - Mar...（藥物核准、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
