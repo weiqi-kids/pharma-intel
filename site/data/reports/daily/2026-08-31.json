@@ -1,0 +1,276 @@
+{
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T16:03:22.975732Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lonza-2026-08-31-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lonza Group stock holds close to 52-week high as market digests recent earnings - AD HOC NEWS",
+      "companies": [
+        "lonza"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObjVQRWs2bjVSZVJ5R0RzV0FJV1NXR3VBcnBTb2lPbVVqUE5aUGNDM1JYa29tMW1GSF9pOElhSE1xeXphbDcwTVFxY3ZRRFlDb1pNZV9oRlpxRGN5ZG9QVnJfenFGeDFFZkM3QktYS2x0QS1iRktsSlByZkJvQ3BZVkpYbzVCS18zXzhMaDREZ09ySVpIbFFOYTR2alRSeC14SDhmR1FwZ1dpUGE4X2VwV3ljcDkxRkM4RFJGaXBIdFZOdjhldW05ejZWa1pfQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "mckesson-2026-08-31-017",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Pharmaceutical giant McKesson warns of 'service degradation' following cyberattack - The Record from Recorded Future News",
+      "companies": [
+        "mckesson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CMmlVdjRXaXdYZjRlelRPQXFadjJXb1Q5bk5ZVnJrX0tIcFBpUFI3LXBDTl9OSkJvU3FUak9WSVNhX0QxWi1WclVzXzRBdHhuNFVudVlzWWVSMFVFVnF5T2p2cDRZaDA3V1o0Wm5fNA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "mckesson-2026-08-31-018",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "ShinyHunters claims it stole 284 million patient records from McKesson - Help Net Security",
+      "companies": [
+        "mckesson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVnExMk1XODBMc3M1Yk1idVJTbWlNYWpVMy1YM1FsUTVUZ2R6bmN4ZGtDaGdQOEYtLTJaOGVhckNrd2ZkNFVLd1R1Q0dlVl9xNVVWc2ppUUZtX0RFNUtwV0lBWTEyMXUyTGFrbnJvMlN4NS15bkMyV1ZKZUc0WUFaUFdUYlBSQjFQd1Bv?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "mckesson-2026-08-31-019",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "ShinyHunters Claims Theft of 284M Records from Healthcare Giant McKesson - The HIPAA Journal",
+      "companies": [
+        "mckesson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mSVRLQ3ZNSHU3WGd6TEVMYVpGc0Y5d2lpbnF0THJfZjhxUTJ1VHRTZm5zRmduQWVlX1RSc1MzakhhWGRyN0FWckdCZ3hrNXI2MGhaWWNRSTdITmR3TlAw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "teva-2026-08-31-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Teva Pharmaceuticals to acquire BioXcel assets for up to $125m - Pharmaceutical Technology",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdE1aMnhuVkd0SXVKQmhIUGxUaXp1bFFDOEZpVWg3amxwaG95ZEdRQ1JJb29KTHJiRkJIal81UHJiT3ZIVTdQTzZYNk5YaWdZN0VEcUJ4WW5DM3hqVnFReURmSmZUTjdfLTRtOXg5SzFvWFg5Yk9aUVhnOGxRQjgxNkFNR2M?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.15,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 29,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 35,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 30,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "novo_nordisk",
+        "count": 5
+      },
+      {
+        "id": "sanofi",
+        "count": 3
+      },
+      {
+        "id": "mckesson",
+        "count": 3
+      },
+      {
+        "id": "teva",
+        "count": 2
+      },
+      {
+        "id": "lonza",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 29
+      },
+      {
+        "id": "drug_approval",
+        "count": 23
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "patent_cliff",
+        "count": 1
+      },
+      {
+        "id": "biotech_funding",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 437,
+    "dup_title": 287,
+    "too_old": 73,
+    "gate1_blocked": 2,
+    "gate2_blocked": 30,
+    "passed": 45,
+    "pass_rate": "30.0%",
+    "gate2_block_rate": "20.0%",
+    "gate2_samples": [
+      "Teva Advances TEV-'408 Into Phase 2b for Vitiligo - Dermatology Times",
+      "Lonza Appoints Samanta Cimitan as Chief Commercial Officer - Yahoo Finance",
+      "Lonza Names Celonic's Samanta Cimitan as Chief Commercial Officer - marketscreener.com",
+      "Catalent Completes $4.1 Billion Debt Refinancing To Cut Annual Interest Expense By $100 Million - Pu",
+      "Catalent Completes Successful Debt Refinancing to Support Continued Growth and Innovation - BioSpace"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 35 則事件，焦點為Novo、Sanofi、McKesson相關動態：「Lonza Group stock holds close to 52-week high as market d...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Lonza Group stock holds close to 52-week high as market digests recent earnin...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Pharmaceutical giant McKesson warns of 'service degradation' following cybera...（藥物核准、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
