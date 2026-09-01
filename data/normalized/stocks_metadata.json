@@ -13,26 +13,26 @@
   },
   "sun_pharma": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-31",
-    "count": 6652,
+    "latest": "2026-09-01",
+    "count": 6653,
     "history_complete": true
   },
   "bora": {
     "earliest": "2014-10-03",
-    "latest": "2026-08-31",
-    "count": 2709,
+    "latest": "2026-09-01",
+    "count": 2710,
     "history_complete": true
   },
   "tci": {
     "earliest": "2012-06-20",
-    "latest": "2026-08-31",
-    "count": 3465,
+    "latest": "2026-09-01",
+    "count": 3466,
     "history_complete": true
   },
   "lonza": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-31",
-    "count": 6766,
+    "latest": "2026-09-01",
+    "count": 6767,
     "history_complete": true
   },
   "pfizer": {
