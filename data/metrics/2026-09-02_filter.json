@@ -1,0 +1,16 @@
+{
+  "total_raw": 434,
+  "dup_title": 253,
+  "no_date": 0,
+  "too_old": 88,
+  "gate1_fail": 9,
+  "gate2_fail": 19,
+  "passed": 65,
+  "gate2_samples": [
+    "Teva Advances TEV-'408 Into Phase 2b for Vitiligo - Dermatology Times",
+    "Teva to Present at Morgan Stanley, J.P. Morgan and BofA Investor Conferences in September - Yahoo! F",
+    "Catalent Completes $4.1 Billion Debt Refinancing To Cut Annual Interest Expense By $100 Million - Pu",
+    "Roche Holding (SWX:ROP) Secures FDA Clearance For Alzheimer’s Blood Test - Yahoo Finance",
+    "AstraZeneca Taps Euro Debt Markets With €2.55 Billion Multi-Tranche Bond - TipRanks"
+  ]
+}
