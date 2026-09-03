@@ -1,0 +1,16 @@
+{
+  "total_raw": 213,
+  "dup_title": 115,
+  "no_date": 0,
+  "too_old": 44,
+  "gate1_fail": 9,
+  "gate2_fail": 9,
+  "passed": 36,
+  "gate2_samples": [
+    "AstraZeneca taps new head of the Nordics from Novo Nordisk - medwatch.com",
+    "Merck & Co Inc (Derivatives) Analytics: Price Dynamics, Quarterly Returns, and Annual Price Changes ",
+    "McKesson confirms cybersecurity incident as hackers claim millions of patient records stolen - Fierc",
+    "McKesson Confirms Data Breach as Attacker Deadline Looms - SecurityWeek",
+    "McKesson Corporation: Ademi LLP Investigates Claims for Damages - GlobeNewswire"
+  ]
+}
