@@ -1,0 +1,16 @@
+{
+  "total_raw": 427,
+  "dup_title": 195,
+  "no_date": 0,
+  "too_old": 88,
+  "gate1_fail": 6,
+  "gate2_fail": 27,
+  "passed": 111,
+  "gate2_samples": [
+    "Dr. Reddy's Laboratories Limited - reuters.com",
+    "Catalent Completes $4.1 Billion Debt Refinancing To Cut Annual Interest Expense By $100 Million - Pu",
+    "J&J's run to record highs hasn't reached the finish line yet. Here are the key drivers - CNBC",
+    "J&J MedTech is rebranding Shockwave Medical - MassDevice",
+    "Johnson & Johnson (JNJ) Rises As Market Takes a Dip: Key Facts - Yahoo Finance"
+  ]
+}

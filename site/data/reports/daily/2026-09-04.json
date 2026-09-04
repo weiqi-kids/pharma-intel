@@ -1,0 +1,264 @@
+{
+  "date": "2026-09-04",
+  "generated_at": "2026-09-04T12:39:26.731790Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "merck-2026-09-04-020",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Merck & Co. stock gains after guidance hike and Keytruda setback - AD HOC NEWS",
+      "companies": [
+        "merck"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTXpYTnNCM2VEbzRNalIyZzM2SDZOWG5kYnN2dUhRcHpLSWsyLU1aNXloQWVjNzJ6TXAtbmh3T1FCMTFFTXpvcU01cHk3MXJHaU1zWmZFSWszS19jS3c5bTBrTXRaZE9LNmhHRDdPU2JQLUdWZmVTUU9DNHV0ZXVIdWR4VXdEb25xRkxpQk9sSVhnYV9aOXY3aDFESUhTRHFhOFV1dW1jT0xkYWVKZGlONFdNR3ZLQTMzc1ZUU2RBOUptenZ0MG9Z?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "pfizer-2026-09-04-034",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Pfizer (PFE) Stock Looks Fully Valued As Earnings Run Ahead Of Value - Yahoo Finance",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYkptSERKWlNCcWR6NjRwTm84cmJtYXhlaUdzd2V3V1czLXhhMjNXSWhWSTRzNjkyaEo0RW5PRjB1N1ZYakdwUW5sWkJzbEVadzNLQm5CLWh0NF9FV1JwZ1hEYWs1ampMSXlMOWdRbGFhYlZjd0Z2cFpCR245U05tMUtQNFdNbi0zV0kza2x1VG0yX2pXOVVPOA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "teva-2026-09-04-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Teva Ukraine warehouse hit twice in Russian attack, raising supply concerns - Ynetnews",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FWWI0ZkpmeUlwUTdMQ1JaSkR6OTNwLXRmcUxLSk1iSE1ZN0FseDJ5MGQ2bm00T2tVQlM2TUxMaHZ2YnFwYXVVRlN5MFdSYTl2VnhJcWRUbw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "teva-2026-09-04-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Russia has attacked a Teva pharmaceutical company warehouse in Ukraine twice - UA.NEWS",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMEtOX2pSd2hrRWJpdjJXTVNkd0taMV9pRzcweGcxalkxaDZjUjMwOXFMUGdDOHFCdUZuU2J1Z0VySlFNb2QzX3NUTUg5Ti1HUUJzNFFoMkhzV0R5dFpTUnBFR181T0xqSjhRRUdIckV4MUl4emYtVkc1cEtJY1Q2REJWNkUyUVZwR2RKYQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "teva-2026-09-04-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "UBS raises Teva Pharmaceutical stock price target on celiac progress By Investing.com - Investing.com Australia",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTi15TTdFZjI3elp1dHRUYW5ORDBHQURVczdqUFh1TnVzQlU5SmNBb2xsRGRERzlPVVQ4R1dPekt6enJsREpWOFVzTlB4UjdGejFZZ2hFNkVlS1hOckRsc25fY192WWZ5WllVYTFkQU1PSWxqdXV1WWpUOVNnVV9VakhOWEp5Sml4bHlKUnVBZkhjeTlmd1pEUTNWU01MYkRWSkpoUGF0YlBZaXVGUGc1M1FvZnpsdU93LUcyeGhZb2NlVExVWDhxQlZ0Y3U0NHZnNzllS0NnUEU?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 34,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.01,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 30,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 39,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 36,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "novo_nordisk",
+        "count": 8
+      },
+      {
+        "id": "pfizer",
+        "count": 7
+      },
+      {
+        "id": "merck",
+        "count": 6
+      },
+      {
+        "id": "teva",
+        "count": 5
+      },
+      {
+        "id": "sun_pharma",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 34
+      },
+      {
+        "id": "industry_general",
+        "count": 30
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "patent_cliff",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 427,
+    "dup_title": 195,
+    "too_old": 88,
+    "gate1_blocked": 6,
+    "gate2_blocked": 27,
+    "passed": 111,
+    "pass_rate": "47.8%",
+    "gate2_block_rate": "11.6%",
+    "gate2_samples": [
+      "Dr. Reddy's Laboratories Limited - reuters.com",
+      "Catalent Completes $4.1 Billion Debt Refinancing To Cut Annual Interest Expense By $100 Million - Pu",
+      "J&J's run to record highs hasn't reached the finish line yet. Here are the key drivers - CNBC",
+      "J&J MedTech is rebranding Shockwave Medical - MassDevice",
+      "Johnson & Johnson (JNJ) Rises As Market Takes a Dip: Key Facts - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 39 則事件，焦點為Novo、輝瑞、Merck相關動態：「Merck & Co. stock gains after guidance hike and Keytruda ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Merck & Co. stock gains after guidance hike and Keytruda setback - AD HOC NEWS（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Pfizer (PFE) Stock Looks Fully Valued As Earnings Run Ahead Of Value - Yahoo ...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
