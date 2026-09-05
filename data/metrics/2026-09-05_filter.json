@@ -1,0 +1,16 @@
+{
+  "total_raw": 433,
+  "dup_title": 234,
+  "no_date": 0,
+  "too_old": 91,
+  "gate1_fail": 5,
+  "gate2_fail": 19,
+  "passed": 84,
+  "gate2_samples": [
+    "Dr. Reddy's Laboratories Limited - Reuters",
+    "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Dr. Reddy's Laborat",
+    "Catalent Completes $4.1 Billion Debt Refinancing To Cut Annual Interest Expense By $100 Million - Pu",
+    "Pfizer punts Seagen ADC, further muddying value of the $43B buyout - BioSpace",
+    "Johnson & Johnson Replaced $913 Million In Lost Sales With $2.4 Billion In New Ones - But Kept Less "
+  ]
+}

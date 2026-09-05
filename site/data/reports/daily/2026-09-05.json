@@ -1,0 +1,273 @@
+{
+  "date": "2026-09-05",
+  "generated_at": "2026-09-05T11:47:21.217438Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "astrazeneca-2026-09-05-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AstraZeneca's Breast Cancer Pill Gets Approval From The FDA - NDTV Profit",
+      "companies": [
+        "astrazeneca"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQnMtcENpTFpTWXFUWm9ienlGQ1hCYk1aOGNZd2UtVTBWMkZCcVRGWXY4QTBnZkJwRFZkLV9raGhjZXRzQURsZFhhbTJiaDVYNElReVE3UWpwNjNEVHB5VnZ4NWM2R3BaM01qemRiM29DWTFnOHlHZjJybmR5bklCNFVsLXNqZWotSHFyOXZZTVRYbU42dDBwWjVYUTU5OUF6Y2QyTNIBrAFBVV95cUxOWFhPMU9kZWd4VEZQdkhGYzVvaF9PWE4tWG9WVDdLdVg2aFY4MU1IajdzdzU4UFo3TUQtcmczQWE4a1FJNkcyb01kUTF1X3lrWTJ1VWc1RlFlWmo2Z3haSXJJQXV5UGJxWjczZDNzRWRxLTV0bFo3bC04NFN4dzhudlE2ZTNUcHZoNkEyYkcxTTQxMXp4UzRXOUs0YzNMcDh6aDBkd2dUcjJLSmVL?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "pfizer-2026-09-05-003",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "AbbVie’s Diversification Bet Gradually Shows Results, While Pfizer Seeks a Second Takeoff Through Its GLP-1 and Oncology Pipelines - NAI500",
+      "companies": [
+        "pfizer",
+        "abbvie"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPSWY2eTJabGpCdmxHa2NYUUF2MGFJZHJTNGZ6Ny1mUUZpamdfUE9RT0h5U1ZJSFpiX0ZQcGxsdEZMS0F6ZEtUNmtuSHRfRmM4WHl6ZGRRa0l6TjBuQk5SMk04ZEV3SVFKanZkWklrVnFQOHIwTXg0Y25IRXV1RmdsdWdtU2NPR2U2V3RpSVBwWUtWcHo2STVGUUF0bGNzWWwxUFBHRkJUQkd4QnFaUGluQVV0NWpqT3owQ3Y4ZENubHBkYTlnUVpuQUxyZXJPekdFZFhLdTVWdmNxSXpERGZxd3ZNTTMzYmtZLXpKQ21WZGF5alE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "roche-2026-09-05-004",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Could Roche and Lilly’s Blood Test Make Alzheimer’s Assessment More Accessible? - Yahoo Finance",
+      "companies": [
+        "roche",
+        "eli_lilly"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaFEwVXJIa3RGX3dnemFlVVlINmxJRTdJRjV4VGcxS3pzRmZNYWUyV0hGZC1RUFloallVbTNVeVFGQzNHeTlERXB5WVhJUXNSSGQtOUlqS1NEZWY2eFJaN1l6d1czQUVvRDBYVGZLYk5mWUJOX3BzTXROLWswaENXempaNm9zc0lZYUR4U0NJZXoweEk?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "novo_nordisk-2026-09-05-013",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "The Oral GLP-1 Tracker: Novo's Wegovy pill, Lilly's Foundayo grow scripts - Fierce Pharma",
+      "companies": [
+        "novo_nordisk",
+        "eli_lilly"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVUl1anVGbWRDTnRCUVVGWkU3V1NLZkI4TVpVamVheHZEWV9DSksyZC11NHpRcGl4b2g3TG9LUjNqcUNGamJYVUxHMWVWNnJZUzJKWFpaMHdqZ01Fb0M3LTJCcHZHR2sxOElyNk0wNFgtOW45endMcjRFcmZNd2ItSUwwSVdsUEN1Tkt6SnNuNGVWeVNjMTM0WW5mYmpoTWxzaVNhdTNLT1RNQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "novartis-2026-09-05-015",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "CAR-T deaths prompt halt by Novartis; Eli Lilly’s 13th acquisition of 2026; and more",
+      "companies": [
+        "novartis",
+        "eli_lilly"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://endpoints.news/car-t-deaths-prompt-halt-by-novartis-eli-lillys-13th-acquisition-of-2026-and-more/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 16,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "astrazeneca",
+        "count": 5
+      },
+      {
+        "id": "eli_lilly",
+        "count": 3
+      },
+      {
+        "id": "merck",
+        "count": 3
+      },
+      {
+        "id": "teva",
+        "count": 2
+      },
+      {
+        "id": "abbvie",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 13
+      },
+      {
+        "id": "drug_approval",
+        "count": 12
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "biotech_funding",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 433,
+    "dup_title": 234,
+    "too_old": 91,
+    "gate1_blocked": 5,
+    "gate2_blocked": 19,
+    "passed": 84,
+    "pass_rate": "42.2%",
+    "gate2_block_rate": "9.5%",
+    "gate2_samples": [
+      "Dr. Reddy's Laboratories Limited - Reuters",
+      "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Dr. Reddy's Laborat",
+      "Catalent Completes $4.1 Billion Debt Refinancing To Cut Annual Interest Expense By $100 Million - Pu",
+      "Pfizer punts Seagen ADC, further muddying value of the $43B buyout - BioSpace",
+      "Johnson & Johnson Replaced $913 Million In Lost Sales With $2.4 Billion In New Ones - But Kept Less "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為AZ、Lilly、Merck相關動態：「AstraZeneca's Breast Cancer Pill Gets Approval From The F...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "AstraZeneca's Breast Cancer Pill Gets Approval From The FDA - NDTV Profit（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "AbbVie’s Diversification Bet Gradually Shows Results, While Pfizer Seeks a Se...（藥物核准、GLP-1 減重、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
