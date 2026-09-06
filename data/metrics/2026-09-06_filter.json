@@ -1,0 +1,16 @@
+{
+  "total_raw": 432,
+  "dup_title": 292,
+  "no_date": 0,
+  "too_old": 84,
+  "gate1_fail": 5,
+  "gate2_fail": 19,
+  "passed": 32,
+  "gate2_samples": [
+    "Teva’s TEV-408 Hits Key Phase IIa Endpoint in Celiac Disease Study - Yahoo Finance",
+    "Dr. Reddy's Laboratories Limited - Reuters",
+    "Total non-current assets of Lonza Group AG – BX:LO3 - TradingView",
+    "Catalent Completes $4.1 Billion Debt Refinancing To Cut Annual Interest Expense By $100 Million - Pu",
+    "Pfizer punts Seagen ADC, further muddying value of the $43B buyout - BioSpace"
+  ]
+}

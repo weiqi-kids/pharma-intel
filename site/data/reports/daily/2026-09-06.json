@@ -1,0 +1,237 @@
+{
+  "date": "2026-09-06",
+  "generated_at": "2026-09-06T12:05:12.843114Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "roche-2026-09-06-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Roche (SWX:ROP) Stock Looks Reasonable On Earnings But Mixed On Value - Yahoo Finance",
+      "companies": [
+        "roche"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONUtXMTlZSG1LWkt0ODI2LUNTSEFjc29ja0o4TzNKaEVCakdyZS1ZUzI2b3ozNnFzdnBjakVRRU85MkxrT1BOeHJkQUJVMlFETmdiVTUtOG0xM3hPS1RpaUxIRW94X2pzWmxXZGx2Z01ISmFDU3Fpb0xKdmc1YWZXVXk4NzJ6WDFNV04yMEdJeTZuajdE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "cardinal-2026-09-06-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cardinal Health stock holds firm as investors digest strong earnings and guidance - AD HOC NEWS",
+      "companies": [
+        "cardinal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQa3F5MHJjSUt1c1JPazlsLWdvU1IyZUQ4ZnhZdUpqRWh4WDJMU2FOWWQ0MnMwN0JkM3RZdWM4UmhCbEZXdTVCX3E2ZFlnNi1rZ1VhWWdvTFlqN1VNUmlKNFJSVjUyaDZTWjFCeEFmMlRfZk90d0J3aDQ2ZmRZcmtVZC13cGxZU19ZTF9YaE4wWUd4bnpYUGhEaGRHZEh1ak84YmR5M19tQ1RRRVd3TVZQX3ROVWZhOXNQYmlUTVRrUnl6UDBMM3N6d2o0emlIZncz?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "jnj-2026-09-06-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Kevin J. Hamill Appointed Company Group Chairman, Innovative Medicine North America at Johnson & Johnson - hrtoday.in",
+      "companies": [
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQczRlV2pKOEF0aS1vbzNndFBUSzZjRmlhNzN1RjNSRk5sMFBrSE56eUptVGFWOXMtVHBSVFdsYjVud3ZtdGxndENvQnpPN0M3Tm5SRFBROURiajJyV1JScnA2OFVtTFI4bmpUSzdub2hqaWc2YkliT252U3Naei1JanM1VFNiakFLbmp1cjhJS21LMl90TTlPVGR2SmdKSlBTUzR3N2hKOXhGbTEwSXRkQUhVNFVTLUROdmw2eA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "astrazeneca-2026-09-06-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AZ leans on AI-generated llama to promote LAMA combo inhaler Breztri in new campaign - fiercepharma.com",
+      "companies": [
+        "astrazeneca"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc1lNU2JRTWJTdkcwUXRMY2VKV0xucmpOWVo5dUtuSHl2Ymg0R0pTbTFOMDVHRXRrTC1ZZ1RKSnVFRGExdmxjcWc4bnA4REotS1BKT3pYdzQ4aXliemtVVng3U2ZuTkFHS2Fja0lJYjUtY3NQeDFDRGxTMk5SeUJEdGtwel9oTzVwUEVHTVRhbWxaNkpTcTBobVRyWV81QVpWTW9oLW8tWDVxS2JEYzBJcFBJZ0E?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "astrazeneca-2026-09-06-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AstraZeneca's Etcamah Combination Authorized for Advanced Breast Cancer Treatment in US - marketscreener.com",
+      "companies": [
+        "astrazeneca"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcWxDc0ticjdPYlBFbUxKR01MMTk3T3R2UTVBUXhkenVva25DT0NOeXVuNTNmdEkwcnI5bXV2ejFpRmlDR25WclVfdHdQS0NBTG9wNHAyb1ByX2pyT1kzX3RXU25OSG9rTTJQbjY0S2tqMTIyNzlodExULTZ5VThxRHV6NGlCYldSbkRXYmVMWDFHNjBUZHFsZndnUnBpajdsRThNdkRfeXNIWWU0cE9PdkRfVTNRa3cxcTN5cTR1RTlxZ29jRFY5Zjdza2RaVVhRYmoxejBDMA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "astrazeneca",
+        "count": 2
+      },
+      {
+        "id": "jnj",
+        "count": 1
+      },
+      {
+        "id": "roche",
+        "count": 1
+      },
+      {
+        "id": "merck",
+        "count": 1
+      },
+      {
+        "id": "cardinal",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 6
+      },
+      {
+        "id": "industry_general",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 432,
+    "dup_title": 292,
+    "too_old": 84,
+    "gate1_blocked": 5,
+    "gate2_blocked": 19,
+    "passed": 32,
+    "pass_rate": "22.9%",
+    "gate2_block_rate": "13.6%",
+    "gate2_samples": [
+      "Teva’s TEV-408 Hits Key Phase IIa Endpoint in Celiac Disease Study - Yahoo Finance",
+      "Dr. Reddy's Laboratories Limited - Reuters",
+      "Total non-current assets of Lonza Group AG – BX:LO3 - TradingView",
+      "Catalent Completes $4.1 Billion Debt Refinancing To Cut Annual Interest Expense By $100 Million - Pu",
+      "Pfizer punts Seagen ADC, further muddying value of the $43B buyout - BioSpace"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為AZ、J&J、Roche相關動態：「Roche (SWX:ROP) Stock Looks Reasonable On Earnings But Mi...」。主要關注主題為藥物核准、產業通用、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Roche (SWX:ROP) Stock Looks Reasonable On Earnings But Mixed On Value - Yahoo...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Cardinal Health stock holds firm as investors digest strong earnings and guid...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
