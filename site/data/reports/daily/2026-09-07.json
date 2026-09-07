@@ -1,0 +1,258 @@
+{
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T14:09:47.492660Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "novo_nordisk-2026-09-07-037",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Eli Lilly pulls ahead of Novo Nordisk in weight-loss drugs - medwatch.com",
+      "companies": [
+        "novo_nordisk",
+        "eli_lilly"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xX2lPU2hvT01BOG85S2puRk5BQ3hXSy1qS1VSUm1kX2RsWUNhUnZkQXRuRGdwTmdrSHY0TWRVSEY4Wmg0b2NaTnJxaTF0dmZMZDBOUmxyTVd5Mmptc0RxSW9Db2dNVldEOWxoa294bw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "bora-2026-09-07-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Taiwan's Bora Pharmaceuticals Posts Second-Highest Monthly Revenue of NT$2.18 Billion in August; Sale-Leaseback Deal to Add Over NT$16 Million in Annual Cash Flow - finance.biggo.com",
+      "companies": [
+        "bora"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iS2gzdnNEN3VCcVBwcnFuZnh4MGFlajh1NEpwU1R6T24wdjFEODlIU09YR0VpYWlHd3NvMEdFMHZiNmJPcHdhWVlua1Y5eHk4N21DdmJiZVdXZ1F3MkJ4M3BjTk00U3ZyREdqNzhtS1gxS3JqSkE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "novartis-2026-09-07-007",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Novartis India to acquire Pfizer's 'Minipress' trademark for Rs 1,250 crore - The Economic Times",
+      "companies": [
+        "novartis",
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPWWhGQ3huSUdXWTVUUGQ2azVBMXVtSWdzcDBMTHU4QWtSQnFVUHZTRjhmS2xTSzBrU2otMGxrbG5MRWRUSmI0cGR1WS1FU2x0QXFtckFFaHVRQno0cnJBVTJXRVFJdHRsSmRsTVZwaUkyR0hPOXVMb2F3NE5XZThiU2tHSUNocXZ3dUNKMjF5ZmtObGV4Nnp0ZXVZWjI2ZkF2YkRmYjBZZUw1TlZFc203TnNxUElpOFBOeGt4QnowdmlSMU11OVl0bk80TDRvRWRORzZINjU5MjZZeHFkT0E2YWRaeGNDdjU2VXluVW1oQktVS2ZCUkJ1d3NmbnNOQdIBgwJBVV95cUxNZzltMjRLb2hFV2JZNFU5WmpJRjJsSGsxQ2M2WXZXOXByeld5X1hYVUIxMmdueE9mVjNoR1ladUxUblduSlVMMzdmUnBUWWRTNmtaRVBKNTZLZEJ4aTREcXVfWUFiOFoxOUpWREZPN1F0Ukhia0RSdk9UaDJBTGNpWndJVlFmeTNLM1pXMWxSQjZLbVNIRXJPdmFIenhCRzZuR3plTlF3N0xBbmZwbmJxUkdfNy05anNTMUY3Tm5XWVZ5SG4zWWVjcUNSbTRiU2ItTUJCX1Fpd0trVy10WlJnY3hpOFpVRVNHQzNqT0NpZmhWbWE3aFJpYXJlU01LOFhoWFlZ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "novo_nordisk-2026-09-07-030",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Weight loss is just the beginning of GLP-1's: Novo Nordisk CEO - Yahoo Finance",
+      "companies": [
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcTdXUE1Ody1BaE9Hak9nVVh3LUJRa2ZxUy12VVBKdUQwT1Fyc0xZTFBLTlhtYWthZy1jM0JZMlI3eHFibDJaRHdXQnB5TURGU0gtU2RRZkhPaHBwM3laajNib2V3X3BPOGJmY2FmMlZ4OVU0dXhUTVIxaFBPU3lKTURPcw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "novo_nordisk-2026-09-07-034",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Novo Nordisk Stock (NVO) Falls Despite Success in Children’s Weight-Loss Trial - TipRanks",
+      "companies": [
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR0pMT21TS2tnZ2dORTN2M19nMTJyQXYwbGJLMVB1VzdyNnh4Y21nbXJoWkhtTHpqN2NwR0dsUTlXckF6dXEydUJhaC0zQXdfbHRVbS13cGFDTzNxTzV3d1VJbldoWk1pV3JFSmVxSTB6OG85TlV1NlQ4TlpmaUFfcXJKTkpGSlhiUXVUeUtzb0J0bnEtYWZhUmhBUU1RVzgtUTVXLXBQaFQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 42,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 43,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 48,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 41,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "novo_nordisk",
+        "count": 20
+      },
+      {
+        "id": "astrazeneca",
+        "count": 7
+      },
+      {
+        "id": "merck",
+        "count": 6
+      },
+      {
+        "id": "teva",
+        "count": 2
+      },
+      {
+        "id": "sun_pharma",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 43
+      },
+      {
+        "id": "drug_approval",
+        "count": 42
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 433,
+    "dup_title": 277,
+    "too_old": 84,
+    "gate1_blocked": 4,
+    "gate2_blocked": 14,
+    "passed": 54,
+    "pass_rate": "34.6%",
+    "gate2_block_rate": "9.0%",
+    "gate2_samples": [
+      "Teva plans senior notes offering to refinance existing debt - Investing.com",
+      "Total non-current assets of Lonza Group AG – BX:LO3 - TradingView",
+      "Pfizer punts Seagen ADC, further muddying value of the $43B buyout - BioSpace",
+      "Johnson & Johnson Replaced $913 Million In Lost Sales With $2.4 Billion In New Ones - But Kept Less ",
+      "Johnson & Johnson (JNJ) Rises As Market Takes a Dip: Key Facts - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 48 則事件，焦點為Novo、AZ、Merck相關動態：「Eli Lilly pulls ahead of Novo Nordisk in weight-loss drug...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Eli Lilly pulls ahead of Novo Nordisk in weight-loss drugs - medwatch.com（藥物核准、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Taiwan's Bora Pharmaceuticals Posts Second-Highest Monthly Revenue of NT$2.18...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
