@@ -1,0 +1,280 @@
+{
+  "date": "2026-09-08",
+  "generated_at": "2026-09-08T12:47:55.092489Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sun_pharma-2026-09-08-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Moody's Ratings assigns Baa1 rating to Sun Pharma; outlook stable - TradingView",
+      "companies": [
+        "sun_pharma"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY3NpNE90WENrb19HTkJpZW5XQU5QYXl0RmRGM1huQ094T19qa2o0RTJ4OU1qTWhiRXV1WkhXUU1DQU5TcHVROWstZkpGRVp1VWFwYUxXQUVnR3I2U09RaUc3Y3IzQTZaWVBseWhhSjlHdzlnQVBiVmZ5UVdLeXVxZ2lwTnlUWXFBMVdzX1NwSzFMdlFaRjRaNlZVUkpIbXEyMUpCSnRPTEZjUjBLeGdQYjF3Q2VCMHhzSmZqQzZ3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "novo_nordisk-2026-09-08-027",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Novo Nordisk Pharmatech has nearly doubled its revenue under outgoing CEO - medwatch.com",
+      "companies": [
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hSFNNN2h6QnUwaHBSTUNaZ3FhYTAyN2pDQjI1dFhhcm55MDRIbUlHN3Mwc3pZblprOWRQLVhwZXZhT0NwN2VYNFljMFVJU2JIUklTM2VGdm5FQWhvaml0YWFjOG52SkJmemhCbUtiNA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "novartis-2026-09-08-008",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Novartis India acquires Pfizer brands for $132m - Pharmaceutical Technology",
+      "companies": [
+        "novartis",
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWWZfSXlIcExncXhMakd0T3VMX09mdGkyb3BiVkNfckF4UDM0QkYtaXZuOUpRWUdNQUhpNnVUX0VQek1BT2U1UFMtZjEyQWZOeU5IRVJFQ240c2JnLXB1VGxVU2RLZzFVTFp1NlRhazZzQ1BXMjB1MjFXRWdBZFMtVk1xMVA2SlRfVDRraGpR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "novartis-2026-09-08-009",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Novartis India acquires Pfizer brands for $132m - Yahoo Finance",
+      "companies": [
+        "novartis",
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcjVuOFNaOXpIdHZZdlA1Y25JVkxGeDJSZ0pOYzhJcVQ2NkpLR2pPUEpVbHVnRnRYR096aGhiOFh6RUtKc3hTYmpsS2hfZnFUSmZMd3VUUTRzSlpLV2NuMHJmWExpR1dDajQ0YlM1ZEtBXzM5UkpTbDRIVE5vbm9vTjdxel9XLTU3Rm5sX0Nhb1ZXdFFDVW5KOEFKZVozbm8?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-08-042",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "#ERS26: Roivant reports Phase 2 win for lung disease drug that it got from Bayer",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://endpoints.news/ers26-roivant-reports-phase-2-win-for-lung-disease-drug-that-it-got-from-bayer/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 29,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 45,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "novartis",
+      "to": "pfizer",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "drug_approval"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 50,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 46,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "astrazeneca",
+        "count": 9
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 9
+      },
+      {
+        "id": "sun_pharma",
+        "count": 5
+      },
+      {
+        "id": "novartis",
+        "count": 4
+      },
+      {
+        "id": "pfizer",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 45
+      },
+      {
+        "id": "drug_approval",
+        "count": 29
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "biotech_funding",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 434,
+    "dup_title": 266,
+    "too_old": 82,
+    "gate1_blocked": 6,
+    "gate2_blocked": 10,
+    "passed": 70,
+    "pass_rate": "41.7%",
+    "gate2_block_rate": "6.0%",
+    "gate2_samples": [
+      "Total non-current assets of Lonza Group AG – BX:LO3 - TradingView",
+      "Pfizer punts Seagen ADC, further muddying value of the $43B buyout - BioSpace",
+      "Johnson & Johnson to present neuropsychiatry data at Psych Congress 2026 - StreetInsider",
+      "Price to book forward of Roche Holding Ltd – AQUISUK:ROZ - TradingView",
+      "Eli Lilly vs. Novo Nordisk: One Has 39% Upside. I'm Picking the Other. - Barchart.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 50 則事件，焦點為AZ、Novo、Sun Pharma相關動態：「Moody's Ratings assigns Baa1 rating to Sun Pharma; outloo...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Moody's Ratings assigns Baa1 rating to Sun Pharma; outlook stable - TradingView（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Novo Nordisk Pharmatech has nearly doubled its revenue under outgoing CEO - m...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
