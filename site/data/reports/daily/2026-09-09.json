@@ -1,0 +1,272 @@
+{
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T12:53:10.463525Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lonza-2026-09-09-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lonza Group stock slips as investors weigh 2026 earnings outlook - AD HOC NEWS",
+      "companies": [
+        "lonza"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOekpwcHIwRDJXR1g2UWtuT3BtdS1BNXYxNHYtczlSU1cyWjRDQl9jM0RIWlJ0WDExZlRaeHNpTFBwUDVwbVYxWEVMelF5UXhPZXJpaVhfSDVsb1pzVGJjZUtWVG9YOVlyOXZLWWZELV9SSmszOUowNWV5bWZjckotTEpuZ1V1YjAwLW5EbG55TmxjN2tmRXVVRDNpLTNqaUMyYThnR1FpUE9YMms4TXBOWGlQTXE2TElXb3RNX0lRemxrTHM3Q1E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "cardinal-2026-09-09-018",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cardinal Health stock slips as analysts raise price targets and earnings outlook stays solid - AD HOC NEWS",
+      "companies": [
+        "cardinal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTXd6VWh2bzk1UUpaQ29Wbjlsb0dBazl1MmZSbXdUcTVQaFlHY3FMSXFsdmFIYWFIempUQXJBRjhieTZWaWJIUG1valJaeUo5OEpmaDk0N1cxS1drUnJpb2dvX293Zy10cXdFS3oySTQ5RjJ2anAtN1VLdUpVSk9tNlhURm5YSmFFSXdWMmZHdEYyTElBMUFEVzUtbUduTHFPNUFQX2dscXBJZXRMbFdMdXc1R255R0NnTWxNUWl6WTVBNzUzMy1vTzdwUlVId3Ns?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "novartis-2026-09-09-014",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Novo’s canned heart disease trials, Novartis’ clinical fails, first approval for Alexander disease - BioSpace",
+      "companies": [
+        "novartis",
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMzd3dldrMS0xSUlfNWZZSG5HM3pVb252MUFCZUVSclJhN2RTZzg3ZXR2bEx4Tmp0Mm1KVnZHeE5fbHVXbkhIcW9RMkdtOXRfN2pXWnRibEluSk9heHhUUklmeVFoako1WDVfak1yaENDRi14b2VTZkNaODRhUnJGc25tR3U4NnB4c3NPeHlZRUVHMy1wSS02QTIzdTkxT0syTTl4QmlCWUk4dDlabGlQMG9DeVdxMVNUTXE5Q2Q5c1Q?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "merck-2026-09-09-023",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Cancer biotech TwoStep gets $62.5M to take twist on ADCs into clinic",
+      "companies": [
+        "merck",
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "biotech_funding",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://endpoints.news/cancer-biotech-twostep-gets-62-5m-to-take-twist-on-adcs-into-clinic/"
+    },
+    {
+      "rank": 5,
+      "event_id": "eli_lilly-2026-09-09-024",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Kura Oncology spins out diabetes pipeline with $50M and Lilly's help",
+      "companies": [
+        "eli_lilly"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://endpoints.news/kura-oncology-spins-out-diabetes-pipeline-with-50m-and-lillys-help/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 28,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "drug_approval": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 30,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 24,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "astrazeneca",
+        "count": 5
+      },
+      {
+        "id": "merck",
+        "count": 4
+      },
+      {
+        "id": "teva",
+        "count": 2
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 2
+      },
+      {
+        "id": "mckesson",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 28
+      },
+      {
+        "id": "drug_approval",
+        "count": 17
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "biotech_funding",
+        "count": 1
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 435,
+    "dup_title": 244,
+    "too_old": 84,
+    "gate1_blocked": 9,
+    "gate2_blocked": 13,
+    "passed": 85,
+    "pass_rate": "44.5%",
+    "gate2_block_rate": "6.8%",
+    "gate2_samples": [
+      "Total non-current assets of Lonza Group AG – BX:LO3 - TradingView",
+      "Pfizer punts Seagen ADC, further muddying value of the $43B buyout - BioSpace",
+      "Cramer’s Stop Trading: Johnson & Johnson - CNBC",
+      "Price to book forward of Roche Holding Ltd – AQUISUK:ROZ - TradingView",
+      "Cramer's lightning round: 'I am not going to put my money on AstraZeneca' - CNBC"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 30 則事件，焦點為AZ、Merck、Teva相關動態：「Lonza Group stock slips as investors weigh 2026 earnings ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Lonza Group stock slips as investors weigh 2026 earnings outlook - AD HOC NEWS（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Cardinal Health stock slips as analysts raise price targets and earnings outl...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
