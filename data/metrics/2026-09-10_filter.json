@@ -1,0 +1,16 @@
+{
+  "total_raw": 437,
+  "dup_title": 250,
+  "no_date": 0,
+  "too_old": 86,
+  "gate1_fail": 10,
+  "gate2_fail": 20,
+  "passed": 71,
+  "gate2_samples": [
+    "Teva prices $4.9B senior notes to refinance higher-cost debt - TradingView",
+    "Total non-current assets of Lonza Group AG – BX:LO3 - TradingView",
+    "Pfizer punts Seagen ADC, further muddying value of the $43B buyout - BioSpace",
+    "Could Icotyde Become Johnson & Johnson’s Next Blockbuster in China? - Yahoo Finance",
+    "Johnson & Johnson Receives CE Marking for Acuvue Reusable Contact Lenses - marketscreener.com"
+  ]
+}
