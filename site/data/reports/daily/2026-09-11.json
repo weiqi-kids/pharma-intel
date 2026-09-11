@@ -1,0 +1,257 @@
+{
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T12:45:42.577030Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "novo_nordisk-2026-09-11-013",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Novo Nordisk Stock (NVO) Falls After Morgan Stanley’s Sell Call on Market Share Loss to Eli Lilly, Patent Cliff - TipRanks",
+      "companies": [
+        "novo_nordisk",
+        "eli_lilly"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "patent_cliff",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNc2R6Qlp1NVRnXzNtU3Z0TmJlWnpJUUlVU0ZUaW82RjBzeENmYVpaM0tubG1Ta2N6MENMQXFTd0lRM0RwZWUteXE5OUlrdFJPREo3Vlk1N3lLVFBVcXhoY0plR0RlTjlfc25NRXpfNXVSM3c3RTdldUgzU2ViTlBnWDdpazhObGZXN1hiY2F0N2R2NHNwUk1ra1YyN1Zzc25LRWtOVmlfVmx6UW1pR0FTWHBmaURQcl9nQmpDVnY1SEZCdWc0S3ZXRzdPUXVxQk1wLWpF?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "novartis-2026-09-11-011",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Novartis, Novo Nordisk drug failures will likely ‘pop a hole in the balloon’ of the field - STAT",
+      "companies": [
+        "novartis",
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMUxWMDF4NzAwdkVDUTRpNlFyTUpuZV8yQnVMZEpseTlDOGpPTUN2NEtjb0xKdFBJWUdIU2wwRV9QVVl1NEgtdWFMN2xJTWhuTWZ2amNUbTFfM1hWdVNTMm1jTWhVbWctakgxVGxVTnBwY1AwbEZLVVJnZFBjT3ZwWGZqMnRfT1lOZUZlUVlHRGhTbEVSWEpURg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "novo_nordisk-2026-09-11-022",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Takeda's R&D chief Andy Plump to retire; Novo Nordisk appoints global research head",
+      "companies": [
+        "novo_nordisk",
+        "sanofi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://endpoints.news/takedas-r-novo-nordisk-appoints-global-research-head/"
+    },
+    {
+      "rank": 4,
+      "event_id": "novartis-2026-09-11-024",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "STAT+: Novartis, Novo Nordisk drug failures will likely ‘pop a hole in the balloon’ of the field",
+      "companies": [
+        "novartis",
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.statnews.com/2026/09/11/novartis-novo-nordisk-cardiovascular-drug-trials-fallout/?utm_campaign=rss"
+    },
+    {
+      "rank": 5,
+      "event_id": "novo_nordisk-2026-09-11-012",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "NVO Stock: Why Morgan Stanley Is Bearish On Novo Nordisk Despite Its Weight-Loss Drug Opportunity - Yahoo Finance",
+      "companies": [
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdUdzbEtjRkFKVHRiWlVqZ3VTVnJsamMyYVRNaURyUzVvVFI0Q3E5c2h6QnAxSG85WW9DM05xYThMWG5xQU9zLS0zRk9qNlM2bVdPM09NMTBzOW9ycnJad1oxa2pxMVZlUG9OZjZvdjAzUG5qZEhEMWFSZ3oxRHJWRTA4ZldyODVxMVBtRTJrV3ozQ0kzRWZVTA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "drug_approval": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "novartis",
+      "to": "novo_nordisk",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "drug_approval"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 25,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 22,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "novo_nordisk",
+        "count": 9
+      },
+      {
+        "id": "merck",
+        "count": 4
+      },
+      {
+        "id": "sanofi",
+        "count": 3
+      },
+      {
+        "id": "novartis",
+        "count": 2
+      },
+      {
+        "id": "teva",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 23
+      },
+      {
+        "id": "drug_approval",
+        "count": 19
+      },
+      {
+        "id": "patent_cliff",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 436,
+    "dup_title": 265,
+    "too_old": 84,
+    "gate1_blocked": 7,
+    "gate2_blocked": 16,
+    "passed": 64,
+    "pass_rate": "37.4%",
+    "gate2_block_rate": "9.4%",
+    "gate2_samples": [
+      "Teva prices $4.9B senior notes to refinance higher-cost debt - TradingView",
+      "Total non-current assets of Lonza Group AG – BX:LO3 - TradingView",
+      "Pfizer (PFE) Exits Legacy Hypertension Brands In India - simplywall.st",
+      "Pfizer punts Seagen ADC, further muddying value of the $43B buyout - BioSpace",
+      "Johnson & Johnson wins CE mark for new reusable contact lens and other extra medtech news - MassDevi"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 25 則事件，焦點為Novo、Merck、Sanofi相關動態：「Novo Nordisk Stock (NVO) Falls After Morgan Stanley’s Sel...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Novo Nordisk Stock (NVO) Falls After Morgan Stanley’s Sell Call on Market Sha...（藥物核准、專利懸崖、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Novartis, Novo Nordisk drug failures will likely ‘pop a hole in the balloon’ ...（藥物核准、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
