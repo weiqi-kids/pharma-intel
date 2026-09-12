@@ -1,0 +1,16 @@
+{
+  "total_raw": 435,
+  "dup_title": 205,
+  "no_date": 0,
+  "too_old": 124,
+  "gate1_fail": 8,
+  "gate2_fail": 22,
+  "passed": 76,
+  "gate2_samples": [
+    "Teva raises USD 4.9bn to refinance higher-coupon debt - AllSci",
+    "Teva prices $4.9B senior notes to refinance higher-cost debt - TradingView",
+    "News by CNBC TV18 on TradingView, 2026-09-11 — cnbctv:51f96c77a094b:0 - TradingView",
+    "Total non-current assets of Lonza Group AG – BX:LO3 - TradingView",
+    "Pfizer (PFE) Exits Legacy Hypertension Brands In India - simplywall.st"
+  ]
+}
