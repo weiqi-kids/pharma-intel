@@ -1,0 +1,232 @@
+{
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T13:15:33.799873Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lonza-2026-09-13-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lonza Group stock edges lower as investors digest recent earnings - ad-hoc-news.de",
+      "companies": [
+        "lonza"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT1FrbzZZYXV3QnVRdjVsaU5oMzI4TTJXM3Jnb3BiXzA4UDFiNi03ZXdYNE9qdTh0TWtuSmdMcXhfZzVpSmJkRl84NlpSZDVxVVJ6TVlaamtzWmd3YnZibzhiQlAtd3hzMFJYanQzcHJfQkdDcF9rRkdqSHBGQ1VVei15c0RXeVVjWGdxRFNkOG0tMndkVEg5R2I4UjVhd3g2aHhKZGhTQjAwVXhwZWdtZ0xQcDIwamR3b0NFcFlYYzdQeGk4cGo4?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "teva-2026-09-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "California State Teachers Retirement System Grows Holdings in Teva Pharmaceutical Industries Ltd. $TEVA - MarketBeat",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZ05yNXdlSnVNNHhLVFo2X19Pb3B0VXRiSklSX1lpbUNlM3RvOTN5YmxKVDJ6QlNkXzJNSDUtWWc3SjY5UTJ2bFZhYjJ5LTVYNmFwNVR5WFpWbDZLbUNVdFhULWdsWl9EbnBHRjVkYnZoU2lzUjJJM1V6Qzl2NnI1RFIwTjJtREw5VlVZMjBXcVRGRnJjY25nTWpIRzZrUWFYRmNEYUpzMVoxMGdEaGNGMzN0eGhlbUxveXlUMV8xTng1WGxLTmJjUE5ZaUdQV2ZEWDlhOUZobmZXS0xHOHk3anJMVFhTU0M3WEtad2VWWkNBdm1F?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Dr Reddy’s Mexico API Facility Gets Two Observations From USFDA - Daily Pioneer",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeTN6UGNXWUR5RjlJOFBzV18tVHpqdm52UFNySmdTbklKeENfR2FBTGVhWHc3QUhvNFpLV1pNT3dDVjVUenMyZEx2QUxxWUVreEk2bHhKaDRPZ0p3aWZMQ3o0em9mQWdGTmZNN3ctWEswdmtfcEN3MWxkekY1Zkx4aXZ2MFhuWnF4TU1SbA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "pfizer-2026-09-13-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is Pfizer (NYSE:PFE) Valuation Getting Ahead of Its Pipeline? - Kalkine Media",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWWlCVkxabkwxb0hMQWl3WUVHNlNyTk9UMEtia21EeVVidzN5UWl0Q180TFJIUDdZOUdvVHpnVnEzWTdNOElIa0FxWW9jeUZfR0YtSG9rQzIwMGxyekNzZGM0NTdRdjhCRlpVQ1FrZVRNTjZoOUxLYUZwNFZmWjNmNWI1T0NJTlBBQ1gzNWFheUM0VGU0MDRsM2RHMmRFdXhXYkRKbGJB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "roche-2026-09-13-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Roche Holding (SWX:ROP) Gets Phase III Win And FDA Priority Review For Two Drugs - simplywall.st",
+      "companies": [
+        "roche"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNXBDc0xWMVhFQkVGZDhDTkZ6SVozUWs5S1o3U2tkRTRVNXZQUkxycXZld2ZJS3BFbXp0cTV5b1VlaFF4SHNSTkQ0UG9JRk9YNTRaTDFCejFCTmRoeXVydGpOYXR5am44Y0hMZFdCSGx3cEl6SGl1cWtkZ2RtU1l2ZU5WMWQwUW9FV1JRdENCS3hZaGFhR1p5ZS1UNDBGcVA1d1hOSlAzVnF2QnFrY0UxMllHNXlhVW15cUVLTjJaLXl0S2NadzBCZnlXR2pGaGp0V3J4TkNVallyLXcxUlJialU3UDTSAeoBQVVfeXFMT0NIWGVDbGRuQk1uaUFQNG52ajRKeGtNR2NCUkpmNmliWVFHMGhndjFDSlRHVk14bHJPTGMyb25LYXp0bDFZa0dOTnlodWNva1NsX0xUUE52WTlrT09PUnFuYTgtZTh2QVBfZElFN1FIZGxiTjlEaldqYWY1bVkwT2RjOE91eTVueDFENGRuaHU5RUk3dGZuRjl6eHJkd2JES3ZKUXltV3V4T2RJU0hqWlN2Wk9EVUFYN3VYY1JCNWdwM0w1cU1obDFMMnJaOWxpaFVPWlFwazFUOU5GbXdQNEFNb0NZUEhrekVn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "roche",
+        "count": 2
+      },
+      {
+        "id": "astrazeneca",
+        "count": 2
+      },
+      {
+        "id": "teva",
+        "count": 1
+      },
+      {
+        "id": "lonza",
+        "count": 1
+      },
+      {
+        "id": "pfizer",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      },
+      {
+        "id": "drug_approval",
+        "count": 8
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 436,
+    "dup_title": 265,
+    "too_old": 104,
+    "gate1_blocked": 8,
+    "gate2_blocked": 16,
+    "passed": 43,
+    "pass_rate": "25.1%",
+    "gate2_block_rate": "9.4%",
+    "gate2_samples": [
+      "Teva raises USD 4.9bn to refinance higher-coupon debt - AllSci",
+      "Teva prices $4.9B senior notes to refinance higher-cost debt - TradingView",
+      "Should Debt Refinance Require Action From Teva (TEVA) Investors? - simplywall.st",
+      "J&J Is in Talks to Sell Its Hips-and-Knees Business to Apollo for $20 Billion - WSJ",
+      "Apollo in talks to acquire J&J’s orthopedics unit - Bloomberg (JNJ:NYSE) - Seeking Alpha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為Roche、AZ、Teva相關動態：「Lonza Group stock edges lower as investors digest recent ...」。主要關注主題為產業通用、藥物核准、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Lonza Group stock edges lower as investors digest recent earnings - ad-hoc-ne...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "California State Teachers Retirement System Grows Holdings in Teva Pharmaceut...（藥物核准、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

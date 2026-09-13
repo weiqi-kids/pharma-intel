@@ -1,0 +1,16 @@
+{
+  "total_raw": 436,
+  "dup_title": 265,
+  "no_date": 0,
+  "too_old": 104,
+  "gate1_fail": 8,
+  "gate2_fail": 16,
+  "passed": 43,
+  "gate2_samples": [
+    "Teva raises USD 4.9bn to refinance higher-coupon debt - AllSci",
+    "Teva prices $4.9B senior notes to refinance higher-cost debt - TradingView",
+    "Should Debt Refinance Require Action From Teva (TEVA) Investors? - simplywall.st",
+    "J&J Is in Talks to Sell Its Hips-and-Knees Business to Apollo for $20 Billion - WSJ",
+    "Apollo in talks to acquire J&J’s orthopedics unit - Bloomberg (JNJ:NYSE) - Seeking Alpha"
+  ]
+}
