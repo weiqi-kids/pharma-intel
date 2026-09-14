@@ -1,0 +1,294 @@
+{
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T14:56:04.832565Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mckesson-2026-09-14-043",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "McKesson Raises Outlook, Eyes Oncology Growth With Precision Medicine Deal - Yahoo Finance",
+      "companies": [
+        "mckesson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdkpON05XQlN1eFYzTTRhdFJjNVBfdWl0U1Q1VUpmbjFmd0tfOXkzYWRpLXR6M3V5ZDhOdmZ6Ym4zMllVcU84MXJNQ3dUZG9TZW5iQjg3Z0xrZE1sQUUxWUUxbzIwNTlXRVE1UzFNTnZkTDhwVkJERDJCSVJ0Nm5KajRFbjJSVkxPLXBlWTd3UG5CcDhoajVNSy1JM1kyXzg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "pfizer-2026-09-14-046",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Pfizer stock edges higher as Q2 2026 earnings beat supports rich dividend - ad-hoc-news.de",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaGNsOXdLZDF5aEVRd1JacW9QTXpxR0ZtX2MxM0Q1ZmE5SjliUFd3cGdXa0tBQUtvRjlBODlCa1ZleFJBVzZ6dVBhYWltcFk5WW1uUnVQOE42U3JaZzREYms2T2xMdTJaUWRrYVNVV2ltRHhmSldpUVdJc01ibWpDNnY5dDQwd250V3NFb3Rrd0xKZ2E0UkVBdGlTUmg1bW5PRmFOTFpZcFY0dloxcFEzTWlWbVhWZEVUN1p5Z3FCYThEcEU2dlJiajlWU1dUeHJCU2c?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "novo_nordisk-2026-09-14-024",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Pharmalittle: We're reading about another AstraZeneca trial failure, a Novo name change, and more - STAT",
+      "companies": [
+        "novo_nordisk",
+        "astrazeneca"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQk9xTldSV21iZWNJaVdYNjVCMU9WUUxpRnpDYjVvMjNfUk9YYkF5b1JkV3RKaEx3bEtqdFl4OU9vUG5oc3FJc2pmZVhIR0NKUExSU1ZXTHg2UlZNa2lWbDN3MlZLNmxodHNLbGlBQjR5V3dtYnZWbVh1U3BxTjI0T1cyZnZrYmROU285Q3A4QVNsRnk4aWdGa01QN2Jydw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "eli_lilly-2026-09-14-049",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Electra aims for nearly $300M IPO; Enhertu's Phase 3 lung cancer success",
+      "companies": [
+        "eli_lilly",
+        "sanofi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "biotech_funding",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://endpoints.news/electra-aims-for-nearly-300m-ipo-enhertus-phase-3-lung-cancer-success/"
+    },
+    {
+      "rank": 5,
+      "event_id": "novo_nordisk-2026-09-14-055",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "STAT+: Pharmalittle: We’re reading about another AstraZeneca trial failure, a Novo name change, and more",
+      "companies": [
+        "novo_nordisk",
+        "astrazeneca"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.statnews.com/pharmalot/2026/09/14/another-astrazeneca-trial-failure-novo-name-change/?utm_campaign=rss"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 47,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 45,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "astrazeneca",
+      "to": "novo_nordisk",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 57,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 51,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "novo_nordisk",
+        "count": 14
+      },
+      {
+        "id": "astrazeneca",
+        "count": 13
+      },
+      {
+        "id": "jnj",
+        "count": 7
+      },
+      {
+        "id": "teva",
+        "count": 3
+      },
+      {
+        "id": "merck",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 47
+      },
+      {
+        "id": "industry_general",
+        "count": 45
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "patent_cliff",
+        "count": 1
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 434,
+    "dup_title": 255,
+    "too_old": 87,
+    "gate1_blocked": 7,
+    "gate2_blocked": 19,
+    "passed": 66,
+    "pass_rate": "36.9%",
+    "gate2_block_rate": "10.6%",
+    "gate2_samples": [
+      "Teva raises USD 4.9bn to refinance higher-coupon debt - AllSci",
+      "Should Debt Refinance Require Action From Teva (TEVA) Investors? - simplywall.st",
+      "J&J Is in Talks to Sell Its Hips-and-Knees Business to Apollo for $20 Billion - wsj.com",
+      "Apollo in talks to acquire J&J’s orthopedics unit - Bloomberg (JNJ:NYSE) - Seeking Alpha",
+      "Apollo Reportedly In Talks To Acquire Johnson & Johnson’s DePuy Synthes For Around $20 Billion - Pul"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 57 則事件，焦點為Novo、AZ、J&J相關動態：「McKesson Raises Outlook, Eyes Oncology Growth With Precis...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "McKesson Raises Outlook, Eyes Oncology Growth With Precision Medicine Deal - ...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Pfizer stock edges higher as Q2 2026 earnings beat supports rich dividend - a...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
