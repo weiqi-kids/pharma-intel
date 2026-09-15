@@ -1,0 +1,16 @@
+{
+  "total_raw": 434,
+  "dup_title": 225,
+  "no_date": 0,
+  "too_old": 100,
+  "gate1_fail": 10,
+  "gate2_fail": 15,
+  "passed": 84,
+  "gate2_samples": [
+    "Teva raises USD 4.9bn to refinance higher-coupon debt - AllSci",
+    "Should Debt Refinance Require Action From Teva (TEVA) Investors? - simplywall.st",
+    "J&J Is in Talks to Sell Its Hips-and-Knees Business to Apollo for $20 Billion - wsj.com",
+    "Johnson & Johnson requires providers to share claims data to get 340B discounts - Healthcare Dive",
+    "Johnson & Johnson (JNJ) Weighs DePuy Synthes Exit In MedTech Portfolio Reset - simplywall.st"
+  ]
+}

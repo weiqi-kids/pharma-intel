@@ -1,0 +1,280 @@
+{
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T13:22:16.410151Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "eli_lilly-2026-09-15-022",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Eli Lilly and Novo Nordisk have paid more than 270,000 doctors — one as much as $1M — to promote GLP-1 weight-loss drugs - Yahoo Finance",
+      "companies": [
+        "eli_lilly",
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUGdBX1gzdVg1SmV2Y2k0WU11bHdNRGRsUzUyMUZPLXZsS0JnVTFFVC1qWENUay1LN1RQemV4THdfMEZpTE1tVEJkeHVXSGI0VTRiT18yTE9udFVnbF9zaEFBOVIxcWNlMTBzdE5oaU5VVTdfYUJUbU5kRUZrUDc1cXVlU2F0SElVaGdVT2h4VFJuQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "cardinal-2026-09-15-029",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cardinal Health stock gains as fiscal 2027 EPS guidance tops long-term target - ad-hoc-news.de",
+      "companies": [
+        "cardinal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOV04xVHFuT1RzZkZrY2t3UThiYkdYaU1IaDBPeUNGMmZyZS1pdlhucWJDbzN5Mk9HWmR3YmZwWC1YNVc1Zm56bkhFRXdkSXpLM2JJM0dMX0VvOTJ5dWIwX25MVW5DMUdwTWh0cks1LUZWeUJURlcxdElORlJJQkY1SW5VejQ3ZWJELVF1VGxYRXRCVzZsdzNFemhlb2NOdXpVZ2JiaVVMRnlkWDJiNXBIMjlWRzlveUZtYjRFd2NaOG4xQ2c2M1ZMLS11MzBtZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-15-032",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "NICE backs daratumumab quadruplet for transplant‑eligible myeloma",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://pharmatimes.com/news/nice-backs-daratumumab-quadruplet-for-transplant-eligible-myeloma/"
+    },
+    {
+      "rank": 4,
+      "event_id": "teva-2026-09-15-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Teva Says Pivot to Growth Gains Steam as Branded Drugs, Biosimilars Outperform - tradingview.com",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "patent_cliff",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaWlXMWVLZm45WERaMDFoYjdLVVkwblVsbDV0MVNablctaDVvVmJiUTRxQXR3dWRqcUVvZ1lXX1BETTd5dEk3QWNqdnhpa1pITTBSSy10bXBDaGEtOV9GUzEwN1lJUTlaek0yYmViSkNNSHcwOTJzLTlvOFlJbElxX2RUM2hvTWY3aVdScjY2SkhRSHgzcWZnb2NjNzU1LTBxZi1nU1Bfd0ZGMEc0MGNuUFhDd3QzWFc3S0RRM3lyQy1ITzFmSk9zN3pDRUhHQ29BT1BHSg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "teva-2026-09-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Teva's Shares Now Trade Directly on the NYSE — Here's What Else Changed - Benzinga",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdU51elF1T0xIWVhyeGZhSGdpWHd3T25ud2lKY1RLbzl5ekJqTUdrZXBKTDQ3VVhsTjVuTG92M3Z0ekxHM1ZXc012MW1sakhJc3A4TEJXd0xUcjdGeWl1Y25kWTEzLVpmc29YcFJ1TDVRWWtpeW95aUZyY1JSQmJEQnFXUDRndHpWYnF4RW1Scm55TUNiaC1lYVJIWDRJYXBucDdfazNsSm9YdEhNRkV2VmF5WXdEOGVDTElSZ1JzWFMtUmY3WWE0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 28,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.01,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 34,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.01,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 39,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 37,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "novo_nordisk",
+        "count": 6
+      },
+      {
+        "id": "roche",
+        "count": 3
+      },
+      {
+        "id": "astrazeneca",
+        "count": 3
+      },
+      {
+        "id": "merck",
+        "count": 3
+      },
+      {
+        "id": "teva",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 34
+      },
+      {
+        "id": "drug_approval",
+        "count": 28
+      },
+      {
+        "id": "patent_cliff",
+        "count": 3
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 434,
+    "dup_title": 225,
+    "too_old": 100,
+    "gate1_blocked": 10,
+    "gate2_blocked": 15,
+    "passed": 84,
+    "pass_rate": "40.2%",
+    "gate2_block_rate": "7.2%",
+    "gate2_samples": [
+      "Teva raises USD 4.9bn to refinance higher-coupon debt - AllSci",
+      "Should Debt Refinance Require Action From Teva (TEVA) Investors? - simplywall.st",
+      "J&J Is in Talks to Sell Its Hips-and-Knees Business to Apollo for $20 Billion - wsj.com",
+      "Johnson & Johnson requires providers to share claims data to get 340B discounts - Healthcare Dive",
+      "Johnson & Johnson (JNJ) Weighs DePuy Synthes Exit In MedTech Portfolio Reset - simplywall.st"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 39 則事件，焦點為Novo、Roche、AZ相關動態：「Eli Lilly and Novo Nordisk have paid more than 270,000 do...」。主要關注主題為產業通用、藥物核准、專利懸崖，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Eli Lilly and Novo Nordisk have paid more than 270,000 doctors — one as much ...（藥物核准、GLP-1 減重、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Cardinal Health stock gains as fiscal 2027 EPS guidance tops long-term target...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
