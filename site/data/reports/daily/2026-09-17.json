@@ -1,0 +1,236 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T13:17:53.595497Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-17-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Dr Reddy's Laboratories Q1 2027 Earnings Call Transcript - Benzinga",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVlZseGdhZ1VBejRxMzFmcDJDcm1IRDV0TzBLU3o3SlMyREdETGFsQS1GaGExUFFtZjVTMEpadVRMUF9jYU1nTWptTGZZekNvVXM5WU9qQURFS3Jvc3IwYkVuYmxIT1lyWHNQTF9hM1hveV9JV0M0OWVPNFJoZDZBTUFxN2ZxN0xiZlhrb2JBUDZWdi1hZXNyOHR4MV9OYnREN0Zr?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "astrazeneca-2026-09-17-017",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Transcript: AstraZeneca Q2 2026 Earnings Conference Call - Benzinga",
+      "companies": [
+        "astrazeneca"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUWUySEJRRGJJWUQwaDRaQl9leWMwUjdodnFQeFFSS0JHUWtraWwySEVOVGwxLUJDRV95UzJQT2RINjY4bW1nYjF4dG53MW15OG1wNDdVNU1fR3gwNmlhbnhjVWE3clAzYTBMcW9jZW1ObVJPVkx3RnB1czFqbDh1MHliVHBmUmplSHQ2V3E0NnhIM1JlWEoxdzYzMEt1UGVlTHc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "pfizer-2026-09-17-029",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Bavarian Nordic names Tarja Stenvall as new CEO",
+      "companies": [
+        "pfizer",
+        "sanofi",
+        "astrazeneca"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://endpoints.news/bavarian-nordic-names-tarja-stenvall-as-new-ceo/"
+    },
+    {
+      "rank": 4,
+      "event_id": "eli_lilly-2026-09-17-030",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Lilly-backed Orbis does up to $1.4B macrocycle deal with Novo",
+      "companies": [
+        "eli_lilly",
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://endpoints.news/lilly-backed-orbis-does-up-to-1-4b-macrocycle-deal-with-novo/"
+    },
+    {
+      "rank": 5,
+      "event_id": "teva-2026-09-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "About Teva Pharmaceutical Industries Ltd. rStock - Coinbase",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbFVmNVpwdEY1MDh0eDYwdWtlZENzZENjSzB2bEdJU0NhQVd4VEM2MFpRcHFUenQzLVZGcFpjUkFJWWV4Ti00S2JMbFVNczRNdVFGVUIyLWJuM0J5X2g0ZlRqdVA4U2tZVG1nVzNEQ3V2YTFtMkhzX3JacEJUQ2NIcW9Pc3M?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 29,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 36,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 33,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "roche",
+        "count": 6
+      },
+      {
+        "id": "astrazeneca",
+        "count": 6
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 5
+      },
+      {
+        "id": "teva",
+        "count": 3
+      },
+      {
+        "id": "merck",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 29
+      },
+      {
+        "id": "drug_approval",
+        "count": 23
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 433,
+    "dup_title": 218,
+    "too_old": 99,
+    "gate1_blocked": 13,
+    "gate2_blocked": 18,
+    "passed": 85,
+    "pass_rate": "39.5%",
+    "gate2_block_rate": "8.4%",
+    "gate2_samples": [
+      "Teva’s Lab-Made Antibody Shot for Celiac Shows Hopeful Results - Allergic Living",
+      "Should Debt Refinance Require Action From Teva (TEVA) Investors? - simplywall.st",
+      "Should You Be Adding Lonza Group (VTX:LONN) To Your Watchlist Today? - simplywall.st",
+      "J&J sells Laminar LAA closure assets it bought 3 years ago - medtechdive.com",
+      "Johnson & Johnson requires providers to share claims data to get 340B discounts - Healthcare Dive"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 36 則事件，焦點為Roche、AZ、Novo相關動態：「Dr Reddy's Laboratories Q1 2027 Earnings Call Transcript ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Dr Reddy's Laboratories Q1 2027 Earnings Call Transcript - Benzinga（藥物核准、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Transcript: AstraZeneca Q2 2026 Earnings Conference Call - Benzinga（藥物核准、法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

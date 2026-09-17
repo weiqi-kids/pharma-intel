@@ -1,0 +1,16 @@
+{
+  "total_raw": 433,
+  "dup_title": 218,
+  "no_date": 0,
+  "too_old": 99,
+  "gate1_fail": 13,
+  "gate2_fail": 18,
+  "passed": 85,
+  "gate2_samples": [
+    "Teva’s Lab-Made Antibody Shot for Celiac Shows Hopeful Results - Allergic Living",
+    "Should Debt Refinance Require Action From Teva (TEVA) Investors? - simplywall.st",
+    "Should You Be Adding Lonza Group (VTX:LONN) To Your Watchlist Today? - simplywall.st",
+    "J&J sells Laminar LAA closure assets it bought 3 years ago - medtechdive.com",
+    "Johnson & Johnson requires providers to share claims data to get 340B discounts - Healthcare Dive"
+  ]
+}
