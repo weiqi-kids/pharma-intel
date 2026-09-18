@@ -1,0 +1,16 @@
+{
+  "total_raw": 436,
+  "dup_title": 225,
+  "no_date": 0,
+  "too_old": 72,
+  "gate1_fail": 13,
+  "gate2_fail": 24,
+  "passed": 102,
+  "gate2_samples": [
+    "Should You Be Adding Lonza Group (VTX:LONN) To Your Watchlist Today? - simplywall.st",
+    "Why Is Pfizer (PFE) Drawing Fresh Attention? - Kalkine Media",
+    "Johnson & Johnson appears to exit LAA closure market, selling heart tech to new startup - Cardiovasc",
+    "Highlights from recent healthcare company investor presentations - Modern Healthcare",
+    "Johnson & Johnson drops LAA assets following suspended pivotal study - MassDevice"
+  ]
+}
