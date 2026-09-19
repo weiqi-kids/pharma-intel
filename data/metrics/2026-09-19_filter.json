@@ -1,0 +1,16 @@
+{
+  "total_raw": 435,
+  "dup_title": 263,
+  "no_date": 0,
+  "too_old": 78,
+  "gate1_fail": 12,
+  "gate2_fail": 22,
+  "passed": 60,
+  "gate2_samples": [
+    "Issuance/retirement of debt (net) of Lonza Group AG – BX:LO3 - TradingView",
+    "Should You Be Adding Lonza Group (VTX:LONN) To Your Watchlist Today? - simplywall.st",
+    "Johnson & Johnson appears to exit LAA closure market, selling heart tech to new startup - Cardiovasc",
+    "Johnson & Johnson drops LAA assets following suspended pivotal study - MassDevice",
+    "J&J sells Laminar LAA closure assets it bought 3 years ago - MedTech Dive"
+  ]
+}
