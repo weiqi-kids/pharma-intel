@@ -1,0 +1,16 @@
+{
+  "total_raw": 432,
+  "dup_title": 260,
+  "no_date": 0,
+  "too_old": 104,
+  "gate1_fail": 11,
+  "gate2_fail": 20,
+  "passed": 37,
+  "gate2_samples": [
+    "Issuance/retirement of debt (net) of Lonza Group AG – BX:LO3 - TradingView",
+    "Should You Be Adding Lonza Group (VTX:LONN) To Your Watchlist Today? - simplywall.st",
+    "Why Is Pfizer (PFE) Drawing Fresh Attention? - Kalkine Media",
+    "Johnson & Johnson drops LAA assets following suspended pivotal study - MassDevice",
+    "Johnson & Johnson requires providers to share claims data to get 340B discounts - Healthcare Dive"
+  ]
+}
