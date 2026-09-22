@@ -1,0 +1,279 @@
+{
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T13:17:56.710151Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-22-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Details of Trump's drug pricing deals reveal GLP-1 exemptions, revenue sharing - FirstWord Pharma",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xVzRTVVFiYmpnblJBOFJXTi1SRWFaM09wRzA5dmhfUng3Uy1mT0VRblg0SlVwQWRDWDFzY21OdHhvZ29zRGdNdlRYZm9nQnFUdk1Z?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "pfizer-2026-09-22-037",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Pfizer stock holds near USD 28 as earnings date approaches - AD HOC NEWS",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONG1ua1BBOWdrSnRybzJQenpHT2x6U3R0bW5YSEt4YlBpdFNWYWZiMnBUbDh1SXFWNTVvajdfRVc2OEFEWlFWeDZQaXBQQmZpbDIxX3R3OUdLS3ZwMFNrejJmbkFaXzIwLXZiTUhEMk9MVm9SWmtpTVdVOWZ3RDdxNWU2dHJHWmlHNlp4NGJNUWJBMHFvZDN3OFFyWk95U2RlY0VieTN0dVRTcE1nU0x2X2hRZkF0N1JFU2xsemlR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "roche-2026-09-22-017",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Roche GLP-1 delivers 16% weight loss (RHHBY:OTCMKTS) - Seeking Alpha",
+      "companies": [
+        "roche"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Rd2ZQV21JZHZlUzdCczVnWFZYdFRxdUlIOVExNDJNb1dfcEVWVmhyQmh4MUhiY29UeVR4M1JtZ0wyRGg3LXBqSktyODg5cWJhb1VFbElwNTF0NWVPZG1EMEQ4NmxyMTdCcmszX3dKNkFBV1MyNktudHJkdWF5QQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "roche-2026-09-22-019",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Roche Holding stock rises as enicepatide delivers 15.5 percent weight loss - AD HOC NEWS",
+      "companies": [
+        "roche"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQa1hQVl9naVEzMVY5V09YNENvYWw3RzVTVU9SelpGbEM3TVpEWjN4Z2RkbWszbWpLNFRGeUtaQ1VkOVRKRTdWWUtrQ2FFRXBGaEVBZ0V4UHlFQUQ1V3NkUzdwazdaY3hBelYtZWxiV3RGSGxKYTBQWmRuS3hhMXp2M184MjdfX3VDemVpbnVnMW5BZ0xxbS1hMWpRTXQxWTBHSFZFZ0V3RE9VNGZjcmMxMjFVZVM4aUl5MDg1SkVMcFpMTHRQQjBYVjhLSlFUck9iOVAw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-22-029",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Viking Therapeutics Stock Surges 36% After Weight-Loss Drug Trial - Barron's",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMUExUURMUDNZT29ZWEkxX0M0bjFaRldpLThIVEJxamlXNWJUSzVmTkhQSExaVTd3ZHItbmZxZ3phbUdoY3hxT0luSDZMQ1JzQzVwTmlTS3NMRlpTWFkwYWF4RXpmWU9zT3dKOGRmSzR0TDI3dV9naUo5Y1ZYRktZODdkLWM2UmNFOFZCY0F1MDhxOFZq?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 35,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 37,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 43,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 32,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "roche",
+        "count": 8
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 6
+      },
+      {
+        "id": "teva",
+        "count": 4
+      },
+      {
+        "id": "lonza",
+        "count": 2
+      },
+      {
+        "id": "pfizer",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 37
+      },
+      {
+        "id": "drug_approval",
+        "count": 35
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "biotech_funding",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 430,
+    "dup_title": 230,
+    "too_old": 79,
+    "gate1_blocked": 10,
+    "gate2_blocked": 19,
+    "passed": 92,
+    "pass_rate": "46.0%",
+    "gate2_block_rate": "9.5%",
+    "gate2_samples": [
+      "New Teva Study Identifies the Attributes that Healthcare - GlobeNewswire",
+      "Lonza Group (SWX:LONN) Expands In Oregon On Questions Over Whether Value Is Already Priced In - simp",
+      "Issuance/retirement of debt (net) of Lonza Group AG – BX:LO3 - TradingView",
+      "Should You Be Adding Lonza Group (VTX:LONN) To Your Watchlist Today? - simplywall.st",
+      "Johnson & Johnson May Offload Its Orthopedics Unit for $20 Billion -- and Investors Shouldn't Miss W"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 43 則事件，焦點為Roche、Novo、Teva相關動態：「Details of Trump's drug pricing deals reveal GLP-1 exempt...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Details of Trump's drug pricing deals reveal GLP-1 exemptions, revenue sharin...（藥物核准、GLP-1 減重、法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Pfizer stock holds near USD 28 as earnings date approaches - AD HOC NEWS（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
