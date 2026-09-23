@@ -1,0 +1,270 @@
+{
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T13:32:36.281198Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mckesson-2026-09-23-040",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "McKesson Corporation Announces Second Quarter Fiscal 2027 Earnings Release Date - BioSpace",
+      "companies": [
+        "mckesson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa1ZTLTVIZmsxZ0VxNS1KQWh1ck9kSXNNcDFPYy1VYWU4TW41Z0o4VkgtOWhQTkZMc1g1SEtMYzVQdlY5bnloSS16RmxLLWhiOHZTRlRiZUMzTTQ1bTNuQmlSYndvSXFsRW50OWJtMGJZOUJrbGNULTFpME04eUc3OUpIX2lReXM5WTF5R2ZjRDkxUUpqM2NNaDdwek5VQkFsREUtbXMwLWYza2xYMUZaSDFxX1ZBTGtZV2JF?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-23-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Dr Reddy's Laboratories stock gains as Q1 profit falls - AD HOC NEWS",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLTJkUjlSWVRyU0Q1dWl3REo3UWVTTUs1UE1oYVdsMjgzd1ItRDhsdm80V2pCTUVVZUN1WkM4Q3l5bkdoV3Y5bW4xc0REV2FuNVNlaWstWDJqdFh0TVRYdXZtVlBYb3pEUTFFb0ZjQW5JcDIyWnJMTXRPaWIzS2NaV2phbFJBWktRSnJQbmdwOXpxX2FHbkJGMDBKcUp5RWtEVW9ObnktdnUwdlJRN1h6ak9iMA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "catalent-2026-09-23-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Catalent stock holds near its yearly low as earnings lag - AD HOC NEWS",
+      "companies": [
+        "catalent"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM3JKeG1ORlFTZ0VOU1VCMHZWNjBfVW1xV0hqR1lWalVFd0dJaEdEeVNpTVFtNWNHUmtIaFFpOHdYWHJKYTBZVlBJY3pCSERMdGQyRWJVaFJnSkpIRkp2c0ZWMXlEX1ZQMW1ab0wzSms1bUNJdTlSaUFBNUNOQUdNSjNZbW1xbUx3YVRTTXBDQlc5REx6N25kX2NkRjlqMWNyVXVEdnN4bjluOUlDV0JOc1llWEdhUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "jnj-2026-09-23-013",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "What could reshape the outlook for Johnson & Johnson (NYSE:JNJ) now? - Kalkine Media",
+      "companies": [
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR2w0UGlJYlNNb2N3ZEZXcTZfMk5LTTZSVjNOM3RUbU5sNDI0YlpYQTRid1JETDhkYUFsbW96bm5YQm4xMmhKaFZHUmRqU2sxRWU2bm5DUXRyUWJxN2lfaHlkb1hJeGVyOXc4VFZRODJ4aE9EXzNfYXhid3dHMXdoTm12Njg2Z2N3VWNfQVZNckZjX0xxZHlTUUJLRkM3bVUwaE5FMUVrbmZBUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "novo_nordisk-2026-09-23-035",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Novo Nordisk (NVO) Stock Still Looks Cheap On Earnings Today - simplywall.st",
+      "companies": [
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOS2xTRnlpLTBYVHJISlpTeWFxUVVpN290aXctaDQ4OGVVLTRzV05OTmJxcnJtdC1BeGhoRTc2VjF6NUpRelZBS3ViMjV2NG9sR3RRR3FPWkRRYXFnUGktQ00wU29IM0hZczhxR0VRcGhMdzAzUWNWekZmX2VBZmlHZ0wwdzREUUhVUF9tXzg4ZFNFWmNJZjllTHZWcG9PaDRfbnc0Yjh0QUtTa0J4RTVrWmVTYkw4QWtycVVWY3dkczJBWnNSa2tqc3o2M0xZaUQ1Q21FeTdzSTDSAd4BQVVfeXFMUG9KMWtOR1pRbHRWTkx2U3h0Z0lId3JhcEZqeE5rVS1xUmZwUzY1b3hlSlRuN3p3YTFzVnNWVDZUQlduN2w2MnVwOU1hU19zVkczdWMwWGk4dzhfeUpLQUFIN3d6M0VRaTVDbzRlODN1OUFjMExjYUoxSXVuT183TjFRTTBnV1dpWGg0REJZZTgwMUhmRUMzaDlYTm0tNnFfWVhsNzBDby1YWlBwNGFJUjBfdFUxZlo4MHE1TnFHcTZJbkVfWml1Q09OUHBpUXdsNEdaZWtvb0R0S1UzZTJR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 41,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 43,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.38,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 54,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 47,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "roche",
+        "count": 11
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 6
+      },
+      {
+        "id": "pfizer",
+        "count": 5
+      },
+      {
+        "id": "astrazeneca",
+        "count": 5
+      },
+      {
+        "id": "sanofi",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 43
+      },
+      {
+        "id": "drug_approval",
+        "count": 41
+      },
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "patent_cliff",
+        "count": 2
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 429,
+    "dup_title": 189,
+    "too_old": 97,
+    "gate1_blocked": 11,
+    "gate2_blocked": 22,
+    "passed": 110,
+    "pass_rate": "45.8%",
+    "gate2_block_rate": "9.2%",
+    "gate2_samples": [
+      "Lonza Group (SWX:LONN) Expands In Oregon On Questions Over Whether Value Is Already Priced In - simp",
+      "Issuance/retirement of debt (net) of Lonza Group AG – BX:LO3 - TradingView",
+      "Should You Be Adding Lonza Group (VTX:LONN) To Your Watchlist Today? - simplywall.st",
+      "What Is Keeping Pfizer (NYSE:PFE) in S&P 500 Market Focus Today? - Kalkine Media",
+      "Johnson & Johnson May Offload Its Orthopedics Unit for $20 Billion -- and Investors Shouldn't Miss W"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 54 則事件，焦點為Roche、Novo、輝瑞相關動態：「McKesson Corporation Announces Second Quarter Fiscal 2027...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "McKesson Corporation Announces Second Quarter Fiscal 2027 Earnings Release Da...（藥物核准、法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Dr Reddy's Laboratories stock gains as Q1 profit falls - AD HOC NEWS（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
