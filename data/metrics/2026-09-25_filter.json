@@ -1,0 +1,16 @@
+{
+  "total_raw": 433,
+  "dup_title": 226,
+  "no_date": 0,
+  "too_old": 84,
+  "gate1_fail": 15,
+  "gate2_fail": 21,
+  "passed": 87,
+  "gate2_samples": [
+    "Teva Releases Q3 2026 Aide Memoire - GlobeNewswire",
+    "Lonza Group (SWX:LONN) Expands In Oregon On Questions Over Whether Value Is Already Priced In - simp",
+    "Issuance/retirement of debt (net) of Lonza Group AG – BX:LO3 - TradingView",
+    "Johnson & Johnson (JNJ) Phase 3 Myeloma Data Recasts Long Term Survival Expectations - simplywall.st",
+    "Rx Rundown: Lilly, Bristol Myers Squibb, Johnson & Johnson and more - Medical Marketing and Media"
+  ]
+}
