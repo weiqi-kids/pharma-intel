@@ -1,0 +1,243 @@
+{
+  "date": "2026-09-26",
+  "generated_at": "2026-09-26T12:54:11.374955Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "novo_nordisk-2026-09-26-004",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Eli Lilly (LLY) vs. Novo Nordisk (NVO): Has the GLP-1 Race Changed the Moat? - Yahoo Finance",
+      "companies": [
+        "novo_nordisk",
+        "eli_lilly"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "patent_cliff",
+        "glp1_obesity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQejJVc0p2LWhyR2Nvb3Jvb1hXTll3Wlk4Q0JZTnl4aUtfYWJfTWFxbVhPOHhGdzFTN2l0QjJ2MXJlOERNdVZzazEyWGZ6UlBLRl9DYnV6QVdiNFFjdGxkcXRyTEFIdjZQclhJM0JLVGIxSzR0LWUzMzlreEJxLTl4VzQ1emo4M09GdXc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "jnj-2026-09-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "What Does Johnson & Johnson (JNJ) New Clinical Data Mean For Its Stock? - Yahoo Finance",
+      "companies": [
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRTJWUHZ4eW5UZmtHQXJmYV82RjFqTVZ6OW5Kd1ZtMUdlX0QwZ1pPdFkxUWFrNWFnVFk0VHBxMUJLQkdZOVM0ZTNndjByMnZMcFdYRU9HZ3ZaWHJmcmlpRlRLRS1QQmVMS1lUMF9fYzJpak51bk5KR0xGanNiVHVGZElaSUYwRFF2dG5tUDJUa0MxN2d3a3BCX3NB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "merck-2026-09-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Merck & Co., Daiichi withdraw US submission for ADC in lung cancer - FirstWord",
+      "companies": [
+        "merck"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CS2J1U3J0RDFwazFtblk1Z193T2dkWWkyMjRNOFloaW1fQ0J2Y0I3TVVtMi1VVlhJTWM1RGRtSlZuRnRicXRraEdIVVhCN2FULUJF?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "merck-2026-09-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Merck & Co - Patient Enrollment Continues in - Moomoo",
+      "companies": [
+        "merck"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVEg2YnFQOTZCbUJtS2ZlVmRrc3NuR1d6ZFV5V0FPSmFrOUlnNkl2ckdSY2RWX3d3RGtTX1V3WEV0TUREblBGajVLQ05fNXpGckwtaDJpUFhQa1hPbl9oa1kzcGVERGhrY19rbDV4LTNGNHZmWDNoQzhuOVlBWVlaaDRteHBPMlBRaWdYdG93bzNHSVplM2U1UVFNNGdoeU9sU21ITFA1MjFBR2M?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "novo_nordisk-2026-09-26-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The drug industry’s care gap; Novo aims to diversify; and more",
+      "companies": [
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://endpoints.news/the-drug-industrys-care-gap-novo-aims-to-diversify-and-more/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "merck",
+        "count": 2
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 2
+      },
+      {
+        "id": "jnj",
+        "count": 1
+      },
+      {
+        "id": "eli_lilly",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 4
+      },
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "patent_cliff",
+        "count": 1
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 434,
+    "dup_title": 249,
+    "too_old": 85,
+    "gate1_blocked": 14,
+    "gate2_blocked": 20,
+    "passed": 66,
+    "pass_rate": "35.7%",
+    "gate2_block_rate": "10.8%",
+    "gate2_samples": [
+      "Teva Releases Q3 2026 Aide Memoire - GlobeNewswire",
+      "Lonza Group (SWX:LONN) Expands In Oregon On Questions Over Whether Value Is Already Priced In - simp",
+      "Issuance/retirement of debt (net) of Lonza Group AG – BX:LO3 - TradingView",
+      "Rx Rundown: Lilly, Bristol Myers Squibb, Johnson & Johnson and more - Medical Marketing and Media",
+      "Johnson & Johnson May Offload Its Orthopedics Unit for $20 Billion -- and Investors Shouldn't Miss W"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為Merck、Novo、J&J相關動態：「Eli Lilly (LLY) vs. Novo Nordisk (NVO): Has the GLP-1 Rac...」。主要關注主題為藥物核准、產業通用、專利懸崖，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Eli Lilly (LLY) vs. Novo Nordisk (NVO): Has the GLP-1 Race Changed the Moat? ...（藥物核准、專利懸崖、GLP-1 減重）",
+        "level": "yellow"
+      },
+      {
+        "text": "What Does Johnson & Johnson (JNJ) New Clinical Data Mean For Its Stock? - Yah...（藥物核准、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

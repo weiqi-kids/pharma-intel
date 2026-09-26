@@ -1,0 +1,16 @@
+{
+  "total_raw": 434,
+  "dup_title": 249,
+  "no_date": 0,
+  "too_old": 85,
+  "gate1_fail": 14,
+  "gate2_fail": 20,
+  "passed": 66,
+  "gate2_samples": [
+    "Teva Releases Q3 2026 Aide Memoire - GlobeNewswire",
+    "Lonza Group (SWX:LONN) Expands In Oregon On Questions Over Whether Value Is Already Priced In - simp",
+    "Issuance/retirement of debt (net) of Lonza Group AG – BX:LO3 - TradingView",
+    "Rx Rundown: Lilly, Bristol Myers Squibb, Johnson & Johnson and more - Medical Marketing and Media",
+    "Johnson & Johnson May Offload Its Orthopedics Unit for $20 Billion -- and Investors Shouldn't Miss W"
+  ]
+}
