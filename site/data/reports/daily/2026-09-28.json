@@ -1,0 +1,267 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T16:40:16.369869Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "astrazeneca-2026-09-28-016",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Alnylam shares drop 18% after AstraZeneca/Ionis trial failure, but outlook remains cautiously optimistic. - Pluang",
+      "companies": [
+        "astrazeneca"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbFc4UHJCdk1rb3lvZDQ1VFBQRV9XNGY5LVR3YkVpZTZfSlRCWHI3ald1bEpYUmJLdVk2VFF1V205TWZNV09UWkVBSGVtQ0xvSVRvX1pJZDZramk5a3NZNWpyWC1PTEpOa2N5T19neWtFc1J5VXdadzRfZlNQeHBiR0RKTkVtZjNhRU5pOUw2cC16VHU5ZWNDV09EVEJGemJ1M0RkQXVLc250dw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "merck-2026-09-28-027",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Merck & Co. stock trades at USD 148.74 after pipeline updates - AD HOC NEWS",
+      "companies": [
+        "merck"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRDR4UXFuS3pQcEhoZ0c3LVJOZ3ZPbkFDUHdXX2FudEpiSzZUWHZVUGs2bldRa1d0bnVkbXhvUjdVdHk5Y3RTdDN0a2RseExRbUsyMEs1eWkxUGNYV1V0Sk1DRGFISUZaWXpOaEU4ZWFJbFFRMFZucWVHWnBPNERxSmFJMXN2bnRwUGJ2WmtmUjN4R2c5b0lYZm1tMGFRaGJzZzAzS1VmSE9JdlRJM1N3YkhEQ2hhR1Fvd1lzTGdpaTJMZ2s?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "pfizer-2026-09-28-043",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Full Transcript: Pfizer Q2 2026 Earnings Call - Benzinga",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTzZyRG1yb2ZNSnZjdGZjekQwYkowV3BTeXdXeTE1eWtITHFwcTY3eVdqT1R0LWVsSWVZbmJKLTBhaDhFNWI4N2l1cW8tbXlrVE1Tc0txQ2QxekpuMzB2ekdOWEszenhEM2syTEFJcE5ycV9QZUJpVV9xYVNOSmVfcExoN251cWhON2NvZnd4MHJUSUk?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-28-046",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nonprofits' gene therapy for rare immune disease will cost $3.25M",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://endpoints.news/nonprofits-gene-therapy-for-rare-immune-disease-will-cost-3-25-million/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-28-051",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "STAT+: It really is bleak out there, and list prices matter",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.statnews.com/2026/09/28/health-insurance-premiums-soar-2027-quorum-health-nonprofit-conversion/?utm_campaign=rss"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 36,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 45,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 55,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 48,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "merck",
+        "count": 14
+      },
+      {
+        "id": "sun_pharma",
+        "count": 4
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 4
+      },
+      {
+        "id": "jnj",
+        "count": 3
+      },
+      {
+        "id": "roche",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 45
+      },
+      {
+        "id": "drug_approval",
+        "count": 36
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "patent_cliff",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 437,
+    "dup_title": 202,
+    "too_old": 114,
+    "gate1_blocked": 12,
+    "gate2_blocked": 19,
+    "passed": 90,
+    "pass_rate": "38.3%",
+    "gate2_block_rate": "8.1%",
+    "gate2_samples": [
+      "Teva Releases Q3 2026 Aide Memoire - globenewswire.com",
+      "Lonza Group (SWX:LONN) Expands In Oregon On Questions Over Whether Value Is Already Priced In - simp",
+      "Gilead or Johnson & Johnson: Is Faster Growth Better than Greater Diversification? - finance.yahoo.c",
+      "Johnson & Johnson May Offload Its Orthopedics Unit for $20 Billion -- and Investors Shouldn't Miss W",
+      "Can Johnson & Johnson (JNJ) Justify A Discount To Cash Flow? - simplywall.st"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 55 則事件，焦點為Merck、Sun Pharma、Novo相關動態：「Alnylam shares drop 18% after AstraZeneca/Ionis trial fai...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Alnylam shares drop 18% after AstraZeneca/Ionis trial failure, but outlook re...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Merck & Co. stock trades at USD 148.74 after pipeline updates - AD HOC NEWS（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
