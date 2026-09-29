@@ -1,0 +1,297 @@
+{
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T14:46:59.818795Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sun_pharma-2026-09-29-011",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Sun Pharma Lerodalcibep Deal: Macquarie Sees Cross-Selling Opportunities, Maintains 'Outperform' Call - NDTV Profit",
+      "companies": [
+        "sun_pharma"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUjBHVmtHY2NQYkFGeTdqOFBicF9rY2lybWY5YlE3Vy1jWmE2cnZUNEE3Y0RpdXJyUUp4bS1GWmpSNC00Zk9hSlJSNGdib2x3M1VYR2Q1MEhhOTRoXzhUcjVEUXVpeGxtTmNzQ1hZeW5pZy1NanpiQ1dXQmRVRlFrRFFSblRQMkQ2QWdhZXRiZ0dUTkhyU1BiTzVjc1NkVWNtUVJJSnhUMjBxeGxLY21qbEVmUkNxRTgwQjZKWmFycC00ZmE3SUhxaGhjLXdROU00cjBfMGpEM3PSAeABQVVfeXFMTnBueXYzckNMVmhabjh2NHE1NW13ZnlRZ2t6dzBtbDFNcDg5S1RRSUZGWkRqM1FCbndDS2pxYkhnSDZ2TDNZUndfMkF0OXpIOC1wSWJNcnpLYkZPRTRxbFVQZjBuekNvN0FMX0lndmVMdmlVd3dZUnY5VU84dWdWek5kNUh1MnlQZkZFOUxEN19OZ25kZXMxX29jV1RHcWh2UUdCd1FOTHdwcmd0TmV6ZkVTMy1wMFJ6bExmdDl0Y1QwdUw2bXh6LUM2aWlGZjdNN01sN05hdXBpbDZwQWxMTmo?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "novo_nordisk-2026-09-29-039",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Eli Lilly's weight-loss drug beats Novo's in cross-trial analysis - medwatch.com",
+      "companies": [
+        "novo_nordisk",
+        "eli_lilly"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iLTIycUozWm14ZHFkVEY1dXNseW5IZzNvLS01TFUxZUR3MGJ0cWhaQVhhN2lIVWJUYnY3TVM5eFpuNTM2ZGxKUEdnbmRfT0hHMXFmemVBTXhzX2ttRHdMcDNYRmtBQ1M2dmQxY3Vtcw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "novo_nordisk-2026-09-29-045",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Novo says Ozempic outperforms Lilly’s Mounjaro in cutting major cardiovascular events - Seeking Alpha",
+      "companies": [
+        "novo_nordisk",
+        "eli_lilly"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRjN2czFsN0lKYVI5QmJ4TkpqdlRxbjFma3RUa25OUjFiekFub3R5QXRpMVU4REhySjRMZncxSVlPZzlYdkJzQ19lRHA1SXF0ckpuSHhfQV9USVVWbU9oYXA5NkFWSVpFRHhjZ1ZVc0ROQ29ZOWVPMEloRkloSnB5OTVzVWtWSXd1a25pcUx3Y2JUdmQxTHdkLThkOUhSNVMwMGlfeGY0Wl95YmVpTjF3NXNheGM4WnN2OGRqZzR4OA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "novo_nordisk-2026-09-29-074",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "STAT+: Pharmalittle: We’re reading about Novo licensing a Chinese obesity pill, Merck pulling an antibiotic, and more",
+      "companies": [
+        "novo_nordisk",
+        "merck"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.statnews.com/pharmalot/2026/09/29/novo-licenses-obesity-pill-from-china-merck-pulls-antibiotic/?utm_campaign=rss"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-29-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Dr Reddy's Stock Surges Over 2%; Outperforms Peers As Nifty Pharma Bucks Broader Weakness - NDTV Profit",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.25
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaFpUYVp1bWFOVjhWU2d1d1JfczVoNGFfSWNfbTd1ZjRKVDBqdWdiRTlyNEhfdUJkZ05aS1NjckRyOENPQ0d1dTRSdFhqWHJVc01UNmNHV0pRUHdHYWlNY1c5VnRBWTk4TS1zb0d0U0FMaU5kRVhWd3NyZmZFMkRKUy01MlFSV19qS3EydGNvYm0xbjhlQnRBYjV2dlF3SV9ubmVOUWhCZE4yZWJSMXc2MnBFckExbUdxWTNjOHNkQUJhV25RalZqRDcxWGpvZFBGR1pxcDVGN3BnS3NS0gHkAUFVX3lxTE4ybzZoR2tPTWFpT3VfTzNIbHpBeHoxTDVXZlJNaVpUZmlNaFpZeXZ4ZUx5YzZMM1RnMWNTNEJiUEtDLXdrYnBlN2FoU3Ywc081TURvVHNXZ2p1ZzV3TTBVZjBQSkd0eWtTTHBYYVdLYWl6dlNSQ0g3M0ZIa0N3cmFta29SNldXa1hEdnU2UFo0aHY5WlA5UGdwWnZqOXJvQjJVSWF5RXVEbDRSTXc4LUhlRHJHd2dwdm9sYjJvWjRqcVRnVlVpYzNya21nVU1CdmdXZnhHN2QtbXhXLXBBYmFnREUxSA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 54,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 65,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.1,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "eli_lilly",
+      "to": "novo_nordisk",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 78,
+    "sentiment_distribution": {
+      "positive": 11,
+      "neutral": 62,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "novo_nordisk",
+        "count": 19
+      },
+      {
+        "id": "astrazeneca",
+        "count": 17
+      },
+      {
+        "id": "teva",
+        "count": 6
+      },
+      {
+        "id": "jnj",
+        "count": 5
+      },
+      {
+        "id": "sun_pharma",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 65
+      },
+      {
+        "id": "drug_approval",
+        "count": 54
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 10
+      },
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "biotech_funding",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 438,
+    "dup_title": 202,
+    "too_old": 99,
+    "gate1_blocked": 6,
+    "gate2_blocked": 20,
+    "passed": 111,
+    "pass_rate": "47.0%",
+    "gate2_block_rate": "8.5%",
+    "gate2_samples": [
+      "Dr. Reddy's Targets 25% EBITDA Margin Long-Term and 20% for FY27 - Sahi",
+      "Top Gainers & Losers, September 29, 2026 at 12:00 PM IST: Dr. Reddy’s Laboratories Leads Gainers - H",
+      "Lonza Group (SWX:LONN) Expands In Oregon On Questions Over Whether Value Is Already Priced In - simp",
+      "Johnson & Johnson’s Next Growth Engine Is Taking Shape - 24/7 Wall St.",
+      "ETFs Bought $81.9 Million of Johnson & Johnson (JNJ) on Sept. 25 - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 78 則事件，焦點為Novo、AZ、Teva相關動態：「Sun Pharma Lerodalcibep Deal: Macquarie Sees Cross-Sellin...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Sun Pharma Lerodalcibep Deal: Macquarie Sees Cross-Selling Opportunities, Mai...（法說會、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Eli Lilly's weight-loss drug beats Novo's in cross-trial analysis - medwatch.com（藥物核准、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
