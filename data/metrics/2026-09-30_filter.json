@@ -1,0 +1,16 @@
+{
+  "total_raw": 436,
+  "dup_title": 208,
+  "no_date": 0,
+  "too_old": 117,
+  "gate1_fail": 10,
+  "gate2_fail": 17,
+  "passed": 84,
+  "gate2_samples": [
+    "Lonza Group AG Balance Sheet – HAN:LO3 - TradingView",
+    "Johnson & Johnson’s Next Growth Engine Is Taking Shape - 247wallst.com",
+    "Long term debt to total assets ratio of Roche Holding Ltd – HAN:RHOA - TradingView",
+    "Roche Holding Ltd Cash Flow – HAN:RHOA - TradingView",
+    "Transcript : Roche Holding AG - Special Call - marketscreener.com"
+  ]
+}
