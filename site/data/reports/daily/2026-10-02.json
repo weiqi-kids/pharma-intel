@@ -1,0 +1,301 @@
+{
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T14:39:24.418415Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cardinal-2026-10-02-034",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Zacks Industry Outlook Highlights McKesson, Cardinal Health, Becton, Dickinson, Merit Medical Systems and ProDex - Yahoo Finance",
+      "companies": [
+        "cardinal",
+        "mckesson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPenVqb1lJLTNhdzAtUHRpRTRBUUZLUUZoVTFRTzg5MHE2Q3JfSW4ybXhGaDJJQ1pMT3hFYTZjalBvYjNvOWJfTzR3eGhWTll1SXVORUxHUDRMQlNGdWMxX3AyRDdZMnBYX21UTkFDTzhvSWZZNlBjRkJuQ0JRc1REM0dGV0Fmd1hOQXIyWlNKUC0wRmxvdVBFY0R5M3dvREN3MzFlVEln?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "eli_lilly-2026-10-02-010",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Johnson & Johnson Maintains Steady Dividends While Eli Lilly Bets on the Weight-Loss Drug Track - NAI500",
+      "companies": [
+        "eli_lilly",
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNHFfUzdLR1B5WmN5S0xtdllkaUFTcUNqeC1ldHpyR2lGRU1MeTFBVGxKR1ViNngxZU00U2ZOblROZFhaZl85bVh3RTRSNUtiVHdQMWZFclRGS3NzdWdYejM2OVdETHE5Y1kwbDFLZzUtb1NtQnNPeU5fQ3JCQmh2cFctTmxDVzh6N0xra2o3MUl1a3dDb05DT3V0cElvUGtzSWtKY3lxd3lLTnRuS18yTDdNZFpDRm1NcTdPd0tFaHphQkIy?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "sanofi-2026-10-02-030",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Friday Five: Sanofi and Regeneron (re)partner up in the face of Dupixent's patent cliff, AstraZeneca invests $2B in Summit, Lilly delivers more weight loss wins…and more - FirstWord Pharma",
+      "companies": [
+        "sanofi",
+        "astrazeneca",
+        "eli_lilly"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "patent_cliff",
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iY1dyMnlyVzduYnJWYTBoRGhwRnRySGlIRGJTQkNVT20xTjQzMlB3bTJwQVk0ci1nckw4TXNzMTUwbkFuekR6d3RsdXV2V2Zsc2Zr?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "novo_nordisk-2026-10-02-028",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Novo Nordisk (NVO) Stock Looks Reasonable Given Uncertain Long Term Earnings - Simply Wall Street",
+      "companies": [
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcndvMUNwT1BaRGtJUEhsTlNCUnY3ZWVEa3pXNExvcUt5VlNyZ1JjVEN1VFpHa0MwT0tHanZ3QmlLUm9pZkM5cENXSkluSjJkUldFNDFzdUhTVlFoQ2ZDSTZvRnpEbEs1c3R5TFBPeHdlZ04zcWQ5YjBXU3RUbFNMbDc5NlcwZ1lCLTBSTVdZMWZ5TlJVcThkczJsMlJBLW9kd0lEVWNnRWE5N18waWREb0FncUF1bklJakJ3a3FHSThSWlZWSm1FT2d4dVRLTWdscUpnaGhjZnlwUmPSAeABQVVfeXFMTjVtcTl4MXAxVFN5MnN4MGRMVlNjNDZIVW5fb0xQOE9GRnA4RTU0emR2aV90NlFOamtCME41TGxKaUNId0tTcmFZQ2x6NkU1WnhkN3lHZU9CUXd5S25kTTFJVUM5WGxTV09uYlppUnFRY2ZMOTRjd0twM1dpMWMxdHNoZzZIclZva3JHbUNacDExTGV4V1k3UFZMbzNoTXdTSzNKZ0xiODVtTjN6TGRtSHV5RjcyNnNVdUZ3ekk2aDBEWWRMMjdWeDBVeGVWLUVnN1NhZ2ZmdzU3WUJLUjVTQUs?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "novartis-2026-10-02-015",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Roundup: Novartis & Abogen Enter Licensing and Option Agreement, AstraZeneca and Daiichi Sankyo Enter Clinical Collaboration with Summit Therapeutics - Pharmaceutical Executive",
+      "companies": [
+        "novartis",
+        "astrazeneca"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR0xOdm9VZkNNdlVZeVNGazVURlRLcERGSlpxS0VrYnJ5M09WZ1c0WG80Sk5QdHpTRUgyazFXOHRSNFV3a0pnRTlzX3ZkeFN6T2wzWEY3TEtfUnBLQ2RBN0lsUThSMTdoQnMxaUtYVE83ZFgtRnpHZlJHbGxMbDN3eVh4ajV6MjA3ajBtVVNWZnVURnUxTEVUcDZ4WW53QzYyWmVtOExack9zQmY0M1dHTFItd3Z1T2dQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 32,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 37,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "eli_lilly",
+      "to": "novo_nordisk",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "drug_approval"
+      ]
+    },
+    {
+      "from": "cardinal",
+      "to": "mckesson",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings",
+        "industry_general",
+        "drug_approval"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 42,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 34,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "astrazeneca",
+        "count": 14
+      },
+      {
+        "id": "eli_lilly",
+        "count": 5
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 5
+      },
+      {
+        "id": "cardinal",
+        "count": 4
+      },
+      {
+        "id": "teva",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 37
+      },
+      {
+        "id": "drug_approval",
+        "count": 32
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 6
+      },
+      {
+        "id": "patent_cliff",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 433,
+    "dup_title": 211,
+    "too_old": 71,
+    "gate1_blocked": 14,
+    "gate2_blocked": 30,
+    "passed": 107,
+    "pass_rate": "48.2%",
+    "gate2_block_rate": "13.5%",
+    "gate2_samples": [
+      "Teva Presents New Efficacy and Safety Data with Ecopipam, - GlobeNewswire",
+      "8436 TCI 20260930 Investor Conference - finance.biggo.com",
+      "Lonza Group AG Balance Sheet – HAN:LO3 - TradingView",
+      "How Has Pfizer’s Story Changed? - trefis.com",
+      "Johnson & Johnson (JNJ) IMAAVY Data Puts Its Undervalued Narrative Back In Focus - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 42 則事件，焦點為AZ、Lilly、Novo相關動態：「Zacks Industry Outlook Highlights McKesson, Cardinal Heal...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Zacks Industry Outlook Highlights McKesson, Cardinal Health, Becton, Dickinso...（藥物核准、法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Johnson & Johnson Maintains Steady Dividends While Eli Lilly Bets on the Weig...（藥物核准、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
