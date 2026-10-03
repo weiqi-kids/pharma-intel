@@ -1,0 +1,259 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T13:14:08.087173Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "eli_lilly-2026-10-03-011",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Down 70%, Novo Nordisk Bets $3.9 Billion to Outrun Eli Lilly in the Weight-Loss Race - nai500.com",
+      "companies": [
+        "eli_lilly",
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQzJoOFhkUGJUZzhHNlJpWHdZYW5MY3A3MUV2ZWhRZHA2ZmxVeHlRMjFfVWZrTmxYbTRUc19udVpUcWthUGpVdDVwTWREbDJybTJCLUU2MzMtUHZ2UUlkaDQtSnB5ejVlVXRuaVhBNGdILWtBM0F0RmpjVXl5eVZ1a1VwVUxwNkVZTTI4YXVPY01SS0cxV3JhSXZodUxBbnhkUTN5MUR6WFNMb0pQZzhRd3NZUkk?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "eli_lilly-2026-10-03-017",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Eli Lilly’s best-ever weight loss data; Sanofi, Regeneron re-up for $1B upfront; and more",
+      "companies": [
+        "eli_lilly",
+        "sanofi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "glp1_obesity"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://endpoints.news/eli-lillys-best-ever-weight-loss-data-sanofi-regeneron-re-up-for-1b-upfront-and-more/"
+    },
+    {
+      "rank": 3,
+      "event_id": "eli_lilly-2026-10-03-009",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "The Oral GLP-1 Tracker: Lilly's Foundayo surges as Novo's Wegovy pill stalls - Fierce Pharma",
+      "companies": [
+        "eli_lilly",
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVUl1anVGbWRDTnRCUVVGWkU3V1NLZkI4TVpVamVheHZEWV9DSksyZC11NHpRcGl4b2g3TG9LUjNqcUNGamJYVUxHMWVWNnJZUzJKWFpaMHdqZ01Fb0M3LTJCcHZHR2sxOElyNk0wNFgtOW45endMcjRFcmZNd2ItSUwwSVdsUEN1Tkt6SnNuNGVWeVNjMTM0WW5mYmpoTWxzaVNhdTNLT1RNQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "pfizer-2026-10-03-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "pfizer halts weight loss drug - BusinessWorld Online",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pMU1yS0pFc2hkSDZUSTlnOTB3OU1hYXFoZ0RZd3pENXV2Qi13TERPcU5BVERtU0ZERkcwX3c1cER2MGZTZUNQdUxlRWUxcXkyQnNDWUVTaE9CaHdodlNUcm50RldYWlM5S21HMkVDd3N5LURxczBF?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "pfizer-2026-10-03-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "new pfizer weight loss drug - BusinessWorld Online",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83bjFvTzVwR0tzR3pCS24xV0U1N3BaODFpUHR6WHo0eEZ2TmlOV3lZX1ZzZ3VfWkE1Y3NkeGpKSGttblNldTE0VWJkUTRoT016UV8tNFptM1BEWWpoZlEwOWZ6S0pnM25pb1Q0ZWRnZXFQaVRs?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.27,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.27,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.4,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "eli_lilly",
+      "to": "novo_nordisk",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "drug_approval",
+        "glp1_obesity"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 12,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "novo_nordisk",
+        "count": 4
+      },
+      {
+        "id": "eli_lilly",
+        "count": 3
+      },
+      {
+        "id": "pfizer",
+        "count": 2
+      },
+      {
+        "id": "merck",
+        "count": 2
+      },
+      {
+        "id": "cardinal",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 15
+      },
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 426,
+    "dup_title": 228,
+    "too_old": 69,
+    "gate1_blocked": 14,
+    "gate2_blocked": 34,
+    "passed": 81,
+    "pass_rate": "40.9%",
+    "gate2_block_rate": "17.2%",
+    "gate2_samples": [
+      "Britain’s largest nursing union drops Teva sponsorship after pro-Palestinian pressure - Ynetnews",
+      "Boehringer, Dr. Reddy's Tee Up For 'Skinny Label' Showdown - Law360",
+      "8436 TCI 20260930 Investor Conference - finance.biggo.com",
+      "Lonza Group AG Balance Sheet – HAN:LO3 - TradingView",
+      "How Has Pfizer’s Story Changed? - Trefis"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為Novo、Lilly、輝瑞相關動態：「Down 70%, Novo Nordisk Bets $3.9 Billion to Outrun Eli Li...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Down 70%, Novo Nordisk Bets $3.9 Billion to Outrun Eli Lilly in the Weight-Lo...（藥物核准）",
+        "level": "yellow"
+      },
+      {
+        "text": "Eli Lilly’s best-ever weight loss data; Sanofi, Regeneron re-up for $1B upfro...（GLP-1 減重）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-03",
+  "total_events": 17,
+  "by_company": {
+    "teva": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "lonza": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pfizer": {
+      "count": 2,
+      "sentiment_avg": -1.0
+    },
+    "roche": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "merck": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "eli_lilly": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "novo_nordisk": {
+      "count": 4,
+      "sentiment_avg": -0.25
+    },
+    "cardinal": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "sanofi": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    }
+  },
+  "by_topic": {
+    "drug_approval": {
+      "count": 15,
+      "sentiment_avg": -0.27
+    },
+    "industry_general": {
+      "count": 11,
+      "sentiment_avg": -0.27
+    },
+    "glp1_obesity": {
+      "count": 5,
+      "sentiment_avg": -0.4
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "eli_lilly",
+      "to": "novo_nordisk",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "drug_approval",
+        "glp1_obesity"
+      ]
+    }
+  ]
+}
