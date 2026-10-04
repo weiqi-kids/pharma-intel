@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-04",
+  "total_events": 7,
+  "by_company": {
+    "dr_reddy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "lonza": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "catalent": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "roche": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "astrazeneca": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "sanofi": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "drug_approval": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 5,
+      "sentiment_avg": 0.1
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
