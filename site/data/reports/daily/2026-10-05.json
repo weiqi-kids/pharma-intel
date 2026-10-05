@@ -1,0 +1,308 @@
+{
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T17:01:58.150297Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sun_pharma-2026-10-05-003",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Healthcare, pharma shares extend decline for 3rd day; Sun Pharma, Dr. Reddy's among top losers - Moneycontrol.com",
+      "companies": [
+        "sun_pharma",
+        "dr_reddy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTkNvMzU1WngxVklKdHpyaktXZmZqV1pYZ2tHaGRIbWlOa25nbThKOThRTkpKZTBhRndLbHJ1MEdUbGotQW1oa3pSSFVQSDRwa1JMWEdFcUs4RVlaQ1ZxSThhUFJNMjFMSm05cllPd2w3dGRuUnYtbHAyc2pNUElUaGh3UklKN0xSYmVDS1ZKSUloVVZaR3VITzI1MDVRSW9ZNlZpaGNtRzdOZnNwLXFnT2F0b1E1UU95aEItSTBaR3p1QlpULXNCazJ0NWVvOWUtTVlDMlA4aHhiNFlP0gHiAUFVX3lxTE9ucWxqUDJaNEpMOGMxTzRTS1ZlVUhNX2d5V3hQTV9DYmk1d2Z5WDNMc3lEdVpBRVZOQ2JVM3drTGcyUkFTc2VLYWFpd0FZdklRLWsybHpYWTNVTVZLMHhaQkVvR1NJakY5c2hoYjFrLWhhREVIVnFxOXZmaEdnVU1sYjVoc3FCLUdSY01fNU9WbUU2ZzJuZWZZbmY3VF9MRWJDblRiMEJJNEdYbGdWZTJhLU1rc2NlRm1MZVZJOFExMFRLVjQ4MzctZTdEcWE3Zi1zejZBbXNmQ1h1TDNfZ3Nvcnc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "sun_pharma-2026-10-05-004",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Healthcare shares extend decline for 3rd day; Sun Pharma, Dr. Reddy's fall up to 1% - TradingView",
+      "companies": [
+        "sun_pharma",
+        "dr_reddy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOR2dwZHUyOF81VkNXbkpiWXFsaVd0T29PVVZZcGdlSGwzVC1Wb2hzd0VDRXROd2JVb1dIcWJUU1JUTVZCdk5oLWhpT0QyeTNqVlZkV3h0ZmhOejZYc2RIU2t2d0dCUW5pSGU3VEZreUxMRzNXZjNacVFBRF9iUlpibE5fZjZlU0JUckdBN0lkd0VnajluYWNFVHBQcjBZaUpWUXhjVEI3UFVPWndlVEI2TG1ZTFhuWGpuZE1la1cxMWRTdF91RHBhMFE0QjhLNURJdWtBUE81RU1jQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "pfizer-2026-10-05-045",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Vaxcyte skyrockets on ‘near best-case’ pneumococcal vaccine data",
+      "companies": [
+        "pfizer",
+        "merck"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.biopharmadive.com/news/vaxcyte-pneumococcal-vaccine-opus-study-results-prevnar-capvaxive/832095/"
+    },
+    {
+      "rank": 4,
+      "event_id": "novo_nordisk-2026-10-05-033",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Novo Nordisk Holds Its 2026 Outlook As FDA Review Of Its Blood Disorder Drug Runs Long - Stocktwits",
+      "companies": [
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQTVIQU1xVmttSU9fdlQ4U2VycmRxMlA4S19IVnA3bFVZQV9LUmJBQ1lLNk02S1UybzkzS0lNSEdYZkp5bkZpV1R1bmFWbEZxUzlZdTBRdVZxSXdZTTlWY05WYmtxX3dhWU12dTBBdEhzZ29DZ1FiWUFUc09QUmZOeFdLdkVzekZTRUpoVGotSzlaQ1J0SDJuVjV4bGotMDZSLTladE1wOUd3Zm50UXVxbnA0RllteDM2YVhpMHpZajlLb1FwMnl3TlIwRWdONG5idjN0NzNDX1Z2QQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "mckesson-2026-10-05-039",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "McKesson sets earnings range as Barclays targets McKesson stock at USD 1,000.00 - AD HOC NEWS",
+      "companies": [
+        "mckesson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWDQwLTBOTXY1V0RMaHZjY3lFRkR5US0tMFVXb0p1T0lTWGJjQmFMeHBoUnB1Q3VlX21qZHFaZkRvNWZCVVJjeVRBZ2xtQVRwazVVQkF5YjNZQk5LLWJKV2Rkdi1lQmRrcmJlN1F1YW42ZWhPTmFNZHkzNkN4cWFnLTV3cTF4Zk5paWJFM1ZMeGhtZ1RnSElURGlvNWNEX3pTVVZ3Rmc4TnduYnlUd1RBN0VQQTh2VWUyWkpNaWliVjdxN2NYc3A5R2NrTGNQdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 51,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 58,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "merck",
+      "to": "pfizer",
+      "relation": "co_mention",
+      "co_mention_count": 4,
+      "topics": [
+        "drug_approval",
+        "biotech_funding",
+        "industry_general"
+      ]
+    },
+    {
+      "from": "dr_reddy",
+      "to": "sun_pharma",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 70,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 60,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "merck",
+        "count": 9
+      },
+      {
+        "id": "astrazeneca",
+        "count": 8
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 8
+      },
+      {
+        "id": "pfizer",
+        "count": 6
+      },
+      {
+        "id": "roche",
+        "count": 5
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 58
+      },
+      {
+        "id": "drug_approval",
+        "count": 51
+      },
+      {
+        "id": "patent_cliff",
+        "count": 3
+      },
+      {
+        "id": "biotech_funding",
+        "count": 3
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 429,
+    "dup_title": 243,
+    "too_old": 62,
+    "gate1_blocked": 6,
+    "gate2_blocked": 31,
+    "passed": 87,
+    "pass_rate": "46.8%",
+    "gate2_block_rate": "16.7%",
+    "gate2_samples": [
+      "Teva Presents New Efficacy and Safety Data with Ecopipam, - GlobeNewswire",
+      "Quality Assurance Jobs at Dr. Reddy’s Laboratories | Apply Online Now - BioTecNika",
+      "Boehringer, Dr. Reddy's Tee Up For 'Skinny Label' Showdown - Law360",
+      "8436 TCI 20260930 Investor Conference - finance.biggo.com",
+      "Other financing cash flow items (total) of Lonza Group AG – BX:LO3 - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 70 則事件，焦點為Merck、AZ、Novo相關動態：「Healthcare, pharma shares extend decline for 3rd day; Sun...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Healthcare, pharma shares extend decline for 3rd day; Sun Pharma, Dr. Reddy's...（產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Healthcare shares extend decline for 3rd day; Sun Pharma, Dr. Reddy's fall up...（藥物核准、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
