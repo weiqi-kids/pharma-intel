@@ -1,0 +1,16 @@
+{
+  "total_raw": 433,
+  "dup_title": 220,
+  "no_date": 0,
+  "too_old": 66,
+  "gate1_fail": 9,
+  "gate2_fail": 32,
+  "passed": 106,
+  "gate2_samples": [
+    "Boehringer, Dr. Reddy's Tee Up For 'Skinny Label' Showdown - Law360",
+    "8436 TCI 20260930 Investor Conference - finance.biggo.com",
+    "Other financing cash flow items (total) of Lonza Group AG – BX:LO3 - TradingView",
+    "EUREX:LONPV2026 Seasonals Chart - TradingView",
+    "Dilution adjustment of Lonza Group AG – HAN:LO3 - TradingView"
+  ]
+}

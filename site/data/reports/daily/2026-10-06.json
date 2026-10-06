@@ -1,0 +1,276 @@
+{
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T14:58:18.500125Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "jnj-2026-10-06-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Johnson & Johnson (JNJ) Earnings Expected to Grow: Should You Buy? - Yahoo Finance",
+      "companies": [
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUHd0dHowM3RqZnlZMl9NQUJsMFN3LWJCVjZzYUw0MDVCVjFlT1hRUjFBYlIzVlVOOUlMSXFRandmY05XUllWOC05d0ZZdVNPcVpRRk9Jd1VuLXlnYThKb3d2bFZDOWNOZnNVdVE5d1RNX29xRk1EUWp5THZIRGotNk53NWU5bTJfel9iLXdqSElYaEx4ODhZSGRqNFZGLWZ1N2kxSg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "jnj-2026-10-06-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Johnson & Johnson shares may move 3% on earnings next week - Investing.com",
+      "companies": [
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "patent_cliff",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTGh6Y004QUdQTmYyS2lnTDk0OTBwclJfN3JEay1vYmdwMzZTT0JPWk9pLTVPWXF4WXpYTlloeXRJdFp5enB1anp0N1RrVnZZWG5xSjNadHlJUHA4WVZ1MlA1LUJYTE1QSmxOUklxdHQzaUUyTldQZkV0SVdxX0M4SlNFdlVmZy15QTU5ejFQdHZnS0ZOQk5JTDYwOERPQWp1U3NFd3gxbmJTeFB0Ql9OTkd5VkpHTEk1YWc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-06-052",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "STAT+: FDA spells out 2027 AI guidance plans",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.statnews.com/2026/10/06/fda-spells-out-2027-ai-guidance-plans-health-tech/?utm_campaign=rss"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-06-055",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "STAT+: Can you live longer for $5,500? Longevity clinics are the buzzy new trend at nonprofit hospitals",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.statnews.com/2026/10/06/hospitals-longevity-clinics-healthy-aging-wellness-trend/?utm_campaign=rss"
+    },
+    {
+      "rank": 5,
+      "event_id": "sun_pharma-2026-10-06-004",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "3 Pharma Stocks With a Strong Future Roadmap: Sun Pharmaceutical Industries, Cipla and Dr. Reddy's Laboratories - Univest",
+      "companies": [
+        "sun_pharma",
+        "dr_reddy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqN1lRTjRweGRBY2RJcGlVWXNxV3d3VU5aXzZ0QVBWa1YySnNmclNHVTVHSWZTZ3pGa284RFM3cVRza21xTG1UTklyS2R5Z0g5WFZvRWFMaWFlR0hoSjU3RDZ3MA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 45,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 34,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 55,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 52,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "astrazeneca",
+        "count": 10
+      },
+      {
+        "id": "jnj",
+        "count": 9
+      },
+      {
+        "id": "mckesson",
+        "count": 5
+      },
+      {
+        "id": "roche",
+        "count": 4
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 45
+      },
+      {
+        "id": "industry_general",
+        "count": 34
+      },
+      {
+        "id": "patent_cliff",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "biotech_funding",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 433,
+    "dup_title": 220,
+    "too_old": 66,
+    "gate1_blocked": 9,
+    "gate2_blocked": 32,
+    "passed": 106,
+    "pass_rate": "49.8%",
+    "gate2_block_rate": "15.0%",
+    "gate2_samples": [
+      "Boehringer, Dr. Reddy's Tee Up For 'Skinny Label' Showdown - Law360",
+      "8436 TCI 20260930 Investor Conference - finance.biggo.com",
+      "Other financing cash flow items (total) of Lonza Group AG – BX:LO3 - TradingView",
+      "EUREX:LONPV2026 Seasonals Chart - TradingView",
+      "Dilution adjustment of Lonza Group AG – HAN:LO3 - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 55 則事件，焦點為AZ、J&J、McKesson相關動態：「Johnson & Johnson (JNJ) Earnings Expected to Grow: Should...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Johnson & Johnson (JNJ) Earnings Expected to Grow: Should You Buy? - Yahoo Fi...（藥物核准、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Johnson & Johnson shares may move 3% on earnings next week - Investing.com（藥物核准、專利懸崖、法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
