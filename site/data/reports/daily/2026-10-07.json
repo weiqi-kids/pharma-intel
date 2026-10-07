@@ -1,0 +1,267 @@
+{
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T15:25:35.799239Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-07-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A 10 a.m. ET earnings call is scheduled for October 23 at Dr. Reddy’s (RDY). - Stock Titan",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTDJoRkM0UXZSb1M3S1BTdThzRTJMVGhnUkMzTG1McEN1R1lyN3NQYkN0UnZPczJEd2V2MUk2RjZSbjdGZWliblh3cHFjS3BvSWV4Sl9UVC1CX1dwNldpMlZweTNlWVpFakp0Q3Vxc3NWQUNPcFhMaWxuSXVsbzZRR3A4TW5ZWWRPQTVfUjZlSGlFWGU2RVNpazVYNWt5bFZBRy1HMllvdXhFUTl0d2d6UXZWVS16Y0g0eWdOcHV3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-07-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Dr Reddy's Q2FY27 Results: Earnings call scheduled for Oct 23 at 7:30 pm - scanx.trade",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQVRLZk9UVE1lSTU1WEdnenR6bUNPU1JYX3N3MS1BQno0MV9KXzQwcGFRY29ERldORnRtUnktLU5ZNUZiMktMallBZ3NmdW1uUGNnYy1TNW9qZzFGbW9KaTE4eFVsaVJteGxESkpvMzdkdmFpVTZLT2h6WFl3VFZaUzRkSjV3WW8ybVNkOVY5dVZWMGF3aFhyQ1g1S181WVFnNVd3Nmd6NXJUZ29fSVNFbGtTeVlFbXFoM0VUdUF3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "jnj-2026-10-07-018",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Johnson & Johnson (NYSE:JNJ) Pricing Pact Eases Overhang Before Earnings - Kalkine Media",
+      "companies": [
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb1p1QWpTU3BQT3BGVHFyMGczcHNISmJzUXh2bDgxaXlENUFJaFpJRV9fSFN3Yk9PNkNLWVJNUUNrWkRjV2tSVWdkaW5sa094U0stdUg5T1d2eFBpc3RtTTRsZERoM2FoaEM2RXhEVUhFTGpvNnQ5bXJ4MnJxbDU4bnREcmpzUC1mRkU1c0tBd010Zm5oaGhDOEJPUHNKTC1tVlVaX3lwWWJwVWt1TVJuTQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-07-048",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "NICE backs Tryngolza for FCS treatment",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://pharmatimes.com/news/nice-backs-tryngolza-for-fcs-treatment/"
+    },
+    {
+      "rank": 5,
+      "event_id": "merck-2026-10-07-017",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "24/7 Market News Highlights NeOnc, Revolution Medicines, Moderna, Merck, Johnson & Johnson and Genmab, AbbVie in 2026 Cancer Treatment Advances - Quiver Quantitative",
+      "companies": [
+        "merck",
+        "jnj",
+        "abbvie"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNWXB6REI5M2xWMXhiRTVZbllXTjFJWmUxSlJPX3FzM2ZsYVlmV3FrM3pncXVfbm01Umxqd1RfR0sxWl9uRmpWeHUwd25TN2dJR3Q4Nlh2U2QtMWNlYV9HNkFKemlsZVJfa3lQRTA1X1A1UWFaMDMxeEpvbEY2cUpUY1lLbEdUN2FQWWdPMG43dzdCdTVqclY2VEJFa2N4ZmQ0T2plLVNKTVlJMThBMlJuZ3JqeWc3SzdqV2U3bnN4UkVjN2MxU2tYSjdjM2dZNUdKbEs4OUpLeC0xdzJmVzFJMVRYVU9UbDlJODk4ZlBiSkxTT3NwWVZVWUdjZFVqdk1TZFU5RmJ4WnlJRWdHcHJQbTJBUmx0YjNTOXc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 49,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    },
+    "drug_approval": {
+      "today": 47,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.42,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 62,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 57,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "jnj",
+        "count": 8
+      },
+      {
+        "id": "merck",
+        "count": 8
+      },
+      {
+        "id": "astrazeneca",
+        "count": 6
+      },
+      {
+        "id": "lonza",
+        "count": 4
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 49
+      },
+      {
+        "id": "drug_approval",
+        "count": 47
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 3
+      },
+      {
+        "id": "biotech_funding",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 434,
+    "dup_title": 243,
+    "too_old": 60,
+    "gate1_blocked": 11,
+    "gate2_blocked": 20,
+    "passed": 100,
+    "pass_rate": "52.4%",
+    "gate2_block_rate": "10.5%",
+    "gate2_samples": [
+      "Boehringer, Dr. Reddy's Tee Up For 'Skinny Label' Showdown - Law360",
+      "8436 TCI 20260930 Investor Conference - finance.biggo.com",
+      "Other financing cash flow items (total) of Lonza Group AG – BX:LO3 - TradingView",
+      "EUREX:LONPV2026 Seasonals Chart - TradingView",
+      "Pfizer’s Turnaround Could Be Bigger Than Investors Think, Set For 20% Upside - 24/7 Wall St."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 62 則事件，焦點為J&J、Merck、AZ相關動態：「A 10 a.m. ET earnings call is scheduled for October 23 at...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "A 10 a.m. ET earnings call is scheduled for October 23 at Dr. Reddy’s (RDY). ...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Dr Reddy's Q2FY27 Results: Earnings call scheduled for Oct 23 at 7:30 pm - sc...（藥物核准、法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

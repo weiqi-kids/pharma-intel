@@ -1,0 +1,16 @@
+{
+  "total_raw": 434,
+  "dup_title": 243,
+  "no_date": 0,
+  "too_old": 60,
+  "gate1_fail": 11,
+  "gate2_fail": 20,
+  "passed": 100,
+  "gate2_samples": [
+    "Boehringer, Dr. Reddy's Tee Up For 'Skinny Label' Showdown - Law360",
+    "8436 TCI 20260930 Investor Conference - finance.biggo.com",
+    "Other financing cash flow items (total) of Lonza Group AG – BX:LO3 - TradingView",
+    "EUREX:LONPV2026 Seasonals Chart - TradingView",
+    "Pfizer’s Turnaround Could Be Bigger Than Investors Think, Set For 20% Upside - 24/7 Wall St."
+  ]
+}
