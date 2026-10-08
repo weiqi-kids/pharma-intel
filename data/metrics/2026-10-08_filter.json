@@ -1,0 +1,16 @@
+{
+  "total_raw": 430,
+  "dup_title": 234,
+  "no_date": 0,
+  "too_old": 60,
+  "gate1_fail": 9,
+  "gate2_fail": 30,
+  "passed": 97,
+  "gate2_samples": [
+    "Teva Presents New Efficacy and Safety Data with Ecopipam, - GlobeNewswire",
+    "Dr. Reddy’s facility in Andhra Pradesh gets 2 U.S. FDA observations - The Hindu",
+    "Dr. Reddy's: USFDA Issues Form 483 With Two Observations For FTO-11 Facility - Sahi",
+    "8436 TCI 20260930 Investor Conference - finance.biggo.com",
+    "Other financing cash flow items (total) of Lonza Group AG – BX:LO3 - TradingView"
+  ]
+}
