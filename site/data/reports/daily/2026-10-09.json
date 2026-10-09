@@ -1,0 +1,282 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T15:09:52.725916Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-09-016",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cantor Fitzgerald Lifts Price Targets on Four Pharma Giants Amid Mixed Growth Outlooks - 24/7 Wall St.",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYnZ1TThncjdTUVJEbGRnMWNvMFh0MURVT1Y2MnFvNGdhUy1VRUJCbFN1V01JRzktbDVfZWJhU01DTU92TllOWUFGOFJseEFzWHVBSkJaZ1ptWjNiWWRVellDblB5bEhmY1dpSkpvUGE2cERIa2VLSXYtUEtkdzRHUHVWdWloTlRIV1FNSUNyU0l4a2dxcF9uQXduRG1zZXQ3RWFhZ2hkTERQQjhkR0U4V3RrTlhpNmw1bGhoZG9Ja3FkWHRNUndIX3pR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "novo_nordisk-2026-10-09-036",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Citi Cuts Novo Nordisk Price Target to DKK 296 on Limited Margin Growth Outlook - Yahoo Finance",
+      "companies": [
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYUhkdWlHY0plUFBvS3U5QlBOSThreVlfWnFIS0hRM1A5RlhhY3IzSVRFZXJNLTNsdmxMNXNqbl9KbkhxWWF6YUdXbldOX09ZS0ZQM0VyeEFMUXk5WVJBc2lGaFlXOGpaU1ZmR1B5MjZTV0dSTk96TkwtZ2txdnB3THJRbjlTeE1RdkEzSmFMaXQzTDg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "novo_nordisk-2026-10-09-039",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Citi raises Wegovy pill forecast but trims Novo’s long-term growth outlook - MedWatch",
+      "companies": [
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OYjdVcnRPYnU3ZDhjaXg4a2E4eWZMdGRIMFFFbkgzRmpYRm5NdTRzUUdtOWFUYmw2aDJ6X1BueXZXc3RINlpnVHRaXzZmcEVid0pTM1dqdFd4RXQ4RFY2ZjY4NGUtQm9UV0UxTDYyZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "novo_nordisk-2026-10-09-040",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "UBS Analyst Is Bullish on Eli Lilly, but Novo Nordisk Is Not Necessarily a Value Trap - NAI500",
+      "companies": [
+        "novo_nordisk",
+        "eli_lilly"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZUpZVDNRaEJXMXlOV0pvODhxQmZiWWpUbFJGSEpYSGU0dnZvb2g2Sno0anFOUEZHRDdFUHRkNjlsNGVhSmdQU0V0SUxXYW8yNDVQbWlEbFFrazJHb3ZQNnpkV2xtWk9icWxuNkFsOER0UmpFSnhBQXZ5TGJja0NWSjNoLXZmWnA3bEpMNWlGdFp6c05FT1ZBdnpkSk9CMlIxQWlMaTM2TzBFcnZobTZDOEk4NDRqYUVl?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "pfizer-2026-10-09-019",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "pfizer new oral weight loss drug - BusinessWorld Online",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5CZjNicEtvd2pvTjB2TWJTZDEwOXVBOFZkVm5KVW04RU1HTElnei1OM0RVaDZoYnNHdDFudVlNTDVRNElNcG1wQUItZFlibGRZQ0pZR1JLcmtTRGIzaHlXaWVIazFid084QnM4V3Ffbi0wZ2pqMkxUc01n?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 46,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.01,
+      "sentiment_7d_avg": null
+    },
+    "drug_approval": {
+      "today": 42,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 53,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 44,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "novo_nordisk",
+        "count": 7
+      },
+      {
+        "id": "teva",
+        "count": 6
+      },
+      {
+        "id": "pfizer",
+        "count": 5
+      },
+      {
+        "id": "merck",
+        "count": 5
+      },
+      {
+        "id": "eli_lilly",
+        "count": 5
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 46
+      },
+      {
+        "id": "drug_approval",
+        "count": 42
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 7
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "biotech_funding",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 432,
+    "dup_title": 242,
+    "too_old": 63,
+    "gate1_blocked": 14,
+    "gate2_blocked": 24,
+    "passed": 89,
+    "pass_rate": "46.8%",
+    "gate2_block_rate": "12.6%",
+    "gate2_samples": [
+      "VANGUARD ADVICE SELECT INTERNATIONAL GROWTH FUND's Lonza Group Ltd(XSWX:LONN) Holding History - Guru",
+      "Other financing cash flow items (total) of Lonza Group AG – BX:LO3 - TradingView",
+      "EUREX:LONPV2026 Seasonals Chart - TradingView",
+      "Amgen (AMGN) and Johnson & Johnson (JNJ) Catch Jim Cramer’s Eye for Different Reasons - Yahoo Financ",
+      "Prediction: Johnson & Johnson Will Be a Faster-Growing Company by 2030 Than Most Investors Expect - "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 53 則事件，焦點為Novo、Teva、輝瑞相關動態：「Cantor Fitzgerald Lifts Price Targets on Four Pharma Gian...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Cantor Fitzgerald Lifts Price Targets on Four Pharma Giants Amid Mixed Growth...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Citi Cuts Novo Nordisk Price Target to DKK 296 on Limited Margin Growth Outlo...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
