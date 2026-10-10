@@ -1,0 +1,16 @@
+{
+  "total_raw": 434,
+  "dup_title": 283,
+  "no_date": 0,
+  "too_old": 64,
+  "gate1_fail": 10,
+  "gate2_fail": 28,
+  "passed": 49,
+  "gate2_samples": [
+    "FDA Approves Teva's New Once-Monthly Schizophrenia Injection - Benzinga",
+    "VANGUARD ADVICE SELECT INTERNATIONAL GROWTH FUND's Lonza Group Ltd(XSWX:LONN) Holding History - Guru",
+    "Other financing cash flow items (total) of Lonza Group AG – BX:LO3 - TradingView",
+    "Longtime Pfizer lobbyist running for competitive seat in Minnesota House - Alpha News MN",
+    "What is lifting Pfizer (NYSE:PFE) as the healthcare group steadies today? - Kalkine Media"
+  ]
+}
