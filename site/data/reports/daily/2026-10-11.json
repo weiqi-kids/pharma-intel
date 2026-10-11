@@ -1,0 +1,259 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T14:49:47.302685Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mckesson-2026-10-11-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Revenue per share of McKesson Corporation – VIE:MCK - TradingView",
+      "companies": [
+        "mckesson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLWZyTnFjcmIwNEViU1BCTUMyTmlQWHlhVHo4eFZxMmRpOEJkaW9jSHE5c3lZamMzZERBTmliWl9OQXZJVG9HSUJKd1ZiUjBIUFg5d01samVFN3Rfb3ktZnQyVGJiTURJQlA2TFh0YmxpaGYtRjJyNGN3VHdVeEdLQ0pMcnRLQ1pabnF0MXVPem9VYlJlekxMYXJTRQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "pfizer-2026-10-11-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "is pfizer working on a weight loss drug - Olhar Digital",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUURMZTF0bEVBVWNyQzhTdkJ0aWp5dnV6QlFtNmUzWnVoakxIYXNSR2tyMGRjWTVkOEFuSVlTc3RYOVdodWhmQVUzcnpYbzljNTB4Yndndm04WGNOTVVYOXlmVV8zT2tSR3BJWWplUXF6NktRSUtpY3pOQTR6blk1WnYwNW1HZ29TUTg0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "pfizer-2026-10-11-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "is pfizer developing a weight loss drug - Olhar Digital",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdUg1TkNhUU9wN3VScjZvczFhRFV2NVpTcGxnVDZ4Y1BNa3YySUdWeW5Pbzh1aGJvQmlpakFBOEJwWFE2M2V6V1AySEFLTkhUVmZGYUxMdHhyRTVVQm85MEJSbE1RRVBfRXdmZm5USHE5TTYyRS1SM3VWVGNNNXZ6dG9Bb09oSzhxdWxpQVVn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "pfizer-2026-10-11-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "pfizer weight loss drug development 2025 - Olhar Digital",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMjlaemtXN0lxQl9XXzhzRHBOUWlFQUhUSVR6TWpDMGt3RGFwUXppLTlDY1BCM3l0cmhfVXhPNkdYS1I2ODEwWkpuOG5XU3YxSEs5UkNQWmktX0VVQ1dtRlR3djhpbFJiMzZob192STBXd2hmaDdWcUZxaHZEM09ZVGV6TmZMMnhHM3BabjUtTQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "novo_nordisk-2026-10-11-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Novo Nordisk CEO Stresses 'Quality of Weight Loss' in Obesity Drugs - 조선일보",
+      "companies": [
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSFJRSmhWbHZUbXI4VmFLbDl0OEliUUFUUWhjTzY2ZGV5OWtBWk5TOFhwc1llWGdkSmlPT3dxSkg1eEVrOE9HSEhOQkFtN0o4N2Nva1AzbFdlTGdMNnpKZ2JqSXNYWHhnVkFFUGE1ZnpFSVFfR3FMUHJKSzFZdXY4MG0tRVFXTUZZ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.18,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 6,
+      "negative": 6
+    },
+    "top_companies": [
+      {
+        "id": "novo_nordisk",
+        "count": 4
+      },
+      {
+        "id": "pfizer",
+        "count": 3
+      },
+      {
+        "id": "jnj",
+        "count": 2
+      },
+      {
+        "id": "teva",
+        "count": 1
+      },
+      {
+        "id": "roche",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 15
+      },
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 8
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 433,
+    "dup_title": 296,
+    "too_old": 73,
+    "gate1_blocked": 10,
+    "gate2_blocked": 18,
+    "passed": 36,
+    "pass_rate": "26.3%",
+    "gate2_block_rate": "13.1%",
+    "gate2_samples": [
+      "VANGUARD ADVICE SELECT INTERNATIONAL GROWTH FUND's Lonza Group Ltd(XSWX:LONN) Holding History - Guru",
+      "Pfizer to close penicillin unit, cut around 330 jobs in Italy (PFE:NYSE) - Seeking Alpha",
+      "Prediction: Johnson & Johnson Will Be a Faster-Growing Company by 2030 Than Most Investors Expect - ",
+      "Amgen (AMGN) and Johnson & Johnson (JNJ) Catch Jim Cramer’s Eye for Different Reasons - Yahoo Financ",
+      "Prediction: Johnson & Johnson Will Be a Faster-Growing Company by 2030 Than Most Investors Expect - "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為Novo、輝瑞、J&J相關動態：「Revenue per share of McKesson Corporation – VIE:MCK - Tra...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Revenue per share of McKesson Corporation – VIE:MCK - TradingView（藥物核准、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "is pfizer working on a weight loss drug - Olhar Digital（藥物核准、GLP-1 減重、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
