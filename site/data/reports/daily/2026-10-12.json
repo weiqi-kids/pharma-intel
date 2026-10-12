@@ -1,0 +1,295 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T17:39:08.062507Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "bora-2026-10-12-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Taiwan's Bora Pharmaceuticals Posts Record September Revenue of NT$2.33 Billion, Up 35% Year-over-Year - BigGo Finance",
+      "companies": [
+        "bora"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Tb3gtUkZ1X2hlMzZRMXlkSmJxNUYzTDNFTUNydS1XZUxKQW1jc2VCb2MxLXI0TUIwUTN4WDFwZnlDOVFqU1o3Zmt1ZHFRdkVTeWhTa3REN2Q0cnRYV2oydWRUV1M3aFZubEhYdWZ5VzRsaHZYOEE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "sanofi-2026-10-12-058",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Pharma’s $500B patent problem will come in waves — not as a cliff",
+      "companies": [
+        "sanofi",
+        "merck",
+        "abbvie"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.biopharmadive.com/news/pharma-patent-cliff-merck-abbvie-dealmaking/832700/"
+    },
+    {
+      "rank": 3,
+      "event_id": "jnj-2026-10-12-015",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Here’s How Much Johnson & Johnson Stock Is Expected to Move After Earnings - Yahoo Finance",
+      "companies": [
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRU9WYWN6LW5ISHVGVS1pbTR6cFY4MEh3SzdMRmk3X04xYl9SM3BiUlBxcHJfY2FYRnRGcGR1anBKRFZuSmRiYkpSaGtleHVlOWdoa0FPRzVaZGk3Y1RscHAtTU9EUGF4WU9iWjd4MFpZaThhMGowTjNZNjYzZDBpRlp6eWFPYVNuSnA1dnowS0xxRXdIcjdPQjRTWTZvZXJ3Wnc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "jnj-2026-10-12-016",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Johnson & Johnson earnings on deck: What to expect (JNJ:NYSE) - Seeking Alpha",
+      "companies": [
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVWhIOUk4NUxsajhyTHVPNll5RDhSR3JZYldyLXlGelNidGI4REM5QmxqUDM4UnJKek9ackNNMnBZWFhCNHpiUjdtNE9UUGhJLUxyS2R4Sl9UODBkbWdiaFkybHVpVmdJYlFEQWdxcjQ5VjQ1SmVzSXZiUXpYcGdQbTZCTERkdXVLTWtfN0FB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "jnj-2026-10-12-019",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Johnson & Johnson earnings on deck: What to expect - TradingView",
+      "companies": [
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTlFyUWx0NkFRN1FOUDN4RTNMZDFUY3p6R3p1ZGpPdWQ4b2p6M2dQQUwxelozYUl1MmZEOFFKXzVleEN0TDdYN013UmFSOENKbjZmLVJRTGo1TTZtSlZSREZjSTJoZ1ZsRzF3UzgwRlhuNFBnYVVtNXRwcXdld2E2U3AwREZrR2VsZjZXSmtjOXotM055QXdyR2pVS01pUDdOdlMwVkVZZnRkeGZPR0Nn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 57,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.01,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 59,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.35,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "jnj",
+      "to": "pfizer",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 67,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 56,
+      "negative": 7
+    },
+    "top_companies": [
+      {
+        "id": "merck",
+        "count": 12
+      },
+      {
+        "id": "jnj",
+        "count": 8
+      },
+      {
+        "id": "astrazeneca",
+        "count": 7
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 7
+      },
+      {
+        "id": "lonza",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 59
+      },
+      {
+        "id": "drug_approval",
+        "count": 57
+      },
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 5
+      },
+      {
+        "id": "patent_cliff",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 432,
+    "dup_title": 245,
+    "too_old": 70,
+    "gate1_blocked": 11,
+    "gate2_blocked": 20,
+    "passed": 86,
+    "pass_rate": "46.0%",
+    "gate2_block_rate": "10.7%",
+    "gate2_samples": [
+      "Dr. Reddy's Laboratories appoints Devang Mehta as Category Head Marketing, GI Portfolio - KARV Tech ",
+      "Weekly Recap: FSSAI notices on Celevida claims and rupee-driven FX gains - TradingView",
+      "VANGUARD ADVICE SELECT INTERNATIONAL GROWTH FUND's Lonza Group Ltd(XSWX:LONN) Holding History - Guru",
+      "Johnson & Johnson and UnitedHealth Report the Same Morning. Here’s What Matters. - 24/7 Wall St.",
+      "Prediction: Johnson & Johnson Will Be a Faster-Growing Company by 2030 Than Most Investors Expect - "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 67 則事件，焦點為Merck、J&J、AZ相關動態：「Taiwan's Bora Pharmaceuticals Posts Record September Reve...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Taiwan's Bora Pharmaceuticals Posts Record September Revenue of NT$2.33 Billi...（藥物核准、法說會、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Pharma’s $500B patent problem will come in waves — not as a cliff（產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
