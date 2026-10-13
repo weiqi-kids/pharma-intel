@@ -1,0 +1,16 @@
+{
+  "total_raw": 435,
+  "dup_title": 262,
+  "no_date": 0,
+  "too_old": 69,
+  "gate1_fail": 12,
+  "gate2_fail": 17,
+  "passed": 75,
+  "gate2_samples": [
+    "Dr. Reddy's Laboratories appoints Devang Mehta as Category Head Marketing, GI Portfolio - KARV Tech ",
+    "Free float of Lonza Group AG – HAN:LO3 - TradingView",
+    "VANGUARD ADVICE SELECT INTERNATIONAL GROWTH FUND's Lonza Group Ltd(XSWX:LONN) Holding History - Guru",
+    "Johnson & Johnson CFO Joseph Wolk on the company’s Q3 results - CNBC",
+    "Roche Holding (SWX:ROP) Ebola Testing Support Keeps Fair Value In Focus - Yahoo Finance"
+  ]
+}
