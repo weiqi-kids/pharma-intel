@@ -1,0 +1,16 @@
+{
+  "total_raw": 432,
+  "dup_title": 235,
+  "no_date": 0,
+  "too_old": 69,
+  "gate1_fail": 12,
+  "gate2_fail": 22,
+  "passed": 94,
+  "gate2_samples": [
+    "Dr. Reddy's Laboratories appoints Devang Mehta as Category Head Marketing, GI Portfolio - KARV Tech ",
+    "Lonza raises mid-term margin goal, says Q3 in line with expectations - Investing.com",
+    "VANGUARD ADVICE SELECT INTERNATIONAL GROWTH FUND's Lonza Group Ltd(XSWX:LONN) Holding History - Guru",
+    "Free float of Lonza Group AG – HAN:LO3 - TradingView",
+    "Johnson & Johnson MedTech sets mid-2027 target for ortho spinoff, as Q3 device sales disappoint - Ma"
+  ]
+}
