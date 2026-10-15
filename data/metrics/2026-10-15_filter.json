@@ -1,0 +1,16 @@
+{
+  "total_raw": 431,
+  "dup_title": 234,
+  "no_date": 0,
+  "too_old": 70,
+  "gate1_fail": 11,
+  "gate2_fail": 26,
+  "passed": 90,
+  "gate2_samples": [
+    "Dr. Reddy's Laboratories appoints Devang Mehta as Category Head Marketing, GI Portfolio - KARV Tech ",
+    "Lonza Group (SWX:LONN) Lifted Its Targets, Is The Upside Already Priced In? - Yahoo Finance",
+    "Free float of Lonza Group AG – HAN:LO3 - TradingView",
+    "J&J’s medtech business slows again in Q3 - MedTech Dive",
+    "J&J Is Leaning Toward Spinning Out Its Hips-And-Knees Business - WSJ"
+  ]
+}

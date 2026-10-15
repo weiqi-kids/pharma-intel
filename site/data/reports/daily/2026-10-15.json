@@ -1,0 +1,269 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T13:14:34.134508Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "jnj-2026-10-15-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Johnson & Johnson (JNJ) Stock Rebounds While Earnings Power Keeps Eroding - Simply Wall Street",
+      "companies": [
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTmxKMTlZQVBYbUlPdXo4RThXRXFoVndlZkpHa2dZVF9CcVE3eGVSU0VhaFVmWXBhb0FvOTYwanNKdWZrVjh4eElUaFRPLUtkcUp2b2hiQ25LUjl6R1dMSk5Wb0c4Ym84RVplWXRtVFJCT3VtaHVtMXdaRTNwZjBGWlhsWllsdWhOcXR1dWg4NDN1clRMUHJaTEhJZ1N5TDJianA2Wk5ETnB1U3NoNkNkUUd5QzBzSDB0eWpvRW9YTkwzNU5rdndNZ3lfUm1DZlRxYm1lVzZmMmx4TDJoTWo00gHkAUFVX3lxTE5zbW5IOGVkZHJfRlliZWp6S1NVdEtZVi1acm0wSXA0YTdXNHJhb3VBdjEtdF9pMnRNYTBGLVd0VEdtS1hiNzJYUWItZ0JhQzhJdUdBMVd0ak1la1BVV1BLLXZyZVBqYkJMbFlVS3ZUa1ZwQ3pGSUZXQ0poakZ1VUhMU3NfU0g2d0RfOGFDMnVRRXNzM1dDVVFxTnRnaElTX05iOVE0bFNBeXRRNXJSd1dsLTg4VW5xU0NSclA2eklJWGhFNmdvUDRRQ2ZGdTNSTFpoOWRveWFSSHRFSUpDODM5Znd6LQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "merck-2026-10-15-024",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Merck & Co. (NYSE:MRK): A Quality Investing Case With Strong ROIC but Revenue Growth Concerns - ChartMill",
+      "companies": [
+        "merck"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdVZMQUtyQTNIOUxZS2F3bFBZVlZWbXNHdmd5Y3FJMktISkFlYnJTMUJCcWF5VFkwVkhQS2lvYnFMb0JRQk9jNk5RQm85RTRpbndfd251bkJZTGFmSlBUQWJmal9hWVdPN3lNc0t3aExveU5FNTFyNEJKMG9jcUtGYXk2RWFWTlVBN2RxcjYtT240ZDNOcHRtWlVjZ0hka0R4LTkweHBaUm15UW1qQWFVXzlrNERuLTlUbWRaMDRoM0k4MDEzRVdkRGZEWHAzbURWUld3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "pfizer-2026-10-15-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "pfizer new drug for weight loss - BusinessWorld Online",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01eXVVbEphQU1zSS1pajRxTHVHR05WQUV0ZllBVlRkQkowZXV2NXc5ek9yNHR6blloc2xqWTZsNHlPbmktUUNZWERzZDUtSjBJUmtOcXdyUGNmTkxmdHg1ekR5UWgyUlNuenhmRmdCRmU2ZlMyS0RWTWp3SUIzZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "novo_nordisk-2026-10-15-033",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "novo nordisk new weight loss drug - BusinessWorld Online",
+      "companies": [
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdEJtZXR6WDBPNmVqa3hyWFpyVkdkQTY0X3F6TUxJM3M1eWlJLXRhdXJXQVBwSUtkZzNTZTBURml6MHh4UWxsRlBScDRuVXF3VDVDdnpNeUVWaktiT2lCUlBicWpwakU4XzNXc0w2TVh3azVtSU0yWXJYUW5XT1hZVQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "teva-2026-10-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cash per share of Teva Pharmaceutical Industries Limited – BIVA:TEVA1/N - TradingView",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMWFLT1Bkd0M4Y3hDYWZCbDBDcl9KOXRoNERCa2oxUGxOWG1zYmZRdE9COVphNXpjMWxqVVVJcm1fSDZLMzVEX3N4NUswMTFMaFJ0ajVGbzN5WndIYmd3alVxTU1LUHBkZmoxZjdlQTlJd21TVUFXM0lncEt1dlkwd3NaczhlTUFmeExyTHZwWUdkR3R1OUc3cVVzUW5mdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 36,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 40,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.01,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 48,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 44,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "astrazeneca",
+        "count": 12
+      },
+      {
+        "id": "merck",
+        "count": 9
+      },
+      {
+        "id": "pfizer",
+        "count": 3
+      },
+      {
+        "id": "sanofi",
+        "count": 3
+      },
+      {
+        "id": "dr_reddy",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 40
+      },
+      {
+        "id": "drug_approval",
+        "count": 36
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "biotech_funding",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 431,
+    "dup_title": 234,
+    "too_old": 70,
+    "gate1_blocked": 11,
+    "gate2_blocked": 26,
+    "passed": 90,
+    "pass_rate": "45.7%",
+    "gate2_block_rate": "13.2%",
+    "gate2_samples": [
+      "Dr. Reddy's Laboratories appoints Devang Mehta as Category Head Marketing, GI Portfolio - KARV Tech ",
+      "Lonza Group (SWX:LONN) Lifted Its Targets, Is The Upside Already Priced In? - Yahoo Finance",
+      "Free float of Lonza Group AG – HAN:LO3 - TradingView",
+      "J&J’s medtech business slows again in Q3 - MedTech Dive",
+      "J&J Is Leaning Toward Spinning Out Its Hips-And-Knees Business - WSJ"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 48 則事件，焦點為AZ、Merck、輝瑞相關動態：「Johnson & Johnson (JNJ) Stock Rebounds While Earnings Pow...」。主要關注主題為產業通用、藥物核准、GLP-1 減重，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Johnson & Johnson (JNJ) Stock Rebounds While Earnings Power Keeps Eroding - S...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Merck & Co. (NYSE:MRK): A Quality Investing Case With Strong ROIC but Revenue...（藥物核准、法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
