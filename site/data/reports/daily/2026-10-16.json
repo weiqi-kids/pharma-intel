@@ -1,0 +1,280 @@
+{
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T13:08:07.190833Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "dr_reddy-2026-10-16-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Dr. Reddy's Laboratories (RDY) Expected to Announce Quarterly Earnings on Friday - MarketBeat",
+      "companies": [
+        "dr_reddy"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUnV4QWQtb2ZwaTZxSlZ1ZGl4RGZ1clFaT0tLSkJfSnpOM0pmM1dIQlRhczZZN1pLc19VVWsycGJSWGItVndYX3NxdmZ2cE43azdMWUk5cGVJa04ybUozMU9feVh6NkRPSWV6LVZZOXJIVmd6YTdpaE9NRXhtLVJNYTd2UEl5TVJFdHJDZEtSdUZXZDBnLU9ad0p5SzBzbXdqSmlxclVzVy02UWd6SHllTG5pVTM2LW00RkFEbUVpVkZYR2h4a1JfUlcyRmFuejYtT05CUlFR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "merck-2026-10-16-018",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Merck & Co., Inc. $MRK Stock: State of Alaska Department of Revenue Reduces Stake - MarketBeat",
+      "companies": [
+        "merck"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRWd5MWYyNldoWkJTbVhVZmpZWnlNN2pET1pCaEN1cEhER3UwZ001bW1CQno2RVUxeklFN1J0RnJHWm9oN1dHZ2Z3U19zdFJ6azRoa0wtcFI2dlQ2M2ZZenVlMjFvM2FwMVZIbS01cGtGc1dRMTVNU3gzOEVXeWpnVVNEcGNMcUd2TGdVV3NBVEVGcUJFcVRRVUR2Vi0taHZKdHgyOHY2bGdzSGl2WlBsaV92ZTBSeUJyVHRYWkJqNmppSGdCcFplc0dNOFRLN3du?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "pfizer-2026-10-16-009",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Lilly, Pfizer, J&J win EU drug recommendations this month - Seeking Alpha",
+      "companies": [
+        "pfizer",
+        "jnj",
+        "eli_lilly"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeVZ0MzhmV1JpQ3phTXRFbFJmcHJETks2eWliMzZTeGdxcWRETkROcXR2anpNUF9Rcm9LaFZpOHZuRFFyLXE2eC1teDlBNDRGRVN3SE5HbFZaYmhleENES2d2N1lCSkl0MWVzelhtV2hLblJWaG9kZTZhZzN4blZFNnUtbWlLUVMya01jSlNDcnVLUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "eli_lilly-2026-10-16-024",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Eli Lilly's weight-loss pill wins EU drug regulator's backing - Reuters",
+      "companies": [
+        "eli_lilly"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUTZHdm94VW1Ya3BOUDQtTjB5UjRIOUc1RGJKM09ubjlUcWZtS3Q0RU1PbnYxT21wUEUydXh6MXdqUXphU1JXRnJaM0padHMwZUotVGJ2YVlfNUs5c0ctbGJpUUEtVXg3dl9QYVl6VllubGNzeFZQWkNINk9KWmdna3RpQlV5ekxJVkdRZ2tDUFhUYTBoQUJLNFNldXRBMkhqYWc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-16-025",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Factbox-Weight-loss drug developers line up to tap lucrative market as competition heats up - KSL News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZ1NUYVRGckQ1dnBuMTl4dnVxYTFtOTM1R29FM3FTVF9tSnBJWTFzcmRhQmRCVk5WMnFNSkxldXNnUXFrbVkxTkJCTDlWS181RnVKYkJDeDNSWE5XbzNoc2J6STFsU2htVEpTRklHdDhDaTNkckJlSG15dXM3UEJNZzZNdmtOQktxWVJLTkloVWMxRXBmbXRoc2xhUGFnZ01fTDVVQi0zdi10TVRpTkdaLU1rdmhBUllJZlhjUXpkaUM5Q3A4NVJB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 28,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 34,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "gmp_inspection": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 38,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 32,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "merck",
+        "count": 6
+      },
+      {
+        "id": "astrazeneca",
+        "count": 4
+      },
+      {
+        "id": "lonza",
+        "count": 3
+      },
+      {
+        "id": "roche",
+        "count": 3
+      },
+      {
+        "id": "jnj",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 34
+      },
+      {
+        "id": "drug_approval",
+        "count": 28
+      },
+      {
+        "id": "biotech_funding",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "gmp_inspection",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 434,
+    "dup_title": 249,
+    "too_old": 67,
+    "gate1_blocked": 11,
+    "gate2_blocked": 25,
+    "passed": 82,
+    "pass_rate": "44.3%",
+    "gate2_block_rate": "13.5%",
+    "gate2_samples": [
+      "Dr Reddy’s Laboratories Appoints Devang Mehta As Category Head Marketing - BW Marketing World",
+      "Dr Reddy’s Laboratories appoints Devang Mehta as Category Head – Marketing - IMPACT Magazine",
+      "Dr Reddy’s Laboratories appoints Devang Mehta as Category Head – Marketing - Exchange4Media",
+      "Free float of Lonza Group AG – HAN:LO3 - TradingView",
+      "Lonza Group (SWX:LONN) Lifted Its Targets, Is The Upside Already Priced In? - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 38 則事件，焦點為Merck、AZ、Lonza相關動態：「Dr. Reddy's Laboratories (RDY) Expected to Announce Quart...」。主要關注主題為產業通用、藥物核准、生技募資，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Dr. Reddy's Laboratories (RDY) Expected to Announce Quarterly Earnings on Fri...（藥物核准、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Merck & Co., Inc. $MRK Stock: State of Alaska Department of Revenue Reduces S...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
