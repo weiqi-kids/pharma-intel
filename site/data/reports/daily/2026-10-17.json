@@ -1,0 +1,261 @@
+{
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T12:04:35.489876Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "eli_lilly-2026-10-17-014",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "eli lilly and novo nordisk weight loss drugs - Meteo.gr",
+      "companies": [
+        "eli_lilly",
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSlZSYlVzdVBqNWtia2NrRDE3dVRvc2lqZHdrbzFReE1NSTZrUWs5VFNkRVh0dmhrSUZvYzJwcGhiUUNSNEFqSURKQWlZdVpHSmRXWUtiQUpYMklqR2FRek5laXdnM0ZPdXVvX3VobGFHRG1WdXM2WERLSzhlWm95dTlIc2w0b28?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "jnj-2026-10-17-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Johnson & Johnson Just Raised Its Sales Outlook Again. Here's Why the Dividend King Is Still a Buy. - The Motley Fool",
+      "companies": [
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb0VQTmZrWGlIWTR3OG1nRHJiRzZwYnpVdDdVeHE4MlZIUlJFYnRUYmVJYUQyNE9iRzd2eGtjeXhpOTlBS3R5cjROY2ZQMENJVlh3am1GenB0ODVXckFWQ3hXdFY1N2tfMkpaUk8xa0lYdjNGZGthZmt1eE43cmt2S2l4cXVNTVpHYU9Yb0JPbE5Cdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "pfizer-2026-10-17-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "is pfizer working on a weight loss drug - Meteo.gr",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSnBrQ05kajJEYk9hYS1FZGFQUU1WWG1iMXNJRU01MFFkUm9YWXFLcEtWUWVGNUh2U1RieDJ3TUVZX05EVndOcE9vWGt4WkNJbzZZanlUTy1lc2lYanFxeENBcFMwOEZKRjlvdXk0WWxPMnZPcHRPSjQ0eEJvQml3RFNSZ0lkdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "pfizer-2026-10-17-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "pfizer new oral weight loss drug - Meteo.gr",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xNl8xeWc1cGFuRmphRDFEU1Z5SGpySXVqZ0VPMklKaURFQkpOTk5yaW9oWmV0czFkRkxzVjMzcUJjWEV1cGJwcUZfLUo5OXQzalVWUHhYbWVpYlh2NnhqMVl1TUx1dVBxdGRhSElVLTdaMjI4?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "pfizer-2026-10-17-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "is pfizer developing a weight loss drug - Meteo.gr",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR1dEZE5CYi1qdWlTTlIzUUxmNmF5alR0OEk4aklxUVRHWnBWQ2VZd2g2MTZNb1FiRjlQRVc3M19OR2E1cnZuZkkwYWU4UnJVaDFQZ3plVWg1S1hvZVV6LVpyNkRwRGRLT1ZEa3VsZ0hITUdrbmVKNWs2WGVxOUN4QVlUWQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 22,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.39,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.38,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.75,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 11,
+      "negative": 10
+    },
+    "top_companies": [
+      {
+        "id": "pfizer",
+        "count": 5
+      },
+      {
+        "id": "jnj",
+        "count": 2
+      },
+      {
+        "id": "merck",
+        "count": 2
+      },
+      {
+        "id": "dr_reddy",
+        "count": 1
+      },
+      {
+        "id": "lonza",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 22
+      },
+      {
+        "id": "industry_general",
+        "count": 20
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 12
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 432,
+    "dup_title": 276,
+    "too_old": 67,
+    "gate1_blocked": 9,
+    "gate2_blocked": 24,
+    "passed": 56,
+    "pass_rate": "35.9%",
+    "gate2_block_rate": "15.4%",
+    "gate2_samples": [
+      "Dr Reddy’s Laboratories Appoints Devang Mehta As Category Head Marketing - BW Marketing World",
+      "Lonza Group (SWX:LONN) Lifted Its Targets, Is The Upside Already Priced In? - Yahoo Finance",
+      "JD Vance Touts TrumpRx and Trump Accounts as Key Economic Wins - Pfizer (NYSE:PFE), Eli Lilly (NYSE:",
+      "Healthcare Keeps Evolving, Which Is More Worth Investors’ Attention, AbbVie or Pfizer? - NAI500",
+      "J&J's ICOTYDE® Named to Time's Best Inventions of 2026 - Johnson & Johnson"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為輝瑞、J&J、Merck相關動態：「eli lilly and novo nordisk weight loss drugs - Meteo.gr」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "eli lilly and novo nordisk weight loss drugs - Meteo.gr（藥物核准、GLP-1 減重、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Johnson & Johnson Just Raised Its Sales Outlook Again. Here's Why the Dividen...（藥物核准、法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

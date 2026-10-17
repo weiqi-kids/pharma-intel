@@ -1,0 +1,16 @@
+{
+  "total_raw": 432,
+  "dup_title": 276,
+  "no_date": 0,
+  "too_old": 67,
+  "gate1_fail": 9,
+  "gate2_fail": 24,
+  "passed": 56,
+  "gate2_samples": [
+    "Dr Reddy’s Laboratories Appoints Devang Mehta As Category Head Marketing - BW Marketing World",
+    "Lonza Group (SWX:LONN) Lifted Its Targets, Is The Upside Already Priced In? - Yahoo Finance",
+    "JD Vance Touts TrumpRx and Trump Accounts as Key Economic Wins - Pfizer (NYSE:PFE), Eli Lilly (NYSE:",
+    "Healthcare Keeps Evolving, Which Is More Worth Investors’ Attention, AbbVie or Pfizer? - NAI500",
+    "J&J's ICOTYDE® Named to Time's Best Inventions of 2026 - Johnson & Johnson"
+  ]
+}
