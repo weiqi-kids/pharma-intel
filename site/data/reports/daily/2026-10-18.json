@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T12:32:58.723184Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "teva-2026-10-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Teva Pharmaceutical Industries (TEVA) Gets FDA Nod For Monthly Schizophrenia Injection - Simply Wall Street",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWHpNS2ZTYTFMYUdnd3AzLUxRLW1EZGFWOVJPZGVTYmpPaHM5bndTVkNWblhBdl93azdiaHZrSEJWb3MtT0NyT0NqWWdlem1OQUtxZlNIbGlmMEl2T2JLZzlWVGNqVHRVSDFoRjRoMXNwNFhlY2k0ejJlMXoyd0hpVUFQcXVxcFFtd2gtZlpLYmt0YkMxNW9vX2hRY2pnQnJjTHBpaXkwLTZ2T3RXQVJZaFhVVzdFalBTMVdLbWJ6Qm9Hd0N0eG5WeC1PRkZwZU1FZUp5YkZ2QzlHcWRQTmkySkxKRURnTVZpUnFUdHJRNUVHOWN10gH6AUFVX3lxTFBFSlFMRFBQLTBzTVkwZGxOTDZ2SVJwWjB5a3hlZlV3XzhvR25XaUlCZjctMl96U0xPanNKVHVnZkhHZkVuVk5UaWoycUpiNDVLckpKc0prWW5iYkF3NWNuV0k1TkJlY0xGRDNfM211Vnd5YWNpLVRlZ2JnQXhXazk3VzRWeGktbkduTjNyVk9lRDNGS05udFdvdTlFeFhLZ3ZUY0V6UEs1Z3o3Z3l5Y2Z1NHlrbDRXYlZGOExIb0lROHM1MzdjTTB6NlpLa3hLNWJ3VDRMVm5fMS0yeE0zX2Qyb1BLX3R1Y21oMUpGVTFLVG1Cd3FIWDlxaHc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "merck-2026-10-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Merck & Co., Inc. $MRK Stock: 1834 Investment Advisors Co. Decreases Position - MarketBeat",
+      "companies": [
+        "merck"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYlNCZ2tjZ2NZMWJCTmZmTmNicFZoYTluM0xCaDViN2txR0FYMDJXSkw5aGp1UjFOWnlfLWZMSklSOGs0OVFPeDFBanNGVlhfbkNXa3FMdVdJWkYtTGZIOFhnSUR0WGE3Um1rcnl2UlczeDE2OFZvc01QT055V0F6elFaSFFTMlBLQU9sQ2Y4QjRIZ3B1blEyNElIYVdPWEpTME1RTUYwQWpQZVV5cEVwQXQteHVaYlNTX3dSWVgwZ293NGFsOHpqWUNn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "merck-2026-10-18-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Merck & Co., Inc. $MRK Stock: Birch Hill Investment Advisors LLC Cuts Holdings - MarketBeat",
+      "companies": [
+        "merck"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNkZ0WW9nV1RuQlhGaHQ0LXp4ejZQOF9jcjF1SW04cmNvclFtQWJvbXVNcV8xZ0ZqeGFJRUZ0UFJRQnloVXVNNGZ5NUdOWmQ3cUVDMjBRY3VxRkxtcjJVcHgzV2Y3NmRKWFpjclplRkQ3QmJaa2pPcEcyN3FLYjhQdlYzUGlNMnhqdlJ2bkZscjdIUUhNaUFkNzI1RDRCR0kwd01OcHk2aW1PSUk2UXJNVkE5S0F5Z3IzYTF0WDZadzV3RTVEY0NRQW5hU3k?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "drug_approval": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "merck",
+        "count": 2
+      },
+      {
+        "id": "teva",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "drug_approval",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 433,
+    "dup_title": 313,
+    "too_old": 73,
+    "gate1_blocked": 9,
+    "gate2_blocked": 26,
+    "passed": 12,
+    "pass_rate": "10.0%",
+    "gate2_block_rate": "21.7%",
+    "gate2_samples": [
+      "Dr Reddy’s Laboratories Appoints Devang Mehta As Category Head Marketing - BW Marketing World",
+      "Lonza Group (SWX:LONN) Lifted Its Targets, Is The Upside Already Priced In? - Yahoo Finance",
+      "Lonza raises mid-term margin goal, says Q3 in line with expectations - Yahoo Finance",
+      "Johnson & Johnson and Protagonist Therapeutics Icotyde: The Best Inventions of 2026 - Time Magazine",
+      "Where Could Johnson & Johnson’s Next Growth Come From? - Trefis"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Merck、Teva相關動態：「Teva Pharmaceutical Industries (TEVA) Gets FDA Nod For Mo...」。主要關注主題為產業通用、藥物核准，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Teva Pharmaceutical Industries (TEVA) Gets FDA Nod For Monthly Schizophrenia ...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Merck & Co., Inc. $MRK Stock: 1834 Investment Advisors Co. Decreases Position...（藥物核准、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

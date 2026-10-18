@@ -1,0 +1,16 @@
+{
+  "total_raw": 433,
+  "dup_title": 313,
+  "no_date": 0,
+  "too_old": 73,
+  "gate1_fail": 9,
+  "gate2_fail": 26,
+  "passed": 12,
+  "gate2_samples": [
+    "Dr Reddy’s Laboratories Appoints Devang Mehta As Category Head Marketing - BW Marketing World",
+    "Lonza Group (SWX:LONN) Lifted Its Targets, Is The Upside Already Priced In? - Yahoo Finance",
+    "Lonza raises mid-term margin goal, says Q3 in line with expectations - Yahoo Finance",
+    "Johnson & Johnson and Protagonist Therapeutics Icotyde: The Best Inventions of 2026 - Time Magazine",
+    "Where Could Johnson & Johnson’s Next Growth Come From? - Trefis"
+  ]
+}
