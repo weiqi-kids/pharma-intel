@@ -1,0 +1,271 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T15:26:11.462096Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "novo_nordisk-2026-10-19-035",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Forget Eli Lilly and Novo: This Biotech Could Be a Surprising Winner in the Weight Loss Market - The Motley Fool",
+      "companies": [
+        "novo_nordisk",
+        "eli_lilly"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcG5BNks5TWZ6bGJnMUFRMEhoMWNWcjUyT0p1MWJVWDl6YmpzbGdKLXVPd21hQ3FBTEZXUU9BQkZOYm0zVXhWSnlxUU50bDltYzNDZEdFWWRzSVotZVN6UXNFVVpUYkVmMWZkRDcxWWpvUmFYcWFyWE83UVdzejhpNjVvYjRtQV8xZHhrTjZDakNWM241UDlCTlpZbjFNa1dDb29MVHdzX1U3SXl6MGI0TWl5QUVBa1ltbVB4cVBQWkR0UmN1NTBMUTJscjNrMWNHVVE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "pfizer-2026-10-19-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Can Pfizer’s (NYSE:PFE) Earnings Support Its NYSE Composite Position? - Kalkine Media",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOVBmSUJSb3Zldi1td1ZYem5KMGI4R1NFRi14aDBfcEw4Q054SHJGb0hGekIyUkZNVUlQYlIwWk1lWDhhOW1WX3B5SjJtVVYyc2VCdHNwbGxHaFZtYXUwaFdDUEQ1MmI0WXA1czVTX292bTNURU1ILWVGX0tPV2s0MmlPcXdCcXZ0MTZSdjgyM2paWjlWSndqR3lJWC1tX0pSdnB4dWdydU9TSkhrS04w?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "jnj-2026-10-19-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Johnson & Johnson’s Dividend Machine Is Running. Can Earnings Keep Up? - Yahoo Finance",
+      "companies": [
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWWJpek9xN1VQNGFDTnBsdy1YWHEwc1pQR1gzZGxaYmZDM0NFZWFwWk9nTDh2OHdEb0FCWVZLWXpwMWUwUmZOaVIydXRxOFUyX3RuUGw1STY2azJJbHpOX1lxVmVheHBoa3lZMWRjalg5MW1lV2VRUkRaMU9DaGJucktnWG1zQ3BROF9wSnUwdDdaVVZIcDM5UHB4RTBfeVdiQUFR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-19-068",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "STAT+: How the No Surprises Act’s nonprofit arbitrators are operating like ‘mini gods’ and getting rich doing it",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.statnews.com/2026/10/19/no-surprises-act-billing-arbitration-profits-stat-investigation/?utm_campaign=rss"
+    },
+    {
+      "rank": 5,
+      "event_id": "pfizer-2026-10-19-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "pfizer to halt development of closely watched weight-loss drug - Philstar Life",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdFFuNlQ5WXlCWEFLTzZtODkydlFDMWdDazRraEFfdkw5eDJRckZBc1otVXU5WU5LTUlCV25uMldRQ2NLUWhLSUp1N3ZMdEhxRFhZczNRa05JZVk0ZS1rdVVMTy1wYk5pTk9Pc19ZeWc5eXVCellZejdJWmtDQmY0M1NGYXNBSnczVzFmWnNVcnYxY1VrZ2hPOEhFT1JScExMZnMwd0hR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 47,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 61,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 68,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 62,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "roche",
+        "count": 12
+      },
+      {
+        "id": "jnj",
+        "count": 6
+      },
+      {
+        "id": "astrazeneca",
+        "count": 5
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 5
+      },
+      {
+        "id": "sanofi",
+        "count": 5
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 61
+      },
+      {
+        "id": "drug_approval",
+        "count": 47
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 1
+      },
+      {
+        "id": "biotech_funding",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 433,
+    "dup_title": 265,
+    "too_old": 69,
+    "gate1_blocked": 5,
+    "gate2_blocked": 19,
+    "passed": 75,
+    "pass_rate": "44.6%",
+    "gate2_block_rate": "11.3%",
+    "gate2_samples": [
+      "Dr Reddy’s Laboratories Appoints Devang Mehta As Category Head Marketing - BW Marketing World",
+      "Lonza: Improving Asset Utilization Levels and Operational Leverage Support Higher Margins Over Time ",
+      "Lonza raises mid-term margin goal, says Q3 in line with expectations - Yahoo Finance",
+      "What Does Johnson & Johnson (JNJ) News Mean For Its Growth Case? - Simply Wall Street",
+      "J&J Is Leaning Toward Spinning Out Its Hips-And-Knees Business - WSJ"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 68 則事件，焦點為Roche、J&J、AZ相關動態：「Forget Eli Lilly and Novo: This Biotech Could Be a Surpri...」。主要關注主題為產業通用、藥物核准、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Forget Eli Lilly and Novo: This Biotech Could Be a Surprising Winner in the W...（藥物核准、GLP-1 減重、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Can Pfizer’s (NYSE:PFE) Earnings Support Its NYSE Composite Position? - Kalki...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
