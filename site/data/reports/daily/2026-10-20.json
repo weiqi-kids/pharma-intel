@@ -1,0 +1,283 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T13:28:44.597629Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "astrazeneca-2026-10-20-022",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AstraZeneca (LSE:AZN) Could Be 22% Undervalued On AI Partnership And Pipeline Updates - Yahoo Finance",
+      "companies": [
+        "astrazeneca"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUVE1SllsMXprX0tNRXVvc3JVbm5PZXhXUDZ1RDBINWFzaW9ReTYwcFFzSkF4amt2SXdUcGxsaU1JVjJDWjFIZm03OHJqLXZUVzJrYmVqY01zRHVIdXdObjM3X1hIdmdsNXQ0OXlrcVc0WjgwQzQwOTQ3QkQtZ056RWVNQWdZeU5LNm9jck9HWmYxZFU?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "astrazeneca-2026-10-20-026",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Evaxion reports durable responses; Novartis halts kidney trial; AstraZeneca signs AI deal - European Biotechnology Magazine",
+      "companies": [
+        "astrazeneca",
+        "novartis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWGpPTTFiWjZtNTNGbFdoLXhtY3hBUnFTTndhc2F1ekl5NE1WUTJmX3NDUnRDbmVNVWpNVWFpWXlVVUI4MVdDNjNyVkxWTzRxYlJKdHM1eXVYV01iWFB3TUNMendxeGJXR0E0aENqdl82bGxjY0phNHl2WjZSYTNtaWZkX3d6VktjN3dGLTI3VVpraXdnTGFOdDBlRWVKOWtiemJ1QjZ5V1lweTdqWmpDM3lMdnQtYUVEUFotTVNiclR4WHBmdjFodTFkNDRpSFBO?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "pfizer-2026-10-20-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "pfizer new drug for weight loss - ΕΜΥ",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UaFFKNXR3bUhQb1VKY3BuLTRnY0xBdWM0OWNCb0tBMmtxUTZ2SU5WVENGcVlxQ3RVWER1R05INGtkaFkzQm5DeTdkT3pENHZzWXNIUk8xd2p3MU0ya3pFMUs4blY1aVd1UjdiTjl6ZGhPWWc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "novo_nordisk-2026-10-20-031",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Novo's next-generation obesity drug shows 25% weight loss in women in late-stage analysis - CNBC",
+      "companies": [
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTDZCTDB5aTIwTlhhWnYxN0ZBQTFLazJfSFlCM0hJSnlrOGctQW9iak1NSnVlX2ZteENtam83SUZTb2tLcVBrOHZhN0oxWFZzd0YzR09PS2p4NGVIZEVYcHQ0TlZ6MXpMdHN0OVF0RmI4NTQwaUZWVkJoQUdFQVRJNnFqcEPSAYoBQVVfeXFMUGk2eUhtUGk0OTlIdnhHYmp6RzBBV3dtc010Q1NfRVFrQmYwWDlpYzlySnZaaVZCVHVBTGR6OTAzcXRIbF9IMzFWYTgtOGxCbS0xbUx3UENOTkxUaFVsdUZRUUdjOVprcEVuV3VxTkpjWmdBRUlqa0FFY2h3V0pnaUpRajlwaGVjbDlB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "novo_nordisk-2026-10-20-032",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Novo Nordisk said CagriSema was linked to 25% weight loss in women in new analysis - Quartz",
+      "companies": [
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1yYkR3Xy01SmRua09sVHNCd3NkMzFvTTN6QW5EUk5IdFBmYXhJM2ZHN05odXFMMTAwOXN0anV2QXk1VG85dUZPdnRQRWUydGVBN2FhWnU4aHNvYlhyUGVBc1NoaERuM3g0enRkUElRdjZyN2RrSFdMUHpOWQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 41,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.01,
+      "sentiment_7d_avg": null
+    },
+    "drug_approval": {
+      "today": 41,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "gmp_inspection": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 47,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 37,
+      "negative": 6
+    },
+    "top_companies": [
+      {
+        "id": "astrazeneca",
+        "count": 14
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 6
+      },
+      {
+        "id": "pfizer",
+        "count": 4
+      },
+      {
+        "id": "jnj",
+        "count": 3
+      },
+      {
+        "id": "merck",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 41
+      },
+      {
+        "id": "drug_approval",
+        "count": 41
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 6
+      },
+      {
+        "id": "gmp_inspection",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 422,
+    "dup_title": 260,
+    "too_old": 65,
+    "gate1_blocked": 9,
+    "gate2_blocked": 24,
+    "passed": 64,
+    "pass_rate": "39.5%",
+    "gate2_block_rate": "14.8%",
+    "gate2_samples": [
+      "Lonza: Improving Asset Utilization Levels and Operational Leverage Support Higher Margins Over Time ",
+      "Lonza raises mid-term margin goal, says Q3 in line with expectations - Yahoo Finance",
+      "Johnson & Johnson to Showcase the Future of Surgical Intelligence at Abu Dhabi Future Health Summit ",
+      "J&J Is Leaning Toward Spinning Out Its Hips-And-Knees Business - WSJ",
+      "Johnson & Johnson: 3 Key Takeaways for Long-Term Investors - The Motley Fool"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 47 則事件，焦點為AZ、Novo、輝瑞相關動態：「AstraZeneca (LSE:AZN) Could Be 22% Undervalued On AI Part...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "AstraZeneca (LSE:AZN) Could Be 22% Undervalued On AI Partnership And Pipeline...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Evaxion reports durable responses; Novartis halts kidney trial; AstraZeneca s...（藥物核准、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

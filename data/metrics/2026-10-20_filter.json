@@ -1,0 +1,16 @@
+{
+  "total_raw": 422,
+  "dup_title": 260,
+  "no_date": 0,
+  "too_old": 65,
+  "gate1_fail": 9,
+  "gate2_fail": 24,
+  "passed": 64,
+  "gate2_samples": [
+    "Lonza: Improving Asset Utilization Levels and Operational Leverage Support Higher Margins Over Time ",
+    "Lonza raises mid-term margin goal, says Q3 in line with expectations - Yahoo Finance",
+    "Johnson & Johnson to Showcase the Future of Surgical Intelligence at Abu Dhabi Future Health Summit ",
+    "J&J Is Leaning Toward Spinning Out Its Hips-And-Knees Business - WSJ",
+    "Johnson & Johnson: 3 Key Takeaways for Long-Term Investors - The Motley Fool"
+  ]
+}

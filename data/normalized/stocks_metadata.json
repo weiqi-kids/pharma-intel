@@ -19,20 +19,20 @@
   },
   "bora": {
     "earliest": "2014-10-03",
-    "latest": "2026-10-19",
-    "count": 2742,
+    "latest": "2026-10-20",
+    "count": 2743,
     "history_complete": true
   },
   "tci": {
     "earliest": "2012-06-20",
-    "latest": "2026-10-19",
-    "count": 3498,
+    "latest": "2026-10-20",
+    "count": 3499,
     "history_complete": true
   },
   "lonza": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-19",
-    "count": 6801,
+    "latest": "2026-10-20",
+    "count": 6802,
     "history_complete": true
   },
   "pfizer": {
