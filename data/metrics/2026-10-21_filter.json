@@ -1,0 +1,16 @@
+{
+  "total_raw": 433,
+  "dup_title": 239,
+  "no_date": 0,
+  "too_old": 69,
+  "gate1_fail": 11,
+  "gate2_fail": 19,
+  "passed": 95,
+  "gate2_samples": [
+    "UEG Week: Teva and Sanofi’s Duvakitug Maintained Long-Term - GlobeNewswire",
+    "Boehringer accuses Dr Reddy’s of ‘weaponising’ plausibility - Life Sciences IP Review",
+    "Johnson & Johnson: 3 Key Takeaways for Long-Term Investors - The Motley Fool",
+    "Johnson & Johnson to Showcase the Future of Surgical Intelligence at Abu Dhabi Future Health Summit ",
+    "Roche Holding AG : Berenberg remains Neutral - marketscreener.com"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "date": "2026-10-21",
+  "total_events": 61,
+  "by_company": {
+    "teva": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "dr_reddy": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "sun_pharma": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "lonza": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pfizer": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "jnj": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "roche": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "astrazeneca": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "merck": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "novo_nordisk": {
+      "count": 8,
+      "sentiment_avg": -0.12
+    },
+    "sanofi": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "mckesson": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "cencora": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cardinal": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "eli_lilly": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "drug_approval": {
+      "count": 49,
+      "sentiment_avg": -0.02
+    },
+    "industry_general": {
+      "count": 49,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "glp1_obesity": {
+      "count": 7,
+      "sentiment_avg": -0.14
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
