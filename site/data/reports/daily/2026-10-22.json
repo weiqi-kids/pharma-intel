@@ -1,0 +1,256 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T13:39:58.294948Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-22-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nomura maintains 'Buy' on Dr Reddy's, sees 30% earnings upside from potential abatacept approval - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWTNKd1A4R2xQUjFzZUVhMjNlbGZMakJNVVJVOEJoZl9vaTl0bXVmYWJKX2h0ZHlCUjVoRWRZSk9MVC02ckEzZ0EwQ09ZZkh4cUZTMFlhdk9rVE5KeUFHeVRKQjdRLUV4OEVzUmFnbVZuN0lxRjN4SU4yWkJHeU1nYk5UY1pzVzE4RkZLdE1Rb2VYanBkSzNMd3pLX1F4ZVAxWE9qeXhNcFhPNFJGVTJIeGR2eVlscC1TbkE0RmRMYk95SnJNejFfVl95ZTVRQ01FblRnYnlCeFNaV3BhRXFkenFINGtRa01qelA4?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "roche-2026-10-22-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Roche beats revenue estimates, shares slip as copycats eat into Xolair sales - Reuters",
+      "companies": [
+        "roche"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcnlRMUFVVVJGZ2xRNVFJcEZmYVIwcXlCQXNxVFYtczMyTGtfYVRueHExRVhmckZTX2luOFR6bkdKdzB2U0xVc0lUY2RVMmtnSm56VXA4MEZnVmZ5MDdLV01HdVpOcG5CQW42cU5VQThjV2ppTVVWYU9sTnBxWURYdkFSNWZxOWlUdnR2MWlPQlo2V2E2VXpJclJCc3NXZ0VKUTlQTUpmVHRkSy1yYXpDdl83ZnprNFpkR3ZzbXJBRWo1SDU5NDl6Z2FWQnJRb2xURlRzTXpHVEo2OUk?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "astrazeneca-2026-10-22-018",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AstraZeneca and Oracle Partner to Advance AI-Powered Clinical Trials and Patient Care - EME Outlook Magazine",
+      "companies": [
+        "astrazeneca"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNzZjemdUS2hWSU9ScUQ1NmhVSXJjOG9IOVdYT0dJbFF4emt4UEJmeDl0eXRDZ1R6Q2ZGdXpLSHllMDdQT3VZZVlIcWxuMEcwck04TTEtU3dna1pCU2pEUzJXMnlzbF9jNHFoVGstOG94MkNKNkRqdXNRcDJ3aGtSaWVnbUJaRzBEWk5pV0dwU2RrX3lmbWdTRnBXbnZrXzBwOHFzMHVFM094d1AzSFRXQzlJdFJObFFwSXM2M3czcGJ0S2tfRWVUa1phLUtLZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "merck-2026-10-22-019",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Merck & Co., Inc. (MRK) Set to Release Earnings on Thursday - MarketBeat",
+      "companies": [
+        "merck"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWU05NWtnaU1tQktBd2w2STMzX3hyem9xb0c2dldlcUFBSDBaWW4xeE1mRzVXU1NsQXRyZDZZUWtIeFpMUEF3OEpvYlhqR05mcnM4VndzT1g0Ymp0WnF4dXNncXFHdjU4djR2cTlMT2k3TFBXWlRjYkZSZmxaQ3BNS3F6Y2RPLUVmSDJFaWh2WU1sUGUteWJTX1UxcnlDNTViWUgwMUJ1Q01TUnVLcUFwY1VnalBBUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "novo_nordisk-2026-10-22-027",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Banks see room for Novo Nordisk to raise guidance ahead of results - MedWatch",
+      "companies": [
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBaMXJDVFNrNWdBbVBjRFdtRktrWlFpRE1ORlZLRjVzc0pCSU5Qb2RQNzFpMFJ6dEwtRkR4YldGdE5zTmJxWXR2MkF6UlhTSFRSOXg4bVhqSFNvQ0xkNTExa0U3M3BLNXhmYWZrb1J3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 31,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "drug_approval": {
+      "today": 29,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 39,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 34,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "merck",
+        "count": 8
+      },
+      {
+        "id": "astrazeneca",
+        "count": 6
+      },
+      {
+        "id": "roche",
+        "count": 5
+      },
+      {
+        "id": "jnj",
+        "count": 3
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 31
+      },
+      {
+        "id": "drug_approval",
+        "count": 29
+      },
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 436,
+    "dup_title": 261,
+    "too_old": 70,
+    "gate1_blocked": 8,
+    "gate2_blocked": 16,
+    "passed": 81,
+    "pass_rate": "46.3%",
+    "gate2_block_rate": "9.1%",
+    "gate2_samples": [
+      "Monthly Injections Now Treat Schizophrenia, Dementia - 조선일보",
+      "Dr. Reddy's Laboratories Limited (RDY) options chain - Yahoo Finance Australia",
+      "Lonza: Improving Asset Utilization Levels and Operational Leverage Support Higher Margins Over Time ",
+      "Lonza Group (SWX:LONN) Lifted Its Targets, Is The Upside Already Priced In? - Yahoo Finance",
+      "Johnson & Johnson Reports First Real-World VARIPULSE Pro Platfor - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 39 則事件，焦點為Merck、AZ、Roche相關動態：「Nomura maintains 'Buy' on Dr Reddy's, sees 30% earnings u...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nomura maintains 'Buy' on Dr Reddy's, sees 30% earnings upside from potential...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Roche beats revenue estimates, shares slip as copycats eat into Xolair sales ...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
