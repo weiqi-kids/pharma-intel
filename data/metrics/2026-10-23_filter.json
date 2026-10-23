@@ -1,0 +1,16 @@
+{
+  "total_raw": 428,
+  "dup_title": 232,
+  "no_date": 0,
+  "too_old": 76,
+  "gate1_fail": 11,
+  "gate2_fail": 8,
+  "passed": 101,
+  "gate2_samples": [
+    "Lonza: Improving Asset Utilization Levels and Operational Leverage Support Higher Margins Over Time ",
+    "UK approves J&J's oral psoriasis pill - Yahoo",
+    "Johnson & Johnson (JNJ) Sees $54.1 Million in Net ETF Selling on Oct. 21 - Yahoo Finance",
+    "Roche Holding AG (RHHBY) Q3 2026 Sales/ Trading Statement Call - Slideshow (OTCMKTS:RHHBY) 2026-10-2",
+    "Is Merck & Co Inc (MRK) Overvalued After 3.2% Rally? GF Value Sa - GuruFocus"
+  ]
+}

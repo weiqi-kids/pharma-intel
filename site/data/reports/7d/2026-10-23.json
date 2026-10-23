@@ -1,0 +1,208 @@
+{
+  "date": "2026-10-23",
+  "date_range": {
+    "start": "2026-10-17",
+    "end": "2026-10-23"
+  },
+  "generated_at": "2026-10-23T13:15:50.893262Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "eli_lilly-2026-10-17-014",
+      "date": "2026-10-17",
+      "title": "eli lilly and novo nordisk weight loss drugs - Meteo.gr",
+      "importance_score": 0.85
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "drug_approval": {
+      "this_week": 209,
+      "last_week": 232,
+      "week_over_week_change": "-10%",
+      "sentiment_this_week": -0.04
+    },
+    "industry_general": {
+      "this_week": 232,
+      "last_week": 242,
+      "week_over_week_change": "-4%",
+      "sentiment_this_week": -0.04
+    },
+    "glp1_obesity": {
+      "this_week": 31,
+      "last_week": 22,
+      "week_over_week_change": "+41%",
+      "sentiment_this_week": -0.35
+    },
+    "earnings": {
+      "this_week": 19,
+      "last_week": 30,
+      "week_over_week_change": "-37%",
+      "sentiment_this_week": 0.0
+    },
+    "biotech_funding": {
+      "this_week": 4,
+      "last_week": 9,
+      "week_over_week_change": "-56%",
+      "sentiment_this_week": -0.12
+    },
+    "gmp_inspection": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    }
+  },
+  "company_7d_summary": {
+    "dr_reddy": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "lonza": {
+      "event_count": 9,
+      "sentiment_avg": 0.17,
+      "rank": 9
+    },
+    "pfizer": {
+      "event_count": 18,
+      "sentiment_avg": -0.42,
+      "rank": 6
+    },
+    "jnj": {
+      "event_count": 23,
+      "sentiment_avg": 0.06,
+      "rank": 4
+    },
+    "roche": {
+      "event_count": 27,
+      "sentiment_avg": -0.04,
+      "rank": 2
+    },
+    "astrazeneca": {
+      "event_count": 30,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "merck": {
+      "event_count": 27,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "eli_lilly": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "novo_nordisk": {
+      "event_count": 23,
+      "sentiment_avg": -0.02,
+      "rank": 5
+    },
+    "mckesson": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "cardinal": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "teva": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "sun_pharma": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "sanofi": {
+      "event_count": 14,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "abbvie": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "novartis": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "cencora": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 441,
+        "last": 502,
+        "change_pct": -12.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-17",
+      "event_count": 29,
+      "sentiment_avg": -0.28
+    },
+    {
+      "date": "2026-10-18",
+      "event_count": 6,
+      "sentiment_avg": 0.17
+    },
+    {
+      "date": "2026-10-19",
+      "event_count": 85,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-10-20",
+      "event_count": 88,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-21",
+      "event_count": 101,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-22",
+      "event_count": 95,
+      "sentiment_avg": -0.0
+    },
+    {
+      "date": "2026-10-23",
+      "event_count": 37,
+      "sentiment_avg": -0.01
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-17 ~ 2026-10-23）共 441 則事件，重點為「eli lilly and novo nordisk weight loss drugs - ...」。輝瑞情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "輝瑞",
+        "reason": "本週情緒偏負面（-0.4），共 18 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "Dr. Reddy's",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Lonza",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
