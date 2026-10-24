@@ -1,0 +1,16 @@
+{
+  "total_raw": 433,
+  "dup_title": 268,
+  "no_date": 0,
+  "too_old": 76,
+  "gate1_fail": 8,
+  "gate2_fail": 13,
+  "passed": 68,
+  "gate2_samples": [
+    "Dr. Reddy's Laboratories Limited (RDY) options chain - Yahoo Finance Australia",
+    "Lonza: Improving Asset Utilization Levels and Operational Leverage Support Higher Margins Over Time ",
+    "UK approves J&J's oral psoriasis pill - Reuters",
+    "Roche Holding Ltd Estimates – BX:RHO - TradingView",
+    "Roche Holding AG (RHHBY) Q3 2026 Sales/ Trading Statement Call - Slideshow (OTCMKTS:RHHBY) 2026-10-2"
+  ]
+}

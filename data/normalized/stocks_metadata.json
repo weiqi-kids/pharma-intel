@@ -1,14 +1,14 @@
 {
   "teva": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-22",
-    "count": 6741,
+    "latest": "2026-10-23",
+    "count": 6742,
     "history_complete": true
   },
   "dr_reddy": {
     "earliest": "2001-04-11",
-    "latest": "2026-10-22",
-    "count": 6420,
+    "latest": "2026-10-23",
+    "count": 6421,
     "history_complete": true
   },
   "sun_pharma": {
@@ -19,14 +19,14 @@
   },
   "bora": {
     "earliest": "2014-10-03",
-    "latest": "2026-10-22",
-    "count": 2745,
+    "latest": "2026-10-23",
+    "count": 2746,
     "history_complete": true
   },
   "tci": {
     "earliest": "2012-06-20",
-    "latest": "2026-10-22",
-    "count": 3501,
+    "latest": "2026-10-23",
+    "count": 3502,
     "history_complete": true
   },
   "lonza": {
@@ -37,14 +37,14 @@
   },
   "pfizer": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-22",
-    "count": 6741,
+    "latest": "2026-10-23",
+    "count": 6742,
     "history_complete": true
   },
   "jnj": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-22",
-    "count": 6741,
+    "latest": "2026-10-23",
+    "count": 6742,
     "history_complete": true
   },
   "roche": {
@@ -55,80 +55,80 @@
   },
   "novartis": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-22",
-    "count": 6741,
+    "latest": "2026-10-23",
+    "count": 6742,
     "history_complete": true
   },
   "astrazeneca": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-22",
-    "count": 6741,
+    "latest": "2026-10-23",
+    "count": 6742,
     "history_complete": true
   },
   "merck": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-22",
-    "count": 6741,
+    "latest": "2026-10-23",
+    "count": 6742,
     "history_complete": true
   },
   "eli_lilly": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-22",
-    "count": 6741,
+    "latest": "2026-10-23",
+    "count": 6742,
     "history_complete": true
   },
   "abbvie": {
     "earliest": "2013-01-02",
-    "latest": "2026-10-22",
-    "count": 3472,
+    "latest": "2026-10-23",
+    "count": 3473,
     "history_complete": true
   },
   "novo_nordisk": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-22",
-    "count": 6741,
+    "latest": "2026-10-23",
+    "count": 6742,
     "history_complete": true
   },
   "sanofi": {
     "earliest": "2002-07-01",
-    "latest": "2026-10-22",
-    "count": 6117,
+    "latest": "2026-10-23",
+    "count": 6118,
     "history_complete": true
   },
   "mckesson": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-22",
-    "count": 6741,
+    "latest": "2026-10-23",
+    "count": 6742,
     "history_complete": true
   },
   "cencora": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-22",
-    "count": 6742,
+    "latest": "2026-10-23",
+    "count": 6743,
     "history_complete": true
   },
   "cardinal": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-22",
-    "count": 6741,
+    "latest": "2026-10-23",
+    "count": 6742,
     "history_complete": true
   },
   "etf_xlv": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-22",
-    "count": 6741,
+    "latest": "2026-10-23",
+    "count": 6742,
     "history_complete": true
   },
   "etf_ibb": {
     "earliest": "2001-02-12",
-    "latest": "2026-10-22",
-    "count": 6461,
+    "latest": "2026-10-23",
+    "count": 6462,
     "history_complete": true
   },
   "etf_xbi": {
     "earliest": "2006-02-06",
-    "latest": "2026-10-22",
-    "count": 5210,
+    "latest": "2026-10-23",
+    "count": 5211,
     "history_complete": true
   }
 }
