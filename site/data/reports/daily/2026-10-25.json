@@ -1,0 +1,250 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T13:06:50.921667Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-25-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Dr Reddy's Laboratories Ltd (RDY) (Q2 2027) Earnings Call Highlights: Margin Recovery in Focus ... - Yahoo Finance",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcjZCUzhBQXJtVXJzMjRld1ByZjRQQlRxaktRQ1BnTXBwRkhTR2JSd1FnV2hFSnd6LWRoTi1kWkx2MjViTWZnYjFjbVNhbnBkS2pqTXF0UC15WHFHQk5jREw5anhvY0lEY2o5VTRpTURQaGtleWl6aS1KeC0wMC1CTU5OcFpSeGRjTjR5S0d6aVVHTDZ1V3c?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "pfizer-2026-10-25-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "pfizer new drug for weight loss - emy",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UaFFKNXR3bUhQb1VKY3BuLTRnY0xBdWM0OWNCb0tBMmtxUTZ2SU5WVENGcVlxQ3RVWER1R05INGtkaFkzQm5DeTdkT3pENHZzWXNIUk8xd2p3MU0ya3pFMUs4blY1aVd1UjdiTjl6ZGhPWWc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "pfizer-2026-10-25-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "#ESMO26: Pfizer looks beyond lung cancer flop as BioNTech, Bristol Myers show early activity",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://endpoints.news/esmo26-pfizer-says-failed-adc-from-seagen-buy-shows-promise-in-post-hoc-review/"
+    },
+    {
+      "rank": 4,
+      "event_id": "teva-2026-10-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "106,238 Teva Pharmaceutical Industries Ltd. $TEVA Shares Sold by Sterling Capital Management LLC - MarketBeat",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMzk1RldMei1ham81QzJmZWtVTnpBSjBrbW1fdUU1UFZyc092WngyYVhFQUM0YXR1RGE2TEcxNDlTQ3dYOHBKNGxwZVN0a3A4T0NWYUNRUWRidWpwdTd6NFE1NDhTXzhBM0pvQVpSd2NjT1hfeTBnYTNHMlMzSmNEQjVXSHNVdkhpMzJndGYtRnBwRnlfSzA5YkRFUzNwRlcxQlpSREh3a2Z2TW0wcjZpMGpLd2tQZDRwYU9iSDR3aHluVEFxY1BjR1NsT3ozc1Jya0xRS2dsMmsxLWdRUklzTjhvcjNCS1M0OUE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "teva-2026-10-25-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Teva Pharmaceutical Industries Ltd. (NYSE:TEVA) Stock Now Rated \"Moderate Buy\" by Sell-Side Brokerages - MarketBeat",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQak1XU2RCR3NjUTVoXzdyOFJHRXhMRWZfTXJwZ1Voc1Z2RC01a0twWnlRUk5zY2hXTUNRcEJ4VzI0ZnYyUmxtV0lwZUJmTGRfeXp3aU83VlNaWXF5dC1hMFkyU0pkZmEyRjVDWTBBaHNEY29sb0tQaGFUS3kxbHFzT09ta1hob1piXzItaG5tOThqVTZ5TGFnQTVUZ2NTeEtYdlJobG5qZDl5WTBuQUY5YWswaHZIVGZHRmd5bHk2LWFpYWpENlRzY1ZqQTg2NEQ2ZUhZYUtGVG1QSjRFYUtCbDZVdHktYko2XzBicDBSYWVqNTA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 9,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "pfizer",
+        "count": 3
+      },
+      {
+        "id": "merck",
+        "count": 3
+      },
+      {
+        "id": "teva",
+        "count": 2
+      },
+      {
+        "id": "dr_reddy",
+        "count": 1
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 11
+      },
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 423,
+    "dup_title": 280,
+    "too_old": 78,
+    "gate1_blocked": 5,
+    "gate2_blocked": 13,
+    "passed": 47,
+    "pass_rate": "32.9%",
+    "gate2_block_rate": "9.1%",
+    "gate2_samples": [
+      "Dr. Reddy's Laboratories | 6-K: Report of foreign private issuer (related to financial reporting) - ",
+      "Dr. Reddy's Laboratories Limited (RDY) options chain - Yahoo Finance Australia",
+      "UK approves J&J's oral psoriasis pill - Reuters",
+      "Roche Holding AG (RHHBY) Q3 2026 Sales/ Trading Statement Call - Slideshow (OTCMKTS:RHHBY) 2026-10-2",
+      "Roche Holding Ltd Estimates – BX:RHO - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為輝瑞、Merck、Teva相關動態：「Dr Reddy's Laboratories Ltd (RDY) (Q2 2027) Earnings Call...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Dr Reddy's Laboratories Ltd (RDY) (Q2 2027) Earnings Call Highlights: Margin ...（藥物核准、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "pfizer new drug for weight loss - emy（藥物核准、GLP-1 減重、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

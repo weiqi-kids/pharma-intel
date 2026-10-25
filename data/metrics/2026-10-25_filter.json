@@ -1,0 +1,16 @@
+{
+  "total_raw": 423,
+  "dup_title": 280,
+  "no_date": 0,
+  "too_old": 78,
+  "gate1_fail": 5,
+  "gate2_fail": 13,
+  "passed": 47,
+  "gate2_samples": [
+    "Dr. Reddy's Laboratories | 6-K: Report of foreign private issuer (related to financial reporting) - ",
+    "Dr. Reddy's Laboratories Limited (RDY) options chain - Yahoo Finance Australia",
+    "UK approves J&J's oral psoriasis pill - Reuters",
+    "Roche Holding AG (RHHBY) Q3 2026 Sales/ Trading Statement Call - Slideshow (OTCMKTS:RHHBY) 2026-10-2",
+    "Roche Holding Ltd Estimates – BX:RHO - TradingView"
+  ]
+}
