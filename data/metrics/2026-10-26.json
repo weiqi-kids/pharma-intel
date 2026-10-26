@@ -1,0 +1,81 @@
+{
+  "date": "2026-10-26",
+  "total_events": 45,
+  "by_company": {
+    "teva": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "dr_reddy": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "sun_pharma": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "lonza": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "jnj": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "roche": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "astrazeneca": {
+      "count": 11,
+      "sentiment_avg": 0.05
+    },
+    "merck": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "novo_nordisk": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "novartis": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "eli_lilly": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 39,
+      "sentiment_avg": 0.0
+    },
+    "drug_approval": {
+      "count": 29,
+      "sentiment_avg": 0.02
+    },
+    "patent_cliff": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "glp1_obesity": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "biotech_funding": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

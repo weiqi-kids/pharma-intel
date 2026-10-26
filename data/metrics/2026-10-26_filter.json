@@ -1,0 +1,16 @@
+{
+  "total_raw": 435,
+  "dup_title": 254,
+  "no_date": 0,
+  "too_old": 84,
+  "gate1_fail": 3,
+  "gate2_fail": 18,
+  "passed": 76,
+  "gate2_samples": [
+    "Dr. Reddy's Laboratories | 6-K: Report of foreign private issuer (related to financial reporting) - ",
+    "TCI Co., Ltd. Estimates – TPEX:8436 - TradingView",
+    "UK approves J&J's oral psoriasis pill - Reuters",
+    "Smith & Nephew and Johnson & Johnson Fail to Merge Orthopedic Businesses - marketscreener.com",
+    "Johnson & Johnson (JNJ) Sees $54.1 Million in Net ETF Selling on Oct. 21 - Yahoo Finance"
+  ]
+}

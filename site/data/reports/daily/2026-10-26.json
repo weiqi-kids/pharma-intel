@@ -1,0 +1,277 @@
+{
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T15:02:35.566556Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-26-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Audio and video of the October 23, 2026 earnings call are available from Dr. Reddy’s (RDY). - Stock Titan",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRlVDNzVlWElDUFNhWGx1NF9HT0p3cHZjeEdIS1AzTzh5b1lURjAzRUxoSXdhT2lTRUJqVl9ETTVjSHpCejZKV2lBNFY0S05KWGl3dzNCNVJCUkZIYVRncDJfeDBHWlJhM096bEZsQXlyc2lhbVgzWlZKQzhiQllnaHhpYVR4LTF2cXpoeDdxYWV2LUp0SnRZYmh0YkI1NVlSN3hOQkdDa215dkVOVGxUbDZZTkZpcnFrR3FEdFRn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lonza-2026-10-26-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Price to earnings forward of Lonza Group AG Shs Sponsored Canadian Depository Receipt Hedged Reg S – NEO:LON - TradingView",
+      "companies": [
+        "lonza"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMXhtSDFfaEZjTExSVWZ5eXZMVEJ5THd1TnViQkFGdGFlSm5talRZOGFBSkE1RVdQM3hlN0xfb2Q3VVRZMGFjZWJPYVBKX0txLWR1X1dHNDBud2JTTUJuMk5RZUwzOHFQeUFESk9wdXJPSlp3NUVJdnBDQkFQSG1RS1RTY25PWC1ySUUzelR6cGc1cWRTdGN0OWgzaE0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "astrazeneca-2026-10-26-019",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is AstraZeneca’s Pipeline Fuel Enough to Spark a Post-Earnings Breakout on Oct. 30? - Yahoo Finance",
+      "companies": [
+        "astrazeneca"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYkxrWEcxZ2xJRUR0RFM2ejJJLVVkVnA3TUxIRDhHYlVEVVIzU1lkNmlNRWd5dU50T1h0Tlc4ZUR4ZTBqdEN6bTF4STZ5OG1URWlUSTNqa0R5d1NtclNSVjBiaHE3OEJXenNjQmtiSWVVM1dldVlfTjhFUW5ab1FOX1YxR3NEcEVHMTRsMklFMVJzSkFBblp5cG1lNktmb09w?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-26-043",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "The 4 stages of women’s heart health: New framework for doctors and patients",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.statnews.com/2026/10/26/heart-health-women-four-life-stages-qa-sadiya-khan/?utm_campaign=rss"
+    },
+    {
+      "rank": 5,
+      "event_id": "astrazeneca-2026-10-26-024",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "ESMO Spotlight: AstraZeneca targets MET resistance with latest Tagrisso data, as J&J says 'we got there first' - FirstWord Pharma",
+      "companies": [
+        "astrazeneca",
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LTzEySHNTUVNtQk9qRFdKaE5hYzlfbnZIdmNuVmdkdHBwdWFxMGJaOUFuSS1kNjNNdUVpcmJrWGtFbkwwUUk3NEd3eExrckFZdzNZ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 39,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "drug_approval": {
+      "today": 29,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 45,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 42,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "astrazeneca",
+        "count": 11
+      },
+      {
+        "id": "jnj",
+        "count": 5
+      },
+      {
+        "id": "roche",
+        "count": 5
+      },
+      {
+        "id": "dr_reddy",
+        "count": 3
+      },
+      {
+        "id": "merck",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 39
+      },
+      {
+        "id": "drug_approval",
+        "count": 29
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "patent_cliff",
+        "count": 2
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 435,
+    "dup_title": 254,
+    "too_old": 84,
+    "gate1_blocked": 3,
+    "gate2_blocked": 18,
+    "passed": 76,
+    "pass_rate": "42.0%",
+    "gate2_block_rate": "9.9%",
+    "gate2_samples": [
+      "Dr. Reddy's Laboratories | 6-K: Report of foreign private issuer (related to financial reporting) - ",
+      "TCI Co., Ltd. Estimates – TPEX:8436 - TradingView",
+      "UK approves J&J's oral psoriasis pill - Reuters",
+      "Smith & Nephew and Johnson & Johnson Fail to Merge Orthopedic Businesses - marketscreener.com",
+      "Johnson & Johnson (JNJ) Sees $54.1 Million in Net ETF Selling on Oct. 21 - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 45 則事件，焦點為AZ、J&J、Roche相關動態：「Audio and video of the October 23, 2026 earnings call are...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Audio and video of the October 23, 2026 earnings call are available from Dr. ...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Price to earnings forward of Lonza Group AG Shs Sponsored Canadian Depository...（藥物核准、法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
