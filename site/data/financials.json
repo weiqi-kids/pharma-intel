@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T15:02:30.209887Z",
+  "updated_at": "2026-10-27T14:15:53.671064Z",
   "quarter": "2026-03-31, 2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -92,17 +92,17 @@
       "name": "瑞迪博士",
       "ticker": "RDY",
       "currency": "USD",
-      "ar": 100557000000,
-      "ar_prev": 101219000000,
-      "ar_qoq": "-1%",
+      "ar": 101399000000,
+      "ar_prev": 100557000000,
+      "ar_qoq": "+1%",
       "ar_period": "QoQ",
-      "inventory": 80473000000,
-      "inv_prev": 76531000000,
-      "inv_qoq": "+5%",
+      "inventory": 81182000000,
+      "inv_prev": 80473000000,
+      "inv_qoq": "+1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "eli_lilly",

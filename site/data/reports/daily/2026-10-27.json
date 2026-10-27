@@ -1,0 +1,295 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T14:15:59.045469Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "eli_lilly-2026-10-27-031",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Novo Nordisk Loses US Ruling Over Eli Lilly Obesity Drug Ads - NDTV Profit",
+      "companies": [
+        "eli_lilly",
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "patent_cliff",
+        "glp1_obesity",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTXdYSTJLMG5YY2l5LUtCc2h0d2V3U1Z5OHJSV2ZBMi1pX2dDbjBiZWxoYk9MeG40RHFiNVloeHQwbTY0b1QxOUxTQ1FhYU5mVVoxb3FkckFHeFo3aW1EV2VqOHg1YTVua2hVeG96d3RISFR5elBwVm9XbXFDSlBHa3hfTENKaUxDMUdHMzZUR25FcGp0V01qc2dIUnJiN0lSVE9uODV3ONIBrwFBVV95cUxNanNmMEVYQl9vdXBqeWsxbjhVTEoyMzlSNzl2dDlTWkU4YWdQZXpIQlE3akY2R25aSC1UNktncWQ3QkMwd204UWJyRGJoSUJyTXQwZlptNHBpSGtaUWNMVW42aXRlV3dJYzQ0WmhVTEJQdzlHaktVYkU1RVdEakJfQkNoYUhmZHFld1p1czZhS3NXM1phd0pwVFA1YlJubjJpYzZxVFlpdG1tdUlDWFVF?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "eli_lilly-2026-10-27-024",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Judge denied Novo Nordisk bid to block Eli Lilly weight-loss drug ads - Quartz",
+      "companies": [
+        "eli_lilly",
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxQ3NlMFRfUnJxWnZ2d1RST2hYbmVFbG9hTHRveUd0M1FldXVibkkyVDFzZWZIWEVKdWl3cnd1NllXRWFGYzMzdTNfOThnX3UtdHBsaXNzRUkwZ2RkS25idDJCQy1pSWpacV9DVGJWTWNJTjBhTnc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "eli_lilly-2026-10-27-025",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Eli Lilly defeats Novo Nordisk attempt to halt weight-loss drug ads (LLY:NYSE) - Seeking Alpha",
+      "companies": [
+        "eli_lilly",
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYmZON3Q4M0M4SzRNTV9RLXh6UmJWWXNueVZtd2ZwdmxwdC1FNXBTdWMwU3NXMGs5MDd5RURGSktCd2lEYUZQdENoZnpvNV9jcjQyd1R6a2pXWXo5cm1naEk3cjFiM0E1WmFtU2NnVVNpV01PZWtSV2I4SGhxMXlaWHIzZU05b2RDbnJKb3VFZ1pmUUVYbjQ5aDJNUmJrUDhpcVZtcFVPeGI?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "eli_lilly-2026-10-27-027",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Judge backs Lilly in Novo lawsuit over weight-loss drug ads - pharmaphorum",
+      "companies": [
+        "eli_lilly",
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdlpsTVZaNzd4MGNkcXFtZXpVOTFPY0tRUk5TUzU3cDJZblhrenpQRHFhUDNSQlNUYjVXTjZSM3hicC1ndEFMbHJXdVZCeWVOY3RLUG1DakMxMUlMamEzbUlURnZlVi13TXl2UGJ6R3J1LXd5TFBLMWo0NElKc3I3NzI3eWprRFNTT0pkeV9vNA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "eli_lilly-2026-10-27-028",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Novo Nordisk loses bid to block Eli Lilly weight-loss drug ads - Latest news from Azerbaijan",
+      "companies": [
+        "eli_lilly",
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSmFvRkZmVXJ0S1lMdTlJVXM1cF9zZDZPSW9KRjhIWGVuYlZndmhFOXkxUTUzMjVTY3ZBVXJnZnktYkZteUZmQTFYeFlxTE1UUDNrb01NT3R1b2QxbnZHZ2cwWnZLV19RbWxxQVk5emNOSGFYS00wWng2Z09CNEJuNUp1eURSRTZYUHRZ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 36,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.01,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 40,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "eli_lilly",
+      "to": "novo_nordisk",
+      "relation": "co_mention",
+      "co_mention_count": 12,
+      "topics": [
+        "earnings",
+        "industry_general",
+        "glp1_obesity",
+        "patent_cliff",
+        "drug_approval"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 48,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 35,
+      "negative": 7
+    },
+    "top_companies": [
+      {
+        "id": "eli_lilly",
+        "count": 12
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 12
+      },
+      {
+        "id": "pfizer",
+        "count": 6
+      },
+      {
+        "id": "astrazeneca",
+        "count": 5
+      },
+      {
+        "id": "jnj",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 40
+      },
+      {
+        "id": "drug_approval",
+        "count": 36
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "patent_cliff",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 435,
+    "dup_title": 231,
+    "too_old": 83,
+    "gate1_blocked": 4,
+    "gate2_blocked": 12,
+    "passed": 105,
+    "pass_rate": "51.5%",
+    "gate2_block_rate": "5.9%",
+    "gate2_samples": [
+      "Teva's Austedo-Led Turnaround Faces A Margin Test As Generics Drag On Third-Quarter Results - Finviz",
+      "TCI Co., Ltd. Estimates – TPEX:8436 - TradingView",
+      "Lonza Group AG Estimates – BX:LO3 - TradingView",
+      "Johnson & Johnson schedules business review for December 8 - Investing.com",
+      "Johnson & Johnson (JNJ) Sees $34.7 Million in Net ETF Selling on Oct. 23 - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 48 則事件，焦點為Lilly、Novo、輝瑞相關動態：「Novo Nordisk Loses US Ruling Over Eli Lilly Obesity Drug ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Novo Nordisk Loses US Ruling Over Eli Lilly Obesity Drug Ads - NDTV Profit（專利懸崖、GLP-1 減重、法說會、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Judge denied Novo Nordisk bid to block Eli Lilly weight-loss drug ads - Quartz（藥物核准、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

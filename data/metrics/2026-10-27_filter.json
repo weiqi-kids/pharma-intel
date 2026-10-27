@@ -1,0 +1,16 @@
+{
+  "total_raw": 435,
+  "dup_title": 231,
+  "no_date": 0,
+  "too_old": 83,
+  "gate1_fail": 4,
+  "gate2_fail": 12,
+  "passed": 105,
+  "gate2_samples": [
+    "Teva's Austedo-Led Turnaround Faces A Margin Test As Generics Drag On Third-Quarter Results - Finviz",
+    "TCI Co., Ltd. Estimates – TPEX:8436 - TradingView",
+    "Lonza Group AG Estimates – BX:LO3 - TradingView",
+    "Johnson & Johnson schedules business review for December 8 - Investing.com",
+    "Johnson & Johnson (JNJ) Sees $34.7 Million in Net ETF Selling on Oct. 23 - Yahoo Finance"
+  ]
+}
