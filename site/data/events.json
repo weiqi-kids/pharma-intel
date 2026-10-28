@@ -1,5 +1,663 @@
 [
   {
+    "id": "pfizer-2026-10-28-001",
+    "date": "2026-10-28",
+    "companies": [
+      "pfizer"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pfizer’s Elrexfio meets primary endpoint in second Phase III myeloma trial, with higher infections - The Pharma Letter",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRG1Md1JxLTFPY2o3eFg2dUhNS1JOQmZSMUVNY3hnb0I0NFAzcDdlWGZjRmpNTi1OSDVIZVZ3bHBtUWp2Ym1sUGVnRGRsMnh1Qk1UMWRYQUgyOXU4Tm93RHJFbTViT251Ml92bkFDdn",
+    "sources": [
+      {
+        "name": "pfizer",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRG1Md1JxLTFPY2o3eFg2dUhNS1JOQmZSMUVNY3hnb0I0NFAzcDdlWGZjRmpNTi1OSDVIZVZ3bHBtUWp2Ym1sUGVnRGRsMnh1Qk1UMWRYQUgyOXU4Tm93RHJFbTViT251Ml92bkFDdnBCSnlHUXpzdHhKc2lLS0Uxd0lEM3k3UWNMZGFsa0pGT3p6YldkbHNUZnFFdW5jYkhDNGU5bEc1Nmh6TFF3VmRkOV9zR1V1YWhmdDJLMHJLQWVtcmprc1ljVm5mVTNLbHdTMTdGU3NYX3l5QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "eli_lilly-2026-10-28-002",
+    "date": "2026-10-28",
+    "companies": [
+      "eli_lilly",
+      "jnj",
+      "abbvie",
+      "novartis"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Zacks Analyst Blog Highlights Eli Lilly, Novartis, Johnson & Johnson and AbbVie - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTmlZUVpNQlpnU2Y3d3AtcUNtQ08zMHpDbjdORW83MnpuYzk5dTBnUkpiY044YWxJbDdjUmNMNnB6QXZoNzNQYTVYM1Z0Y1VCODYtTTVhT0NVUFRQUU9YYVd0RnFUZkFOZlZpQ0VMQn",
+    "sources": [
+      {
+        "name": "jnj",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTmlZUVpNQlpnU2Y3d3AtcUNtQ08zMHpDbjdORW83MnpuYzk5dTBnUkpiY044YWxJbDdjUmNMNnB6QXZoNzNQYTVYM1Z0Y1VCODYtTTVhT0NVUFRQUU9YYVd0RnFUZkFOZlZpQ0VMQnMyTHJtWWRJeXVOV19OdmtOOU9hSTFranBVbjVYdm5wVXh5QklDZElndjNLZ1BHdUpCMktheDU4MFNiMzFlZGNPREZLTXYwNVVYTmN4RTZtM0tZRDFOSURmaVRtV0NtRVVhdnlIXzJ6MW1qMnFwZkx6M1pleFF5NTcyVmlWcXEwcXU1bGxpZUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jnj-2026-10-28-003",
+    "date": "2026-10-28",
+    "companies": [
+      "jnj"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Johnson & Johnson (JNJ) Shows Over 75% Response Rates In Two Cancer Trials - Simply Wall Street",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxORkpuYWNKaEp5VnQwRy1IVGJmQTlLSl9iTHpXcTQwbmo4N3N2eWd4WGU1ZHRUOGw4TlBMYU5EQm9EWlpVYmFqN24yYzVLTG1fc0c2U2dwZjNGNVdSSUNkRzl4M1pJZGxtUEVOcGpUcT",
+    "sources": [
+      {
+        "name": "jnj",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORkpuYWNKaEp5VnQwRy1IVGJmQTlLSl9iTHpXcTQwbmo4N3N2eWd4WGU1ZHRUOGw4TlBMYU5EQm9EWlpVYmFqN24yYzVLTG1fc0c2U2dwZjNGNVdSSUNkRzl4M1pJZGxtUEVOcGpUcTFMTmlmV1pyUkFGU1NCTnJsMGFuOGRtb2JHVXJKeE8yNGFFbjRkLXV5ckRIOGVDNlhZWDVwMXJ1NWdfS3NuUEJvZFJ6bGtuWUZ3ajI5ZUZIc3ZERzZINkZXZEJoTkhvWUN6MmdBYjl1Y21YVkVncFFN0gHkAUFVX3lxTE5scllIZGlmSldJdjhmN3dLc01JdDctTE01Qnlhazl6bGcwUkI2VUVjREstNVpyN1RMNUJUajhPRE1CR05KNTg2QXV5eWlxMmFfQzNlWjB0VWhUY3lyWHhrX2RnMUthVU1QVldNUTZ6aEJKcnFoM2NzRjlNNkJoSU9kelprbTVTRWNoWnotVDlPN2JSNU5fSjg4YUZrREtBemVxMkZRbWpDTFhpam44cl9VUVZxNG9zWGd1TFRYUHhzSy1lQjI5WTByZnI4Q3BYdXY0a0Y3UDBPTER1cUtncnp2MG1aNg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "roche-2026-10-28-004",
+    "date": "2026-10-28",
+    "companies": [
+      "roche"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Roche Holding AG : Receives a Buy rating from Deutsche Bank - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQdjJOMWRnU0d3a0hhZWNmRElQZlFEeFJIcXRpakJGaWpLZ3ZscDIxLW1WdHhyc3lsYWJOSWRGSW55elBuV01SclQ0RXI2OGRGdUF3RDhFQk1sWW1hMkxETWd5cVlhbk1KREIyZl9BQT",
+    "sources": [
+      {
+        "name": "roche",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdjJOMWRnU0d3a0hhZWNmRElQZlFEeFJIcXRpakJGaWpLZ3ZscDIxLW1WdHhyc3lsYWJOSWRGSW55elBuV01SclQ0RXI2OGRGdUF3RDhFQk1sWW1hMkxETWd5cVlhbk1KREIyZl9BQTQtQVF2UXZCTktnd3VlT0FRVG9JM3M3anBubzdfY1NxSVE1MURnZkZyRXFmS3R1bk5keU1zZ0ZzQjMwYkNvVVdv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "roche-2026-10-28-005",
+    "date": "2026-10-28",
+    "companies": [
+      "roche"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Roche Holding Ltd (RHHBY) Stock Forecasts - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOWnR2dTdEdU1BRHljMGFkTkNYMkNDZmxhQVVsN1c4c1FYZ2h2S3k4RXh2Nl9WaE9PTmQ5Tjl1a1JDZEtlMUU2MUhUbXkwVUtYeHVGOEwwbkhPYmRIcC1KZEpwS3VROS12RG5JQTdiOT",
+    "sources": [
+      {
+        "name": "roche",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWnR2dTdEdU1BRHljMGFkTkNYMkNDZmxhQVVsN1c4c1FYZ2h2S3k4RXh2Nl9WaE9PTmQ5Tjl1a1JDZEtlMUU2MUhUbXkwVUtYeHVGOEwwbkhPYmRIcC1KZEpwS3VROS12RG5JQTdiOTBFaWw2ajVBbEtRQUUzLWJpcXJURUhpX2d1NVVHSWtmRlo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "astrazeneca-2026-10-28-006",
+    "date": "2026-10-28",
+    "companies": [
+      "astrazeneca"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AstraZeneca and Mark-Paul Gosselaar Launch Meet Your Mark to Raise Awareness of Cancer Biomarker Testing - Rutland Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgJBVV95cUxPT0RuVnFkLTktNmZ4S3lXLVQ3NjcwQVFQZFdyQ0NlSHlVbEV2aGpjRWNiRElfWEF5REtFTG9sTVJIZmZzQUktV0hzX0l4a2dqby16dTB5eHpYMXlzZWFscTZNWnl6Y1FRRFhacHozM0",
+    "sources": [
+      {
+        "name": "astrazeneca",
+        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPT0RuVnFkLTktNmZ4S3lXLVQ3NjcwQVFQZFdyQ0NlSHlVbEV2aGpjRWNiRElfWEF5REtFTG9sTVJIZmZzQUktV0hzX0l4a2dqby16dTB5eHpYMXlzZWFscTZNWnl6Y1FRRFhacHozM09RNkdfVWZFQjlweS1KNERsTFgtZTFHaDkwMHdvbDRGUHJnVk5LakRtdng5ZjJiZEJiTWJTd2U4ZWdtN1ZJalF6VjRWUEppUkViMVBnLUFtVU9fcmJzU2tqeVgxckNGRUttTXpLRTVOZFFNNFAyUHpOdE5hWVh4TXJtd3pscEtHMTlBRS1jdW9IVkltNWx0dGgtcmFqa3RyYmZGeVRIMS1nX3djY1NYSm9neFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "astrazeneca-2026-10-28-007",
+    "date": "2026-10-28",
+    "companies": [
+      "astrazeneca"
+    ],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "Nancy Ghattas Highlights AstraZeneca’s Continued Efforts to Turn Scientific Discoveries Into Better Patient Outcomes - Oncodaily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE96Ry1yd185cjFEd19TY25sSFNGeTdFSEVZRlpIRHotd3phWkJlUzN1aGNVd1pjSTZ5ZmxoUWJ4ZGJkVlVBMzU5T0R2cmN2bUtfSHE2TTlHS0tsRFRYNUE?oc=5\" target=\"_blank\">",
+    "sources": [
+      {
+        "name": "astrazeneca",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96Ry1yd185cjFEd19TY25sSFNGeTdFSEVZRlpIRHotd3phWkJlUzN1aGNVd1pjSTZ5ZmxoUWJ4ZGJkVlVBMzU5T0R2cmN2bUtfSHE2TTlHS0tsRFRYNUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "astrazeneca-2026-10-28-008",
+    "date": "2026-10-28",
+    "companies": [
+      "astrazeneca"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AstraZeneca weighs entering revived cancer vaccine market - medwatch.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5MdnRldExYb1BpWnoxVWV4dDIyM0diN3phLXR4VjdXYkJMX0pvNHZ4ZzJqempFVllwUGkwYktteE5RUTlyVUlDSEk1b19maTU1WExyX1luNUszak9TX21xR0hVVTFya3ZlSTd6NmY1dw",
+    "sources": [
+      {
+        "name": "astrazeneca",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5MdnRldExYb1BpWnoxVWV4dDIyM0diN3phLXR4VjdXYkJMX0pvNHZ4ZzJqempFVllwUGkwYktteE5RUTlyVUlDSEk1b19maTU1WExyX1luNUszak9TX21xR0hVVTFya3ZlSTd6NmY1dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "astrazeneca-2026-10-28-009",
+    "date": "2026-10-28",
+    "companies": [
+      "astrazeneca"
+    ],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "DE-ASTRAZENECA - GazetteXtra",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOdXBqWmRrQXRPdjZNWG1TSDNrOXJDNGlxWnVQT1lPWkRNMlUzWll0dHpJVzZrQVhDRWJnYjd6VjNsVEhsdW80Wjh3ZnZNWVF3MFU2UjNaTUh2RTJpdFRuaWVsWW1QMzdpekk4dHZSWD",
+    "sources": [
+      {
+        "name": "astrazeneca",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdXBqWmRrQXRPdjZNWG1TSDNrOXJDNGlxWnVQT1lPWkRNMlUzWll0dHpJVzZrQVhDRWJnYjd6VjNsVEhsdW80Wjh3ZnZNWVF3MFU2UjNaTUh2RTJpdFRuaWVsWW1QMzdpekk4dHZSWDJnVElBVHIwckR4NF95RDlGNUZQcnBZbnJSMVZ0M2xkbUgxMjVYWmlTX01GMXBfUDdtMkltQWdZeUtzNUV0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "astrazeneca-2026-10-28-010",
+    "date": "2026-10-28",
+    "companies": [
+      "astrazeneca"
+    ],
+    "topics": [
+      "drug_approval",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AstraZeneca PLC expected to post earnings of $2.60 a share - Earnings Preview - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQejlGWVZtS2NfaVZSNHhQV1VvZE1LTDEyTkxKcENITEEwYnpxNFBEcnZVOTl5QjVCZXBud3ZiT3l3cXd4bEtobGNOZTg0VDJSUTU2dHJmalhMOWpoZHFkalhpX1p0TmV0OTBTRVYtY2",
+    "sources": [
+      {
+        "name": "astrazeneca",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQejlGWVZtS2NfaVZSNHhQV1VvZE1LTDEyTkxKcENITEEwYnpxNFBEcnZVOTl5QjVCZXBud3ZiT3l3cXd4bEtobGNOZTg0VDJSUTU2dHJmalhMOWpoZHFkalhpX1p0TmV0OTBTRVYtY2Y1X1NEc0ZESU92b2paU1JISGtldkF0R2RkZ1pCcWFJWGQ5cXhZcDVRMTNWclhzTHFFYnQ0dlJ2LXFFZUY5TDk0VzBfNjJldEJKOUMyOENKSXBIQ3Q3ZVVkZXZ6RDVzLW9XVU5xaDgwcl9YRU1Z?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "merck-2026-10-28-011",
+    "date": "2026-10-28",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jefferies & Co Adjusts Merck Price Target to $177 From $176 - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQd2ROcnN6Zi1Hb3oyR0dMamFUTGdMYUtodmNXaHE0ZWFZb1ItMklnUV9pZU13djJyNGdKRTl1TGFDb00tQllyZUFmZDRzUEZmR3FWcVgwRGl1S2dQNDFtSzRoZ1lCZm1fbTVZaUdnZG",
+    "sources": [
+      {
+        "name": "merck",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd2ROcnN6Zi1Hb3oyR0dMamFUTGdMYUtodmNXaHE0ZWFZb1ItMklnUV9pZU13djJyNGdKRTl1TGFDb00tQllyZUFmZDRzUEZmR3FWcVgwRGl1S2dQNDFtSzRoZ1lCZm1fbTVZaUdnZGFoUVg5WEZZaXZtaDNFRVowS2paVW51d2hWNEJqczN6WmFZYUk2OEZUb0IzdFdjSi11MVBrN1huS0hvemkw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "eli_lilly-2026-10-28-012",
+    "date": "2026-10-28",
+    "companies": [
+      "eli_lilly"
+    ],
+    "topics": [
+      "drug_approval",
+      "glp1_obesity",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Lilly's retatrutide outshines Ozempic on weight loss, blood sugar control in trial - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ0hwalh5b1g1NFZERG9jUUhSdzNwWHN1RHgyd2JwLXFKRHotc3l5S1JJZ3lpNHJYdGFpb2M1dG8zNzhfeXNjd0ZRUHN2bklUNlo1S05iVjZsbjhUQzlsMUJyLXVCSlNjamtTY2tWRV",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ0hwalh5b1g1NFZERG9jUUhSdzNwWHN1RHgyd2JwLXFKRHotc3l5S1JJZ3lpNHJYdGFpb2M1dG8zNzhfeXNjd0ZRUHN2bklUNlo1S05iVjZsbjhUQzlsMUJyLXVCSlNjamtTY2tWRVl3aVhXcXdnc3pEY0tFQ2JrYXdBTFJ1SGlSenllamh2M0JJNTIzQ1Y0WVhuamtIODBGRkFXbzZxRnAxclFvREp6V0pxaFVabnpXZTBQQ2xTTFlGaGlDcFZxMQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-10-28-013",
+    "date": "2026-10-28",
+    "companies": [
+      "novo_nordisk",
+      "eli_lilly"
+    ],
+    "topics": [
+      "drug_approval",
+      "glp1_obesity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lilly says ‘triple-G’ drug beats Novo’s Ozempic in diabetes study - STAT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxORUdvYWIwWHhtN3JiZ0pNaXFYYlViNWNub3JpakdqejRac2RPakdLVDJpR0FGVFhacXhicDF5VzhXUlBHY0JjNlZWLWladC0wY3JPVTViMnU3UXcwTjJ6MWFUUlBGdkZjeHlpYUdzdF",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORUdvYWIwWHhtN3JiZ0pNaXFYYlViNWNub3JpakdqejRac2RPakdLVDJpR0FGVFhacXhicDF5VzhXUlBHY0JjNlZWLWladC0wY3JPVTViMnU3UXcwTjJ6MWFUUlBGdkZjeHlpYUdzdFdyclRPdHZBOVdHd3Z0T2V4WDBpQnFqWEk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "eli_lilly-2026-10-28-014",
+    "date": "2026-10-28",
+    "companies": [
+      "eli_lilly"
+    ],
+    "topics": [
+      "drug_approval",
+      "glp1_obesity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lilly's retatrutide beats Ozempic in Phase 3 trial (LLY:NYSE) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOS3ExVDE2ZEZCYmNxblZSSDlMNFRlRXBrSFprRjJfTHAyU3E3SXJxS1QwRGNMOVdlNTFmM3FPTi1oc3E2eVlSLTM2ek9FUFpTejhUbnUtXzZ5aF9rVjFMbmdNb3F4cno1czFjNkpiX0",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS3ExVDE2ZEZCYmNxblZSSDlMNFRlRXBrSFprRjJfTHAyU3E3SXJxS1QwRGNMOVdlNTFmM3FPTi1oc3E2eVlSLTM2ek9FUFpTejhUbnUtXzZ5aF9rVjFMbmdNb3F4cno1czFjNkpiX0pSYjFzQ196ZWRGMWhiSWFwSEVLcTVmYndnUVlQSg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-10-28-015",
+    "date": "2026-10-28",
+    "companies": [
+      "novo_nordisk",
+      "eli_lilly"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ADVERTISING (FOOD, DRUG & MEDICAL DEVICES)—D.N.J.: Novo Nordisk had unclean hands for preliminary injunction in challenge to Lilly comparative advertising - VitalLaw.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwJBVV95cUxOU1hqNFdyMEgwTnNrNjVCUGQzeEV1U3ZjYzlHb1V4Q0tVN1N0SjhveTBod2J4V3Q5TWhfMUFlaVl5cHE1d3hjUXdqYUFQZHNTSUI3Y1ZBeFh0eUFaMy12eno2eFNZZ3hIYTItV213T1",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOU1hqNFdyMEgwTnNrNjVCUGQzeEV1U3ZjYzlHb1V4Q0tVN1N0SjhveTBod2J4V3Q5TWhfMUFlaVl5cHE1d3hjUXdqYUFQZHNTSUI3Y1ZBeFh0eUFaMy12eno2eFNZZ3hIYTItV213T19ubk5icWhJeDdVeW9XTVhHaVBxdzJpcjYyaTVSNkUweExEaS05ZTNIV1lHZXFHTmhFRmMtQldDTkJuT1U1R2U5VEhVYTZXSjZpcWhKTXVFTTRnSi1iOTZUNmRrVlJ6Z0hXVi10M0VnYURkTVdBd3hYQnE2Y2t2YWl5b3FoZm9kdDRHQmZGakE3UUxzNDNPSVRQdGZicExIMUxuSnRWMEtmYjQwU1AtbXFDU1IwVFd6dEVZbVdBdHRNTlZ6R29FWnRzSnVkeWVnY05Ob3M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-10-28-016",
+    "date": "2026-10-28",
+    "companies": [
+      "novo_nordisk"
+    ],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "Novo Nordisk inches toward Saudi production deal but keeps timeline under wraps - MedWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1fSWkyeS1jZVAwN0M4VFFHUHlWOVR0bkh3QUFPdlY4NXFxS0lldzV5RmlNRFBQbVZERVVVNUQ4OU1BUUNSOGtIOFFxTEtuUko4a0NlTVRmRnM2NFNhQXBuNERQRDNvdUV6d0JaZGFtaw",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fSWkyeS1jZVAwN0M4VFFHUHlWOVR0bkh3QUFPdlY4NXFxS0lldzV5RmlNRFBQbVZERVVVNUQ4OU1BUUNSOGtIOFFxTEtuUko4a0NlTVRmRnM2NFNhQXBuNERQRDNvdUV6d0JaZGFtaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-10-28-017",
+    "date": "2026-10-28",
+    "companies": [
+      "novo_nordisk"
+    ],
+    "topics": [
+      "drug_approval",
+      "glp1_obesity"
+    ],
+    "impact": "neutral",
+    "title": "Andel Collaborates With Novo To Bring Wegovy® Injection and Wegovy® Pill Direct-to-Employers - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNTkNUUWxtVThfejZqUjlzU1RPU19SNTAyRHBsVnlBNkZDSmhfM2l0WWtWclNqTlYzNkFPM3FSemxDUkllZkpDQU0xWFMyQ2R3bGxFLUg3X0hnMjRLV0U0VTF3OWJNME14WW1vN0RHcX",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTkNUUWxtVThfejZqUjlzU1RPU19SNTAyRHBsVnlBNkZDSmhfM2l0WWtWclNqTlYzNkFPM3FSemxDUkllZkpDQU0xWFMyQ2R3bGxFLUg3X0hnMjRLV0U0VTF3OWJNME14WW1vN0RHcXFreXVZTWVBMktQMHRhbFJXVVFocFdHdDVSRFRiMVdXU3ZsYmdBSDlVSGlMTU1LQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "eli_lilly-2026-10-28-018",
+    "date": "2026-10-28",
+    "companies": [
+      "eli_lilly",
+      "novartis"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lilly shuffles business structure; Novartis writes off part of Avidity deal",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDg",
+    "sources": [
+      {
+        "name": "biopharma_dive",
+        "url": "https://www.biopharmadive.com/news/lilly-global-markets-novartis-avidity-astellas-talzenna-prana/872857/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-28-019",
+    "date": "2026-10-28",
+    "companies": [],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Marshall purchased stock in obscure pharma company just before it secured key FDA approval - Popular Information",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9hanZvc2o1cVNCSGV0eEFUZnBzV01RUGJKOExTcXVqYUZQX2I4N3o3b0dVeG9HRkJ1cVh6NDhKVkFDOHg3YllLTURrNG5Rbnk3NGgtbXFBb3NGdnNnRF9lSDVnR3ppRGJNakE?oc=5\" ",
+    "sources": [
+      {
+        "name": "google_news_pharma",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hanZvc2o1cVNCSGV0eEFUZnBzV01RUGJKOExTcXVqYUZQX2I4N3o3b0dVeG9HRkJ1cVh6NDhKVkFDOHg3YllLTURrNG5Rbnk3NGgtbXFBb3NGdnNnRF9lSDVnR3ppRGJNakE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pfizer-2026-10-28-020",
+    "date": "2026-10-28",
+    "companies": [
+      "pfizer"
+    ],
+    "topics": [
+      "drug_approval",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pfizer Stock Ahead of Q3 Earnings: To Buy or Not to Buy? - Zacks Investment Research",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNOTB2Y2J4N1VSdXZYZ1k2MUhxVURxbDRKQ0w1dFh2ME5FU09yMGZhOTZocG9uaWlxbEVYMTlXdlFYSWFveXZUeXAwZmxDSmZQSHo1NW1VSWJpa09WbVh5VTBLeDZ2ZU16ZkZWNGtsVj",
+    "sources": [
+      {
+        "name": "pfizer_news",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOTB2Y2J4N1VSdXZYZ1k2MUhxVURxbDRKQ0w1dFh2ME5FU09yMGZhOTZocG9uaWlxbEVYMTlXdlFYSWFveXZUeXAwZmxDSmZQSHo1NW1VSWJpa09WbVh5VTBLeDZ2ZU16ZkZWNGtsVjNmWkVYX3R6SXhxLVJQTTM4MmIxWnJrOE1SYlBCVnJjbmpQa2ZETEczNk5Udw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pfizer-2026-10-28-021",
+    "date": "2026-10-28",
+    "companies": [
+      "pfizer"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What Is Pfizer (PFE) Signaling With Its Latest Oncology Trial And FDA Win? - Simply Wall Street",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTXdNeU5Sc05ZUHdVQWR1azFaLWhXTmN4bzYxYVo2RTU3WF9XVGc5VkJlNDFKOW9UNVhVT3piXy1lN1NOanJKTXZIVXFGWm5aeHdVWVl1bVdZYmN4Wlc2LWRkWmFrNmhOanRUbUdKTj",
+    "sources": [
+      {
+        "name": "pfizer_news",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTXdNeU5Sc05ZUHdVQWR1azFaLWhXTmN4bzYxYVo2RTU3WF9XVGc5VkJlNDFKOW9UNVhVT3piXy1lN1NOanJKTXZIVXFGWm5aeHdVWVl1bVdZYmN4Wlc2LWRkWmFrNmhOanRUbUdKTjdBU1dOWXcyWFhWQjZpQ003c05RZUM5bTg0VEE3MXpSU0NTaDFPWkFhWW9ZellPMWJGSm96d1gtdWpTc2hOWGZQMVNfRkVEN2Y2R1Q2c1RzLWY4RW5MOEI0SHRmdjlGTEtQeEHSAdcBQVVfeXFMT3JBaTU0bGJlMVlldU1kczR1dnR0c0s3Q1B4Z2ZVYy1TYWV5cUFFRF96SDJ0a0Y4Tkk3dXlBdG9OblFFY1U3a0NCR1JFOHZZQm1XeWFKaFVlb0E0SHNtaGRpZElzcXo0Y3h5ZW44UjBpSUpJLVBqZXVlRnJFc3RYU1hqQ3JBNVFxZkdhUnhzbFRER3RpejE1aU5Yb0JGNnRpejRwemhQdGtoZEw3dXJBd051aWp6X2lCbVdZRkYyblUtYVBuRE9VdmotOE5vRThCMXJKNXIxTkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-28-022",
+    "date": "2026-10-28",
+    "companies": [],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Radiotherapy boosts progression‑free survival in advanced lung cancer",
+    "summary": "<p>SARON trial shows 56% improvement over standard treatment</p>\n<p><img src=\"https://pharmatimes.com/wp-content/uploads/2023/11/lungs.jpg\" style=\"display: block; margin: 1em auto\"></p>\n",
+    "sources": [
+      {
+        "name": "pharma_times",
+        "url": "https://pharmatimes.com/news/radiotherapy-boosts-progression-free-survival-in-advanced-lung-cancer/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-28-023",
+    "date": "2026-10-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mad for it",
+    "summary": "<p>MAD World Summit 2026 has secured official accreditation from The CPD Group</p>\n<p><img src=\"https://pharmatimes.com/wp-content/uploads/2026/10/CPD-Accredited-image.jpg\" style=\"display: block; marg",
+    "sources": [
+      {
+        "name": "pharma_times",
+        "url": "https://pharmatimes.com/uncategorized/mad-for-it/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-28-024",
+    "date": "2026-10-28",
+    "companies": [],
+    "topics": [
+      "biotech_funding",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Beijing-based BioGeometry gets $100M+ for AI drug R&D",
+    "summary": "A Chinese biotech startup has raised more than $100 million in Series A funding for its AI-driven protein design.\n\n BioGeometry, a 4-year-old company headquartered in Beijing, said in a statement Wedn",
+    "sources": [
+      {
+        "name": "endpoints_news",
+        "url": "https://endpoints.news/beijing-based-biogeometry-gets-100m-for-ai-drug-rd/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-28-025",
+    "date": "2026-10-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Now 78% of scientists say AI will speed drug discovery this year: Signal Survey",
+    "summary": "A year ago, Endpoints Signal surveyed almost 1,500 biopharma insiders about the very near-term prospects of AI accelerating drug discovery. Scientists, interestingly, were the most skeptical. Now, as ",
+    "sources": [
+      {
+        "name": "endpoints_news",
+        "url": "https://endpoints.news/now-78-of-scientists-say-ai-will-speed-drug-discovery-this-year-signal-survey/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-10-28-026",
+    "date": "2026-10-28",
+    "companies": [
+      "novo_nordisk",
+      "eli_lilly"
+    ],
+    "topics": [
+      "glp1_obesity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lilly's triple-G drug retatrutide outshines Novo's Ozempic in diabetes",
+    "summary": "Eli Lilly’s retatrutide, the incretin shot that has already proven its effectiveness against other assets on a cross-trial basis, has cemented its utility in a head-to-head trial, albeit in diabetes r",
+    "sources": [
+      {
+        "name": "endpoints_news",
+        "url": "https://endpoints.news/lillys-triple-g-drug-retatrutide-outshines-novos-ozempic-in-diabetes/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-28-027",
+    "date": "2026-10-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Astellas buys option on preclinical IL-12 cancer drug from Audax Biosciences",
+    "summary": "Astellas has taken an exclusive option to license a preclinical immuno-oncology asset from Australian biotech Audax Biosciences.\n\n The deal features $285 million that covers the upfront fee and a paym",
+    "sources": [
+      {
+        "name": "endpoints_news",
+        "url": "https://endpoints.news/astellas-buys-option-to-preclinical-il-12-cancer-drug-from-audax-biosciences/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "eli_lilly-2026-10-28-028",
+    "date": "2026-10-28",
+    "companies": [
+      "eli_lilly"
+    ],
+    "topics": [
+      "glp1_obesity",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "STAT+: Pharmalittle: We’re reading about 340B battles, new results for a Lilly weight loss drug, and more",
+    "summary": "Missouri attorney general warned Eli Lilly to discontinue requiring hospitals to provide claims data to receive discounted medicines under 340B program",
+    "sources": [
+      {
+        "name": "statnews",
+        "url": "https://www.statnews.com/pharmalot/2026/10/28/battles-over-340b-lilly-reports-weight-loss-drug-results/?utm_campaign=rss",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-10-28-029",
+    "date": "2026-10-28",
+    "companies": [
+      "novo_nordisk",
+      "eli_lilly"
+    ],
+    "topics": [
+      "glp1_obesity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "STAT+: Lilly’s triple-G drug beats Ozempic in head-to-head study",
+    "summary": "Eli Lilly announced that its investigational drug retatrutide was more effective at lowering blood sugar and cutting weight than Novo Nordisk’s Ozempic in a large diabetes study.",
+    "sources": [
+      {
+        "name": "statnews",
+        "url": "https://www.statnews.com/2026/10/28/biotech-news-lillys-triple-g-drug-beats-ozempic-in-head-to-head-study/?utm_campaign=rss",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-28-030",
+    "date": "2026-10-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "What has actually caused the decline in drug overdose deaths?",
+    "summary": "After years of steep increases, especially amid the pandemic, U.S. overdose deaths decreased 27% in 2024, and preliminary data from 2025 show another meaningful drop.",
+    "sources": [
+      {
+        "name": "statnews",
+        "url": "https://www.statnews.com/2026/10/28/health-news-why-are-overdose-deaths-declining/?utm_campaign=rss",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-10-28-031",
+    "date": "2026-10-28",
+    "companies": [
+      "novo_nordisk",
+      "eli_lilly"
+    ],
+    "topics": [
+      "glp1_obesity",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "STAT+: Lilly says ‘triple-G’ drug beats Novo’s Ozempic in diabetes study",
+    "summary": "Data add to expectations that the drug will be one of Lilly’s greatest growth drivers. ",
+    "sources": [
+      {
+        "name": "statnews",
+        "url": "https://www.statnews.com/2026/10/28/retatrutide-vs-ozempic-lilly-diabetes-study/?utm_campaign=rss",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-28-032",
+    "date": "2026-10-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Opinion: How pediatricians like me are helping families stay calm and informed about measles",
+    "summary": "“It is dizzying to have a family clamoring for the MMR vaccine in one room while the room next door adamantly opposes vaccination,” writes a pediatrician.",
+    "sources": [
+      {
+        "name": "statnews",
+        "url": "https://www.statnews.com/2026/10/28/measles-parents-panic-pennsylvania-vaccines-education/?utm_campaign=rss",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "teva-2026-10-27-001",
     "date": "2026-10-27",
     "companies": [
@@ -985,6 +1643,777 @@
       {
         "name": "statnews",
         "url": "https://www.statnews.com/2026/10/27/gene-therapy-cow-rare-disease-amish-mennonite-patients-waiting/?utm_campaign=rss",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "teva-2026-10-27-049",
+    "date": "2026-10-27",
+    "companies": [
+      "teva"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Teva Pharmaceutical Industries Unit Buys Rights to BXCL501 From BioXcel Therapeutics - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQckV3Y0Q0V3ZTQkVKZTQzZDRWeWV5TXdRMmVHUUlGVXF1bzRkdTRybWZQVXRDaGVRX25kZjlxVjdvdDQ0VDBhMGtSajlGZ2xIS3hzLXczX21IMlhxd2VGZy1mOXRVVjZtSm9KdkpWTE",
+    "sources": [
+      {
+        "name": "teva",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQckV3Y0Q0V3ZTQkVKZTQzZDRWeWV5TXdRMmVHUUlGVXF1bzRkdTRybWZQVXRDaGVRX25kZjlxVjdvdDQ0VDBhMGtSajlGZ2xIS3hzLXczX21IMlhxd2VGZy1mOXRVVjZtSm9KdkpWTE5qTkdxR3hkVGhKWjZXZl9VSjVCaldEeFpnWHZLdDlPUThtLWdIU3N3MkVKZHFsbHJRUkpN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "teva-2026-10-27-050",
+    "date": "2026-10-27",
+    "companies": [
+      "teva"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Teva to cut 61 jobs in Fairfield as it moves manufacturing out of NJ - NJBIZ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FN2gxcFI1UjN4VGlGNmRhbEY4eGp6ekdIcEpWcGozLTQ1TVZ6VkNEUFJfbmZER2hOTE1kaVc0d2gxVzI4ZlNGRmZKRXZWN3ozQzBzYnI2ZXQtLWZ0UGRKMndhVmlNdw?oc=5\" targe",
+    "sources": [
+      {
+        "name": "teva",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FN2gxcFI1UjN4VGlGNmRhbEY4eGp6ekdIcEpWcGozLTQ1TVZ6VkNEUFJfbmZER2hOTE1kaVc0d2gxVzI4ZlNGRmZKRXZWN3ozQzBzYnI2ZXQtLWZ0UGRKMndhVmlNdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "teva-2026-10-27-051",
+    "date": "2026-10-27",
+    "companies": [
+      "teva"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Roundup: Teva Acquires BXCL501 for $57.5 Million Upfront, Rumi Therapeutics Enters Option Agreement for Fragile X PDE2 Inhibitor From Enthorin - Pharmaceutical Executive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNTZVVDRjZjNCQWdybUV1aFdMRGt2UUxFWEFzMG9BdlUybXhSelV1dFNGMXo4MDhwdXB2WTNjWVA5RHRGcXY2S0pUdHFKU1E3UkZ3d1lPRG1xQ1VHZ3N0Tnp2WXN6Y0lubUp6dEkwTD",
+    "sources": [
+      {
+        "name": "teva",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNTZVVDRjZjNCQWdybUV1aFdMRGt2UUxFWEFzMG9BdlUybXhSelV1dFNGMXo4MDhwdXB2WTNjWVA5RHRGcXY2S0pUdHFKU1E3UkZ3d1lPRG1xQ1VHZ3N0Tnp2WXN6Y0lubUp6dEkwTDBEMl8zTzZkSW1CaG9CY2YyZXVVMWx6bTNiOGZnZWF0VlNoUUNEcGFlOFdQOFVuX1EyUEtISFJOYndremZnWEFCcDRIRWM0cGVyb3I0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "teva-2026-10-27-052",
+    "date": "2026-10-27",
+    "companies": [
+      "teva"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Teva Pharmaceutical Industries Unit Buys Rights to BXCL501 From BioXcel Therapeutics - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdUV5QTJIVTl3R3Y0aDFYWmtZcG9mci1pVHYzdkpMY2V2a0JtaG9vWC1kWXVHejctOWZjMm5zeEVSTnVqenF0Rm01bzJhMVRsNXV0a3c1dVhEMVk4VmlZdmVya2lEU0F1MkpYS1BHSX",
+    "sources": [
+      {
+        "name": "teva",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdUV5QTJIVTl3R3Y0aDFYWmtZcG9mci1pVHYzdkpMY2V2a0JtaG9vWC1kWXVHejctOWZjMm5zeEVSTnVqenF0Rm01bzJhMVRsNXV0a3c1dVhEMVk4VmlZdmVya2lEU0F1MkpYS1BHSXpkRDJFLUk3cm9zME5aai1XNHBtSWhyVVk3WFZqcVhJUEI2QnJDZWNIZ05YdGFIM1JtTFBNWEVRZUlUVnBjUjVrYnFkOGx0MGVxNkhtaWZPZmIyOUR2VGJJWDl3dEtaRDlmTkhv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-27-053",
+    "date": "2026-10-27",
+    "companies": [],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sun locks in first DTC spot for alopecia areata med Leqselvi - Fierce Pharma",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPWkhPVFFoTEJOLUtIV1VYMEVMWjZ1eXV3TnhQeTVhNG50V1ZLUFE1aWNSQm5Qb1BURG83d1N4d1daalg0X3NLeWFmOEFkZGhXSkMySEJFYmRqUjc3NkZSc3VmekZFZkJmUmNETWpvND",
+    "sources": [
+      {
+        "name": "sun_pharma",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWkhPVFFoTEJOLUtIV1VYMEVMWjZ1eXV3TnhQeTVhNG50V1ZLUFE1aWNSQm5Qb1BURG83d1N4d1daalg0X3NLeWFmOEFkZGhXSkMySEJFYmRqUjc3NkZSc3VmekZFZkJmUmNETWpvNDB2dS11SWRLdFFkM0lVMTNHWkxqM1cyaUhsMm13SUFQZC0zX3VWVXpV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-27-054",
+    "date": "2026-10-27",
+    "companies": [],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Explore ready-to-market supplement formulations - NutraIngredients.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQYnhhbWdJbjBOXzVjR24ta25HdDVWOTJYOVltb0N3WlpJTWRVb2VfcC00OHdmWW9zS3RHQms0OWxkRDNlMzhiVWdzV2NSX0RLa2MySFVQbGpSbFJwQTRhbnMwWm9lTGoyUTUyQVMxcG",
+    "sources": [
+      {
+        "name": "catalent",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYnhhbWdJbjBOXzVjR24ta25HdDVWOTJYOVltb0N3WlpJTWRVb2VfcC00OHdmWW9zS3RHQms0OWxkRDNlMzhiVWdzV2NSX0RLa2MySFVQbGpSbFJwQTRhbnMwWm9lTGoyUTUyQVMxcGJBajRMMTJRLS1vbUF6bHdLYTFFa3RuUXRZekpaWkZhUHktVks2QnBla2pQMGl4NFBSb3Fn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pfizer-2026-10-27-055",
+    "date": "2026-10-27",
+    "companies": [
+      "pfizer"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pfizer heads to FDA with phase 3 myeloma win for Elrexfio - Fierce Pharma",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYkp1V0ZUTU5wSjZaQXV1ODZUN0NGWkJSMVVBY3FLMDVqTTFyOTdDTDlTczdicWY5Y0ZYTE5rbHBDMV9zcUNuRkdwRDJONjA3akE0aDVyX3h3d1JYQnpEdnVEZG5fZ19WWVBqLVVwSW",
+    "sources": [
+      {
+        "name": "pfizer",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYkp1V0ZUTU5wSjZaQXV1ODZUN0NGWkJSMVVBY3FLMDVqTTFyOTdDTDlTczdicWY5Y0ZYTE5rbHBDMV9zcUNuRkdwRDJONjA3akE0aDVyX3h3d1JYQnpEdnVEZG5fZ19WWVBqLVVwSWU3NElQaW91b3REOUxaLXNHZHZaQ3RmbXhf?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pfizer-2026-10-27-056",
+    "date": "2026-10-27",
+    "companies": [
+      "pfizer"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pfizer Cancer Therapy Shows Extended Progression-Free Survival in Multiple Myeloma Patients - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZmVwcEdSRkcwcGF6enQwRi0wRnJzTExYbnBURFk2Z3JaUk93MjR5aV8yVXRkelQ4bElEaTBFcnI0eDZaY0k3WENuaDh1NlF1VndvM1NPYlllQ2dQQVY2WDF3Rlg2LXU5dlp1bGNRdT",
+    "sources": [
+      {
+        "name": "pfizer",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZmVwcEdSRkcwcGF6enQwRi0wRnJzTExYbnBURFk2Z3JaUk93MjR5aV8yVXRkelQ4bElEaTBFcnI0eDZaY0k3WENuaDh1NlF1VndvM1NPYlllQ2dQQVY2WDF3Rlg2LXU5dlp1bGNRdTMzZldaZDItVXhOZmRJaHNaZ016SEUwZ185eUJXMFM3WkxnZzRZTjFXS1pvS1BsanFpdHloVGRGRUJlNDA0QTNUcUMwYVVXS3p4eFpJa0VUR2I3dFpDWEl6N1otV3k3OUFsXzk5YkpTU1lCaE5GVzlXeg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pfizer-2026-10-27-057",
+    "date": "2026-10-27",
+    "companies": [
+      "pfizer"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pfizer's ELREXFIO beats standard regimens in Phase 3 myeloma trial - Mugglehead Investment Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE4tdV9sUV8yMmxiZnNURjJ5a0k5SFpKc0lqMjI2Z000Z3ltMEs5c01RUnpfN185dGVpbExka0J2TlBMblZoYzB1QnpfREdLYWJFWTlwRFJ3cExTcktlMWpvOXcxeWZwVEJhcWVEQkRvVH",
+    "sources": [
+      {
+        "name": "pfizer",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tdV9sUV8yMmxiZnNURjJ5a0k5SFpKc0lqMjI2Z000Z3ltMEs5c01RUnpfN185dGVpbExka0J2TlBMblZoYzB1QnpfREdLYWJFWTlwRFJ3cExTcktlMWpvOXcxeWZwVEJhcWVEQkRvVHktc3lpQXFVMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "astrazeneca-2026-10-27-058",
+    "date": "2026-10-27",
+    "companies": [
+      "astrazeneca"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AstraZeneca May Enter Cancer Vaccine Development, CEO Says - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOVTRScUxiYktPamhkSnM4c3hJdVh5d0I3TFY0R3QwYzNOWGtyeUJCQThQeXZpM2h0T3dweW9YZm5xWUpMaWRQZjVRcllKbWJiQ09ITmQ0TUJtZS1OX1ROeGFRSWJsUkQ4S2V3RXlhbE",
+    "sources": [
+      {
+        "name": "astrazeneca",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVTRScUxiYktPamhkSnM4c3hJdVh5d0I3TFY0R3QwYzNOWGtyeUJCQThQeXZpM2h0T3dweW9YZm5xWUpMaWRQZjVRcllKbWJiQ09ITmQ0TUJtZS1OX1ROeGFRSWJsUkQ4S2V3RXlhbEN0M3llMDFlRkVTU2FBZF9zdTg0WWd4WlR2U3NCYkYyeUFadXZxNTJ2WTRieFhEVzRzXzR6Z3piZDFhQWJh?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "astrazeneca-2026-10-27-059",
+    "date": "2026-10-27",
+    "companies": [
+      "astrazeneca"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AstraZeneca mulls cancer vaccine development (AZN:NYSE) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNMTh5TE9ZaVdZMXp0YVpkSEdNR3BFa2FNNFJWcXFybWNsZjZ3aDUtZUdHaG5XRmEyTzJGZXNWZ0NzVnZxUVBNVUowaS1CbkV1cFVqeVRPY3kwQzh0NktzUTZGbTEyejNlNXVxWTBiam",
+    "sources": [
+      {
+        "name": "astrazeneca",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMTh5TE9ZaVdZMXp0YVpkSEdNR3BFa2FNNFJWcXFybWNsZjZ3aDUtZUdHaG5XRmEyTzJGZXNWZ0NzVnZxUVBNVUowaS1CbkV1cFVqeVRPY3kwQzh0NktzUTZGbTEyejNlNXVxWTBiam5Pa0VUekpSWmQ4ckNVNnRIUnVndHNGMnhTZkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "astrazeneca-2026-10-27-060",
+    "date": "2026-10-27",
+    "companies": [
+      "astrazeneca"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AstraZeneca might develop cancer vaccines, CEO tells analysts at oncology conference - Quartz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5FbGp3eVdydUZXN3FFSHNjR2pscUVvS3g2OTNrZzVEcnhuNjVnVmJJTXNaMV9EQXd5bl9qem1vbFRyVlFMNXdKWEZOeGozMnNIb05wLVBIUllVVlVCNFg0VV82SnNaRm5YRnd4QWI2QV",
+    "sources": [
+      {
+        "name": "astrazeneca",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5FbGp3eVdydUZXN3FFSHNjR2pscUVvS3g2OTNrZzVEcnhuNjVnVmJJTXNaMV9EQXd5bl9qem1vbFRyVlFMNXdKWEZOeGozMnNIb05wLVBIUllVVlVCNFg0VV82SnNaRm5YRnd4QWI2QVBqY0JmY2xocDFuc1gxUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "merck-2026-10-27-061",
+    "date": "2026-10-27",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Merck’s sac-TMT extends survival by 6.9 months in pretreated endometrial cancer - The Pharma Letter",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYUF1amlrTjBVLUZXVlIyNzhYLXFzdXdhc3U5LU1oV3ZoZXZkbVlRNjlLc2w5ZU9xMFkxdU9KZ0pHLXBQVGFyQlZWRl9nYU1DMWhZYlpUMlBYSGp1TVdJMHR1V2g5emlGLW1UYkhoS1",
+    "sources": [
+      {
+        "name": "merck",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYUF1amlrTjBVLUZXVlIyNzhYLXFzdXdhc3U5LU1oV3ZoZXZkbVlRNjlLc2w5ZU9xMFkxdU9KZ0pHLXBQVGFyQlZWRl9nYU1DMWhZYlpUMlBYSGp1TVdJMHR1V2g5emlGLW1UYkhoS1dEWTkyRDBGY1g2OGtiR0VzVUJSYWN4bmV3UFdzWHQ0d1ZfSlE0ZW1TS21odHRXY0xyV3hEZXBFR0VNci1SQXhucjVCaEVuYlp3UUhSbEx4bnNXdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-10-27-062",
+    "date": "2026-10-27",
+    "companies": [
+      "novo_nordisk"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Amgen vs. Novo Nordisk: Which Healthcare Giant's Stock Is a Better Buy in 2026? - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQXzhYYXRfRGJqU214akFEbjNFWWZadmpWZ3lsRklrR3RZNlB4U082ZDkyOHdkc0dyTmxWSFpfY3pVMWFSSC0xUWNXZ2dUZDEyOUtfeHp6RmdkZ09iRVhRd2tRa2ZxR3pTSDNzczlsT0",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQXzhYYXRfRGJqU214akFEbjNFWWZadmpWZ3lsRklrR3RZNlB4U082ZDkyOHdkc0dyTmxWSFpfY3pVMWFSSC0xUWNXZ2dUZDEyOUtfeHp6RmdkZ09iRVhRd2tRa2ZxR3pTSDNzczlsT0dLN0VNcXZRTDZ5TWpoM3FzTHNQenpndjgxN3RyMmVIWExhRU9fd0VOQ1hDeldZbG1CYzJfTVp6SWNnWVBrYWZNeHlwQlVvZFpXRHpxZjFnRk44RDg4dkpwLQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-10-27-063",
+    "date": "2026-10-27",
+    "companies": [
+      "novo_nordisk",
+      "eli_lilly"
+    ],
+    "topics": [
+      "drug_approval",
+      "glp1_obesity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Court rejects Novo bid to block Lilly obesity drug ads - BioPharma Dive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPMHRNVXhDbm5oVlUtMmVoeTZIOWlyYS1VUmJHcGNCbEJGRW9CYWxRQzFTa01HbGxfakd5X0NCclcybGNka0p0Y05YSzE4T1licmxtLUNNM1N3WnczYVVMRjNQaXlCRFBPdEdCN3FYdG",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMHRNVXhDbm5oVlUtMmVoeTZIOWlyYS1VUmJHcGNCbEJGRW9CYWxRQzFTa01HbGxfakd5X0NCclcybGNka0p0Y05YSzE4T1licmxtLUNNM1N3WnczYVVMRjNQaXlCRFBPdEdCN3FYdGZycmtXNndTNU5xT1BfMGtkcFh1SXJfTmV2R0VGcWNDeTh3M1U0VURVWGZlN2Z0SkU2TUw5Ng?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-10-27-064",
+    "date": "2026-10-27",
+    "companies": [
+      "novo_nordisk"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Novo Nordisk (NVO) Stock Declines While Market Improves: Some Information for Investors - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPQmd4b2gtbWYza0N6N0NfQWs1YXJnVUhoMWh2Q3J5MEdtdzdzbkFxdVpPOFY3OGRLWHBDV05ObGNoQTlsMzlTTVVmNVZwbVMyeWNWOUNXTEpxblM2RGRvYVpObFQwR0J0eU1iaWhOZW",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQmd4b2gtbWYza0N6N0NfQWs1YXJnVUhoMWh2Q3J5MEdtdzdzbkFxdVpPOFY3OGRLWHBDV05ObGNoQTlsMzlTTVVmNVZwbVMyeWNWOUNXTEpxblM2RGRvYVpObFQwR0J0eU1iaWhOZWhQZV85QlVldERNckQ3X3drTXVPdU9VU05JLUU3S0F0ZVM2TlZhWUhFbngzXzQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-10-27-065",
+    "date": "2026-10-27",
+    "companies": [
+      "novo_nordisk",
+      "eli_lilly"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Judge won’t block Lilly ads for weight-loss drugs in ruling against Novo Nordisk - Indianapolis Business Journal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNRDJZNmJrUjl6VWY3b2ZjeWpfdndUUTNXbkVKWURqVVlSeGNXaUFPcjNLTDhjTDdLelFFVUtpVkQ5VnMzU2t2MzQ4Y0dqQk9LMmxrZkdrUXg5UG5CSXFINTlaSDBwRUJRcDZOZ0tOOD",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRDJZNmJrUjl6VWY3b2ZjeWpfdndUUTNXbkVKWURqVVlSeGNXaUFPcjNLTDhjTDdLelFFVUtpVkQ5VnMzU2t2MzQ4Y0dqQk9LMmxrZkdrUXg5UG5CSXFINTlaSDBwRUJRcDZOZ0tOODZtVTBTQzBxWnZKanJBUVduX0YwT0k1UUVwY2E3TXU0UjNGX2lGX1VVRGpIeEo2VFZ4NUN1QkxEY3ZYLUpM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-10-27-066",
+    "date": "2026-10-27",
+    "companies": [
+      "novo_nordisk"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Novo Nordisk (CPSE:NOVO B) Wins FDA Nod For Weekly Insulin In Children With Type 2 Diabetes - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOUlN3VWtBWGF1VGcxY2VWR3ZSaldsRnR6cTY3YUNwN0dFUVNQeDFTbEhEd0M0WmF3c2FmWUY3c3FBTjJ2TmNENzJqejVnLWJ6T01jN19mcWlhZEV4amtZTzAxQ2NnYVZNQkUwNUkxQT",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUlN3VWtBWGF1VGcxY2VWR3ZSaldsRnR6cTY3YUNwN0dFUVNQeDFTbEhEd0M0WmF3c2FmWUY3c3FBTjJ2TmNENzJqejVnLWJ6T01jN19mcWlhZEV4amtZTzAxQ2NnYVZNQkUwNUkxQTR3V1NXand2SjZ1NGd0clZvTVJrNGNjcF9hTVFtTHJ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-10-27-067",
+    "date": "2026-10-27",
+    "companies": [
+      "novo_nordisk",
+      "eli_lilly"
+    ],
+    "topics": [
+      "drug_approval",
+      "glp1_obesity",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "US Judge Denies Novo Nordisk Request To Block Eli Lilly Weight Loss Drug Ads - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOX0thMGQ4bHdhMndhb2F3UC1TRmVXcGdsWjRCR1JqN3BIRURwdnNfRXZfeDdzOU16dTUxbXp4ZkN3eG55Q2Z4MzRKTWxRVUxVMHl2RVpZQkphR0ZGZEFSLW9wRmlrY1VRaG9uaXA3cH",
+    "sources": [
+      {
+        "name": "novo_nordisk",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX0thMGQ4bHdhMndhb2F3UC1TRmVXcGdsWjRCR1JqN3BIRURwdnNfRXZfeDdzOU16dTUxbXp4ZkN3eG55Q2Z4MzRKTWxRVUxVMHl2RVpZQkphR0ZGZEFSLW9wRmlrY1VRaG9uaXA3cHNhOXBCUEpMbXk2V256d0haRHh1Z0dMRFFzQjA2NTUyQ1d1ODA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sanofi-2026-10-27-068",
+    "date": "2026-10-27",
+    "companies": [
+      "sanofi"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Sanofi shifts to buying late-stage drugs ahead of patent loss - MedWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBuQmNVZE4xbHRJc05pc2w3a0tuZDJ6Ti1JdkZ1cVhhd2tKSXBHWERENWhJQjhhdUxwSDJ4WXZkYnE5Z09lYm5QeHBYczFnNWhXS1pGTUNyWUVDUHgwNm9sQ1l5QjZtQldmNmhTYndEWQ",
+    "sources": [
+      {
+        "name": "sanofi",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuQmNVZE4xbHRJc05pc2w3a0tuZDJ6Ti1JdkZ1cVhhd2tKSXBHWERENWhJQjhhdUxwSDJ4WXZkYnE5Z09lYm5QeHBYczFnNWhXS1pGTUNyWUVDUHgwNm9sQ1l5QjZtQldmNmhTYndEWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cardinal-2026-10-27-069",
+    "date": "2026-10-27",
+    "companies": [
+      "cardinal"
+    ],
+    "topics": [
+      "drug_approval"
+    ],
+    "impact": "neutral",
+    "title": "Pentagon Awards Cardinal Health $1.5 Billion Contract - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb2ltMVFhUFBiME9SRlhGZ2UyUEh3SmtqMngwWFJ3dy1BZDhvVURwSmExb3czbVFuWGkzelF5bWV2QmZhNTNaN1RVMjFPbkw5Zm94bUVTc0V6NS1MMVpRN1Jhc3FpWjBsWEpXbk5GSn",
+    "sources": [
+      {
+        "name": "cardinal",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb2ltMVFhUFBiME9SRlhGZ2UyUEh3SmtqMngwWFJ3dy1BZDhvVURwSmExb3czbVFuWGkzelF5bWV2QmZhNTNaN1RVMjFPbkw5Zm94bUVTc0V6NS1MMVpRN1Jhc3FpWjBsWEpXbk5GSnI3WUVuVFlTXzBraEdVbWh2WU96Sm00Qms3bTJKeWFBTE9Pd3dHOFBjU0luWlpRcVpiZVNyVGpZeHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-10-27-070",
+    "date": "2026-10-27",
+    "companies": [
+      "novo_nordisk",
+      "eli_lilly"
+    ],
+    "topics": [
+      "glp1_obesity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Court rejects Novo bid to block Lilly obesity drug ads",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/cVxusteODEmivYUo1oFpGS2sOXjM22jwDw_oeO8reOE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yWTU2SzNYLmpwZw==.webp\"/></div></figu",
+    "sources": [
+      {
+        "name": "biopharma_dive",
+        "url": "https://www.biopharmadive.com/news/novo-lilly-lawsuit-ruling-false-advertising-wegovy-zepbound/872856/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novartis-2026-10-27-071",
+    "date": "2026-10-27",
+    "companies": [
+      "novartis"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Artiva to quit autoimmune cell therapy work, cut staff after patient deaths",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/LLVW4yn7zBLVwAXmiWQ-7F8baMlx79mPosiB9mUnzgk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjUwMjcwNjY2LmpwZw==",
+    "sources": [
+      {
+        "name": "biopharma_dive",
+        "url": "https://www.biopharmadive.com/news/artiva-discontinue-nk-cell-therapy-autoimmune-patient-death/872873/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pfizer-2026-10-27-072",
+    "date": "2026-10-27",
+    "companies": [
+      "pfizer"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pfizer (PFE) Scores Phase 3 Cancer Win As FDA Broadens Another Oncology Approval - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQWXZ5X3dJM3dMX1VlTEZCdHVCWVR1OXBEbjBKMGF2Ul90bjhzSEYtMXFTVXNoQVFsSzNtM29mNkN0aTVpM1NPUHFaZWVJdFB5djEwRWZKOVpENXZYQVBCV2pueVRzTUNhUGxId3daek",
+    "sources": [
+      {
+        "name": "pfizer_news",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWXZ5X3dJM3dMX1VlTEZCdHVCWVR1OXBEbjBKMGF2Ul90bjhzSEYtMXFTVXNoQVFsSzNtM29mNkN0aTVpM1NPUHFaZWVJdFB5djEwRWZKOVpENXZYQVBCV2pueVRzTUNhUGxId3daekVZdXNaSjgybF9LeWNrZXlZajdHOXZmcXFUU2NaMF9XQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pfizer-2026-10-27-073",
+    "date": "2026-10-27",
+    "companies": [
+      "pfizer"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "No Added Adverse Event Risk in Pfizer-BioNTech COVID-19 Vaccine - Drug Topics",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPUkQ1YWtHNXdzakNYTlN6UHZQeng2am5MeUVLbVpmeTU5VDljeTNqcXozdnZ4MFdUazY2a1hjSTltUDdMV3F0Z3pjeXNtdnVjR2I2VnhpTDNoek5lQ25NR1ZWanFrNXpCNld4Tnl4OT",
+    "sources": [
+      {
+        "name": "pfizer_news",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUkQ1YWtHNXdzakNYTlN6UHZQeng2am5MeUVLbVpmeTU5VDljeTNqcXozdnZ4MFdUazY2a1hjSTltUDdMV3F0Z3pjeXNtdnVjR2I2VnhpTDNoek5lQ25NR1ZWanFrNXpCNld4Tnl4OTk2dTlJZDk5ck5sU3NTZlZOM0JaRkR2ODBXNUNLeUg3OUExcGY1amNySDhFbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pfizer-2026-10-27-074",
+    "date": "2026-10-27",
+    "companies": [
+      "pfizer"
+    ],
+    "topics": [
+      "drug_approval",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Pfizer (PFE) Expected to Beat Earnings Estimates: Should You Buy? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQLWFLYVV5V19FWkE5dklMNEY3MUdrTVdfekFiVnR2bFNscGVXc0p4anhtSmpzcUNRMmxTRUc3MTVoUmF5cUdtdHZJMnZrTmQtSEhuNlFoWEF1cHV2ckRWZWZQT2JlTnRPUEFPWEE0Rm",
+    "sources": [
+      {
+        "name": "pfizer_news",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLWFLYVV5V19FWkE5dklMNEY3MUdrTVdfekFiVnR2bFNscGVXc0p4anhtSmpzcUNRMmxTRUc3MTVoUmF5cUdtdHZJMnZrTmQtSEhuNlFoWEF1cHV2ckRWZWZQT2JlTnRPUEFPWEE0RmN4V1JyNkdsUHVMR3FySW1wTDdKZFQ1ZGdCN1ByWjlodW5UcGdYYWFMZnNIU0ZWZm8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-27-075",
+    "date": "2026-10-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Anthropic buys a single-person biotech startup backed by Atlas Venture",
+    "summary": "The AI company Anthropic has acquired a drug discovery startup called Mithril Medicine, as part of its push into the life sciences.\n\n And that's where things start to get strange.\n\n Mithril is ...",
+    "sources": [
+      {
+        "name": "endpoints_news",
+        "url": "https://endpoints.news/anthropic-buys-a-single-person-biotech-startup-backed-by-atlas-venture/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-27-076",
+    "date": "2026-10-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Backed by Amish and Mennonites, a new kind of gene therapy company takes shape",
+    "summary": "LANCASTER, PA — This spring, Lorraine and Mark Martin, a Mennonite family with a tax business, adopted a stubby-legged cow named Royal Lite.\n\n Lorraine, Mark and Royal Lite all have one thing in commo",
+    "sources": [
+      {
+        "name": "endpoints_news",
+        "url": "https://endpoints.news/backed-by-amish-and-mennonites-a-new-kind-of-gene-therapy-company-takes-shape/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-27-077",
+    "date": "2026-10-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Draft COINS rules could threaten broad China collaborations",
+    "summary": "The release of draft regulations from the Treasury Department has spurred an intense debate over the future of China biotech deals, which could be sharply curtailed under the proposal as written.\n\n Th",
+    "sources": [
+      {
+        "name": "endpoints_news",
+        "url": "https://endpoints.news/draft-coins-rules-could-threaten-broad-china-collaborations/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novo_nordisk-2026-10-27-078",
+    "date": "2026-10-27",
+    "companies": [
+      "novo_nordisk",
+      "eli_lilly"
+    ],
+    "topics": [
+      "glp1_obesity",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Lilly's ads can continue after Novo challenge, judge rules",
+    "summary": "Novo Nordisk has suffered another setback in its uphill battle against Eli Lilly in the booming obesity drug market after a US judge rejected its attempt to block television ads that Novo alleges are ",
+    "sources": [
+      {
+        "name": "endpoints_news",
+        "url": "https://endpoints.news/lillys-ads-can-continue-after-novo-challenge-judge-rules/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-27-079",
+    "date": "2026-10-27",
+    "companies": [],
+    "topics": [
+      "glp1_obesity",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Gubra looks beyond metabolism, hopes for first portfolio company this year",
+    "summary": "The present for Copenhagen-based drugmaker Gubra is mostly about obesity. Its future will need to be about a much broader pipeline.\n\n The company has a portfolio of weight loss drug candidates, but is",
+    "sources": [
+      {
+        "name": "endpoints_news",
+        "url": "https://endpoints.news/gubra-looks-beyond-metabolism-hopes-for-first-portfolio-company-this-year/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-27-080",
+    "date": "2026-10-27",
+    "companies": [],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Artiva to wind down after two patient deaths in autoimmune cell therapy trials",
+    "summary": "Cell therapy biotech Artiva Biotherapeutics abruptly announced Tuesday morning that it is effectively shutting down and laying off almost all of its staff after two patients died in its clinical trial",
+    "sources": [
+      {
+        "name": "endpoints_news",
+        "url": "https://endpoints.news/artiva-to-wind-down-after-two-patient-deaths-in-autoimmune-cell-therapy-trials/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-27-081",
+    "date": "2026-10-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Outpace ends an ovarian cancer trial; Incyte data impresses at ESMO",
+    "summary": "Plus news about Genmab, Rumi, Prana and Fractyl.\n\n Outpace Bio ends cell therapy trial: The Seattle startup canned a Phase 1 ovarian cancer trial of its mesothelin autologous CAR-T, called OPB-101 ...",
+    "sources": [
+      {
+        "name": "endpoints_news",
+        "url": "https://endpoints.news/outpace-ends-an-ovarian-cancer-trial-incyte-data-impresses-at-esmo/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "eli_lilly-2026-10-27-082",
+    "date": "2026-10-27",
+    "companies": [
+      "eli_lilly"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "STAT+: Missouri AG warns Lilly to stop requiring data from hospitals seeking 340B drug discounts",
+    "summary": "Missouri AG told Lilly to stop forcing hospitals to provide claims data to receive discounted medicines under 340B, a sign more states are pushing back against drugmakers.",
+    "sources": [
+      {
+        "name": "statnews",
+        "url": "https://www.statnews.com/pharmalot/2026/10/27/missouri-ag-warns-lilly-340b-drug-pricing-data/?utm_campaign=rss",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-27-083",
+    "date": "2026-10-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "STAT+: After two deaths in autoimmune cell therapy trial, Artiva is shutting down",
+    "summary": "Recent deaths are setbacks in drug companies’ interest in applying cancer therapy strategies to autoimmune diseases.",
+    "sources": [
+      {
+        "name": "statnews",
+        "url": "https://www.statnews.com/2026/10/27/autoimmune-cell-therapy-trial-artiva-therapeutics-shutting-down/?utm_campaign=rss",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-27-084",
+    "date": "2026-10-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "STAT+: FDA offers new details on quicker approval pathway for personalized gene therapies",
+    "summary": "Rare disease advocates applauded the FDA's move to speed access to treatments.",
+    "sources": [
+      {
+        "name": "statnews",
+        "url": "https://www.statnews.com/2026/10/27/fda-personalized-gene-therapy-guidance-individualized-feature-space/?utm_campaign=rss",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-27-085",
+    "date": "2026-10-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "STAT+: RFK Jr. goes for broke in Iowa",
+    "summary": "Kennedy on the campaign trail for MAHA, and new rules loom for U.S. investments in Chinese biotech.",
+    "sources": [
+      {
+        "name": "statnews",
+        "url": "https://www.statnews.com/2026/10/27/rfk-jr-campaigns-zach-lahn-iowa-coins-binsa-china-biotech-rules/?utm_campaign=rss",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-27-086",
+    "date": "2026-10-27",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "STAT+: Nonprofit resurrects shelved gene therapy after startup shuts down",
+    "summary": "Last year, U.K. gene therapy startup Bloomsbury Genetic Therapies announced it was shutting down after dosing just one patient. Now, a nonprofit is resurrecting its lead program:",
+    "sources": [
+      {
+        "name": "statnews",
+        "url": "https://www.statnews.com/2026/10/27/biotech-news-nonprofit-resurrects-shelved-gene-therapy/?utm_campaign=rss",
         "type": "rss"
       }
     ]
@@ -2836,6 +4265,90 @@
     ]
   },
   {
+    "id": "jnj-2026-10-26-092",
+    "date": "2026-10-26",
+    "companies": [
+      "jnj"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ORIC Pharmaceuticals Sinks 22% as J&J Presents Rival Prostate Cancer Data - TIKR.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPd1NSM05pSEdkczM0VjgzOWlRQ0pLS0Q1UXBGOWF6TF9qNUtMbUR0dU05bldsWXhTQnhiVGk5T2hUVG5JNjZMLTJpMmMzemFGZktfX1pIY2laZDJ3UXYwR2YydjdxTnAyUVh3YjVjLX",
+    "sources": [
+      {
+        "name": "jnj",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd1NSM05pSEdkczM0VjgzOWlRQ0pLS0Q1UXBGOWF6TF9qNUtMbUR0dU05bldsWXhTQnhiVGk5T2hUVG5JNjZMLTJpMmMzemFGZktfX1pIY2laZDJ3UXYwR2YydjdxTnAyUVh3YjVjLXpEOWtVT3h5WDdLTTBObklMaS1KT3B5N09nd2ttNWFJRG5ENlNMVU9NVTlEd1ZpZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "merck-2026-10-26-093",
+    "date": "2026-10-26",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Merck Drug Boosts Survival From Hard-to-Treat Uterine Cancer - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQdVhFSGt2MXZIeUVQRnRBT1ljSWx2TTE3RXJDdWlQMzZyVnJYa0hEdWhLajBESENmLWNLQUp2aEoxSjRLckRTWThPT1UyN0dnOFNFUGd6SlQzUzBFU1czOTI4T0M3aVZKRlVLUTRCOD",
+    "sources": [
+      {
+        "name": "merck",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdVhFSGt2MXZIeUVQRnRBT1ljSWx2TTE3RXJDdWlQMzZyVnJYa0hEdWhLajBESENmLWNLQUp2aEoxSjRLckRTWThPT1UyN0dnOFNFUGd6SlQzUzBFU1czOTI4T0M3aVZKRlVLUTRCODYwVXl3TmtWeEg1S19nVmYySHdfWkxxME12TjN4N3FuYlRnbzJMdmJV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "merck-2026-10-26-094",
+    "date": "2026-10-26",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ESMO 2026: Analysts warm to Merck, Moderna’s cancer vaccine after frustrating data leak - BioSpace",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQVXByY3BUcUItZUpfME5jWkdhbXpGT0NjcUViaG91Mk1tb0FITlpqS3M4MnFwU2VxLVNURnBoMURnMmpnNkNuSFJVZDNoVFhVWmF4b20waTlZZWszRXpJbndWcjM0VjJBU0dNNl9DRW",
+    "sources": [
+      {
+        "name": "merck",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVXByY3BUcUItZUpfME5jWkdhbXpGT0NjcUViaG91Mk1tb0FITlpqS3M4MnFwU2VxLVNURnBoMURnMmpnNkNuSFJVZDNoVFhVWmF4b20waTlZZWszRXpJbndWcjM0VjJBU0dNNl9DRWJLNzRoNGlTTlFfNTlpVFBxNmJJRlM0WjBiZVozOU1qOG9vNC1PcFJpMlJVV1NTbGV2Q2p2Z2ZDby1xRUd3TENDaUpmYnBjZ0Z1ZWNsXzZBLV9tUV9v?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "merck-2026-10-26-095",
+    "date": "2026-10-26",
+    "companies": [
+      "merck"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ESMO26: Merck & Co.'s sac-TMT reduced risk of death by 32% in endometrial cancer - FirstWord Pharma",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVbnVjamJoM0VIYThlaWpVaTNkTVNEUjV5VUE4YjlBS1I3ZjBYeXpndWNXSnVNeXM2b1RXUlRTTzk3bktYQ2tnam8wX0RVaWNyWjFV?oc=5\" target=\"_blank\">ESMO26: Merck &",
+    "sources": [
+      {
+        "name": "merck",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVbnVjamJoM0VIYThlaWpVaTNkTVNEUjV5VUE4YjlBS1I3ZjBYeXpndWNXSnVNeXM2b1RXUlRTTzk3bktYQ2tnam8wX0RVaWNyWjFV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "teva-2026-10-25-001",
     "date": "2026-10-25",
     "companies": [
@@ -3621,6 +5134,27 @@
       {
         "name": "cardinal",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcXFLNU9MQWp5QzBUd3lCRGZiZ1hRcmlmV0wxTFZGTEhzd3B2M0ZXN2pQbDdvSTNzSUQxWVRhUjcwSEhnaHZkUFJaVmx0RUY2NzMwVDg0c25LOHB0dzY1Rm9EUUhCdl90ZzVRMWVVUU5xOWtxUnp1SGNWM2FzT0kzcF9nVzROYUYwNUU2OUpzS3hWM3RxS1hYcVB4dEVVcWcwajRZM3g4SFZkTkdHYkJlMnQwY2FOS211d3RTVFhUQUtoQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dr_reddy-2026-10-25-039",
+    "date": "2026-10-25",
+    "companies": [
+      "dr_reddy"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jefferies Initiates Dr. Reddy's Laboratories(RDY.US) With Hold Rating, Announces Target Price $13.89 - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPcHpFQVlaMHFvVlFQS0dUU1hraUg3dFRJV2xQT1FmdGlMMVJ0UzFMamxyeFhDYjB0c1E5dV9nU0wyeVV5UnlVNkVleXU5cXBNNXpnc09KWFQ4YTkyaUVuM21fenlmSHdYcWloTHVpUz",
+    "sources": [
+      {
+        "name": "dr_reddy",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcHpFQVlaMHFvVlFQS0dUU1hraUg3dFRJV2xQT1FmdGlMMVJ0UzFMamxyeFhDYjB0c1E5dV9nU0wyeVV5UnlVNkVleXU5cXBNNXpnc09KWFQ4YTkyaUVuM21fenlmSHdYcWloTHVpUzFmXzhuRE9JbGw2UVlFZGcxY0NzUnN0N2ZRWlFWNUdNWkJHVGcxSEpEdW03eVZJTHdzcmhyZ1U2MU9qdUM0blE?oc=5",
         "type": "rss"
       }
     ]
@@ -8434,6 +9968,27 @@
       {
         "name": "cardinal",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSkFlTUJ0ckFRdUxkQ2xoTzV4Tm9hb1ZBTktjR1ZFZHB5cG9wQW1GX0xORG5BaTU4UGxuTG8tbjBaYXQwamNKazNwcXl3aEF0Nnlnb1ZHNllpcldIak5xbVY3bUhWejZwQ1kxS3JzVzFRYVU0cGVGa3FIRzVCOC1jTEY1SENjRldUU3QtU0g5bnRDNUl5N2dPVU1NRnFXelVQYWRwWXBydE9KNXA1Q1ZheF9NTE51cGh2WVV3aW53?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "roche-2026-10-22-111",
+    "date": "2026-10-22",
+    "companies": [
+      "roche"
+    ],
+    "topics": [
+      "drug_approval",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Roche's 9M 2026 Sales Rise on Strong Drug Demand, Pipeline Advances - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNRGE1QVhkVS12c3U3U05QRXUwLXpTdmpkc2wtNkRJM1A0QWJmRTdvQUFzT3hJdndqLUc5el9XekJTRHpwakJ2TlFMa012Qmh5ZThkS2c2Z19kOWFlR0xLRXl3S3ByVGhpbnJPS0lLM2",
+    "sources": [
+      {
+        "name": "roche",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRGE1QVhkVS12c3U3U05QRXUwLXpTdmpkc2wtNkRJM1A0QWJmRTdvQUFzT3hJdndqLUc5el9XekJTRHpwakJ2TlFMa012Qmh5ZThkS2c2Z19kOWFlR0xLRXl3S3ByVGhpbnJPS0lLM2ZSeG1fV2xxbENTbktEWmxVbXJTWlVoakJfTXlMVTFwVQ?oc=5",
         "type": "rss"
       }
     ]
