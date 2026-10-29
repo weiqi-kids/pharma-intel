@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T14:59:48.986888Z",
+  "updated_at": "2026-10-29T15:06:31.927795Z",
   "quarter": "2026-03-31, 2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -194,17 +194,17 @@
       "name": "諾華",
       "ticker": "NVS",
       "currency": "USD",
-      "ar": 9636000000,
-      "ar_prev": 9386000000,
-      "ar_qoq": "+3%",
+      "ar": 9780000000,
+      "ar_prev": 9636000000,
+      "ar_qoq": "+1%",
       "ar_period": "QoQ",
-      "inventory": 6220000000,
-      "inv_prev": 6286000000,
-      "inv_qoq": "-1%",
+      "inventory": 6104000000,
+      "inv_prev": 6220000000,
+      "inv_qoq": "-2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "novo_nordisk",
