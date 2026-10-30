@@ -1,0 +1,297 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T14:58:00.476246Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "eli_lilly-2026-10-30-054",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Earnings roundup: Lilly’s unwavering momentum, Novartis’ rebound and GSK’s waiting game",
+      "companies": [
+        "eli_lilly",
+        "novartis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "glp1_obesity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.biopharmadive.com/news/biopharma-earnings-q3-2026-lilly-novartis-gsk/873167/"
+    },
+    {
+      "rank": 2,
+      "event_id": "sun_pharma-2026-10-30-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Sun Pharma Q2 results: Net profit falls 36% to Rs 1,989 crore, hit by one-time loss; revenue at Rs 16,199 crore - TradingView",
+      "companies": [
+        "sun_pharma"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORXdYZmN2dUt1eEhJU0FyRUNmdnVQY0RSTmtZc253aWtSektWLUpuTFlHNE8xMHl1VHhOcFRKNW1PU0o0NWtOd0pjQ09wUVp3T000UXZfalhKcmplQURQUFVMd1JvRmRCc01lSHlFLW1uWWIzdTNRTkx3Q25XemdfX2Y3RzZnZ29HSEJydEdWem9nOVN5Q1BRaDE0bFl3MExZYlBYamd0cHNxUWktbVZXWFNvUl9fRVNKcVJmc2tFTFR3RkwxdFRkU1h4T1VaOEZjWjR1YkdPQmdWVG5rYjEtc3pUVVhRa0cwVldhOXNSYU00Um9uSDY1MnFld2VPVjA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "sun_pharma-2026-10-30-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Sun Pharma Q2 Results: Net Profit Drops 36% To Rs 1,989 Crore On One-Time Loss, Revenue Rises 12% YoY - NDTV Profit",
+      "companies": [
+        "sun_pharma"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZTFTbWlLLW9SUU95elVBWG83VE1hcDUxNDVHUEhCX04xUl9tWXBkbWVuN0ZVU3JsSklDSWRKMGRuZzE0UHJBN3RnZDZ4X1g1aXdRbGN2TUo4VHI2Mm9MZkx5TTgyVExHZFViOHFsYkVLVDlFMjA1TnE3NG1DbUM3eWVwR25yUWZ5c2RId2lyU0daWGhKMEg1SWFqZ2FLWHJyTlI3TDB5dnZucjJBMllwZ3RNSjlnLWdWdFhoR1RLSTA3QdIBygFBVV95cUxQSXBoWFhGalZTakh6QVdGbEFKdVVaMnpZVkhaZGFMT2NuRWFwMEQ4WUR0dklwS3J1N2ZnTVlZOUNXWFFRMW5Mck5ZTTVkTk9qZlVRWC1HWkFXYU96T1F1VHlwZmtYZmJaQlNTd1hlcE9TWVJiMW40cGVUT20wQ1F5aWFZR0dGUHNRWjBoZ19mY3dyTXlpOFUzQVE0UF9vZnBVVmUwREk4aXQyd1BsaEo3TVdCTDh3cVpScXZYRkJkZlJjQk9KMmc1ZlZ3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "teva-2026-10-30-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Teva Pharmaceutical Industries Limited expected to post earnings of 72 cents a share - Earnings Preview - TradingView",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQS2VFVmJFLW9RNElwcnRPUlVqZWRtVE1OcVlpaDc2LWdiQW5jRU1RTnpUYmkyT0ZIaUlveDNROGYySHozYmRnZ3B6T1ZfTzdoeGJZcmRHUkR2NVRKVEFQTmtodHZ0NVN0RDRocnI0QjhXc3lTc1ZxZlMwbEp0OUU3WkcwbkpsNTRtZUhfY1dfSXRRV2JSM3gwYnVXUHFLVThVX3FSbEs1ZWZTdU5nTHRDWmFsUHRNR1J6VkxLbUF5NHdfUHJEdnJNVk5EOVQ0YV94WVJGNWNDdGVTbzJneGtDZUlTTE9NOWQzQ0JtSlBDb0N0S2I4Y0JGbUgxdDdIeXcw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "sun_pharma-2026-10-30-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sun Pharma's profit falls on Organon deal charge; specialty drug sales remain strong - Reuters",
+      "companies": [
+        "sun_pharma"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUdScVJLOGNvbVdmZ05pWGltOHRNWW9XdE5DRFRodFlySXRweTlPZFB3OFlnT1JwcTFtYUdHTGg1SHR2ZWlHWHR2Qkp2R3l4YVctTDE5VXRNaTFrMmlheU1BTmEwdk9rMGtiNjBDejBBY19ZbzY5TjNaZmhjU2IzcWR5M0tvR20xY1hheGhta0hYZ0FRSXhCTktBQm1GdHQ1YTVUU01RQjV0RFoySzRZREg2M0MwZUcwU2hHc1RPVjdsWFIzRl9RVnZqV1cxNGRJcDEyTWl6bWVNQUNZX1hNeQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 51,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.01,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 26,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 51,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "astrazeneca",
+      "to": "sun_pharma",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 66,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 59,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "astrazeneca",
+        "count": 17
+      },
+      {
+        "id": "sun_pharma",
+        "count": 12
+      },
+      {
+        "id": "merck",
+        "count": 9
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 5
+      },
+      {
+        "id": "sanofi",
+        "count": 5
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 51
+      },
+      {
+        "id": "industry_general",
+        "count": 51
+      },
+      {
+        "id": "earnings",
+        "count": 26
+      },
+      {
+        "id": "patent_cliff",
+        "count": 3
+      },
+      {
+        "id": "biotech_funding",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 411,
+    "dup_title": 193,
+    "too_old": 70,
+    "gate1_blocked": 14,
+    "gate2_blocked": 18,
+    "passed": 116,
+    "pass_rate": "53.2%",
+    "gate2_block_rate": "8.3%",
+    "gate2_samples": [
+      "Teva's Austedo-Led Turnaround Faces A Margin Test As Generics Drag On Third-Quarter Results - Finviz",
+      "SEC Form 6-K filed by Dr. Reddy's Laboratories Ltd - Quantisnow",
+      "TCI Co., Ltd. Estimates – TPEX:8436 - TradingView",
+      "Chai Discovery: AI Antibodies for Lilly, Pfizer and Novartis - AI Magazine",
+      "Does Johnson & Johnson (JNJ) Have A New Edge In Plaque Psoriasis? - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 66 則事件，焦點為AZ、Sun Pharma、Merck相關動態：「Earnings roundup: Lilly’s unwavering momentum, Novartis’ ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Earnings roundup: Lilly’s unwavering momentum, Novartis’ rebound and GSK’s wa...（GLP-1 減重、法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Sun Pharma Q2 results: Net profit falls 36% to Rs 1,989 crore, hit by one-tim...（藥物核准、法說會、產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 411,
+  "dup_title": 193,
+  "no_date": 0,
+  "too_old": 70,
+  "gate1_fail": 14,
+  "gate2_fail": 18,
+  "passed": 116,
+  "gate2_samples": [
+    "Teva's Austedo-Led Turnaround Faces A Margin Test As Generics Drag On Third-Quarter Results - Finviz",
+    "SEC Form 6-K filed by Dr. Reddy's Laboratories Ltd - Quantisnow",
+    "TCI Co., Ltd. Estimates – TPEX:8436 - TradingView",
+    "Chai Discovery: AI Antibodies for Lilly, Pfizer and Novartis - AI Magazine",
+    "Does Johnson & Johnson (JNJ) Have A New Edge In Plaque Psoriasis? - Yahoo Finance"
+  ]
+}
