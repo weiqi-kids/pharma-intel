@@ -1,0 +1,255 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T14:27:04.202768Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sun_pharma-2026-10-31-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sun Pharma Q2 profit takes a hit on exceptional items - The Economic Times",
+      "companies": [
+        "sun_pharma"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdWxjNk1DMGtXclRHTTBzNTVGR0VyX1pkb1JyZWIwU3FXeVZwWGhrazF1YzB1anZ5ZlhuQ09wMnFfeXg0cHN6VFdJbFhYYXdENEZ2a2FnRlhZNjhmSmEzZkg4WDJ0MmRJbWF4cF9EdkRQMTBET0ZMT3dfYnk2TVh3WFVQUkpsUmk1LS1qWVJqOEdKM3FYdzVtUV9XTzJheWlwMWhvUDcyM0t6OGJMbE90ZTdNNUlQMXlaOHMtdzc2M09ZaFNFa0tNT0w4NNIB0AFBVV95cUxOMnZFUWVyMXNEWDdSNlM0VnhVZUd5RFBhUE9hNkJTSF9PWnFKbFE1NzhHZFZNdEdNVnIyRWxtMVQxT0JBVE9FcGZOdUxFUmM5TTRnMUFTTjJNRzlNdndTc1Z1Qnl6a3A1dXNNRDBxRUhTd3o3MU1mSTBaM0l1WmdncVdfdy1pNGswYU9IcXUwNkJLY2lWbU5YTXRYdkJIV3lzeDMwM1dCM0IzYWMtU0JBSFRRMGdieTliVXJIYi1aWXJzaWJJTGlKV3lLZVQwOXdT?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "jnj-2026-10-31-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Johnson & Johnson Just Took $7 Billion in Charges and Still Raised Its Outlook. Here's What That Tells Investors. - The Motley Fool",
+      "companies": [
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaVNUNXRLUnBEMWtjd3BkMU96cFZJSWh4cEg3VWJCU3BwZ25mYnIyUS1GVlA4OUgzaDFpNEdNSlpZWWJJSnJWZ3FTc0s4b0l1RktIVWVtMU5YOWdGeWZ3WlpkUllIVFY3LWxkSTFyN2VDd2l5Rms0eTZ4TGxINUxQQm5iYXpfRFJQWTJmY2pUcUQ0MFdvWUkxeg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "jnj-2026-10-31-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Johnson & Johnson Just Took $7 Billion in Charges and Still Raised Its Outlook. Here's What That Tells Investors. - Yahoo Finance",
+      "companies": [
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN1p3NG1qVEtHeTYwVTJRNkF2RVFtM1EyOG53cGh4RDJTVkFvc215Ym90S3UzOE9uUk55MGNreVU1el9BSDd2V1FBeEhmcTl4VjMzMkNvbjBtblZCT1NRcTVja0VveC1yRGwwbXpsRWY0NXdtWDFSaWg4VjFoWG5RejFlZzdrNGNKVVJkUlRhdkNaWmVEYlhz?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "jnj-2026-10-31-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Johnson & Johnson Raises Guidance Despite Litigation Pressure, Highlighting the Resilience of a Healthcare Giant - NAI500",
+      "companies": [
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOLXhRb2Fmbks3MGZpMTBNMDJmalJ2eDZWT3oyZy1hTDBDWWMxYkhiYkZFLVdubnloaTdDbXRITzFUMGZhV1JtRFRkNHJGc2VpZHhuSkVNMHFuc2xpckh3ZV9xdFA0X2xnb2dvaHZiVzRlSkJQQ0dqeGtTRkc5YjQ2M3NaZjFFQVhaZXFXeWZBX3UwbHptY0owZG0yNUJnSjk0ZFEyTVZTaW00WnpmcXU0QUVHS05wODRmTHc3UUVCWnBEQ3hlaXM2WDNEX1JPOTdaSGVaOWlFSGUtdw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "novo_nordisk-2026-10-31-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Can Novo Nordisk (NYSE:NVO) Trade Below Fair Value On Earnings? - Yahoo Finance",
+      "companies": [
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc3ZtQjBQOENCS3Uxb1doRDc5a1l1bTVyRUxuSUN0Y3IxanZHMjJmWVlTTW5oVGR5V3p6YXlKdEc5a1BocUREd25DOHBJTC1jNnRDZGdpbGtzN2xTVmZYdDk4UVNEZXlFSElyTm9PYUJ3UXowV3JCcUlIWV9fWE5PLWx5UHlfZlRDbDBBT1NXcUFIUDVFdWpr?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.1,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 11,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "jnj",
+        "count": 3
+      },
+      {
+        "id": "sun_pharma",
+        "count": 2
+      },
+      {
+        "id": "teva",
+        "count": 1
+      },
+      {
+        "id": "dr_reddy",
+        "count": 1
+      },
+      {
+        "id": "pfizer",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 9
+      },
+      {
+        "id": "industry_general",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 418,
+    "dup_title": 228,
+    "too_old": 92,
+    "gate1_blocked": 12,
+    "gate2_blocked": 19,
+    "passed": 67,
+    "pass_rate": "35.3%",
+    "gate2_block_rate": "10.0%",
+    "gate2_samples": [
+      "Teva's Austedo-Led Turnaround Faces A Margin Test As Generics Drag On Third-Quarter Results - Finviz",
+      "TCI Co., Ltd. Estimates – TPEX:8436 - TradingView",
+      "Chai Discovery: AI Antibodies for Lilly, Pfizer and Novartis - AI Magazine",
+      "Does Johnson & Johnson (JNJ) Have A New Edge In Plaque Psoriasis? - Yahoo Finance",
+      "Roche Holding AG (RO.SW) Seasonal returns chart - Yahoo Finance UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為J&J、Sun Pharma、Teva相關動態：「Sun Pharma Q2 profit takes a hit on exceptional items - T...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Sun Pharma Q2 profit takes a hit on exceptional items - The Economic Times（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Johnson & Johnson Just Took $7 Billion in Charges and Still Raised Its Outloo...（藥物核准、法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

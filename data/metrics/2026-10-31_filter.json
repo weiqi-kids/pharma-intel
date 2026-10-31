@@ -1,0 +1,16 @@
+{
+  "total_raw": 418,
+  "dup_title": 228,
+  "no_date": 0,
+  "too_old": 92,
+  "gate1_fail": 12,
+  "gate2_fail": 19,
+  "passed": 67,
+  "gate2_samples": [
+    "Teva's Austedo-Led Turnaround Faces A Margin Test As Generics Drag On Third-Quarter Results - Finviz",
+    "TCI Co., Ltd. Estimates – TPEX:8436 - TradingView",
+    "Chai Discovery: AI Antibodies for Lilly, Pfizer and Novartis - AI Magazine",
+    "Does Johnson & Johnson (JNJ) Have A New Edge In Plaque Psoriasis? - Yahoo Finance",
+    "Roche Holding AG (RO.SW) Seasonal returns chart - Yahoo Finance UK"
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T14:57:54.989064Z",
+  "updated_at": "2026-10-31T14:26:59.626905Z",
   "quarter": "2026-03-31, 2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -109,17 +109,17 @@
       "name": "禮來",
       "ticker": "LLY",
       "currency": "USD",
-      "ar": 20083000000,
-      "ar_prev": 18429000000,
-      "ar_qoq": "+9%",
+      "ar": 22089000000,
+      "ar_prev": 20083000000,
+      "ar_qoq": "+10%",
       "ar_period": "QoQ",
-      "inventory": 16793000000,
-      "inv_prev": 14529000000,
-      "inv_qoq": "+16%",
+      "inventory": 18194000000,
+      "inv_prev": 16793000000,
+      "inv_qoq": "+8%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "jnj",
