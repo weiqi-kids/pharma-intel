@@ -1,0 +1,16 @@
+{
+  "total_raw": 412,
+  "dup_title": 258,
+  "no_date": 0,
+  "too_old": 80,
+  "gate1_fail": 13,
+  "gate2_fail": 20,
+  "passed": 41,
+  "gate2_samples": [
+    "SEC Form 6-K filed by Dr. Reddy's Laboratories Ltd - Quantisnow",
+    "TCI Co., Ltd. (8436.TWO) Seasonal returns chart - Yahoo Finance UK",
+    "TCI Co., Ltd. Estimates – TPEX:8436 - TradingView",
+    "Roche Holding AG (RHOA.F) Seasonal returns chart - Yahoo Finance UK",
+    "Roche Holding AG (RO.SW) Seasonal returns chart - Yahoo Finance UK"
+  ]
+}
