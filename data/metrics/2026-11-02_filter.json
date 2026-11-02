@@ -1,0 +1,16 @@
+{
+  "total_raw": 434,
+  "dup_title": 199,
+  "no_date": 0,
+  "too_old": 89,
+  "gate1_fail": 10,
+  "gate2_fail": 27,
+  "passed": 109,
+  "gate2_samples": [
+    "Teva to Discontinue Phase 2 TOPAS-MSA Study of emrusolmin (TEV-‘286) Following Interim Futility Anal",
+    "Dr Reddy's gets tentative US FDA nod for generic HIV prevention - Reuters",
+    "US approves cheap generic of breakthrough HIV shot for poorer countries - France 24",
+    "SEC Form 6-K filed by Dr. Reddy's Laboratories Ltd - Quantisnow",
+    "Dr Reddy’s gets USFDA nod for generic twice-a-year HIV prevention shot - Moneycontrol.com"
+  ]
+}

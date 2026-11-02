@@ -1,0 +1,303 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T18:04:56.830639Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "pfizer-2026-11-02-030",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Biotech Stocks Beat The S&P500 – Can Pfizer, Novo And Moderna Earnings Keep The Rally Going? - Stocktwits",
+      "companies": [
+        "pfizer",
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcV9yY3RKRWRxaE0zdS1WUFVIbDBqMllzSHFwLW9uZ29lWXNVU3JlYlVSNnp4M3AxUjgzVTVuX0laWXNJNlFzSXhJdVNVaVppVlVCbElRaXBJZUUxRHU4ZWxnVDkwZlJRV2c3NXFpLWpiN3oyY0QxeXhqbzR2R2hoWGtDQzBxX1Ria1pqZFN4bVdfbEtGLVpob0VXa2tNTlEyZjBsTGJiUXEzYWNlampnNU1VV1Y1WWFPMnR1OHNGQ05LMG10VGRQWmRGQ3FpSk5MLV93?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "astrazeneca-2026-11-02-041",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "SLS, IBRX, IOVA End October In Red: Merck And AstraZeneca Earnings Put Cancer Bets And Buyout Hopes In Focus - Yahoo Finance",
+      "companies": [
+        "astrazeneca",
+        "merck"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMmJYejhQMlh4TlJpYTR6NDZ6M05vdXM3ZHA3TTdrWFlWcFFXLXl3M3ZsSUlyX1UyMTktTUtXdGREX2xhVTJ6bTU2ZEdSbGhjTDdIZjk1emVSdUlwdlFfOHNDREMzR2tOVnhWSVZvTUV5al9JT2xGYzRzUFdNODhaX3lsYjFLV2dKUmk3SHBybw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "pfizer-2026-11-02-056",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Stocktwits Pharma Pulse: Biotech Beats The Broader Market — Novo, Pfizer And Moderna Earnings Up Next - TradingView",
+      "companies": [
+        "pfizer",
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQW5aaU1ET0ZrazZybE0zTHdTbUIyX0VTelJueVZxSE90TkVwbnlYVmR2b1VSVXRqQ3FZLU9yWlZnZm1rREtqc0UwamdCVVRTNTluZDgzOEZaM2JEbklGYmRzLUllbTVmRG9LdHVjSk5hZjJqS0FPVVpsbVl5c0pILVNiYk1QYWpmRDFBX2hxSUhiRnhFQ2NmcHNsWmtZMnlYckdLR19TLU9fTXZ0UHp2N2hfcHhSRzE0UGQ1dVJyNVkxb3A0VlVyU0FwU3NOaFJKWE1SdnNfeGJPaDFabk9lcWNMWlk0UWdYZk14WFZnNA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "sun_pharma-2026-11-02-026",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Sun Pharma shares fall 3% after Q2 profit plunges 36%; brokerages bullish but slash target prices - TradingView",
+      "companies": [
+        "sun_pharma"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPWVdCVV9NVnQ5Ny1FeWZYZGtKUVp5QVJlYWlTbG03RHlWM3B2YTlDWERneGw0V3ltYjRISDhqY2ZfajNJcUJXSnJ5ZXJjeWN2YXU2Q1lWZ0h3SXlXQ0l0OHZaeGRZd01HazVzMUFKaDhTY1FNZ0VrZUNZZkY0MzlYVUJpSDk1aVdkOVZtLXpmUHBmRWhHNzk0OXpPREg5SkY3LTNkb0NyV2toZU5oejhBSDFfdWFyZEhrY24ySlZUYkJ4V3gwenpQVUtCQXBhbm9ZS09JaWtRTkxtVWs5WGc5ZkpGd2l6RHZVMFhmVUhn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "astrazeneca-2026-11-02-064",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Earnings roundup: AstraZeneca’s cost cuts, Alnylam’s slump and Regeneron’s resilience",
+      "companies": [
+        "astrazeneca"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.biopharmadive.com/news/astrazeneca-alnylam-regeneron-3q26-earnings-analysis/873410/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 65,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 72,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "gmp_inspection": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "novo_nordisk",
+      "to": "pfizer",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "earnings",
+        "drug_approval"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 85,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 73,
+      "negative": 6
+    },
+    "top_companies": [
+      {
+        "id": "teva",
+        "count": 12
+      },
+      {
+        "id": "pfizer",
+        "count": 9
+      },
+      {
+        "id": "astrazeneca",
+        "count": 9
+      },
+      {
+        "id": "sun_pharma",
+        "count": 8
+      },
+      {
+        "id": "merck",
+        "count": 6
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 72
+      },
+      {
+        "id": "drug_approval",
+        "count": 65
+      },
+      {
+        "id": "earnings",
+        "count": 18
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 4
+      },
+      {
+        "id": "patent_cliff",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 434,
+    "dup_title": 199,
+    "too_old": 89,
+    "gate1_blocked": 10,
+    "gate2_blocked": 27,
+    "passed": 109,
+    "pass_rate": "46.4%",
+    "gate2_block_rate": "11.5%",
+    "gate2_samples": [
+      "Teva to Discontinue Phase 2 TOPAS-MSA Study of emrusolmin (TEV-‘286) Following Interim Futility Anal",
+      "Dr Reddy's gets tentative US FDA nod for generic HIV prevention - Reuters",
+      "US approves cheap generic of breakthrough HIV shot for poorer countries - France 24",
+      "SEC Form 6-K filed by Dr. Reddy's Laboratories Ltd - Quantisnow",
+      "Dr Reddy’s gets USFDA nod for generic twice-a-year HIV prevention shot - Moneycontrol.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 85 則事件，焦點為Teva、輝瑞、AZ相關動態：「Biotech Stocks Beat The S&P500 – Can Pfizer, Novo And Mod...」。主要關注主題為產業通用、藥物核准、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Biotech Stocks Beat The S&P500 – Can Pfizer, Novo And Moderna Earnings Keep T...（藥物核准、法說會、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "SLS, IBRX, IOVA End October In Red: Merck And AstraZeneca Earnings Put Cancer...（藥物核准、法說會、產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
