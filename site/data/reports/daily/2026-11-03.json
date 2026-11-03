@@ -1,0 +1,269 @@
+{
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T16:01:28.278785Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "pfizer-2026-11-03-061",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Pfizer (PFE) Surpasses Q3 Earnings and Revenue Estimates - Yahoo Finance",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS1dDV1BleUNJdDB3S2F0cDltMmZXc0xnR2E3UWxPOG5ZOTJKT1cwMG9SdVp0UVU1dTZma1FUc1RCZmVEX3FzXy1VN3M0RHoxeFRUVk9vbjR3d05GemR0cTRtVmdBYnEtcDB3LXJKZTd5MHFJUzZFdFJCQ3FXNGlfNFNjRDh4MUdjTVQ3UFA2ZVNCbGFPQk1nVVpkdndyQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-03-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Top 6% Pharma Raises Outlook On Third-Quarter Beat - Investor's Business Daily",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc2U4dmpqeGUxWURHRVhpUmtZOFNTUDBBeWFHSGRKT3pWWWJGZk5WbFppSVdJeVYwZHJoOTBJa190NU9CMWVieVNadENHMWJmV3E0a2xGQ2R1RklNLTlPUU9SSmRaMGxDMXhlOFpRd1E0VWdmWXdvZFEtck12TXBwODdSLXEwWXp1SWRiLWY1UlNSaVQ0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "teva-2026-11-03-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Teva Pharmaceutical Indus Q3 2026 Earnings Call Transcript - Benzinga",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWGh3Qkl4ejJXTDAzRTlsWDdSVllWdFU0TUtwa1ZwQjNqalI2VmhwTmFrNDRGdVRadTlfa3VwNUZhajRydGhpZUp3Z2FOQzBvb1lSZlU5bXp0VVB6R0JLeE9SMm1HSlM3Yl94ODN1TkZobG8xUnZnZzZscnFLY0dMUi16eV9RRjRjRnZ0LUxOSXJLRXU2d240eGZoTHlXRVRVdEFrNjZB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "teva-2026-11-03-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Teva stock gains after raising 2026 outlook (TEVA:NYSE) - Seeking Alpha",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN2hHa0d2RHJOUE9UQ2JXZGlwc1lROEN1dUpTRTJiUHFGTzFsLVJYVjEwck9DekJKckEya3VRakplc1JSLURpQlZsamZXQzhzcnBpRW1zYUwzTGk0bUt6MnZLVmMyZlQ5TFFrWG91NnByZDRUNmRwY212VEs3RzlmNA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "teva-2026-11-03-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Teva Pharmaceutical Q3 profit gain beats estimates - Reuters",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaUxOZ2VNX0xENy0yZ1VtcTJyQ2JJbVI2M08tcEltRVlyUTM0QzEzN0FFNGVuUE10dWRtaElfMVRBUWlaNkl2XzBhUU9ubFVWcVJlWUNOVHR5X2V1SDM1NnBfRWRmYXZJaW1jd2IxeUhjNFBXeW5sUXZhTXJIekVEZEhWQ1JnR1huOUtzWTBlZHRvTTJWWGlsR2t5Ums0VzVWckFLcFVpZGFjV2lQQm9JNDh4VExUS0g2enpoOU1yMA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 62,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 32,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 55,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lonza",
+      "to": "merck",
+      "relation": "co_mention",
+      "co_mention_count": 5,
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 74,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 66,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "pfizer",
+        "count": 28
+      },
+      {
+        "id": "teva",
+        "count": 13
+      },
+      {
+        "id": "merck",
+        "count": 10
+      },
+      {
+        "id": "lonza",
+        "count": 8
+      },
+      {
+        "id": "astrazeneca",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 62
+      },
+      {
+        "id": "industry_general",
+        "count": 55
+      },
+      {
+        "id": "earnings",
+        "count": 32
+      },
+      {
+        "id": "patent_cliff",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 418,
+    "dup_title": 194,
+    "too_old": 73,
+    "gate1_blocked": 16,
+    "gate2_blocked": 27,
+    "passed": 108,
+    "pass_rate": "48.2%",
+    "gate2_block_rate": "12.1%",
+    "gate2_samples": [
+      "Teva Pharm to grow more in 2027 despite US’ IRA impact on Austedo - The Mighty 790 KFGO",
+      "Teva Pharm to grow more in 2027 despite US' IRA impact on Austedo - Reuters",
+      "Dr Reddy's gets tentative US FDA nod for generic HIV prevention - Reuters",
+      "India's Dr Reddy's secures USFDA tentative nod for world's first generic HIV preventive injectable -",
+      "U.S. FDA approves first generic injectable lenacapavir for HIV prevention - Unitaid"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 74 則事件，焦點為輝瑞、Teva、Merck相關動態：「Pfizer (PFE) Surpasses Q3 Earnings and Revenue Estimates ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Pfizer (PFE) Surpasses Q3 Earnings and Revenue Estimates - Yahoo Finance（藥物核准、法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Top 6% Pharma Raises Outlook On Third-Quarter Beat - Investor's Business Daily（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,88 @@
+{
+  "date": "2026-11-03",
+  "total_events": 74,
+  "by_company": {
+    "teva": {
+      "count": 13,
+      "sentiment_avg": 0.0
+    },
+    "dr_reddy": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "merck": {
+      "count": 10,
+      "sentiment_avg": 0.0
+    },
+    "lonza": {
+      "count": 8,
+      "sentiment_avg": 0.0
+    },
+    "pfizer": {
+      "count": 28,
+      "sentiment_avg": 0.05
+    },
+    "jnj": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "sanofi": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "astrazeneca": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    },
+    "novo_nordisk": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "mckesson": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "cardinal": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "novartis": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "drug_approval": {
+      "count": 62,
+      "sentiment_avg": 0.06
+    },
+    "earnings": {
+      "count": 32,
+      "sentiment_avg": 0.08
+    },
+    "industry_general": {
+      "count": 55,
+      "sentiment_avg": 0.05
+    },
+    "patent_cliff": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lonza",
+      "to": "merck",
+      "relation": "co_mention",
+      "co_mention_count": 5,
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ]
+    }
+  ]
+}

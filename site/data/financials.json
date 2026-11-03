@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-02T18:04:51.396445Z",
-  "quarter": "2026-03-31, 2026-06-30, 2026-09-30",
+  "updated_at": "2026-11-03T16:01:23.345667Z",
+  "quarter": "2026-06-30, 2026-09-30",
   "companies": [
     {
       "id": "abbvie",
@@ -24,17 +24,17 @@
       "name": "阿斯特捷利康",
       "ticker": "AZN",
       "currency": "USD",
-      "ar": 14330000000,
-      "ar_prev": 14106000000,
-      "ar_qoq": "+2%",
+      "ar": 14736000000,
+      "ar_prev": 14330000000,
+      "ar_qoq": "+3%",
       "ar_period": "QoQ",
-      "inventory": 6932000000,
-      "inv_prev": 6570000000,
-      "inv_qoq": "+6%",
+      "inventory": 6883000000,
+      "inv_prev": 6932000000,
+      "inv_qoq": "-1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "bora",
@@ -249,30 +249,30 @@
       "ar_prev": 8410000000,
       "ar_qoq": "+4%",
       "ar_period": "QoQ",
-      "inventory": 24123000000,
-      "inv_prev": 23503000000,
-      "inv_qoq": "+3%",
+      "inventory": 25023000000,
+      "inv_prev": 11127000000,
+      "inv_qoq": "+125%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": false,
-      "quarter_date": "2026-06-30"
+      "alert": true,
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "sun_pharma",
       "name": "太陽製藥",
       "ticker": "SUNPHARMA.NS",
       "currency": "INR",
-      "ar": 155096700000,
-      "ar_prev": 130461100000,
-      "ar_qoq": "+19%",
+      "ar": 178047800000,
+      "ar_prev": 155096700000,
+      "ar_qoq": "+15%",
       "ar_period": "QoQ",
-      "inventory": 114929300000,
-      "inv_prev": 102433300000,
-      "inv_qoq": "+12%",
+      "inventory": 125923500000,
+      "inv_prev": 114929300000,
+      "inv_qoq": "+10%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "tci",
