@@ -1,0 +1,16 @@
+{
+  "total_raw": 417,
+  "dup_title": 195,
+  "no_date": 0,
+  "too_old": 65,
+  "gate1_fail": 8,
+  "gate2_fail": 28,
+  "passed": 121,
+  "gate2_samples": [
+    "Teva Pharm to grow more in 2027 despite US’ IRA impact on Austedo - The Mighty 790 KFGO",
+    "Dr Reddy's gets tentative US FDA nod for generic HIV prevention - Reuters",
+    "U.S. FDA approves first generic injectable lenacapavir for HIV prevention - Unitaid",
+    "Dr. Reddy's generic targeting Gilead’s Yeztugo approved (GILD) - Seeking Alpha",
+    "TCI Co., Ltd. (8436.TWO) Seasonal returns chart - Yahoo Finance UK"
+  ]
+}

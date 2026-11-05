@@ -1,0 +1,223 @@
+{
+  "date": "2026-11-05",
+  "date_range": {
+    "start": "2026-10-30",
+    "end": "2026-11-05"
+  },
+  "generated_at": "2026-11-05T16:20:04.719777Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "eli_lilly-2026-10-30-054",
+      "date": "2026-10-30",
+      "title": "Earnings roundup: Lilly’s unwavering momentum, Novartis’ rebound and GSK’s waiting game",
+      "importance_score": 0.95
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "lonza",
+      "company_b": "merck",
+      "co_mention_count": 18,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "novo_nordisk",
+      "company_b": "pfizer",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "drug_approval": {
+      "this_week": 303,
+      "last_week": 154,
+      "week_over_week_change": "+97%",
+      "sentiment_this_week": 0.03
+    },
+    "earnings": {
+      "this_week": 119,
+      "last_week": 29,
+      "week_over_week_change": "+310%",
+      "sentiment_this_week": 0.03
+    },
+    "industry_general": {
+      "this_week": 294,
+      "last_week": 183,
+      "week_over_week_change": "+61%",
+      "sentiment_this_week": 0.02
+    },
+    "patent_cliff": {
+      "this_week": 14,
+      "last_week": 4,
+      "week_over_week_change": "+250%",
+      "sentiment_this_week": -0.04
+    },
+    "glp1_obesity": {
+      "this_week": 25,
+      "last_week": 19,
+      "week_over_week_change": "+32%",
+      "sentiment_this_week": -0.06
+    },
+    "biotech_funding": {
+      "this_week": 5,
+      "last_week": 5,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "gmp_inspection": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "teva": {
+      "event_count": 34,
+      "sentiment_avg": 0.03,
+      "rank": 5
+    },
+    "sun_pharma": {
+      "event_count": 27,
+      "sentiment_avg": -0.11,
+      "rank": 6
+    },
+    "astrazeneca": {
+      "event_count": 40,
+      "sentiment_avg": 0.1,
+      "rank": 3
+    },
+    "lonza": {
+      "event_count": 15,
+      "sentiment_avg": 0.07,
+      "rank": 9
+    },
+    "pfizer": {
+      "event_count": 48,
+      "sentiment_avg": 0.04,
+      "rank": 1
+    },
+    "jnj": {
+      "event_count": 17,
+      "sentiment_avg": -0.03,
+      "rank": 8
+    },
+    "merck": {
+      "event_count": 41,
+      "sentiment_avg": 0.01,
+      "rank": 2
+    },
+    "novo_nordisk": {
+      "event_count": 36,
+      "sentiment_avg": -0.03,
+      "rank": 4
+    },
+    "sanofi": {
+      "event_count": 12,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "mckesson": {
+      "event_count": 9,
+      "sentiment_avg": 0.06,
+      "rank": 11
+    },
+    "cardinal": {
+      "event_count": 27,
+      "sentiment_avg": 0.04,
+      "rank": 7
+    },
+    "eli_lilly": {
+      "event_count": 6,
+      "sentiment_avg": 0.25,
+      "rank": 12
+    },
+    "novartis": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 16
+    },
+    "dr_reddy": {
+      "event_count": 6,
+      "sentiment_avg": 0.17,
+      "rank": 13
+    },
+    "roche": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 14
+    },
+    "abbvie": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 15
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 575,
+        "last": 546,
+        "change_pct": 5.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-30",
+      "event_count": 132,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-10-31",
+      "event_count": 24,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-11-01",
+      "event_count": 22,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-11-02",
+      "event_count": 109,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-11-03",
+      "event_count": 116,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-11-04",
+      "event_count": 98,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-11-05",
+      "event_count": 74,
+      "sentiment_avg": 0.02
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-30 ~ 2026-11-05）共 575 則事件，重點為「Earnings roundup: Lilly’s unwavering momentum, ...」。Lilly、Novartis表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "Teva",
+        "reason": "本週出現 34 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Sun Pharma",
+        "reason": "本週出現 27 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "AZ",
+        "reason": "本週出現 40 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

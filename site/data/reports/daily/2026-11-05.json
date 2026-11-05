@@ -1,0 +1,277 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T16:20:04.622763Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cardinal-2026-11-05-046",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Cardinal Health (CAH) Q1 Earnings Beat Expectations, Raises FY27 EPS Guidance - GuruFocus",
+      "companies": [
+        "cardinal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdzFGaHFVaFZvS24zenVhbWozVUk0NTJlZERHM1NTcEh6Vmt5MWpVaEVsUVZGVDhob3lVQVhrTkRPeU93T2FSODZFU2dFVmpxWjlEX1VLOURQRjdRanE5WjlRSjhESzdSS1ZSZjNaSEx3THFvVVV3N0xkLTRfM2Z2S1BiZGtsc1YzXzY2X1AxWDlqclJmRVEzV2p6NFFmd0Z3UkU2dmRUU3JlejlHWmRPSFpzSQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "teva-2026-11-05-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Learn Why The Bull Case For Teva Pharmaceutical Industries (TEVA) Could Change Following Raised Revenue Guidance - Simply Wall St",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPLUtqU0lHd1FRZnJKazRGalU1T21LdHc3V242ZU1LbHdYMWgxaHNNN2VnTEpjUGRmY3p1SExHX1VrMmdkTm8zRVBaZVpLa0QwajA1M3lMclg2bXc2SkxTa1JpSTBiVWszUEdaQ1lwN0E0TnZfS2hhcV9yVHVuWDJWUlRSVHU1QU53dHBjcDJfQi1MZ3JlYlE2UWJzNmRILXcwYXpTMEFBckVUeFo4V1gwckNmOWRtQ0NOTTA3c1ZRYnJpUUlZWU85a3FvWVZ0LXJzSHh2T2tWZ3A4NjlyMjFrYzF6WHlsb01fUGE0akhwWjl3ejNI0gH6AUFVX3lxTE5BUzRJTk1RN0Q5ekpGekwyUFdURUFJc3NKaWlWZVRnN3RjSi16SDB0MUpLZW5QUUFuUXBQcGdWaURKaXI4MDQxdE1NVDNjZ0poODlNSUlyQVZjMG0xbTk3Nm9YeGphN3c0Q3VjQU03N1BGZnRiWWRsVWdvcTV3cG5yLVZlV1JfQ21FcXlGRjFHSE0xbGpTWnFqb3ZQbW5UX2lWZ1JPM2RmeHNoXzdjRjBabk1EeXBURXo4Y0kzdTc4NEZJYU5lSEcxNGV6b3psUDlKLUlQdllsaDlZeDJoOWJ2cV9BX2phQUdOM1pBMWJNenRnX1VfZ3lfZlE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-05-035",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "MCK Q2 Earnings Beat Estimates on Specialty Growth, Outlook Raised - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUDAxR1dQVjZyNGc5bmIyWEN3OExkOW9LQURMdjdnX0dZWnZ6TXdLR3lRNnNIMHAzX2lkTmdtMlU5d1poVXk0LVk1dE9VQUJBdGJkbmd1M3JXN2daOWNYaEVZVUlhcVlQVjVJSWxBOFM3REptYmxUMF9wQlhzUmlNYXZFcFBlMVhWTTh2QUQ5YTA4aFdncE1SckFoaXB4bWxJUHdwcWg4aW1sWGdPcU02OVJTWTBfdkkyRGIzWEdR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "mckesson-2026-11-05-036",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "[McKesson Q2 2027 Earnings Call] McKesson Raises FY2027 EPS Guidance to $45.60-$46.40, Beats on 8% Revenue Growth and 26% GLP-1 Surge - BigGo Finance",
+      "companies": [
+        "mckesson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oYjVJUHRSc1E2NDhVZXp0NzM3TmZFZnRDOXo0Rm9ZZC1EOTdvekQzdk51Vk5MQlV3TVRzRGNoZDBqbERwb3BqczRUaVNXN2FzZGVKNm5rOGgxWVlq?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-05-037",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Key facts: FY27 Outlook Raised; Deals Expanded; PMG Buy, Segment Split - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb2dtT0FpTXYzVVdTQnUwc3Y1b2cwQnQwWk0wOWJ2VTFVVW5SVl93Vm5PNnhFOW05RUhoREE5S1dndDEwei1nTElJdzhKeC1sQi1uTDF6aV9GVy1hLWFIVU4wdFJaV0t4VXZQU09MSWIxZ2VoRlZaZ2s5MUdvajBkYXhLSFZGd1BxeW9uUXJfbXMzRkN5bjROeUR1STdxeElZY3NGUjRDQkE5RUxmRDQwc1l5M3NmVllWb19LbVVTUktIMGlOY2dJ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 57,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 51,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 22,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.14,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 74,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 64,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "cardinal",
+        "count": 16
+      },
+      {
+        "id": "merck",
+        "count": 6
+      },
+      {
+        "id": "astrazeneca",
+        "count": 6
+      },
+      {
+        "id": "sun_pharma",
+        "count": 4
+      },
+      {
+        "id": "pfizer",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 57
+      },
+      {
+        "id": "industry_general",
+        "count": 51
+      },
+      {
+        "id": "earnings",
+        "count": 22
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 11
+      },
+      {
+        "id": "patent_cliff",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 417,
+    "dup_title": 195,
+    "too_old": 65,
+    "gate1_blocked": 8,
+    "gate2_blocked": 28,
+    "passed": 121,
+    "pass_rate": "54.5%",
+    "gate2_block_rate": "12.6%",
+    "gate2_samples": [
+      "Teva Pharm to grow more in 2027 despite US’ IRA impact on Austedo - The Mighty 790 KFGO",
+      "Dr Reddy's gets tentative US FDA nod for generic HIV prevention - Reuters",
+      "U.S. FDA approves first generic injectable lenacapavir for HIV prevention - Unitaid",
+      "Dr. Reddy's generic targeting Gilead’s Yeztugo approved (GILD) - Seeking Alpha",
+      "TCI Co., Ltd. (8436.TWO) Seasonal returns chart - Yahoo Finance UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 74 則事件，焦點為Cardinal、Merck、AZ相關動態：「Cardinal Health (CAH) Q1 Earnings Beat Expectations, Rais...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Cardinal Health (CAH) Q1 Earnings Beat Expectations, Raises FY27 EPS Guidance...（藥物核准、法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Learn Why The Bull Case For Teva Pharmaceutical Industries (TEVA) Could Chang...（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
