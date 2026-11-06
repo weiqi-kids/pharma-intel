@@ -1,0 +1,254 @@
+{
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T15:49:35.199056Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "teva-2026-11-06-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Teva Pharmaceutical Industries Ltd (TEVA) Q3 2026 Earnings Call Highlights: Innovative ... - Yahoo Finance Singapore",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT0Q4QkVrWjhUNjhxdEtOTVN5dTBrQ196WFJSdUt4SW40RG5YUTZYbUp2Q0U4UkxOVE9YZGx2OThhZW9ER20tX1RKZTJQRVBaYjExN3pWRVl0azRtUFRURzNjZTdTamVsQ2dlSS1IQzlIM0pnRWdqWlJFclFwY1d2emVQOUpENjlJaFUxTFluVmtYUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "cardinal-2026-11-06-028",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Does Earnings Beat Change The Bull Case For Cardinal Health Stock (CAH)? - Yahoo! Finance Canada",
+      "companies": [
+        "cardinal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUlQzZWo1Z2VfejB2RDUxT3lsN0REMHhDOUxGZTdRTXlUakxyMGlEa3M3WE1iYWRYNDBDYTkwOXg3Z01qT0YxQzZwanRMQVZPeFRCZ1FzV0k3cUdxbG82eW5FRks1SU9ldVFYVFhyNG94RTJmWjZ3Njg1cnNwN2lBOVFjVldnQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-06-032",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "This week in charts: 3 drug launches Wall Street is watching",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.biopharmadive.com/news/biotech-charts-drug-launches-sales-wegovy-rezdiffra-auvelity/873549/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-06-034",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Moderna notches small profit as it prioritizes work on cancer vaccines",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://endpoints.news/moderna-notches-small-profit-as-it-prioritizes-work-on-cancer-vaccines/"
+    },
+    {
+      "rank": 5,
+      "event_id": "lonza-2026-11-06-007",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Lonza Group stock expands US CDMO network with Merck deal - ad-hoc-news.de",
+      "companies": [
+        "lonza",
+        "merck"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX0pQOVVXOXZvVlNlZkpaQkh1Y2s3TnE4UjdmZXhvOUpSUDM1YXNYWUVCS0xjMlAweWhmUkJjZ3ZPVEVRY0d5ZER3cV9jcGppNzNuTzVuSGtOYzJ4QTZ1dzBUR2p4ZW9PUGxJUjdFUXFCSTdZNzlqYlZ4bFJqNzkteFBoUmZ3VkZtaDdZaWU2SFNXWmEyMGFyNkpLMkhibFBQUVlJLUJteTBiR1J6TWdsQkVaTExPMnY0dkp4TQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 29,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 37,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 38,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 34,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "jnj",
+        "count": 7
+      },
+      {
+        "id": "merck",
+        "count": 5
+      },
+      {
+        "id": "pfizer",
+        "count": 4
+      },
+      {
+        "id": "sun_pharma",
+        "count": 3
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 37
+      },
+      {
+        "id": "drug_approval",
+        "count": 29
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 417,
+    "dup_title": 227,
+    "too_old": 75,
+    "gate1_blocked": 10,
+    "gate2_blocked": 25,
+    "passed": 80,
+    "pass_rate": "42.1%",
+    "gate2_block_rate": "13.2%",
+    "gate2_samples": [
+      "Teva Pharm to grow more in 2027 despite US' IRA impact on Austedo - Reuters",
+      "Teva Pharm to grow more in 2027 despite US’ IRA impact on Austedo - The Mighty 790 KFGO",
+      "Dr Reddy's gets tentative US FDA nod for generic HIV prevention - Reuters",
+      "U.S. FDA approves first generic injectable lenacapavir for HIV prevention - Unitaid",
+      "Dr. Reddy's generic targeting Gilead’s Yeztugo approved (GILD) - Seeking Alpha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 38 則事件，焦點為J&J、Merck、輝瑞相關動態：「Teva Pharmaceutical Industries Ltd (TEVA) Q3 2026 Earning...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Teva Pharmaceutical Industries Ltd (TEVA) Q3 2026 Earnings Call Highlights: I...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Does Earnings Beat Change The Bull Case For Cardinal Health Stock (CAH)? - Ya...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
