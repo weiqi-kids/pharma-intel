@@ -1,0 +1,16 @@
+{
+  "total_raw": 416,
+  "dup_title": 256,
+  "no_date": 0,
+  "too_old": 79,
+  "gate1_fail": 14,
+  "gate2_fail": 19,
+  "passed": 48,
+  "gate2_samples": [
+    "Dr Reddy's gets tentative US FDA nod for generic HIV prevention - Reuters",
+    "U.S. FDA approves first generic injectable lenacapavir for HIV prevention - Unitaid",
+    "Dr. Reddy's generic targeting Gilead’s Yeztugo approved (GILD) - Seeking Alpha",
+    "Lonza buys 5 sites from Germany's Merck to more than double US footprint - marketscreener.com",
+    "Pfizer, Regeneron, Lancet, Tandem: This Week in Healthcare - Healthcare Digital"
+  ]
+}

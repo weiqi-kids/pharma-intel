@@ -1,0 +1,270 @@
+{
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T14:48:57.039790Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "eli_lilly-2026-11-07-014",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Novo’s race to catch Lilly; Q3 earnings recap; and more",
+      "companies": [
+        "eli_lilly",
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://endpoints.news/novos-race-to-catch-lilly-q3-earnings-recap-and-more/"
+    },
+    {
+      "rank": 2,
+      "event_id": "eli_lilly-2026-11-07-012",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Jim Cramer’s Charitable Trust Plans to Trim Cardinal Health and Eli Lilly - www.tokenpost.com",
+      "companies": [
+        "eli_lilly",
+        "cardinal"
+      ],
+      "related": {
+        "customers": [
+          "cardinal"
+        ],
+        "suppliers": [
+          "eli_lilly"
+        ]
+      },
+      "topics": [
+        "drug_approval"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0Mm9oQ2lCY0dhRlRNTjJ4WDFhMGtGQ0xvVmVBcnY3MTZHYjNoSTZNZGdMZUlhVEtvVWhZUTJDWUN6ZkNVdnh1alNiOGZHZ2prbnk3R3RuQjU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "cardinal-2026-11-07-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cardinal Health Q1 Earnings Call Highlights - Yahoo Finance",
+      "companies": [
+        "cardinal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYUJSZnoxenJNUHZYbi1LUHNmWDNwVzhjOV9ZNTFJX21HbW1SWDcyS18wWHA4bG5KSFZ2NEM2em1qUlhrYUh0dDBsRWphTEw3UkZrSlNfM2Y2Qjl5NW5COHFqYkROVzlWZGZVZEtvSnMwZmZxRmMtTU9xaVNpVlZwZHVBY1Yya1FWYXJTVGpiTEdfaExLSzBFMw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-07-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Dr Reddy’s Receives ANVISA Approval for Generic Semaglutide Injection in Brazil - Machine Maker",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYl95LVZRRFFoYUVFZDR2N2FwcnUtUVZtZk5icUF4RzJtS3k1QmZOLVN2NkY5ZElQcUdaY0Q1VklsTzhRajNUYTRfNE5WNUtURThEWU5YWGlmZHZLOUhQQVljeFJzci1HX3ZsemF6b3o0OE5NM1UwWXFSdXdZempCeUozbV9ERlJVV0gyMk9PUENVTl9uamJycWVta0huWlhpZWRVQmIyVDlWYVlmVldKcGpB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "pfizer-2026-11-07-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Pfizer (PFE) Plans $650 Million Connecticut Center For Clinical Drug Production - Simply Wall St",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWE9nQUtwVG1HSV90Q0I5TDF2NU5pWGFZQXU0YVlRdjg3ZXZUOHhab1BYQ1NiSFVWQ25xWkpWRUVfYTdmYjB2czFQN1preHpnQkRLcXpKNW01eTJISTQzaXlqa3R1TjlyR3cxWHctMEZxZWJFbHZTbzBtQUZpcVduNzBNSlhXTDFCYTc2T25KRzNGNGJLcXQza0ZhX2Fwdlhkc3hYY1pKVW8zWjFySTRTeGtmaXBibWxEdWlyMkROTnFIQ1VMcmlqY0U5WGpvcmM4c0Vn0gHYAUFVX3lxTFBqTVRQOUQxVFhGdHgwUlBiNEJiSzAtMzhrM29nUFRnOGVHV1JsV1A0NlpiODdzaU1TdjdTQ2g2aWc4bEY0ZDc4VmNhMHpXenpSS0dwaDRIcE9uVHNvSURKb2dZV2pxWTlBSW9DZXBGLVo5ckxuekk4MGtRUS04Ny1HTFZBNU12ZTBoUzZ5UzNWWWtWWnp5Nkl3b0R0WlNpVXEwcVNoUktudERQQnRVQ2dsUUNwa1BZbndUR2FUbl9feFN0aTVka1B1aHhXbmRINFU1R1R4T3dOdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 12,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "novo_nordisk",
+        "count": 4
+      },
+      {
+        "id": "cardinal",
+        "count": 3
+      },
+      {
+        "id": "eli_lilly",
+        "count": 2
+      },
+      {
+        "id": "pfizer",
+        "count": 1
+      },
+      {
+        "id": "jnj",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 12
+      },
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "patent_cliff",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 416,
+    "dup_title": 256,
+    "too_old": 79,
+    "gate1_blocked": 14,
+    "gate2_blocked": 19,
+    "passed": 48,
+    "pass_rate": "30.0%",
+    "gate2_block_rate": "11.9%",
+    "gate2_samples": [
+      "Dr Reddy's gets tentative US FDA nod for generic HIV prevention - Reuters",
+      "U.S. FDA approves first generic injectable lenacapavir for HIV prevention - Unitaid",
+      "Dr. Reddy's generic targeting Gilead’s Yeztugo approved (GILD) - Seeking Alpha",
+      "Lonza buys 5 sites from Germany's Merck to more than double US footprint - marketscreener.com",
+      "Pfizer, Regeneron, Lancet, Tandem: This Week in Healthcare - Healthcare Digital"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為Novo、Cardinal、Lilly相關動態：「Novo’s race to catch Lilly; Q3 earnings recap; and more」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Novo’s race to catch Lilly; Q3 earnings recap; and more（法說會、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Jim Cramer’s Charitable Trust Plans to Trim Cardinal Health and Eli Lilly - w...（藥物核准）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

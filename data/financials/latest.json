@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T15:49:30.641040Z",
+  "updated_at": "2026-11-07T14:48:52.863706Z",
   "quarter": "2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -58,17 +58,17 @@
       "name": "Cardinal Health",
       "ticker": "CAH",
       "currency": "USD",
-      "ar": 13815000000,
-      "ar_prev": 13648000000,
-      "ar_qoq": "+1%",
+      "ar": 14542000000,
+      "ar_prev": 13815000000,
+      "ar_qoq": "+5%",
       "ar_period": "QoQ",
-      "inventory": 17297000000,
-      "inv_prev": 18007000000,
-      "inv_qoq": "-4%",
+      "inventory": 18395000000,
+      "inv_prev": 17297000000,
+      "inv_qoq": "+6%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "cencora",
