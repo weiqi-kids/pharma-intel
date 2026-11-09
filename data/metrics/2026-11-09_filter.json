@@ -1,0 +1,16 @@
+{
+  "total_raw": 418,
+  "dup_title": 229,
+  "no_date": 0,
+  "too_old": 81,
+  "gate1_fail": 11,
+  "gate2_fail": 19,
+  "passed": 78,
+  "gate2_samples": [
+    "Teva committed to working with Irish healthcare professionals despite boycotts - The Jerusalem Post",
+    "Teva Pharm to grow more in 2027 despite US’ IRA impact on Austedo - The Mighty 790 KFGO",
+    "U.S. FDA approves first generic injectable lenacapavir for HIV prevention - Unitaid",
+    "Dr. Reddy's granted FDA nod for first generic targeting Gilead’s Yeztugo - Seeking Alpha",
+    "Dr Reddy's gets tentative US FDA nod for generic HIV prevention - Reuters"
+  ]
+}

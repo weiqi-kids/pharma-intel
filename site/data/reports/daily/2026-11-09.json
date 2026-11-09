@@ -1,0 +1,289 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T18:35:41.586547Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "eli_lilly-2026-11-09-032",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "FDA requires vision-loss warning on Novo Nordisk and Eli Lilly GLP-1 drugs - Investing.com",
+      "companies": [
+        "eli_lilly",
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMmpwSi0wdnFuSFJBbjBKZGE0ZlpfYjUzcEtac0oxSWZzaENaaUJybVc0TS00dmp4X2JPeHB2bUNlUnY4NWNLUUlCcGEyVWw1THBZdlhZc3c1YlNST3dXeGNDTHJoZFRNaXRVaXJHRnlLVm9KRWFJVW5abEpPb19iMll3Wnk4MmJwR0RBZmlVNnpfal85QWlORHFRVmdCeEFCZzcyVnlBYXhlZzhZUG03UW03b0p5cTBhVHNuRGNjeFhBZ1otSkRwdQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-09-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Weekly Recap: Q3 results with raised guidance and BXCL501 acquisition - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNGJFaGRhaE4wbk8xeWtxblFJcDVLY2g5em9vWGdHb1VROTRnWUZrV2hpRThKRU1wcVJ2RnpJNndWZzE4a005aFloQllNYmlWUlplZElRRjNGMXJiOEJ3Q0txNGpsdG12UUNHakNsS01JUXJtQjM5VjJHTDFjMEVTNVJnSlVUNVR4UXZIMWFLVG5ycGMyU095dzBwaXNMVEgxdEk0V1pnWkxSeHk3anNscUQtUHJuMy1tMU1sQ2FfcFBVRkhrdFRWNjZ3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-09-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Weekly Recap: Eye-product halt at Assam plant and 32% Q2 profit fall - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNTBRV0gxdGFHNnJISlFqN1h2QmZnd0xVNDFhMmlUTE91ZUN5dTdLRVJac2lvZEZyMk1zdmZlWjN6TFJiVEJEQ3V3MXlrY3JWaGRqczJ1eWNpQ3hKeXhJdnV4RzR0YXZ4Y1ZTblVpLU5SM1oxVUVqelIwQjFIMVBkQ0d1RkdvREJzbTUzWjRPYjdjVnhOcWpNSndwcmczQUpnSDMzbndnazJ2RktuNFJpVDBRNGZzXzhuUUhCMlFVUTFEUzFUaF9F?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-09-018",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Raised Outlooks and a Cancer Approval Arrive in the Middle of Medicare Open Enrollment - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbW1SZ0h1TVVzZGxpV1o4N1ZvLWhNcHBXR0hTNzMzYkstSVZsRGRZdGtOUVpkYkJJTDZtZzE4N053cGVQcXVqZnhPSURpRkdubkZsRy02RVllXzJxakp3V2VROTg1eWlwQnotUFR4OFA4b0dGUkZnZmNjMENObXlORUVjemtoeXB4VlluSEhINENwdjNYNnZoQjIwQ3VWOXhBUXFhMkJEQ2ZhT0pFX3Y5Um4zb2hMcnozejNRNzRPeDg3RXQ1NTFfSXRyLTBTZnJCcnhDYkpqNUV5Z3FDT01lMg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "novo_nordisk-2026-11-09-029",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Novo Nordisk: Q3 Earnings Busts The Cannibalisation Myth (NYSE:NVO) - Seeking Alpha",
+      "companies": [
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOWdicklaV2NyS2RyQkc0allwR3ppLTlwQ3Z3a3Z0a2Q2aVF5ekl0Z1RZbnpWX3hCbDRjdGNRZFpkTGR4TS0yZHljZnZURUFWWmNMOUlrUFZGdFM2SXVLdVBOdWVyTXVLNFNxTm9GcUZaWVdGOG1vcllPeWh6VEJLM3Y5Znk4RXRXWVpqenpNVlRIMktZYnlja2F4cFA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 46,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 47,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.18,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lonza",
+      "to": "merck",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "drug_approval"
+      ]
+    },
+    {
+      "from": "eli_lilly",
+      "to": "novo_nordisk",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "glp1_obesity",
+        "drug_approval"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 61,
+    "sentiment_distribution": {
+      "positive": 10,
+      "neutral": 47,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "novo_nordisk",
+        "count": 8
+      },
+      {
+        "id": "jnj",
+        "count": 7
+      },
+      {
+        "id": "pfizer",
+        "count": 6
+      },
+      {
+        "id": "merck",
+        "count": 4
+      },
+      {
+        "id": "astrazeneca",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 47
+      },
+      {
+        "id": "drug_approval",
+        "count": 46
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 11
+      },
+      {
+        "id": "earnings",
+        "count": 8
+      },
+      {
+        "id": "patent_cliff",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 418,
+    "dup_title": 229,
+    "too_old": 81,
+    "gate1_blocked": 11,
+    "gate2_blocked": 19,
+    "passed": 78,
+    "pass_rate": "41.3%",
+    "gate2_block_rate": "10.1%",
+    "gate2_samples": [
+      "Teva committed to working with Irish healthcare professionals despite boycotts - The Jerusalem Post",
+      "Teva Pharm to grow more in 2027 despite US’ IRA impact on Austedo - The Mighty 790 KFGO",
+      "U.S. FDA approves first generic injectable lenacapavir for HIV prevention - Unitaid",
+      "Dr. Reddy's granted FDA nod for first generic targeting Gilead’s Yeztugo - Seeking Alpha",
+      "Dr Reddy's gets tentative US FDA nod for generic HIV prevention - Reuters"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 61 則事件，焦點為Novo、J&J、輝瑞相關動態：「FDA requires vision-loss warning on Novo Nordisk and Eli ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "FDA requires vision-loss warning on Novo Nordisk and Eli Lilly GLP-1 drugs - ...（藥物核准、GLP-1 減重、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Weekly Recap: Q3 results with raised guidance and BXCL501 acquisition - Tradi...（藥物核准、法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
