@@ -1,0 +1,297 @@
+{
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T16:18:55.066017Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "novo_nordisk-2026-11-10-035",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "The FDA Ordered GLP-1 Vision-Loss Warnings For Some Products. Shares of Eli Lilly and Novo Nordisk Were Unfazed. - International Business Times",
+      "companies": [
+        "novo_nordisk",
+        "eli_lilly"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONzhXbExmNkFDRDIxNVp0MHhyWXJNR0RZclRMcWQzZWpPQWgydzVUQ3dyY1VmXzl4dkZjOFZBM0pJY2JFclFJZEpjMmpLdlIyQ1RtMDVfSFVQR3RGRnF1NlFSd3NLUUJvNDc4N0tVaVpteGYzSEFUQkp2bkJPZGVleDg2VGpDUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "novo_nordisk-2026-11-10-036",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "FDA orders eye disease warning on Novo and Eli Lilly obesity drugs - MedWatch",
+      "companies": [
+        "novo_nordisk",
+        "eli_lilly"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FT0I3akl4UnNSajVIUDUzQVhCdmpxMTN5dXJ0UUVXelRmVzdyaEZETEZHeXdRb0ZJbnIwUDdPb29GMVNQa3VtbGNzWVkwZVlGdTYyNFBuVFV0RG9fcXRxdEgzWEpTNGlaaTgtS2g5VWV0LUJfekREaw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "teva-2026-11-10-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Teva Pharmaceutical Industries (TEVA) Following Guidance Lift And Samsung Bioepis Deal Is It Fully Valued - Simply Wall St",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZzNuREs4MXVUdzZUNElIYUpNbUxVcTZOWS1RTGdUaXdCYU0wTkJlV25qbXQwdGZxOFRmdHBFUDEwMG0wQjZZVVo5SzVBaE1iZ2ZXSU9GbU5XcjRTLUhGWXF0UExiaEltU2ZYSTYydGNzY3lhZ2tVU2J4em1YUHZ6YnNjWmlCQ3RBaG5vc2t1ZThPUUlDOHllX3oyTm4xaDhzdDhiQmxraU9sRVdhQk9lVGNTN3FzNWRweDhlRU93ZHlQQ3FmUkNIZW9heXlGYlRybTJHMzQ3Y3V1bnhjcGNWNG1aUFBNQzZ3S2FCdHktSEZsTGvSAfgBQVVfeXFMTUUxMzl4SGtuRTNrU1pWUUhZRVBSZmdERnY3YkhEdU5XR3JnSGpXT3Izb1hnOGlZMWdDLXpfckdvbGVyNHB5ZjBMdlZuQTItZllRQnlHaEhzbnM0cUgwbjE2UnVST0wxNG0tNFRmLXhqQ0xqWVBqTTcwbmtHYzZQV0NWMUt4amRDVWxnbFpoTnRWRnJpMmtCSkNLMDl6SVFrRUFSSzRsNjZOLVJmR1UzZmhCVTdsZTFZVThmVEhBQ3IzaWJQeU8xU2xCZXFIWlQ2LTdYdmRpcmEyV3RiWWlBU05OUDY3RzBRalBrdEkyMTN2Y0FBZzVwbEM?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "mckesson-2026-11-10-037",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "McKesson stock raises fiscal 2027 adjusted EPS outlook - ad-hoc-news.de",
+      "companies": [
+        "mckesson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNejV2Uk5SRDlaeU5mZnpseDJBTjgtUUlSQy1zS2UtbmpkQVc3NlZ0YmJpd1QtQ29ta1RWWVlaT0V2SEFibTI1RzFsTkVibEV3VVJ5bERvUmZDU3ZvUGZBYlhmMXJ4WWdjcEJ4NXVHNWI1eGVBMFc1MXJ4OVFIWkN4ZkkzaXI2Y1NMY1FOYl9GUUdJVnYxWVRPUS1TQW02aG1SRDI1VUpCXzhxMjl0cEJfYXNLMUhHaHNU?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "pfizer-2026-11-10-042",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Some Investors May Be Willing To Look Past Pfizer's (NYSE:PFE) Soft Earnings - Simply Wall St",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNendvWEJ3SHpQMXFoWDRMOVZiOGNpaE9fNXZ3VG5zNWJTMk5CYm4yWnBZMmJhY1lDd1M5ZW9RTDZOQTFzMXFUXzZWaVpGZGcxMDdoYVluNERGZFdlV2pORGlVU0t4NmFnS0gtc29WaUZhWnIxRnpBRmJwYVFJWnBWY2N6YUY2VFRoUGMwZnNBcDJPQUtjRGdKSHBNb19Jb3IwWVlPaU1fbHhtNGh0NHZ4aTlxYXNoRmx2RzBRbmROQmFIRWpyMnBaWnlKUDdRYlpfWDJwblR30gHbAUFVX3lxTE8zX2UtaEdQU2VvTi1lTE9GUWpXZDhLTTQwem5aNk1LdmdmYndRNFdibVVkR2tndXBCZURlaDZzYi1hMVZtMlZrc2hvdkxjbFozcGpLeVQ3OXE0TlJldFMtNVo5cVFaOU1LSVJjbzFBR2FsMkZCQUdmdTB6b2k5azlxTUxuODJ6a0t5dnRVUnU1VXJndnVma0djcjctSV85OGU4NFE1b1hJQW1VVVdQbmtLVzJGSHhxZVFsUXFTOFZkaWh6RW4yV2NUYkVXN0VWVzd6dFJnUFZlV1pfWQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 40,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 49,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "eli_lilly",
+      "to": "novo_nordisk",
+      "relation": "co_mention",
+      "co_mention_count": 4,
+      "topics": [
+        "drug_approval",
+        "glp1_obesity",
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 55,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 44,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "jnj",
+        "count": 9
+      },
+      {
+        "id": "astrazeneca",
+        "count": 8
+      },
+      {
+        "id": "merck",
+        "count": 7
+      },
+      {
+        "id": "teva",
+        "count": 4
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 49
+      },
+      {
+        "id": "drug_approval",
+        "count": 40
+      },
+      {
+        "id": "biotech_funding",
+        "count": 7
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 418,
+    "dup_title": 231,
+    "too_old": 84,
+    "gate1_blocked": 11,
+    "gate2_blocked": 16,
+    "passed": 76,
+    "pass_rate": "40.6%",
+    "gate2_block_rate": "8.6%",
+    "gate2_samples": [
+      "Teva committed to working with Irish healthcare professionals despite boycotts - The Jerusalem Post",
+      "Teva Pharm to grow more in 2027 despite US’ IRA impact on Austedo - The Mighty 790 KFGO",
+      "Dr. Reddy's granted FDA nod for first generic targeting Gilead’s Yeztugo - Seeking Alpha",
+      "Lonza buys 5 sites from Germany's Merck to more than double US footprint - marketscreener.com",
+      "Pfizer, Regeneron, Lancet, Tandem: This Week in Healthcare - Healthcare Digital"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 55 則事件，焦點為J&J、AZ、Merck相關動態：「The FDA Ordered GLP-1 Vision-Loss Warnings For Some Produ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "The FDA Ordered GLP-1 Vision-Loss Warnings For Some Products. Shares of Eli L...（藥物核准、GLP-1 減重、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "FDA orders eye disease warning on Novo and Eli Lilly obesity drugs - MedWatch（藥物核准、GLP-1 減重、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
