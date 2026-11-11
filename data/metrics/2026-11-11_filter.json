@@ -1,0 +1,16 @@
+{
+  "total_raw": 424,
+  "dup_title": 236,
+  "no_date": 0,
+  "too_old": 91,
+  "gate1_fail": 14,
+  "gate2_fail": 12,
+  "passed": 71,
+  "gate2_samples": [
+    "Teva committed to working with Irish healthcare professionals despite boycotts - The Jerusalem Post",
+    "Pfizer, Regeneron, Lancet, Tandem: This Week in Healthcare - Healthcare Digital",
+    "Pfizer Elevates Alpana Kumari To Director, People Experience - BW People",
+    "Is Johnson & Johnson (JNJ) Below Fair Value On Cash Flow? - Yahoo Finance",
+    "SGOV Yields 3.63%. Can Johnson & Johnson or Verizon Pay Retirees More? - 24/7 Wall St."
+  ]
+}

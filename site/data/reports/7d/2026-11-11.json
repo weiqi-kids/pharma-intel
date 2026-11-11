@@ -1,0 +1,203 @@
+{
+  "date": "2026-11-11",
+  "date_range": {
+    "start": "2026-11-05",
+    "end": "2026-11-11"
+  },
+  "generated_at": "2026-11-11T15:59:46.164307Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "eli_lilly-2026-11-10-066",
+      "date": "2026-11-10",
+      "title": "Hims & Hers Drops 18% as Q3 Loss and Profit Outlook Cut Disappoint; Novo Nordisk Slides 2%, Eli Lilly Holds Steady - Yahoo Finance",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "drug_approval": {
+      "this_week": 223,
+      "last_week": 274,
+      "week_over_week_change": "-19%",
+      "sentiment_this_week": 0.03
+    },
+    "industry_general": {
+      "this_week": 240,
+      "last_week": 268,
+      "week_over_week_change": "-10%",
+      "sentiment_this_week": 0.04
+    },
+    "earnings": {
+      "this_week": 48,
+      "last_week": 111,
+      "week_over_week_change": "-57%",
+      "sentiment_this_week": 0.08
+    },
+    "glp1_obesity": {
+      "this_week": 37,
+      "last_week": 15,
+      "week_over_week_change": "+147%",
+      "sentiment_this_week": -0.03
+    },
+    "patent_cliff": {
+      "this_week": 7,
+      "last_week": 12,
+      "week_over_week_change": "-42%",
+      "sentiment_this_week": 0.14
+    },
+    "biotech_funding": {
+      "this_week": 11,
+      "last_week": 4,
+      "week_over_week_change": "+175%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "teva": {
+      "event_count": 18,
+      "sentiment_avg": 0.06,
+      "rank": 7
+    },
+    "dr_reddy": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "sun_pharma": {
+      "event_count": 9,
+      "sentiment_avg": 0.05,
+      "rank": 9
+    },
+    "merck": {
+      "event_count": 29,
+      "sentiment_avg": 0.03,
+      "rank": 2
+    },
+    "lonza": {
+      "event_count": 7,
+      "sentiment_avg": 0.14,
+      "rank": 11
+    },
+    "pfizer": {
+      "event_count": 19,
+      "sentiment_avg": 0.05,
+      "rank": 6
+    },
+    "jnj": {
+      "event_count": 29,
+      "sentiment_avg": 0.02,
+      "rank": 3
+    },
+    "astrazeneca": {
+      "event_count": 32,
+      "sentiment_avg": 0.05,
+      "rank": 1
+    },
+    "novo_nordisk": {
+      "event_count": 26,
+      "sentiment_avg": 0.02,
+      "rank": 4
+    },
+    "sanofi": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "mckesson": {
+      "event_count": 9,
+      "sentiment_avg": 0.17,
+      "rank": 10
+    },
+    "cardinal": {
+      "event_count": 26,
+      "sentiment_avg": 0.11,
+      "rank": 5
+    },
+    "eli_lilly": {
+      "event_count": 13,
+      "sentiment_avg": 0.08,
+      "rank": 8
+    },
+    "novartis": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "roche": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "abbvie": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 439,
+        "last": 623,
+        "change_pct": -29.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-11-05",
+      "event_count": 122,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-11-06",
+      "event_count": 62,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-11-07",
+      "event_count": 35,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-11-08",
+      "event_count": 19,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-11-09",
+      "event_count": 83,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-11-10",
+      "event_count": 80,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-11-11",
+      "event_count": 38,
+      "sentiment_avg": 0.03
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-11-05 ~ 2026-11-11）共 439 則事件，重點為「Hims & Hers Drops 18% as Q3 Loss and Profit Out...」。產業通用、藥物核准、法說會為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "Teva",
+        "reason": "本週出現 18 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Sun Pharma",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Merck",
+        "reason": "本週出現 29 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
