@@ -1,0 +1,16 @@
+{
+  "total_raw": 415,
+  "dup_title": 190,
+  "no_date": 0,
+  "too_old": 100,
+  "gate1_fail": 12,
+  "gate2_fail": 14,
+  "passed": 99,
+  "gate2_samples": [
+    "Teva committed to working with Irish healthcare professionals despite boycotts - The Jerusalem Post",
+    "Swiss-listed Lonza Names Chief Human Resources Officer - marketscreener.com",
+    "Lonza Appoints Bertha Steinmetz Vilela as Chief Human Resources Officer - TipRanks",
+    "Lonza Appoints Bertha Steinmetz Vilela as Chief Human Resources Officer - boerse.de",
+    "Massachusetts Family Wins Talc Verdict Against J&J - Mesothelioma Guide"
+  ]
+}

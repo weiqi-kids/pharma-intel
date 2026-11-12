@@ -1,0 +1,262 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T16:43:02.824017Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "merck-2026-11-12-057",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Merck KGaA's writedown over Lonza deal; PharmaLogic buys Lantheus' CDMO business",
+      "companies": [
+        "merck",
+        "lonza"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://endpoints.news/merck-kgaas-writedown-over-lonza-deal-pharmalogic-buys-lantheus-cdmo-business/"
+    },
+    {
+      "rank": 2,
+      "event_id": "pfizer-2026-11-12-019",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Pfizer Delivers Strong Quarterly Results and Partners with Blackstone to Advance Weight-Loss Drug Development - NAI500",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdWdUb2U1MGw5QWF4dUJWRTVjNEpzeHVrVklXVXlIWGVrdEZqNDQydXJSY3FPanM2RHdhZjlpMDVPVWxUaG1qQ1lTLWE1al95ZTF3WGVnX1Jlb1kwS1JsOGc2RXU5YlMyN3hHY2ktNWtWWG9mc1d0WHRJV0lKTlppR0MzSE43Z1dGTUhQU3lmS0ljSnNWajM2NU82RnFHM3dSd1M0Wi1WVnVtRzNlbG1rTEZXSm1aVXNzWGotWUgtVXFNWkNSanRQd3pua19EUEJmSTdYOUF4c0tUdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "teva-2026-11-12-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Teva Pharmaceutical Industries (TEVA) Earnings Put Its Turnaround Valuation Back In Focus - Yahoo Finance",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRDQ3U2Y1Vm95a2F1RjZUQ0ZJWlZ4UHN2Q1p5RWJkS09nc0ZtclVFNEhHNmQ4UWlDWElZOGVVdTdaeWlYaEtSSzk1UnlZeUpvNmhIazdmQzN2TG5zRDRPczN6MEl4T2Q5MWNiX1pqS1R3empranBwT1FLeTZQcnM5X0ZkYjNudFFQdWMxeVVKb0Y1R2tFcUktVjBubXhiR2dielJQQ3dyaE4?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "teva-2026-11-12-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Teva (TEVA) Stock Looks Undervalued Against Its Cash Flow Outlook - Simply Wall St",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxORS1MelNSWk1fd19pTzBYdGFYdHdXTUtJNnp0MmM3eE5UbFZ4Z0pabFNkOEdtTWpEb1VfZEd0dHBCVm45SDVOZFhrMXhhRjB3M0FXNG5xeWs4LThBSExpUWZKb1lTT3d4cjFCT3FvaXR5bUZ3b1Z3a2E5ZjNkUmxOb0l2ZDFlb1VtRENKSzhwSHNFN0lya1E5dXZhYXg1N25PS0Fyd3pEbjJRVkdfMmNGckU0RzZFTUQweXVjNi1wdTdsNWhRalFjMl93ZGNGUmVHZEdHeTA0WEM3T1ZYdVVrYmdjNHh2NG1kSWdTREF2bUFpM3ln0gH6AUFVX3lxTE91bU1UZnNMUzBBUU1Oc3NVN2kwTU5aQ0lsbGFfejNHT0xXVmxDUWhMM3ZIaGlJUXpmQUNKOUl6cFp5RExkNnVLV29uU01fRnVnc2poR19pbHJtdEtTbUdDOVk2VUhIZzV2Wnhma3VJenhIQnppNmZRczdhNkJ0cWwtckd4elJraHZjeHdVOS1MZmFGal9kb2hWMlZtMmxRcVA5QUhTVG1zdlBCZmtmOGdNYzZpWnBfay12Tm9wQ21BVlVFemgxTmdXd05YOXdwNEwwbktmbUl6YXBUZHBsMGtGcUh5RHFmdFV6RnE4Si1pRkNXYW9ObTkwOGc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "jnj-2026-11-12-021",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is There A Risk Hiding In Johnson & Johnson Stock’s Earnings? - Trefis",
+      "companies": [
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZjBFYWp2VUkzWG5LN3FiV0dDem9od2FfZlZJNWJVZU1WVmt6VFltMEp3cVpxa243NVYyOTVBdWpld1RZTHM0c1NBQ3dGVmFjTHV0S0swbU1ONEhYRWRnVE5uLXVjMm9VS3RndUV1UDFnNlV0Y0c0a0N1dk1KQnRsZTRmcy00UjA2S3JhUnF5LS0wbDliSVBfd3daQU5FUC1QSlFUMHgxSXNrdDJWTHhFVU1rcnVOUHRN?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 54,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 58,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.07,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.2,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 67,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 59,
+      "negative": 6
+    },
+    "top_companies": [
+      {
+        "id": "pfizer",
+        "count": 21
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 9
+      },
+      {
+        "id": "teva",
+        "count": 8
+      },
+      {
+        "id": "cardinal",
+        "count": 5
+      },
+      {
+        "id": "jnj",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 58
+      },
+      {
+        "id": "drug_approval",
+        "count": 54
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 20
+      },
+      {
+        "id": "earnings",
+        "count": 10
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 415,
+    "dup_title": 190,
+    "too_old": 100,
+    "gate1_blocked": 12,
+    "gate2_blocked": 14,
+    "passed": 99,
+    "pass_rate": "44.0%",
+    "gate2_block_rate": "6.2%",
+    "gate2_samples": [
+      "Teva committed to working with Irish healthcare professionals despite boycotts - The Jerusalem Post",
+      "Swiss-listed Lonza Names Chief Human Resources Officer - marketscreener.com",
+      "Lonza Appoints Bertha Steinmetz Vilela as Chief Human Resources Officer - TipRanks",
+      "Lonza Appoints Bertha Steinmetz Vilela as Chief Human Resources Officer - boerse.de",
+      "Massachusetts Family Wins Talc Verdict Against J&J - Mesothelioma Guide"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 67 則事件，焦點為輝瑞、Novo、Teva相關動態：「Merck KGaA's writedown over Lonza deal; PharmaLogic buys ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Merck KGaA's writedown over Lonza deal; PharmaLogic buys Lantheus' CDMO business（法說會、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Pfizer Delivers Strong Quarterly Results and Partners with Blackstone to Adva...（藥物核准、法說會、產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
