@@ -1,0 +1,16 @@
+{
+  "total_raw": 409,
+  "dup_title": 223,
+  "no_date": 0,
+  "too_old": 101,
+  "gate1_fail": 11,
+  "gate2_fail": 11,
+  "passed": 63,
+  "gate2_samples": [
+    "Teva committed to working with Irish healthcare professionals despite boycotts - The Jerusalem Post",
+    "Lonza Appoints Bertha Steinmetz Vilela as Chief Human Resources Officer - www.marketscreener.com",
+    "ETFs Are Buying Johnson & Johnson (JNJ) on Nov. 11 - Yahoo Finance",
+    "$300,000 in Duke Energy, Philip Morris and Johnson & Johnson: Here’s What It Pays - 24/7 Wall St.",
+    "State Street Health Care SPDR (XLV) Adds Eli Lilly and Johnson & Johnson on Nov. 10 - Yahoo Finance"
+  ]
+}
