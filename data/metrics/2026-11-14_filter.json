@@ -1,0 +1,16 @@
+{
+  "total_raw": 405,
+  "dup_title": 219,
+  "no_date": 0,
+  "too_old": 107,
+  "gate1_fail": 13,
+  "gate2_fail": 16,
+  "passed": 50,
+  "gate2_samples": [
+    "Teva committed to working with Irish healthcare professionals despite boycotts - The Jerusalem Post",
+    "Pfizer (PFE) Secures $1.5 Billion For Berobenatide Development - Yahoo Finance",
+    "Pfizer Appoints Cecile Guegan as Chief Financial Officer, Marking a Historic Leadership Milestone - ",
+    "Is Johnson & Johnson (JNJ) Below Fair Value On Cash Flow? - Yahoo Finance",
+    "AstraZeneca Cuts 600 US Sales Staff as Savings Drive Kicks In - Bloomberg"
+  ]
+}
