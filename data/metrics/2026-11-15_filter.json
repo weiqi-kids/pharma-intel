@@ -1,0 +1,16 @@
+{
+  "total_raw": 408,
+  "dup_title": 227,
+  "no_date": 0,
+  "too_old": 106,
+  "gate1_fail": 16,
+  "gate2_fail": 13,
+  "passed": 46,
+  "gate2_samples": [
+    "Teva committed to working with Irish healthcare professionals despite boycotts - The Jerusalem Post",
+    "Bertha Vilela Named Chief Human Resources Officer-Designate at Lonza - https://hrtoday.in/",
+    "Pfizer (PFE) Secures $1.5 Billion For Berobenatide Development - Yahoo Finance",
+    "$300,000 in Duke Energy, Philip Morris and Johnson & Johnson: Here’s What It Pays - 24/7 Wall St.",
+    "Is Johnson & Johnson (JNJ) Below Fair Value On Cash Flow? - Yahoo Finance"
+  ]
+}

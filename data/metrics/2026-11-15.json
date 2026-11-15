@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-15",
+  "total_events": 10,
+  "by_company": {
+    "teva": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "merck": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "novo_nordisk": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "pfizer": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "drug_approval": {
+      "count": 8,
+      "sentiment_avg": -0.12
+    },
+    "industry_general": {
+      "count": 9,
+      "sentiment_avg": -0.11
+    },
+    "glp1_obesity": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
