@@ -1,0 +1,16 @@
+{
+  "total_raw": 411,
+  "dup_title": 178,
+  "no_date": 0,
+  "too_old": 96,
+  "gate1_fail": 10,
+  "gate2_fail": 25,
+  "passed": 102,
+  "gate2_samples": [
+    "Pfizer (PFE) Secures $1.5 Billion For Berobenatide Development - Yahoo Finance",
+    "J&J looks to buy Ollin Biosciences for up to $3.4 billion, FT says - Yahoo Finance",
+    "Cramer's Mad Dash: Johnson & Johnson - CNBC",
+    "J&J looks to buy Ollin Biosciences for up to $3.4 billion, FT says - Reuters",
+    "Johnson & Johnson Reportedly in Talks to Acquire Ollin Biosciences - marketscreener.com"
+  ]
+}

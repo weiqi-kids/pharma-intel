@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-16",
+  "total_events": 91,
+  "by_company": {
+    "teva": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "sun_pharma": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "bora": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "lonza": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pfizer": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    },
+    "jnj": {
+      "count": 11,
+      "sentiment_avg": 0.0
+    },
+    "roche": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "novo_nordisk": {
+      "count": 12,
+      "sentiment_avg": 0.25
+    },
+    "astrazeneca": {
+      "count": 13,
+      "sentiment_avg": 0.0
+    },
+    "merck": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "sanofi": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "mckesson": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cardinal": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "novartis": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "eli_lilly": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "drug_approval": {
+      "count": 66,
+      "sentiment_avg": 0.04
+    },
+    "industry_general": {
+      "count": 75,
+      "sentiment_avg": 0.09
+    },
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "glp1_obesity": {
+      "count": 11,
+      "sentiment_avg": 0.09
+    },
+    "patent_cliff": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "biotech_funding": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
