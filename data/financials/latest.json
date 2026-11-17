@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T18:12:23.355173Z",
+  "updated_at": "2026-11-17T17:30:55.848895Z",
   "quarter": "2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -41,17 +41,17 @@
       "name": "保瑞",
       "ticker": "6472.TW",
       "currency": "TWD",
-      "ar": 9448664000,
-      "ar_prev": 9193318000,
-      "ar_qoq": "+3%",
+      "ar": 8911814000,
+      "ar_prev": 9448664000,
+      "ar_qoq": "-6%",
       "ar_period": "QoQ",
-      "inventory": 4184197000,
-      "inv_prev": 3710242000,
-      "inv_qoq": "+13%",
+      "inventory": 4828844000,
+      "inv_prev": 4184197000,
+      "inv_qoq": "+15%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "cardinal",
@@ -279,17 +279,17 @@
       "name": "大江",
       "ticker": "8436.TWO",
       "currency": "TWD",
-      "ar": 918719000,
-      "ar_prev": 974286000,
-      "ar_qoq": "-6%",
+      "ar": 769246000,
+      "ar_prev": 918719000,
+      "ar_qoq": "-16%",
       "ar_period": "QoQ",
-      "inventory": 795274000,
-      "inv_prev": 724357000,
-      "inv_qoq": "+10%",
+      "inventory": 898849000,
+      "inv_prev": 795274000,
+      "inv_qoq": "+13%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "teva",

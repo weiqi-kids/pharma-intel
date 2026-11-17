@@ -1,0 +1,295 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T17:31:00.316553Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "jnj-2026-11-17-013",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Johnson & Johnson vs. Novo Nordisk: Steady Uptrend vs. Flat Revenue - The Motley Fool",
+      "companies": [
+        "jnj",
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeVJsOEJCU21YbFhQUjVpSEtFTmNVdmZDZjZudEhYMEJGVHkyVFVmVnFIc0pINzlHZDJsZ0xBVGllRnQ1VFZfYjRjbUdUMnJka0lNU2ctSjdPZm5qeTk1dko4aU12SGU0a0huOGZTRGNOb0pFWGg4NTh3TzB0Slg1VnNhNGRkWlA3d1B6ZTNQcnpXSVI0NmVudk83QzFTR24xbVpNaWNLSkl3dk1jeEVVSFpyanhoQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "jnj-2026-11-17-021",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Johnson & Johnson vs. Novo Nordisk: Steady Uptrend vs. Flat Revenue - The Globe and Mail",
+      "companies": [
+        "jnj",
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMFZRNGstMUZYQ1Q0NkctUG5KdUZxTTZaU09zbWItWUl2S0taQ0hlcGYyZXNlWl83eXN2NzAxT1RIVFI3RmxmNFpZYzVBOHlJOERlQk5CMFRlcnFwUllTVGhzR2hxTm9QX1VQczJ2SG40aG9UUHpIalJrbTNldXIxUUtHNlgxbDRmZXZmS2k5MmxSeDloaFpBOExmYjdKLUotdHV4V3UteDI2Mnh2eEF5NUVKRV9SOWxEMXZMajNoTVhpZFAweFFCbDM5Mmd2UTY2Z1VBcEVkbjN4VFJiV2VFR1hR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "sanofi-2026-11-17-028",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Cellectis plans 70% workforce cuts; Sanofi signs $1.2B DNA medicines deal; AstraZeneca buys Omniose - European Biotechnology Magazine",
+      "companies": [
+        "sanofi",
+        "astrazeneca"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORmhOYks3Tk9iZERqb2RKbm90R0Y5elVwTWZ3MUdwd1QwVTZ2My00M2p1c0xiTVJhTUdnUmVUSlJ3QXQ2NTQ3X2d6c0pzX1ZTeWxiM2toczZPbFRBQ0d1SUhUTUJVNVI2czN4RE5zeDVEN1pDTTlYdmEwQmJfQkpZOVN4RjEySXFabmJJNXIzS2RyYjNYcUIwZlJ6SFNvWnBoRjhvd3NudjBlSVdxZTFXRy1BNVNNYmlwNENRaGFHRU9BRHg2RUVwdTFoVlBnMEpDRUtWbVZCVy1sVjg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "novo_nordisk-2026-11-17-054",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Novo revamps its direct-to-consumer platform; Roche drug Gazyva approved again",
+      "companies": [
+        "novo_nordisk",
+        "roche"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://endpoints.news/novo-revamps-its-direct-to-consumer-platform-roche-drug-gazyva-approved-again/"
+    },
+    {
+      "rank": 5,
+      "event_id": "astrazeneca-2026-11-17-029",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Wells Fargo & Co Q3 Holdings: AstraZeneca (AZN.US) surpassed Apple (AAPL.US) to become the top holding, while stakes in Microsoft (MSFT.US) and NVIDIA (NVDA.US) were increased. - Moomoo",
+      "companies": [
+        "astrazeneca"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMWp1NjlXc0Nmbm1KbEZWbUpjaEU2dFAtRDJVTnNMcVRHMEJLVm53Q2dPU2k0VzVJSGFQbUxSSGJKYXE3TTI1MmJnaTFYOTBaWFpaeFBpaGdjbG9xUzQzdGFmWjJrdzJWYTFZbjRnZFJEeGZuVFdsWEpPN3pGTEs2UjNFaG9uZmlGdHNFeTdkR0JmWnRsTlpKZE50OVQxOGtHUDN1NW9EUVdyeG9ZZUNZaA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 46,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 55,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.2,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "jnj",
+      "to": "novo_nordisk",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings",
+        "drug_approval"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 63,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 57,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "jnj",
+        "count": 9
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 9
+      },
+      {
+        "id": "roche",
+        "count": 8
+      },
+      {
+        "id": "teva",
+        "count": 6
+      },
+      {
+        "id": "merck",
+        "count": 5
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 55
+      },
+      {
+        "id": "drug_approval",
+        "count": 46
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 5
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "patent_cliff",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 407,
+    "dup_title": 188,
+    "too_old": 95,
+    "gate1_blocked": 10,
+    "gate2_blocked": 21,
+    "passed": 93,
+    "pass_rate": "42.5%",
+    "gate2_block_rate": "9.6%",
+    "gate2_samples": [
+      "Pfizer (PFE) Secures $1.5 Billion For Berobenatide Development - Yahoo Finance",
+      "Johnson & Johnson to Buy Ollin Biosciences for $2.2 Billion - WSJ",
+      "J&J looks to buy Ollin Biosciences for up to $3.4 billion, FT says - Reuters",
+      "Is Johnson & Johnson (JNJ) Fully Valued Following Its Reported Ollin Biosciences Talks? - Simply Wal",
+      "Roche nets de novo nod for automated mass spec assay - MassDevice"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 63 則事件，焦點為J&J、Novo、Roche相關動態：「Johnson & Johnson vs. Novo Nordisk: Steady Uptrend vs. Fl...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Johnson & Johnson vs. Novo Nordisk: Steady Uptrend vs. Flat Revenue - The Mot...（藥物核准、法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Johnson & Johnson vs. Novo Nordisk: Steady Uptrend vs. Flat Revenue - The Glo...（藥物核准、法說會）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
