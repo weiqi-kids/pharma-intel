@@ -1,0 +1,16 @@
+{
+  "total_raw": 410,
+  "dup_title": 187,
+  "no_date": 0,
+  "too_old": 109,
+  "gate1_fail": 15,
+  "gate2_fail": 15,
+  "passed": 84,
+  "gate2_samples": [
+    "Why Is Pfizer Discontinuing Premarin in Canada While Continuing to Supply the United States? - Dr. J",
+    "Johnson & Johnson to Buy Ollin Biosciences for $2.2 Billion - WSJ",
+    "J&J looks to buy Ollin Biosciences for up to $3.4 billion, FT says - Yahoo Finance",
+    "Roche nets de novo nod for automated mass spec assay - MassDevice",
+    "Tempus AI and AstraZeneca Extend Strategic Services Agreement - TipRanks"
+  ]
+}
