@@ -1,0 +1,16 @@
+{
+  "total_raw": 410,
+  "dup_title": 195,
+  "no_date": 0,
+  "too_old": 96,
+  "gate1_fail": 14,
+  "gate2_fail": 21,
+  "passed": 84,
+  "gate2_samples": [
+    "UK High Court delivers split decision in Dr Reddy’s v Boehringer - Life Sciences IP Review",
+    "Why Is Pfizer Discontinuing Premarin in Canada While Continuing to Supply the United States? - Dr. J",
+    "Johnson & Johnson Begins Ottava Surgical Robot Rollout With First Hospital Installation in Texas - Y",
+    "Johnson & Johnson to Buy Ollin Biosciences for $2.2 Billion - WSJ",
+    "Johnson & Johnson installs first OTTAVA robotic system in U.S. - Investing.com"
+  ]
+}

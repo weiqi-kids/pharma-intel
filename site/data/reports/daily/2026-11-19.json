@@ -1,0 +1,263 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T17:14:00.336654Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "novartis-2026-11-19-043",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Novartis details eczema win, autoimmune CAR-T efforts after rocky quarter",
+      "companies": [
+        "novartis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://endpoints.news/novartis-details-eczema-win-autoimmune-car-t-efforts-after-rocky-quarter/"
+    },
+    {
+      "rank": 2,
+      "event_id": "novo_nordisk-2026-11-19-030",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Will Novo Nordisk stock avoid deeper losses amid seller dominance? - Traders Union",
+      "companies": [
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQWV5aHNUNlVtV1ItQkpyRDkyc2dUSTFtSHp1THl3cEZzT0dqaTcxakFIUjZ2eEJ0ZVNSN1lJQzdzLXVVcTJyc2dnNjZlWUNIS0loQzdBXzRfUFBQaW83bTAyVEtYOVhjVVUxZ2FaX0l0djNFN25ZR2RPdnVkdElLcTVMRnZ3WWxUVkhEMw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "eli_lilly-2026-11-19-045",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Lilly adds General Medicine for Alzheimer's disease diagnosis",
+      "companies": [
+        "eli_lilly"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://endpoints.news/lillydirect-adds-general-medicine-for-alzheimers-disease-diagnosis/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-19-047",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "STAT+: Lawmakers want U.S. biotech to outcompete China",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.statnews.com/2026/11/19/biotech-news-lawmakers-want-us-biotech-to-outcompete-china/?utm_campaign=rss"
+    },
+    {
+      "rank": 5,
+      "event_id": "teva-2026-11-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Teva loses R&D head Eric Hughes amid push to grow innovative medicines business - Fierce Biotech",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSDlLWjJmZ0RaS1VYUWUzZWdiX3p6Wlo2TEZnVlEtWmpJZmVhS0J1MzhsWkRoWl9MOG5rUlE5WDFhSnZodGFQdnNic0lsRi1JV19pZ1Mta2FOQWZuVVZwQmZmbEpKRm1CNnRzNXlGQmNNX0JwNUhTb2x3S2RXQmo0YWIzU3ZBNkhJc3h3OHRFZHhRQnRXSHhqa0lRN2pkLWl0NWI2NWVRSDQyVklKdTh2V0JkSQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 35,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 50,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 52,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 46,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "astrazeneca",
+        "count": 8
+      },
+      {
+        "id": "merck",
+        "count": 8
+      },
+      {
+        "id": "jnj",
+        "count": 6
+      },
+      {
+        "id": "teva",
+        "count": 5
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 50
+      },
+      {
+        "id": "drug_approval",
+        "count": 35
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 3
+      },
+      {
+        "id": "biotech_funding",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 410,
+    "dup_title": 195,
+    "too_old": 96,
+    "gate1_blocked": 14,
+    "gate2_blocked": 21,
+    "passed": 84,
+    "pass_rate": "39.1%",
+    "gate2_block_rate": "9.8%",
+    "gate2_samples": [
+      "UK High Court delivers split decision in Dr Reddy’s v Boehringer - Life Sciences IP Review",
+      "Why Is Pfizer Discontinuing Premarin in Canada While Continuing to Supply the United States? - Dr. J",
+      "Johnson & Johnson Begins Ottava Surgical Robot Rollout With First Hospital Installation in Texas - Y",
+      "Johnson & Johnson to Buy Ollin Biosciences for $2.2 Billion - WSJ",
+      "Johnson & Johnson installs first OTTAVA robotic system in U.S. - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 52 則事件，焦點為AZ、Merck、J&J相關動態：「Novartis details eczema win, autoimmune CAR-T efforts aft...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Novartis details eczema win, autoimmune CAR-T efforts after rocky quarter（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Will Novo Nordisk stock avoid deeper losses amid seller dominance? - Traders ...（藥物核准、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
