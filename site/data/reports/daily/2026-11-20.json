@@ -1,0 +1,251 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T16:52:35.055526Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "jnj-2026-11-20-005",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Dividend Roundup: Nvidia, Disney, Merck, Johnson & Johnson and more - Seeking Alpha",
+      "companies": [
+        "jnj",
+        "merck"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZFdjdlc4azgxRUVPVGlRN0dZclB3S1M2enBLNW1lUkZNRWdTNG9POUMySGxZc254Sm4xdFhPRjJIY0tlVWR0ZDc1Mm0yVjIyMTJxRmIyQ0dYMlVvY2F2Z052U1AxR2pNMWhmY3VFS3g3OGQ1YnhpeVBMdzhVaU5WWDJhRW40V2RUcDgzZnZCdERkaW15NjAzdFdHekIwdnYy?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "merck-2026-11-20-029",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Celldex drug stumbles in eczema; Epigenetic editing startup cuts staff",
+      "companies": [
+        "merck",
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.biopharmadive.com/news/celldex-eczema-nchroma-layoffs-isomorphic-merck-teva-vitrivax/875241/"
+    },
+    {
+      "rank": 3,
+      "event_id": "sanofi-2026-11-20-039",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "STAT+: Pharmalittle: We’re reading about Sanofi eyeing Insmed, AI speeding drug development, and more",
+      "companies": [
+        "sanofi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.statnews.com/pharmalot/2026/11/20/sanofi-eyeing-insmed-ai-speeding-drug-development/?utm_campaign=rss"
+    },
+    {
+      "rank": 4,
+      "event_id": "teva-2026-11-20-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Chutes & Ladders—Teva loses R&D head as innovation pivot advances - Fierce Biotech",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yeFJEWWxCQmZGTk4zcmpYVXlMbzZ2MnJYNEV0dk1NOU4weldVY3RlZkk1NkRUNVV1NDhOUXBYX0NaV3J0MXA5SU1pWDg0WDdyT3dsSERNR2MtSlFQSUYxdWFEa0htZS1jQjVhMVNDdk9YUGY2QlF3cGdPcw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "teva-2026-11-20-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Zacks Research Upgrades Teva Pharmaceutical Industries (NYSE:TEVA) to \"Hold\" - MarketBeat",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWEhWMFNCNHQ4ZzViZE90QzZOLUFYMnRkUDg1bnYtVExvNURTQWdtZnIxeFRndW1lT0phOVVUY1MxUHNKX1hPTGxOMW9iR1RZamlXbnJtLVoxXzJwY3FwQ0o3dFpFMm9TQlBMSmxGRlVnekVyZHRCaUdTdUtfMnR0Wmp6R2RvMlB6ZlU1YTI0SVFOR1Jkby02YXVyMzZRalRtTG9JYTRIempCVmdRMlc0UE1fLThFMzdGNjV0anhTM3lpUlNPdlV6WERpOWhTTUU?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 32,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 35,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 44,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 41,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "merck",
+        "count": 9
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 6
+      },
+      {
+        "id": "sanofi",
+        "count": 6
+      },
+      {
+        "id": "teva",
+        "count": 4
+      },
+      {
+        "id": "jnj",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 35
+      },
+      {
+        "id": "drug_approval",
+        "count": 32
+      },
+      {
+        "id": "biotech_funding",
+        "count": 2
+      },
+      {
+        "id": "patent_cliff",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 359,
+    "dup_title": 181,
+    "too_old": 63,
+    "gate1_blocked": 11,
+    "gate2_blocked": 23,
+    "passed": 81,
+    "pass_rate": "45.5%",
+    "gate2_block_rate": "12.9%",
+    "gate2_samples": [
+      "UK High Court delivers split decision in Dr Reddy’s v Boehringer - Life Sciences IP Review",
+      "TCI Co., Ltd. (8436.TWO) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+      "Why Is Pfizer Discontinuing Premarin in Canada While Continuing to Supply the United States? - Dr. J",
+      "S&P 500 heads for 6th straight decline. Plus, J&J advances two key products - CNBC",
+      "3 ETFs That Give You Johnson & Johnson In Different Doses - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 44 則事件，焦點為Merck、Novo、Sanofi相關動態：「Dividend Roundup: Nvidia, Disney, Merck, Johnson & Johnso...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Dividend Roundup: Nvidia, Disney, Merck, Johnson & Johnson and more - Seeking...（藥物核准）",
+        "level": "yellow"
+      },
+      {
+        "text": "Celldex drug stumbles in eczema; Epigenetic editing startup cuts staff（產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
