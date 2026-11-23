@@ -1,0 +1,16 @@
+{
+  "total_raw": 409,
+  "dup_title": 216,
+  "no_date": 0,
+  "too_old": 106,
+  "gate1_fail": 9,
+  "gate2_fail": 11,
+  "passed": 67,
+  "gate2_samples": [
+    "TCI Co., Ltd. (8436.TWO) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "Why Is Pfizer Discontinuing Premarin in Canada While Continuing to Supply the United States? - Dr. J",
+    "Johnson & Johnson to Buy Ollin Biosciences for $2.2 Billion - WSJ",
+    "Roche Holding (SWX:ROP) Secures FDA Nod For Wilserdly And Expands Lab Testing Reach - Yahoo Finance",
+    "What Does Roche Holding (SWX:ROP) Gain From Gazyva’s New Kidney And Lupus Progress? - Yahoo Finance"
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T20:00:41.430235Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "pfizer-2026-11-23-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Pfizer Stock Faces Long Recovery as Revenue and Profits Decline - cwibc.co.id",
+      "companies": [
+        "pfizer"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iMWpNbUpFMDBzUzN5Vmc2aDFrX0o4blNjWjFIY3l2UVpwWlluR2pIZFlIbVNPWWF2OTlIQXFFR2VnYUQ2RS1UNVlNYzQ3Z1Y4b2o5RTZOb3J3bkxKbFVnSDE3ZkhBdkxhM0FmNA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "astrazeneca-2026-11-23-020",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AstraZeneca Awards $1.6 Million to 55 Health Equity Nonprofits - MyChesCo",
+      "companies": [
+        "astrazeneca"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOHpCRWhjeXp4RTRaMVRkLS1EcUhCZF9Ndm9rRWNTd0R0V3RIa3djdVVERVVJS3oybkk0SUtnUkdRT1VKSmg5YlNiOXlIM2xYbzlyczV3UTZFYXdpQ1lEMmZGVGRJQkwwbms4YkJXYW5uNmNlMV9YWE5HZDFBOTBoUDJmZ3ZJVm1fOGJNcms2MHZIMzVpYnBCMjh2SzZlb3hUTGlXRk9R?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-23-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Weekly Recap: Generics sales fell and margins, R&D spending declined - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQTMyVzVaOVpoWUdLNUZwb0NhMHVHNW1VWUdYY2JSSjBxLVZoV09QYjE3aER3d2JUNnVxS2p2aFBlX0FfVkNGQWFSN2RxTWZ3cVNha19ja1dYVU5idFU3dzZrd2ppaTdtUTNUUDhvWFNZLUZycXFLSHZwa1dTV25FaFllRE1sZHI1TkN6NWV5eUhnOTQ0bWt1OEFBQTQ5V0RoYXpZRzlYZEM5dDB1S0dkLUtyZVdUQVJuVmJQb1o2MnZWM0Z0MUlN?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-23-033",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Why today’s leading drug developers are fine-tuning open models on their own data",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.biopharmadive.com/spons/why-todays-leading-drug-developers-are-fine-tuning-open-models-on-their-ow/875153/"
+    },
+    {
+      "rank": 5,
+      "event_id": "teva-2026-11-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Teva's Mixed SMA Signals: Should You Stay Invested or Exit the Stock? - TradingView",
+      "companies": [
+        "teva"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYVlDcU44Z0pycHo2bGxHRkx4cmhnVUprOFliaHlPdTJpbVJFRFFmWGJoZ0t6N0FySDhFaW1ZZ1hPMzF1aktoTm1NSElUQWpaYk5kOFd5ZUZhdGk1OFlFYTdMOGF3c0wxVmplY3BJa3FKUUE3VV9PVWZRTlZ2RWNUOFd2cTFqNkhKcFFPcS1pSjNVbzZid1dxMHRmRERUTmg1WVNiY1BtcVN2ZlViOVNYSDZya3ZhdldOM2NyWFNnb1E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 40,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 51,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 56,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 51,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "pfizer",
+        "count": 6
+      },
+      {
+        "id": "roche",
+        "count": 5
+      },
+      {
+        "id": "jnj",
+        "count": 4
+      },
+      {
+        "id": "astrazeneca",
+        "count": 4
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 51
+      },
+      {
+        "id": "drug_approval",
+        "count": 40
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 409,
+    "dup_title": 216,
+    "too_old": 106,
+    "gate1_blocked": 9,
+    "gate2_blocked": 11,
+    "passed": 67,
+    "pass_rate": "34.7%",
+    "gate2_block_rate": "5.7%",
+    "gate2_samples": [
+      "TCI Co., Ltd. (8436.TWO) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+      "Why Is Pfizer Discontinuing Premarin in Canada While Continuing to Supply the United States? - Dr. J",
+      "Johnson & Johnson to Buy Ollin Biosciences for $2.2 Billion - WSJ",
+      "Roche Holding (SWX:ROP) Secures FDA Nod For Wilserdly And Expands Lab Testing Reach - Yahoo Finance",
+      "What Does Roche Holding (SWX:ROP) Gain From Gazyva’s New Kidney And Lupus Progress? - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 56 則事件，焦點為輝瑞、Roche、J&J相關動態：「Pfizer Stock Faces Long Recovery as Revenue and Profits D...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Pfizer Stock Faces Long Recovery as Revenue and Profits Decline - cwibc.co.id（藥物核准、法說會、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "AstraZeneca Awards $1.6 Million to 55 Health Equity Nonprofits - MyChesCo（藥物核准、法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
