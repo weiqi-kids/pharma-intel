@@ -1,0 +1,255 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T19:27:42.135359Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "novartis-2026-11-24-055",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "#SABCS26: Novartis, J&J unveil breast cancer data from biotech buyouts",
+      "companies": [
+        "novartis",
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://endpoints.news/sabcs26-novartis-jj-unveil-breast-cancer-data-from-biotech-buyouts/"
+    },
+    {
+      "rank": 2,
+      "event_id": "pfizer-2026-11-24-056",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Sanofi to buy Insmed for $41B in industry's largest acquisition in years",
+      "companies": [
+        "pfizer",
+        "sanofi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://endpoints.news/sanofi-to-buy-insmed-for-41b-in-industrys-largest-acquisition-in-years/"
+    },
+    {
+      "rank": 3,
+      "event_id": "roche-2026-11-24-058",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "STAT+: Pharmalittle: We’re reading about Sanofi buying Insmed, Roche touting its breast cancer pill, and more",
+      "companies": [
+        "roche",
+        "sanofi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.statnews.com/pharmalot/2026/11/24/sanofi-buying-insmed-roche-breast-cancer-pill/?utm_campaign=rss"
+    },
+    {
+      "rank": 4,
+      "event_id": "roche-2026-11-24-015",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Roche Holding Gains Favorable Drug Approval News as Weight-Loss Pipeline Clinical Data Demonstrate Potential - NAI500",
+      "companies": [
+        "roche"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORGpnNHl1d2ktYWN4N0VFTXFYcTlNdjFqTnB6VkpBUWloM0xjU3RxQmNvVlJpLTU3ck11ZENmdFVLTVV2YnhCbE9PQ25mSnVIZl9vUjJfYlBTZFhheGxaWnhiTDVSSjlvU0Q0MzNJT3JTaGNxT0J3aTFXUU40Q1BtN21VTVBSeHlfQlNwT2c3c1FYZVY3UFB0c2ZGMXJVRXlOV2dYMW51ajNmZ3Q0VUN3U1hoU3RXSW9aazNXdUdqTHQ1T3hGVlVDTXo4QV9Ma1EwcV9HX0ROVWs?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "sanofi-2026-11-24-032",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Sanofi Seals $41 Billion Insmed Deal to Offset Patent Loss - Bloomberg.com",
+      "companies": [
+        "sanofi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRWNSWk04ZUpsUFhMVXpZM3dxTWxlOW5IQ1RlQTNQWVJmUXFzX0JCbEE5LVI5eDY2UGFVM1pyU05rQ2UtcWoweU9kZnVsaU5NNkNqRlZoZjdKSG85N29mMXVwdjFfdEpCTkVDQjQtelZBXzd1NXJ2WlNGenpfZWQxTkpXcTFmYUhQWDBka0JXcC1YWkxnbUgwZUNoa2U2VGxaRVFaRHJ4RmEwU0JlS0NF?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 49,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 58,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.01,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 63,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 54,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "sanofi",
+        "count": 21
+      },
+      {
+        "id": "roche",
+        "count": 8
+      },
+      {
+        "id": "astrazeneca",
+        "count": 4
+      },
+      {
+        "id": "jnj",
+        "count": 3
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 58
+      },
+      {
+        "id": "drug_approval",
+        "count": 49
+      },
+      {
+        "id": "patent_cliff",
+        "count": 1
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 406,
+    "dup_title": 195,
+    "too_old": 107,
+    "gate1_blocked": 10,
+    "gate2_blocked": 12,
+    "passed": 82,
+    "pass_rate": "38.9%",
+    "gate2_block_rate": "5.7%",
+    "gate2_samples": [
+      "Dr. Reddy's Laboratories (RDY): Dr. Reddy's to meet Citi investors in Hyderabad on Dec 2 - Quantisno",
+      "Dr. Reddy's Laboratories Limited (DRREDDY.BO) Seasonal returns chart - Yahoo Finance UK",
+      "TCI Co., Ltd. (8436.TWO) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+      "Why Is Pfizer Discontinuing Premarin in Canada While Continuing to Supply the United States? - Dr. J",
+      "13 Big Funds Bought Johnson & Johnson Last Quarter, While 14 Sold. Who’s Right? - TIKR.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 63 則事件，焦點為Sanofi、Roche、AZ相關動態：「#SABCS26: Novartis, J&J unveil breast cancer data from bi...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "#SABCS26: Novartis, J&J unveil breast cancer data from biotech buyouts（藥物核准、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Sanofi to buy Insmed for $41B in industry's largest acquisition in years（產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
