@@ -1,0 +1,304 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T18:34:07.503833Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "eli_lilly-2026-11-25-031",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Revenue Performance Stands Out as Eli Lilly’s Third-Quarter Revenue Reaches a Stage Peak - NAI500",
+      "companies": [
+        "eli_lilly"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdU9DeV83cmY4TnBSM1hvOXdJVEREbENabXk3dWZCeV9WbEkxbUhkZ0JNLVB4RVMxS3Z6clYwakZyaDUyQ28tZmxENjhpTzhyVzVmRU5sb1paQUIxdUVUMFZMV29jRVhNUU0zcy1aX0lmUVpCcm55Q192blE4M2JNSjlFdXdMMXR0cW4tblIwckJsbGJmRG94bUx5WjdRUUpfYUdqWF9LU1pFRG93dkVxSHBJaWlHMVU5cnhUTA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-25-038",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "NICE backs first oral HAE attack treatment",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://pharmatimes.com/news/nice-backs-first-oral-hae-attack-treatment/"
+    },
+    {
+      "rank": 3,
+      "event_id": "jnj-2026-11-25-012",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "How Eli Lilly Stacks Up Against Johnson & Johnson, And Merck & Co, And The Rest Of The Pharmaceuticals Sector. - Benzinga",
+      "companies": [
+        "jnj",
+        "merck",
+        "eli_lilly"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWDA5NEVqc3JqcVA1V3V4RkR5eGdleVJ1bTFwZ0ZCY2tyVjlQSE16NlYxN0JDNjlfV1YxOFJWQ0JTWURmcWpzTk91Rml0M040bjJEYzZMdFgxT3pnXzFHb0ZkdTJsaGt1NG1HeHA4QVZTM0hkM1Vodi1pMlVYVzk2MWNxMHg5cHhkdGJtdFEtUnhnV0t4NXB5bFpRYURlU0ZIUXBFOEVscmk4eXZGbWNOYUFJaC1UZDlQbmhITE4yN2d1UE1iYnRhenlFdFh0OFFlRUF2aGdKa0pMSGhWeXViWnNB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "jnj-2026-11-25-015",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Which Is the Better Pharma Stock Now: J&J or AstraZeneca? - Yahoo Finance",
+      "companies": [
+        "jnj",
+        "astrazeneca"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOckdaNFE5Yzl3Y1llRks4cHJTc3FPM3ZVd1p2TFR5Q0ljVU5aSXo4eWxUUXdjRkFsQU5GeVJyQlFJQ3FVelRfUnB4TTc3TC1sQTFCdU9wX0E5YWNyOUNBMThvUTllcEpfRTBvbWtMdGtEcy1zdjJTc0gxSVo1OUd1dEdXOXVsYkp6SE5uSWVuaw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "astrazeneca-2026-11-25-017",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Stock Watch: Novo, Lilly, GSK And AstraZeneca Q3 Results Compared - Scrip",
+      "companies": [
+        "astrazeneca",
+        "novo_nordisk",
+        "eli_lilly"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcW9McnVmWWMzajNSdi1CVnd4X2RLd3BHTjhzY0ZEZHJWa1R2Tk9MTXlFRXg4aUdwWlNIUC1SN3Q2VkJRUUIzbEN1WTI2b2lKMWt2NzlmLUp5UmlBZ3hraWFsbkJtdXlYTzFGbHNoclNGRkptem1qYUdYZktjZGZwTTRBcm5GdWsyQXotZWpfMm9BR1NZNWdXYkpBZVZOWWN1UmhFZHhBNzZQckJWNU1POHZwMDZFU1NYelYtRXNOZ2JVZGRMTDRsc0UyXzU3dUo0VFF5WmZaMElOQWVieF9jZQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 33,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 33,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "biotech_funding": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "astrazeneca",
+      "to": "jnj",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ]
+    },
+    {
+      "from": "eli_lilly",
+      "to": "novo_nordisk",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "glp1_obesity",
+        "drug_approval",
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 47,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 44,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "astrazeneca",
+        "count": 9
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 7
+      },
+      {
+        "id": "jnj",
+        "count": 4
+      },
+      {
+        "id": "eli_lilly",
+        "count": 4
+      },
+      {
+        "id": "teva",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 33
+      },
+      {
+        "id": "industry_general",
+        "count": 33
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "biotech_funding",
+        "count": 2
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 418,
+    "dup_title": 212,
+    "too_old": 106,
+    "gate1_blocked": 12,
+    "gate2_blocked": 14,
+    "passed": 74,
+    "pass_rate": "35.9%",
+    "gate2_block_rate": "6.8%",
+    "gate2_samples": [
+      "Dr. Reddy's Laboratories (RDY): Dr. Reddy's to meet Citi investors in Hyderabad on Dec 2 - Quantisno",
+      "TCI Co., Ltd. (8436.TWO) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+      "A Louisiana woman used Johnson & Johnson talcum powders for decades before developing mesothelioma; ",
+      "Felipe Reyes and Johnson & Johnson share a day at the Physical Activity Program for Seniors - Real M",
+      "Johnson & Johnson (JNJ) Moved Higher, What Is Driving Attention Now? - Simply Wall St"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 47 則事件，焦點為AZ、Novo、J&J相關動態：「Revenue Performance Stands Out as Eli Lilly’s Third-Quart...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Revenue Performance Stands Out as Eli Lilly’s Third-Quarter Revenue Reaches a...（藥物核准、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "NICE backs first oral HAE attack treatment（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
