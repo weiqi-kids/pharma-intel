@@ -1,0 +1,295 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T18:17:10.549414Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sun_pharma-2026-11-26-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sun Pharma FY26 revenue up 12% to ₹582,201 mn; EBITDA margin hits 30.3% - scanx.trade",
+      "companies": [
+        "sun_pharma"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGdRSF9UVTlSYU4xUUl6b0hpbkFqS2dCSmlsTFNJS3VTcnVVM2RXNFhpZzI0RFhKVmwtazVmdHVuVllyZW1EV3lpWkZ0VmdLUkRZRi1pdXkxNlprUDJqckhITzd6R0VTdHV2YWhhOEV4aHNfU2t1V3NyeWFTUW9tQ19UVFNDVlltYTg1TG9OSHlyMm44dXVoemV5X3U1ZlQzZTlQeWtJb19semtOc0poZmRzRnVnTmlkbzVCbUl3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "sun_pharma-2026-11-26-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sun Pharma Q2 reported profit fell 36% as charges offset growth - Multibagg AI",
+      "companies": [
+        "sun_pharma"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVFR3SFppN2JwZ1VJbS01bWNtYm50OVJDenpMM1ZQckhFUndIaW5CcjN1Ui1WNkw2STN4dm91dEZtSGtzSjhzM1VqSVpfMFh6QmNwN3hpOTZhV2RfNFZrdkpEQXFtSklDLWdlTVAxZ0lualVya3cxb1RVWDd2aWo3bUlIek1WMTY0V01xTXRIS2J0UFpkMExqazdJSGR5Uk80X0FUSEx5M28?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "eli_lilly-2026-11-26-018",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Eli Lilly Stock Is Up 64% Since April. Is It Time to Take Profits? - 24/7 Wall St.",
+      "companies": [
+        "eli_lilly"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "patent_cliff",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSElOeEtjX0xSeTJZUldDckx6THZ2c1FDbzM4bU01TEcxN2I3T0lTQVhDUFBpdmp2RlhnZGlvcmN1am9DS0tNSGx5NVJxSVJmN2ctWTBpRU91V2puOVZ6MHBFLUJEcnFzX0ZpbVVKWng0Uzk2bm1tbnlwYkF5c1VQMWJ6VlNiZTF0Snl1bXBtMnRMSF9QWVd0RW4wWU9nUF85WFdPOUxLMVBpTzg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "eli_lilly-2026-11-26-016",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Eli Lilly Is Now Worth 7 Novo Nordisks. Here’s How the Gap Got So Wide. - Yahoo Finance",
+      "companies": [
+        "eli_lilly",
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMjVUYlVveFk2aWtlclpLbzF4WURkajNydmRFRnJqNkVab0kwT3FiYWgtZ2xSNVFqSmtSa1FWZkRqdDJiM2lvMnM2SExzNXpNNXJQeElTSDRzRlFla1hHQ3E4ZGI1MTBBMHFlZUJaMldOV0FEdnlBVFZtbGQ3TmFYcVVVTkllV29kWGc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "eli_lilly-2026-11-26-019",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Eli Lilly's $1.2 Trillion Market Cap Now Seven Times Novo Nordisk's as GLP-1 Race Widens - BigGo Finance",
+      "companies": [
+        "eli_lilly",
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XVnRzY0FiN1pjVGR4RzdmUC1GNHB5UXpGdUlYTVVMcWVGV3ZUdGNtV3pZS0pVTEF5ZUJTUE9feTl2bTJPeVhvNUlhdmhuS0o2Mno1ajFhNG40MzJWQVRkeFBjY0E4TERjM1l6MWRvc1Y3LWFZLVE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "gmp_inspection": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "eli_lilly",
+      "to": "novo_nordisk",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "glp1_obesity",
+        "drug_approval"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 27,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 25,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "sun_pharma",
+        "count": 7
+      },
+      {
+        "id": "novo_nordisk",
+        "count": 6
+      },
+      {
+        "id": "eli_lilly",
+        "count": 3
+      },
+      {
+        "id": "jnj",
+        "count": 2
+      },
+      {
+        "id": "astrazeneca",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 24
+      },
+      {
+        "id": "industry_general",
+        "count": 23
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "patent_cliff",
+        "count": 1
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 423,
+    "dup_title": 244,
+    "too_old": 112,
+    "gate1_blocked": 12,
+    "gate2_blocked": 14,
+    "passed": 41,
+    "pass_rate": "22.9%",
+    "gate2_block_rate": "7.8%",
+    "gate2_samples": [
+      "TCI Co., Ltd. Introduces Jellie Platform at SupplySide Global and Cosmoprof Asia 2026 - www.marketsc",
+      "TCI Co., Ltd. (8436.TWO) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+      "A Louisiana woman used Johnson & Johnson talcum powders for decades before developing mesothelioma; ",
+      "Felipe Reyes and Johnson & Johnson share a day at the Physical Activity Program for Seniors - Real M",
+      "Juries Award Millions in Separate J&J Mesothelioma Talc Cases - Mesothelioma Center"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 27 則事件，焦點為Sun Pharma、Novo、Lilly相關動態：「Sun Pharma FY26 revenue up 12% to ₹582,201 mn; EBITDA mar...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Sun Pharma FY26 revenue up 12% to ₹582,201 mn; EBITDA margin hits 30.3% - sca...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Sun Pharma Q2 reported profit fell 36% as charges offset growth - Multibagg AI（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
