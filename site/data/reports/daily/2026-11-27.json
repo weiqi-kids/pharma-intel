@@ -1,0 +1,283 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T18:00:17.487975Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-27-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RDY Financials: Revenue ₹335.93B, Net Income ₹42.85B - Quantisnow",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55ajRUWW1wWGhvdFFNN282UjVna0pHUmR5NlcySmMyb0Qya25jeDdtWEtLci1ieUtDT2plN1VsOHFMaGVHWWJldWxJelpxSVJYblpR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "jnj-2026-11-27-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Erste Group resumes Johnson & Johnson stock rating with Buy on growth outlook - Investing.com",
+      "companies": [
+        "jnj"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMzZZdUdTaWxrN08xWjVhWmh4d0pZdFFPUVFub0xPYzJoWnpwRHJqVHBFeW5SUTlnWE1OTDM1NUluNlhVWF8zbjQtLWZmQWlnRmstd3RlaHlnclowVmxxQjdQcWlJaFFXa3M0VlE1M2JOc2l3dGt3TmNMZnM4Yk5PODRieWxHaXZqTDBtOHo0MU5UOUVTSkRqTTJjaUsyM0U1a2wzdURwSVJuYkNEaFBMTE5mdWx5QTFmQU9FV19hY0EwU1NONVhkM2VvdXJpSHc5X2c?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "mckesson-2026-11-27-023",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "McKesson Keeps Gaining on Earnings Growth, Expanding Treatments - FXEmpire",
+      "companies": [
+        "mckesson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR2VkeUVmU01KRXhFVVA5Q3hRRE16cGlZMEpoOUgyODZWTWdGYXJBVWFtZ2VULTRabWlkMThwWHFSeTRNLWsxR0p1WnZCQUNESFUzLVJveW9HV29yejN0cEc4ZmtoUk1naDJVQTc5RVpHdHczSm9pR0Y3MU9EUFZCRVJqOVdOSTd6TjFMbFVDb000ODc2blR6YjZsT2hWcVhDT3dRNk9uTjNINWVkblZXbnkyWQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "eli_lilly-2026-11-27-015",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Novo Nordisk Stock (NVO) Falls Despite Pushing Ahead of Eli Lilly in Obesity Pill Rollout - TipRanks",
+      "companies": [
+        "eli_lilly",
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQblVmVzc4dG5Wd21KRllzeHhCRkNHNDMxSGZyY1hWLTNEa19oanNEQTRDcWNsakZ1VHJkUWtEODAxMFJ3RnFObG1CR2xUV3BkZ1BWS2ozTHZzOU5vUEpQN280VTZHS2QzRVdWY3VjZUdOeDVzN0EzVXByMVdPOEItMVhrR01rSmpLcDFrZ0t4eDFQQ3VYaDUzNEdxSmlVY21URDFtNV9oSU1OaGg2QjZLeWZOWUpwZ05w?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "eli_lilly-2026-11-27-018",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "How Eli Lilly Pulled Ahead of Novo Nordisk in the GLP-1 Race - NAI500",
+      "companies": [
+        "eli_lilly",
+        "novo_nordisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drug_approval",
+        "glp1_obesity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ3JXRWllXzBHUm1ncGZJeVRPTG9fa19mbzhYX3FzT3FMVkw0dzF3QldRM2ZtQi1NWmRxWS11WnM3RGFPcjZHQTYzNzJvZlQzVldTTDg2QkhYOWc5Q0VlMl9xQ3FnbGZodEJ1Z1NiWjVMYnhCNHhUZ25RYmstWWJHbG1wSGtoeXNEQWdTSVJMYWE4bkk1YzI3Zg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drug_approval": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.22,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.28,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "patent_cliff": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "glp1_obesity": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "eli_lilly",
+      "to": "novo_nordisk",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "glp1_obesity",
+        "industry_general",
+        "drug_approval"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 25,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 17,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "novo_nordisk",
+        "count": 9
+      },
+      {
+        "id": "jnj",
+        "count": 5
+      },
+      {
+        "id": "pfizer",
+        "count": 2
+      },
+      {
+        "id": "eli_lilly",
+        "count": 2
+      },
+      {
+        "id": "teva",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drug_approval",
+        "count": 23
+      },
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "glp1_obesity",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "patent_cliff",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 409,
+    "dup_title": 237,
+    "too_old": 106,
+    "gate1_blocked": 14,
+    "gate2_blocked": 11,
+    "passed": 41,
+    "pass_rate": "23.8%",
+    "gate2_block_rate": "6.4%",
+    "gate2_samples": [
+      "Dr Reddy’s succeeds in challenge to Boehringer’s empagliflozin - Mishcon de Reya LLP",
+      "TCI Co., Ltd. Introduces Jellie Platform at SupplySide Global and Cosmoprof Asia 2026 - www.marketsc",
+      "The Business Jim Cramer Would Shed From Long-Term Pick Johnson & Johnson - Yahoo Finance",
+      "Erste Group Resumes Johnson & Johnson (JNJ) at Buy - StreetInsider",
+      "13 Big Funds Bought Johnson & Johnson Last Quarter, While 14 Sold. Who’s Right? - TIKR.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 25 則事件，焦點為Novo、J&J、輝瑞相關動態：「RDY Financials: Revenue ₹335.93B, Net Income ₹42.85B - Qu...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "RDY Financials: Revenue ₹335.93B, Net Income ₹42.85B - Quantisnow（藥物核准、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Erste Group resumes Johnson & Johnson stock rating with Buy on growth outlook...（藥物核准、法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

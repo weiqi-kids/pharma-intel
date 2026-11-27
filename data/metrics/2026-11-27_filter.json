@@ -1,0 +1,16 @@
+{
+  "total_raw": 409,
+  "dup_title": 237,
+  "no_date": 0,
+  "too_old": 106,
+  "gate1_fail": 14,
+  "gate2_fail": 11,
+  "passed": 41,
+  "gate2_samples": [
+    "Dr Reddy’s succeeds in challenge to Boehringer’s empagliflozin - Mishcon de Reya LLP",
+    "TCI Co., Ltd. Introduces Jellie Platform at SupplySide Global and Cosmoprof Asia 2026 - www.marketsc",
+    "The Business Jim Cramer Would Shed From Long-Term Pick Johnson & Johnson - Yahoo Finance",
+    "Erste Group Resumes Johnson & Johnson (JNJ) at Buy - StreetInsider",
+    "13 Big Funds Bought Johnson & Johnson Last Quarter, While 14 Sold. Who’s Right? - TIKR.com"
+  ]
+}
