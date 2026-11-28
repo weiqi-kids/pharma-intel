@@ -1,0 +1,16 @@
+{
+  "total_raw": 407,
+  "dup_title": 255,
+  "no_date": 0,
+  "too_old": 100,
+  "gate1_fail": 14,
+  "gate2_fail": 10,
+  "passed": 28,
+  "gate2_samples": [
+    "News by CNBC TV18 on TradingView, 2026-11-28 — cnbctv:b379d3f2b094b:0 - TradingView",
+    "Dr. Reddy's Laboratories Limited (DRREDDY.BO) Seasonal returns chart - Yahoo Finance UK",
+    "TCI Co., Ltd. Introduces Jellie Platform at SupplySide Global and Cosmoprof Asia 2026 - www.marketsc",
+    "Lonza Group AG (LONN.VI) Seasonal returns chart - Yahoo Finance UK",
+    "The Business Jim Cramer Would Shed From Long-Term Pick Johnson & Johnson - Yahoo Finance"
+  ]
+}
